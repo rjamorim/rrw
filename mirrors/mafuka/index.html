@@ -1,0 +1,146 @@
+<html> <head>
+ <title>MFK Audio Pack</title> </head> 
+<BODY background="aboutme_techie_bg2.gif" bgcolor="#000000" link="#336699" vlink="#999999" text="#000000"
+>  <table border=0 cellspacing=0 cellpadding=0 width=628> <tr valign="top" align="left"> <td width="24"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=24></td> <td width="1"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td> <td width="3"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td> <td width="14"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=14></td> <td width="304"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=304></td> <td width="1"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td> <td width="2"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td> <td width="9"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=7></td> <td width="16"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=13></td> <td width="49"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=39></td> <td width="95"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=76></td> <td width="3"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=3></td> <td width="123"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=123></td> <td width="2"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td> <td width="11"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=11></td> <td width="2"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td> <td width="1"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td> <td width="1"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td> <td width="2"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=2></td> <td width="1"><img src="http://www.geocities.com/clipart/pbi/c.gif" height=1 width=1></td> </tr> <tr valign="top"> <td colspan=20 height=4></td> </tr> <tr valign="top"> <td colspan=4 height=102></td> <td align="center" colspan=9 rowspan=1><font color="#339900" face="Verdana" size="+3">MFK, 
+      the next generation of <br> Digital Music.</font></td> <td colspan=7 height=102></td> </tr> <tr valign="top"> <td colspan=20 height=4></td> </tr> <tr valign="top"> <td colspan=2 height=25></td> <td colspan=15 rowspan=1><b><font color="#006699">< -------------------------------------------------------------------------------------------------------------------></font></B></td> <td colspan=1 height=25 width="1"></td> <td colspan=1 rowspan=17 width=2 align="center" valign="middle"><img height=540 width=2 src="aboutme_techie2_vertline.gif" border=0 ></td> <td colspan=1 height=25 width="1"></td> </tr> <tr valign="top"> <td colspan=18 height=5></td> <td colspan=1 height=5 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=2></td> <td colspan=2 rowspan=20> 
+      <p><b><font color="#339900" face="Courier" size="5">MFK News</font><font color="#339900" face="Courier" size="-1"><br>
+        <br>
+        <font color="#FF0000" size="+1" face="Verdana, Arial, Helvetica, sans-serif">2 
+        BIG bugs SOLVED!!</font></font></B></p>
+      <p><font face="Courier New, Courier, mono" color="#009900" size="+2"><b><font color="#FF3333">Bug 
+        #1 -<br>
+        </font></B></font><font face="Courier New, Courier, mono" color="#009900" size="-1">&nbsp;&nbsp;&nbsp;&nbsp;If 
+        you tried to recompress a .MFK file, an error code was generated and a 
+        copy of the file was stored in the <b>\logfiles</B> folder. However, the 
+        error did was not showed to user. <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;This error apparently, gave the user the impression 
+        that the file was really compressed. In the decompression of the file, 
+        the backup copy made in <b>\logfiles</B> dir was restored, however the 
+        same bug did not show to the user that file was damaged and a backup copy 
+        has been restored <br>
+        <b><font color="#FFFF66" size="+1">Fixes #1:</font></B> <font color="#FFFF66" size="+1"><b>-&nbsp;</B></font> 
+        <b>Now, the messages are active. -There is no more possible to recompress 
+        a MFK file. <br>
+        </B><br>
+        <b><font size="+2" color="#FF0000">Bug #2 -</font></B> <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;Mafuka Player <b>is not a real-time player</B>. 
+        It works by decompression of a .MFK file to a .MP3 stream into RAM. After 
+        this, it saves the resulting file in <b>\logfiles</B> directory while 
+        plays the audio stream. At the application's end, the<b> \logfiles</B> 
+        dir should be erased, but it was not occurred. If was tried to decompress 
+        a .MFK file again, a decompression error was happened because the temporary 
+        file which should be generated has been in the <b>\logfiles</B> dir.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;This error flagged the .MFK file as damaged, but 
+        the user was not notified of the problem because the same reason showed 
+        in bug #1. However, as the temporary archive already existed in the \logfiles 
+        folder, this was played by Mafuka without problems. <br>
+        <b><font color="#FFFF66" size="+1">Fixes #2:</font></B> <font color="#FFFF66" size="+1"><b>-&nbsp;</B></font>The 
+        files stored in \logfiles folder is now stored in Windows TEMP folder 
+        at the opening, and no more error has generated if the file exists.</font></p>
+      <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#FF3333">To 
+        correct all errors, please reinstall the MFK FULL PACK.</font></B></font></p>
+      <p><b><font color="#339900" face="Courier" size="-1"> The MFK History<br>
+        <br>
+        </font></B><font color="#339900" face="Courier" size="-1">Based in the 
+        theory of the Dr Keiji Mafuka, PhD, the Mafuka algoritm is based in very 
+        complex mathematical equation using Gaussian Interpolations combinated 
+        with Fast Fourier Transforms.<br>
+        <br>
+        In your study about variations and infinitesimals aproximations in a caothic 
+        system, Dr. Keiji create the basis to a new compression technology developed 
+        by <a href="http://www.nitech.ac.jp/engl_inf/index_e.html"><b>NITEC</B></a> 
+        (<a href="http://www.nitech.ac.jp/engl_inf/index_e.html">Nagoya Institute 
+        of Technology</a>) and coordenated by Dr S. Yamamoto. <br>
+        <br>
+        In the last winter, some informations about this technology had been <img src="kosho2.gif" align="left" width="80" height="80">published 
+        in NITEC Intranet and 4 students decided develop a free </font><b><font color="#339900" face="Courier" size="-1">MP3 
+        </font></B><font color="#339900" face="Courier" size="-1">compressor using 
+        this technology, getting fantastic results.<br>
+        <br>
+        This technology is not free, however is not registered at this moment, 
+        therefore we cannot divulge more information.<br>
+        <br>
+        </font><b><font color="#339900" face="Courier" size="-1">MFK Compression</font></B><font color="#339900" face="Courier" size="-1"><br>
+        <br>
+        The </font><b><font color="#339900" face="Courier" size="-1">M</font></B><font color="#339900" face="Courier" size="-1">a</font><b><font color="#339900" face="Courier" size="-1">F</font></B><font color="#339900" face="Courier" size="-1">u</font><b><font color="#339900" face="Courier" size="-1">K</font></B><font color="#339900" face="Courier" size="-1">a 
+        compression reduces a MP3 file up to 60% of original size. The loss of 
+        quality is between 0.09 and 0.3% the original file.<br>
+        <br>
+        Many interpolations are done trough from internal Floating-point operations. 
+        This operations are specific functions of models of processors technology 
+        MMX, MMX 2, 3DNow, causing imcompatibility between files generated in 
+        different computers and generating decode´s error.<br>
+        <font color="#000000"><b><br>
+        <font color="#339900">Enjoy this revolution!<br>
+        <br>
+        <font size="+2">The <a href="http://www.nitech.ac.jp/engl_inf/index_e.html">NITEC</a> 
+        Free Technology Group.</font>.</font></B></font><br>
+        <br>
+        </font></p>
+    </td> <td colspan=13 height=2></td> <td colspan=1 height=2 width="1"></td> </tr> <tr valign="top"> 
+    <td colspan=3 height=134></td> 
+    <td colspan=3 height=134></td> 
+    <td colspan=6 rowspan=1 align="center" valign="middle" height="134"><img height=189 width=256 src="mafuka.jpg" border=0 ></td> 
+    <td colspan=4 height=134></td> 
+    <td colspan=1 height=134 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=36></td> 
+    <td colspan=3 height=36></td> 
+    <td colspan=6 rowspan=1 height="36"><b><u><font color="#339900" face="Courier" size="+1">Get 
+      MFK Install Pack now!</font></u></B></td> 
+    <td colspan=4 height=36></td> 
+    <td colspan=1 height=36 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=48></td> 
+    <td colspan=3 height=48></td> 
+    <td colspan=6 rowspan=1 height="48"><b><font color="#0000CC"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=1&url=http://mfkplayer.tripod.com/mfk_install.exe"><font face="Courier">MFK 
+      Full Pack (1.4 Mb)</font></a> <font face="Courier"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=1&url=http://www14.brinkster.com/mfkplayer/mfk_install.zip">(<font face="Courier New, Courier, mono">mirror 
+      site</font>)</a></font></font></B><font color="#0000CC"><font color="#0000CC"><font face="Courier New, Courier, mono" size="1" color="#FF3333"><b><font color="#FFFF99">(BugFixed 
+      21/11)</font></B></font></font></font><b><font color="#0000CC"><font face="Courier"><br>
+       </font></font></B></td> 
+    <td colspan=4 height=48></td> 
+    <td colspan=1 height=48 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=51></td> 
+    <td colspan=3 height=51></td> 
+    <td colspan=6 rowspan=1 height="51"><b><font color="#0000CC"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=2&url=http://mfkplayer.tripod.com/mfkplayer_install.exe"><font face="Courier">MFK/MP3 
+      Player </font></a><br>
+      <font face="Courier"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=2&url=http://www14.brinkster.com/mfkplayer/mfkplayer_install.zip">(<font face="Courier New, Courier, mono">mirror 
+      site</font>)</a></font><font face="Courier New, Courier, mono" size="1" color="#FF3333"><b><font color="#FFFF99">(BugFixed 
+      21/11)</font></B></font><br>
+      </font></B></td>
+    <td colspan=4 height=51></td> 
+    <td colspan=1 height=51 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=51></td> 
+    <td colspan=3 height=51></td> 
+    <td colspan=6 rowspan=1 height="51"><b><font color="#0000CC"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=3&url=http://mfkplayer.tripod.com/mfkcompressor_install.exe"><font face="Courier">MFK 
+      Compressor </font></a><br>
+      <font face="Courier"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=3&url=http://www14.brinkster.com/mfkplayer/mfkcompressor_install.zip">(<font face="Courier New, Courier, mono">mirror 
+      site</font>)</a></font><font face="Courier New, Courier, mono" size="1" color="#FF3333"><b><font color="#FFFF99">(BugFixed 
+      21/11)</font></B></font></font><font color="#0000CC"><br>
+      </font></B></td>
+    <td colspan=4 height=51></td> 
+    <td colspan=1 height=51 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=47></td> 
+    <td colspan=3 height=47></td> 
+    <td colspan=6 rowspan=1 height="47"><b><font color="#0000CC"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=4&url=http://mfkplayer.tripod.com/mfkdecompressor_install.exe"><font face="Courier">MFK 
+      Decompressor </font></a><br>
+      <font face="Courier"><a href="http://www14.brinkster.com/mfkplayer/dl.asp?id=4&url=http://www14.brinkster.com/mfkplayer/mfkdecompressor_install.zip">(<font face="Courier New, Courier, mono">mirror 
+      site</font>)</a></font><font face="Courier New, Courier, mono" size="1" color="#FF3333"><b><font color="#FFFF99">(BugFixed 
+      21/11)</font></B></font><br>
+      </font></B></td>
+    <td colspan=4 height=47></td> 
+    <td colspan=1 height=47 width="1"></td> 
+  </tr> <tr valign="top"> 
+    <td colspan=3 height=16></td> 
+    <td colspan=3 height=16></td> 
+    <td colspan=6 rowspan=1 height="16"><b><u><font color="#339900" face="Courier" size="+1">MFK 
+      Tecnology</font></u></B></td> 
+    <td colspan=4 height=16></td> 
+    <td colspan=1 height=16 width="1"></td> 
+  </tr> <tr valign="top"> <td colspan=3 height=66></td> <td colspan=13 height=66></td> <td colspan=1 height=66 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=1></td> <td colspan=7 height=1></td> <td colspan=3 rowspan=10 align="center" valign="middle"><img height=138 width=136 src="keiji.gif" border=0 ></td> <td colspan=3 height=1></td> <td colspan=1 height=1 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=21></td> <td colspan=2 height=21></td> <td colspan=3 rowspan=1><b><font color="#006699" face="Courier" size="-1">The 
+      Genius:</font></B></td> <td colspan=2 height=21></td> <td colspan=3 height=21></td> <td colspan=1 height=21 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=16></td> <td colspan=7 height=16></td> <td colspan=3 height=16></td> <td colspan=1 height=16 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=32></td> <td colspan=4 height=32></td> <td colspan=2 rowspan=1><b><font color="#006699" face="Courier" size="-1">Dr. 
+      Keiji Mafuka</font></B></td> <td colspan=1 height=32 width="3"></td> <td colspan=3 height=32></td> <td colspan=1 height=32 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=18></td> <td colspan=7 height=18></td> <td colspan=3 height=18></td> <td colspan=1 height=18 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=15></td> <td colspan=2 height=15></td> <td colspan=3 rowspan=2><b><font color="#006699" face="Courier" size="-1">Email:</font></B></td> <td colspan=2 height=15></td> <td colspan=3 height=15></td> <td colspan=1 height=15 width="1"></td> </tr> <tr valign="top"> <td colspan=3 height=6></td> <td colspan=2 height=6></td> <td colspan=2 height=6></td> <td colspan=5 height=6></td> </tr> <tr valign="top"> <td colspan=3 height=6></td> <td colspan=7 height=6></td> <td colspan=5 height=6></td> </tr> <tr valign="top"> <td colspan=3 height=21></td> <td colspan=1 height=21 width="1"></td> <td colspan=5 rowspan=1><a href="mailto:mafukan@hotmail.com"><b><font color="#006699" face="Courier" size="-1">mafukan@hotmail.com</font></B></a></td> <td colspan=1 height=21 width="3"></td> <td colspan=5 height=21></td> </tr> <tr valign="top"> <td colspan=3 height=2></td> <td colspan=7 height=2></td> <td colspan=5 height=2></td> </tr> <tr valign="top"> <td colspan=3 height=15></td> <td colspan=15 height=15></td> </tr> <tr valign="middle" bgcolor="#FFFFFF" align="center"> <td colspan=20 height=9> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="33%"> <div align="center"><img src="nit11.gif" width="100" height="111" align="absbottom"></div> </td> <td width="33%"> <div align="center"><img src="nc.gif" width="130" height="43"></div> </td> </tr> </table> </td> </tr> <tr valign="top"> <td colspan=1 height=25 width="24"></td> <td colspan=15 rowspan=1><b><font color="#006699">< -------------------------------------------------------------------------------------------------------------------></font></B></td> <td colspan=4 height=25></td> </tr> </table> </BODY> 
+</html>

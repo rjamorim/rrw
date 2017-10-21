@@ -1,0 +1,50 @@
+<html>
+<!--  Created with the CoffeeCup HTML Editor  -->
+<head>
+  <title>Winamp2 VQF Decoder Version History</title>
+</head>
+<body link=blue vlink=blue>
+<h1>Winamp2 VQF Decoder Version History</h1>
+
+<p>
+<ul>
+<li>Changes since beta 1-4:<ul>
+	<li>a lot...</ul><br>
+<li>Changes since Beta 5:<ul>
+    <li>HTTP seeking</ul><br>
+<li>Changes since Beta 6:<ul>
+    <li>fixed problems with DirectSound output</ul><br>
+<li>Changes since Beta 7:<ul>
+    <li>fixed possible problems with live streaming</ul><br>
+<li>Changes since Beta 8 & 9:<ul>
+    <li>misc fixes/tweaks</ul><br>
+<li>Changes since Beta 10:<ul>
+    <li>fixed stupid freeze when closing info box</ul><br>
+<li>Changes since Beta 11:<ul>
+    <li>VQF header specs extention/modification<ul>
+        <li>Extention : new tag fields (album, track, genre & date)<ul>
+            <li>Tested with TwinVQ, WWV & Yamaha SoundVQ : OK (all 3 load & play files with new tags)</ul>
+        <li>Modification : no more field length limit, all tag fields can have >1024 characters now<ul>
+            <li>Tested with TwinVQ : OK (loads & plays files with a >1024 chars tag)
+            <li>Tested with WWV : not OK (loading error)
+            <li>Tested with Yamaha SoundVQ : totaly not OK (loading attempt crashes program)</ul>
+        <li>New "Compatibility Mode" (in Configuration) to disable those 2 new things,<br>to ensure that tagged files can be read by all other programs.
+        <li>Because the the new tag fields don't seem to cause trouble <b>"Compatibility Mode"</b> will be split-up in <br><b>"No new tag fields"</b> and <b>"No >1024 chars fields"</b> in Beta 15.</ul>
+    <li>(Beta12 was an internal unreleased beta)</ul><br>
+<li>Changes since Beta 12:<ul>
+    <li>misc tweaks
+    <li>New %%x Title Fomatting setting (abbreviation : eg. "Final Fantasy 6" -> "FF6")
+    <li>(new) bugs fixed</ul><br>
+<li>Changes since Beta 13:<ul>
+	<li>Added length and bitrate to title formatting</ul><br>
+<li>Changes since Beta 14:<ul>
+        <li>Fixed bug in title formatting (length)</ul><br>
+<li>Changes since Beta 14+:<ul>
+        <li>Fixed config window glitch with stream saving (it was working correctly, but it didn't show up after reopening config)
+        <li>Separated compatibility settings
+        <li>Fixed possible streaming problem with high cpu usage (from in_vorbis v1.05)</ul><br>
+<li>Changes since Beta 15:<ul>
+        <li>Missing files no longer display error messages
+        <li>Some other fixes/tweaks</ul><br>
+</ul>
+<p>

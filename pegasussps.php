@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+<HEAD>
+<TITLE>ReallyRareWares - Pegasus/Krishna Soft SPS</TITLE>
+
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+  <!-- Titulo -->
+  <tr>
+  <td>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr><td align="center"><img src="img/title.gif"></td>
+    </tr>
+  </table>
+  </td>
+  </tr>
+
+  <tr>
+  <td bgcolor="#6699CC"><img height=15 width=1 src="dot.gif" alt="null"></td>
+  </tr>
+
+  <tr>
+  <td>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr valign="top">
+    <!-- Menu -->
+    <td width=120 nowrap>
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tr valign="top">
+      <td bgcolor="#999999" width=119 align="center" nowrap>
+      <font size="1" face="Tahoma">
+      <table border="0" cellpadding="0" cellspacing="0" width="120">
+    
+    </td>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" width="120">
+    <tr><td bgcolor="#669999"><font face="Tahoma" size="2">
+      <body link="#999999" vlink="#999999" alink="#999999">
+        <center><img src="img/menu.gif"></center>
+    </font></td></tr>
+      </table>
+<br>
+    <?php include("menu.htm") ?>
+
+
+      <table border="0" cellpadding="0" cellspacing="0" width="120">
+    <tr><td></td></tr>
+    <tr></tr>
+    <tr><td></td></tr>
+    
+    
+      </table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <table border="0" cellpadding="0" cellspacing="0" width="120">
+    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+      </table>
+      </font>
+      </td>
+     
+      </tr>
+    </table></td>
+    <!-- Corpo principal -->
+    <td width="100%">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr><td>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+      <td width="100%" align="right">
+      </td>
+      </tr>
+    </table></td></tr>
+      <tr><td>
+        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+      <tr><td width="450"></td>
+        <td width="20%"></td></tr>
+      <tr><td>
+        <font face="Geneva,Verdana,Helvetica,Arial">
+
+        <!-- Corpo agora -->
+        
+        <table border="0" cellpadding="2" cellspacing="0" width="20">
+          <tr bgcolor="669999"><td width="20"><img width=20 height=1 src="dot.gif"></td>
+          <td><font face="Tahoma" size="4" color="black"><img src="img/programs2.gif"></font></td>
+          <td width="20"><img width=20 height=1 src="dot.gif"></td></tr>
+        </table>
+        </a>
+        <body link="#000000" vlink="#000000" alink="#000000">
+        <font face="Verdana" size=2 color="6699CC">
+          <br><div align="justify"> <b>Pegasus/Krishna Soft SPS</b></div> <p>
+        </font>
+        <font face="Tahoma" size=2 color="black"><blockquote>
+        <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
+        alt="Pegasus SPS" align=right height="45%"></a>
+        Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as a general
+        purpose audio editor, that featured a lossless mode based on Pegasus' ELS 
+        (Entropy Logarithmic Scale) compression algorithm.<br><br>
+        
+        The editor itself has actually very few features. But, from the looks of it, it 
+        is free - only lossless compression is limited to 10 uses, and after that you
+        need to buy a license.<br><br>
+        
+        The page about SPS at Pegasus is now gone and it's not being marketed by them
+        anymore. But you can still find it (and buy it) at 
+        <a href="http://www.krishnasoft.com/sps.htm#SPSLink" target=outside>Krishna
+        Software</a>.<br>
+        
+        <br>
+        <br>
+        Date: 1997<br>
+        Version: 1.0<br>
+        Interface: Graphical<br>
+        Platform: Win16/Win32<br>
+        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 560Kb<br>
+
+        </blockquote></font>
+
+        <br><br>
+
+        </font>
+      </td></tr>
+    </table>
+      </td></tr>
+    </table>
+    </td>
+    </tr>
+  </table></td>
+  </tr>
+</table> 
+ 
+<?php include("footer.htm") ?>
+
+</body>
+</html>
