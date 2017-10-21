@@ -65,10 +65,13 @@
 <br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">
-<img alt="Creative Commons License" border="0" src="http://creativecommons.org/images/public/somerights20.gif" />
-</a><br />
-All text in this website is licensed under a Creative Commons License.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" 
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<br />All text in this website is licensed under a<a rel="license" 
+href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons 
+Attribution-ShareAlike 4.0 International License</a>.
+
 <!-- /Creative Commons License -->
 
 <!--
@@ -78,10 +81,10 @@ All text in this website is licensed under a Creative Commons License.
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <Work rdf:about="">
    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
-   <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+   <license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
 </Work>
 
-<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+<License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
    <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
    <permits rdf:resource="http://web.resource.org/cc/Distribution" />
    <requires rdf:resource="http://web.resource.org/cc/Notice" />
