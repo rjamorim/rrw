@@ -93,12 +93,13 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/alf2cd.png" target=outside><img src="screens/alf2cd.png" 
         alt="ALF2 CD" align=right height="60%"></a>
-        ALF2 CD is a very obscure codec created by Russian company NCT Soft in the
+        ALF2 CD is a very obscure format created by Russian company NCT Soft in the
         early 2000s.<br><br>
         
         It is implemented as an ACM codec, therefore all encoded files are wrapped
         in a WAV container. That way, any standard player using ACM (such as Winamp
-        and Windows Media Player) can play ALF2 streams.<br><br>
+        and Windows Media Player) can play ALF2 streams, as long as the codec is
+        installed on that system.<br><br>
         
         Besides the ACM codec, it was distributed with its own CD ripper and GUI
         encoder. It only allows high bitrates, from 256 to 512kbps.<br><br>

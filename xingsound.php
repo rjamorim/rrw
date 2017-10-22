@@ -107,30 +107,32 @@
         accuracy.<br><br>
         
         Years later, Xing created the XingMP3 player, a companion for their <a href="xing.php">MP3
-        encoder</a> and CD ripper (AudioCatalyst). I couldn't find the original installation file
-        (mp3p10.exe), so I extracted the player available here from my AudioCatalyst installation.<br>
+        encoder</a> and CD ripper (AudioCatalyst). It is way more featureful and better looking
+        than its predecessor.<br>
         
         <br>
         <br>
-        Date: 1999-04-07<br>
-        Version: 1.0.0<br>
+        Date: 1999-08-06<br>
+        Version: 1.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/xingplay.zip">xingplay.zip</a> - 522Kb<br>
+        Download: <a href="files/players/mp3p101.exe">mp3p101.exe</a> - 2105Kb<br>
+        <i>Installer kindly contributed by Zachary Jelesoff</i><br>
         <br>
         <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
         alt="XingSound" align=right></a>
-        Date: 1993-07-23<br>
-        Version: ?<br>
-        Interface: Graphical<br>
-        Platform: Win16<br>
-        Download: <a href="files/players/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
-        <br>
         Date: 1995-02-15<br>
         Version: ?<br>
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/players/mpgaudio2.exe">mpgaudio2.exe</a> - 114Kb<br>
+        <br>
+        Date: 1993-07-23<br>
+        Version: ?<br>
+        Interface: Graphical<br>
+        Platform: Win16<br>
+        Download: <a href="files/players/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
+        
         
         </blockquote></font>
 
