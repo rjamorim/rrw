@@ -120,7 +120,7 @@
         Version: 1.0beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mfk_install.zip">mfk_install.zip</a> - 1418Kb<br>
+        Download: <a href="files/mfk_install.zip">mfk_install.zip</a> - 1.418Kb<br>
         <br>
         <i>Big thanks to Elohe for providing this "encoder"</i>
 

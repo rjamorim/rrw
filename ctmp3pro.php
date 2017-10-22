@@ -125,13 +125,13 @@
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mp3ProAudioPlayer11.exe">mp3ProAudioPlayer11.exe</a> - 1127Kb<br>
+        Download: <a href="files/mpeg/mp3ProAudioPlayer11.exe">mp3ProAudioPlayer11.exe</a> - 1.127Kb<br>
         <br>
         Date: 2001-06-20<br>
         Version: 1.0.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mp3ProAudioPlayer.exe">mp3ProAudioPlayer.exe</a> - 1111Kb<br>
+        Download: <a href="files/mpeg/mp3ProAudioPlayer.exe">mp3ProAudioPlayer.exe</a> - 1.111Kb<br>
         <br>
         Date: 2005-09-14<br>
         Version: 1.0.1<br>

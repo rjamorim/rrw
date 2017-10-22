@@ -109,7 +109,7 @@
         
         The installer for version 3.13 requires a Japanese Windows version, so I 
         unpacked the files from inside it and created a small package with only the
-        files required to run. Also, the installer includes gogo in source form to be 
+        files required to run. Also, the installer includes Gogo in source form to be 
         compiled during setup, my package has the dll already compiled. Alas, all 
         interfaces are in Japanese.<br>
         
@@ -119,7 +119,7 @@
         Version: 3.13a (based on LAME 3.88)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing313a.exe">wing313a.exe</a> - 3756Kb<br>
+        Download: <a href="files/mpeg/wing313a.exe">wing313a.exe</a> - 3.756Kb<br>
         Package for non-Japanese Windows: <a href="files/mpeg/wing313a-pack.zip">wing313a-pack.zip</a> - 840Kb<br>
         <br>
         Date: 2002-01-23<br>

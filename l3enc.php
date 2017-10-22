@@ -104,7 +104,7 @@
         
         FhG distributed with l3enc an MPEG layer 3 <a href="files/fhg/l3faq.txt"
         target=outside>FAQ</a> and a small collection of <a href="files/fhg/mp3-bitstreams.tar.gz">
-        test bitstreams</a> (1370Kb).<br><br>
+        test bitstreams</a> (1.370Kb).<br><br>
         
         By the end of 1997 l3enc stopped being developed in favour of the development
         of <a href="mp3enc.php">MP3enc</a>.<br>

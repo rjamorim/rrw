@@ -117,13 +117,13 @@
         Version: 2.30<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/ALF2CD-230.exe">ALF2CD-230.exe</a> - 1424Kb<br>
+        Download: <a href="files/ALF2CD-230.exe">ALF2CD-230.exe</a> - 1.424Kb<br>
         <br>
         Date: 2001-02-28<br>
         Version: 2.01<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/ALF2CD-201.exe">ALF2CD-201.exe</a> - 1131Kb<br>
+        Download: <a href="files/ALF2CD-201.exe">ALF2CD-201.exe</a> - 1.131Kb<br>
 
         </blockquote></font>
 

@@ -103,7 +103,7 @@
         Version: 3.3<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/yamp33.zip">yamp33.zip</a> - 2122Kb<br>
+        Download: <a href="files/players/yamp33.zip">yamp33.zip</a> - 2.122Kb<br>
 
         </blockquote></font>
 

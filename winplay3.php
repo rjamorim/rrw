@@ -131,13 +131,13 @@
         Version: 2.0<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1221Kb<br>
+        Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1.221Kb<br>
         <br>
         Date: 1996-03-05<br>
         Version: 1.40<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/players/wpv140.exe">wpv140.exe</a> - 1171Kb<br>
+        Download: <a href="files/players/wpv140.exe">wpv140.exe</a> - 1.171Kb<br>
         <br>
         Date: 1995-12-22<br>
         Version: 1.30<br>

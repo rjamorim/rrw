@@ -127,7 +127,7 @@
         Version: 2.1.5 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/Tvq-p215e.exe">Tvq-p215e.exe</a> - 1793Kb<br>
+        Download: <a href="files/vqf/Tvq-p215e.exe">Tvq-p215e.exe</a> - 1.793Kb<br>
         <br>
         Date: ?<br>
         Version: 1.0<br>
@@ -139,7 +139,7 @@
         Version: 20001012<br>
         Interface: SDK<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/vqf/Tvq20001012_open_nc.zip">Tvq20001012_open_nc.zip</a> - 3152Kb<br>
+        Download: <a href="files/vqf/Tvq20001012_open_nc.zip">Tvq20001012_open_nc.zip</a> - 3.152Kb<br>
 
         </blockquote></font>
 

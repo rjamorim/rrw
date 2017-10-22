@@ -140,7 +140,7 @@
         Version: 2.0 alpha<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/sonique2.zip">sonique2.zip</a> - 1531Kb<br>
+        Download: <a href="files/players/sonique2.zip">sonique2.zip</a> - 1.531Kb<br>
         
         <br><br>
         <ul>

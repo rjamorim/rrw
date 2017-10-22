@@ -92,8 +92,8 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
           There is no illegal software in this site. All binaries here hosted are 
-          either public domain, or have been granted permission to host them by 
-          their authors.<br><br>
+          either public domain, abandoned, or have been granted permission to host 
+          them by their authors.<br><br>
           
           That said, visitors should be aware that download and usage of some 
           binaries may be forbidden due to patent legislation in their Countries. 

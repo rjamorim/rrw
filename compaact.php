@@ -112,7 +112,7 @@
         Version: 1.2.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2507Kb<br>
+        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507Kb<br>
 
         </blockquote></font>
 

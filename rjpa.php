@@ -114,7 +114,7 @@
         Version: 1.02<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/rjpa.zip">rjpa.zip</a> - 1261Kb<br>
+        Download: <a href="files/xing/rjpa.zip">rjpa.zip</a> - 1.261Kb<br>
         <br>
         Date: 1998-08-01<br>
         Version: 1.0<br>

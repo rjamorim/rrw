@@ -116,7 +116,7 @@
         Version: 1.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/mp3p101.exe">mp3p101.exe</a> - 2105Kb<br>
+        Download: <a href="files/xing/mp3p101.exe">mp3p101.exe</a> - 2.105Kb<br>
         <i>Installer kindly contributed by Zachary Jelesoff</i><br>
         <br>
         <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
@@ -125,13 +125,13 @@
         Version: ?<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/players/mpgaudio2.exe">mpgaudio2.exe</a> - 114Kb<br>
+        Download: <a href="files/xing/mpgaudio2.exe">mpgaudio2.exe</a> - 114Kb<br>
         <br>
         Date: 1993-07-23<br>
         Version: ?<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/players/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
+        Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
         
         
         </blockquote></font>

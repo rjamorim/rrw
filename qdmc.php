@@ -114,7 +114,7 @@
         that has unlimited encoding of QDMC up to 128kbps. It can also encode MP3
         but the encoder quality is terrible.<br>
         
-        I'm also hosting here an analysis document created by Benjamin Larsson, 
+        I am also hosting here an analysis document created by Benjamin Larsson, 
         describing the first steps in the reverse engineering of the codec.<br><br>
         
         Apple has steered away from proprietary codecs like Sorenson Video and 
@@ -131,13 +131,13 @@
         Version: 1.2.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mvppc12.exe">mvppc12.exe</a> - 2083Kb<br>
+        Download: <a href="files/mvppc12.exe">mvppc12.exe</a> - 2.083Kb<br>
         <br>
         Date: 1998<br>
         Version: 2.0<br>
         Interface: Graphical (QuickTime component)<br>
         Platform: Win32<br>
-        Download: <a href="files/QDMC2_Pro_Demo.exe">QDMC2_Pro_Demo.exe</a> - 1327Kb<br>
+        Download: <a href="files/QDMC2_Pro_Demo.exe">QDMC2_Pro_Demo.exe</a> - 1.327Kb<br>
         <br>
         Date: 2004-01-14<br>
         Version: 1.2<br>

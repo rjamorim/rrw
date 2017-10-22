@@ -139,31 +139,31 @@
         Version: 1.1.4 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.exe">MP3sGuiEnc_v1.1.4.exe</a> - 2418Kb<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.exe">MP3sGuiEnc_v1.1.4.exe</a> - 2.418Kb<br>
         <br>
         Date: 2010-02-04<br>
         Version: 4.0.0 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/mp3splayerv400.exe">mp3splayerv400.exe</a> - 2973Kb<br>
+        Download: <a href="files/fhg/mp3splayerv400.exe">mp3splayerv400.exe</a> - 2.973Kb<br>
         <br>
         Date: 2006-04-10<br>
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2103Kb<br>
+        Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2.103Kb<br>
         <br>
         Date: 2008-05-30<br>
         Version: 1.5<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
-        Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2427Kb<br>
+        Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2.427Kb<br>
         <br>
         Date: 2008-05-30<br>
         Version: 1.4<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
-        Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1528Kb<br>
+        Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528Kb<br>
 
         </blockquote></font>
 

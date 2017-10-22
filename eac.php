@@ -108,36 +108,36 @@
         Version: 0.95b2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/eac/eac095b2.zip">eac095b2.zip</a> - 1706Kb<br>
+        Download: <a href="files/eac/eac095b2.zip">eac095b2.zip</a> - 1.706Kb<br>
         <br>
         Date: 2005-05-10<br>
         Version: 0.95b1<br>
-        Download: <a href="files/eac/eac095b1.zip">eac095b1.zip</a> - 1705Kb<br>
+        Download: <a href="files/eac/eac095b1.zip">eac095b1.zip</a> - 1.705Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
         Date: 2004-03-09<br>
         Version: 0.95pb5<br>
-        Download: <a href="files/eac/eac095pb5.zip">eac095pb5.zip</a> - 1720Kb<br>
+        Download: <a href="files/eac/eac095pb5.zip">eac095pb5.zip</a> - 1.720Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
         Date: 2003-11-18<br>
         Version: 0.95pb4<br>
-        Download: <a href="files/eac/eac095pb4.zip">eac095pb4.zip</a> - 1748Kb<br>
+        Download: <a href="files/eac/eac095pb4.zip">eac095pb4.zip</a> - 1.748Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
         Date: 2003-05-11<br>
         Version: 0.95pb3<br>
-        Download: <a href="files/eac/eac095pb3.zip">eac095pb3.zip</a> - 1277Kb<br>
+        Download: <a href="files/eac/eac095pb3.zip">eac095pb3.zip</a> - 1.277Kb<br>
         <i>kindly contributed by mathematician</i><br>
         <br>
         Date: 2003-04-30<br>
         Version: 0.95pb2<br>
-        Download: <a href="files/eac/eac095pb2.zip">eac095pb2.zip</a> - 1153Kb<br>
+        Download: <a href="files/eac/eac095pb2.zip">eac095pb2.zip</a> - 1.153Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
         Date: 2003-04-23<br>
         Version: 0.95pb1<br>
-        Download: <a href="files/eac/eac095pb1.zip">eac095pb1.zip</a> - 1072Kb<br>
+        Download: <a href="files/eac/eac095pb1.zip">eac095pb1.zip</a> - 1.072Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
         <a href="screens/EAC01.png" target=outside><img src="screens/EAC01.png" 

@@ -114,91 +114,91 @@
         Version: 0.8.3<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/foobar2000/foobar2000_0.8.3_case.exe">foobar2000_0.8.3_case.exe</a> - 2448Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.8.3_case.exe">foobar2000_0.8.3_case.exe</a> - 2.448Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.8.2<br>
-        Download: <a href="files/foobar2000/foobar2000_0.8.2_special.exe">foobar2000_0.8.2_special.exe</a> - 2143Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.8.2_special.exe">foobar2000_0.8.2_special.exe</a> - 2.143Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.8.1<br>
-        Download: <a href="files/foobar2000/foobar2000_0.8.1_special.exe">foobar2000_0.8.1_special.exe</a> - 2132Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.8.1_special.exe">foobar2000_0.8.1_special.exe</a> - 2.132Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.8<br>
-        Download: <a href="files/foobar2000/foobar2000_0.8_special.exe">foobar2000_0.8_special.exe</a> - 2098Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.8_special.exe">foobar2000_0.8_special.exe</a> - 2.098Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.7b<br>
-        Download: <a href="files/foobar2000/foobar077b_special.exe">foobar077b_special.exe</a> - 1922Kb<br>
+        Download: <a href="files/foobar2000/foobar077b_special.exe">foobar077b_special.exe</a> - 1.922Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7.7a<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.7a_special.exe">foobar2000_0.7.7a_special.exe</a> - 1897Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.7a_special.exe">foobar2000_0.7.7a_special.exe</a> - 1.897Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.6<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.6_special.exe">foobar2000_0.7.6_special.exe</a> - 1820Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.6_special.exe">foobar2000_0.7.6_special.exe</a> - 1.820Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.5<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.5_special.exe">foobar2000_0.7.5_special.exe</a> - 1803Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.5_special.exe">foobar2000_0.7.5_special.exe</a> - 1.803Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.4<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.4_special.exe">foobar2000_0.7.4_special.exe</a> - 2316Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.4_special.exe">foobar2000_0.7.4_special.exe</a> - 2.316Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.3a<br>
-        Download: <a href="files/foobar2000/foobar073a_special.exe">foobar073a_special.exe</a> - 2349Kb<br>
+        Download: <a href="files/foobar2000/foobar073a_special.exe">foobar073a_special.exe</a> - 2.349Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7.3<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.3_special.exe">foobar2000_0.7.3_special.exe</a> - 2349Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.3_special.exe">foobar2000_0.7.3_special.exe</a> - 2.349Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.2<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.2_special.exe">foobar2000_0.7.2_special.exe</a> - 2269Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.2_special.exe">foobar2000_0.7.2_special.exe</a> - 2.269Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7.1<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7.1_special.exe">foobar2000_0.7.1_special.exe</a> - 2274Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7.1_special.exe">foobar2000_0.7.1_special.exe</a> - 2.274Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7<br>
-        Download: <a href="files/foobar2000/foobar2000_0.7_special.exe">foobar2000_0.7_special.exe</a> - 2180Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.7_special.exe">foobar2000_0.7_special.exe</a> - 2.180Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.7rc16<br>
-        Download: <a href="files/foobar2000/foobar07rc16.exe">foobar07rc16.exe</a> - 1102Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc16.exe">foobar07rc16.exe</a> - 1.102Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc15<br>
-        Download: <a href="files/foobar2000/foobar07rc15.exe">foobar07rc15.exe</a> - 1122Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc15.exe">foobar07rc15.exe</a> - 1.122Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc13<br>
-        Download: <a href="files/foobar2000/foobar07rc13.exe">foobar07rc13.exe</a> - 1093Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc13.exe">foobar07rc13.exe</a> - 1.093Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc11<br>
-        Download: <a href="files/foobar2000/foobar07rc11.exe">foobar07rc11.exe</a> - 1091Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc11.exe">foobar07rc11.exe</a> - 1.091Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc8<br>
-        Download: <a href="files/foobar2000/foobar07rc8.exe">foobar07rc8.exe</a> - 1089Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc8.exe">foobar07rc8.exe</a> - 1.089Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc7<br>
-        Download: <a href="files/foobar2000/foobar07rc7.exe">foobar07rc7.exe</a> - 1083Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc7.exe">foobar07rc7.exe</a> - 1.083Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.7rc5<br>
-        Download: <a href="files/foobar2000/foobar07rc5.exe">foobar07rc5.exe</a> - 1085Kb<br>
+        Download: <a href="files/foobar2000/foobar07rc5.exe">foobar07rc5.exe</a> - 1.085Kb<br>
         <i>Kindly contributed by magic75</i>
         <br><br>
         Version: 0.667<br>
-        Download: <a href="files/foobar2000/foobar2000_0.667.exe">foobar2000_0.667.exe</a> - 1082Kb<br>
+        Download: <a href="files/foobar2000/foobar2000_0.667.exe">foobar2000_0.667.exe</a> - 1.082Kb<br>
         <i>Kindly contributed by Holger Stenger</i>
         <br><br>
         Version: 0.62a<br>

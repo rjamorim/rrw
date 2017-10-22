@@ -131,7 +131,7 @@
         Version: 2.01<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/wz2setup.exe">wz2setup.exe</a> - 2763Kb<br>
+        Download: <a href="files/lossless/wz2setup.exe">wz2setup.exe</a> - 2.763Kb<br>
 
         </blockquote></font>
 
