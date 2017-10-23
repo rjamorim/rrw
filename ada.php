@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>Advanced Digital Audio</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Advanced Digital Audio (ADA) has been developed by Heiko Volk. Besides a (not 
+        Advanced Digital Audio (ADA) was developed by Heiko Volk. Besides a (not 
         very efficient) lossless compression mode, it features a lossy mode that is 
         probably just using quantization (like WavPack lossy and OptimFrog Dual Stream).<br>
    

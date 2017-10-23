@@ -109,8 +109,6 @@
         
         I am only hosting sources here, so it would be very welcome if people could contribute
         binaries and maybe other versions.<br><br>
-        
-        <i>Big thanks to Martin Guy for providing the AMP source code.</i><br>
 
         <br>
         <br>
@@ -119,6 +117,7 @@
         Interface: -<br>
         Platform: Source code<br>
         Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98Kb<br>
+        <i>Kindly contributed by Martin Guy.</i><br>
 
         </blockquote></font>
 

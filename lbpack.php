@@ -108,7 +108,10 @@
         
         The official page has been taken offline after the codec was bought by QDesign, so
         nowadays the only information about this codec is available at the readme and faq 
-        inside the download package.<br>
+        inside the download package.<br><br>
+        
+        <i>Lots of thanks to Geert from Belgium for providing this codec and enlightening me
+        on its history and its relation to QDesign.</i><br>
         
         <br>
         <br>
@@ -117,10 +120,7 @@
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
         Download: <a href="files/lb.zip">lb.zip</a> - 154Kb<br>
-        <br>
-        <i>Lots of thanks to Geert from Belgium for providing this codec and enlightening me
-        on its history and its relation to QDesign</i>
-
+        
         </blockquote></font>
 
         <br><br>

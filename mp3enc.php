@@ -126,7 +126,7 @@
         Platform: Irix<br>
         Download: <a href="files/fhg/mp3encdemo_3_1_irix.tgz">mp3encdemo_3_1_irix.tgz</a> - 223Kb<br>
         <br>
-        Platform: Alpha<br>
+        Platform: Digital Unix<br>
         Download: <a href="files/fhg/mp3encdemo_3_1_alpha.tgz">mp3encdemo_3_1_alpha.tgz</a> - 233Kb<br>
         <br>
         <br>
@@ -148,7 +148,7 @@
         Platform: Irix<br>
         Download: <a href="files/fhg/mp3encdemo_irix.tgz">mp3encdemo_irix.tgz</a> - 190Kb<br>
         <br>
-        Platform: Alpha<br>
+        Platform: Digital Unix<br>
         Download: <a href="files/fhg/mp3encdemo_alpha.tgz">mp3encdemo_alpha.tgz</a> - 196Kb<br>
 
         </blockquote></font>

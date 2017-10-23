@@ -100,8 +100,8 @@
         Another novelty is that it can use several algorithms for encoding
         (as it seems, the author did some tuning on his code) besides the
         "ISO mode" (dist10). These extra modes can be reached at the settings
-        tab, "Encoding Mode (built in encoder)" drop-down box. If there's a 
-        quality difference between encoding modes remains to be seen.<br><br>
+        tab, "Encoding Mode (built in encoder)" drop-down box. If there is a 
+        quality difference between encoding modes, it remains to be seen.<br><br>
         
         A mirror of the official page is available at <a 
         href="https://web.archive.org/web/19990209105037/http://www.angelfire.com:80/ga/cannamp3/" 

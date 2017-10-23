@@ -99,7 +99,7 @@
         communications company.<br><br>
         
         I couldn't find any information about this AAC encoder at Aricent's page, but 
-        a mirror of the former Emuzed page with some little information can be found <a 
+        a mirror of the former Emuzed page with some little information can be seen <a 
         href="https://web.archive.org/web/20070104221608/http://www.emuzed.com/encoders.html"
         target=outside>here</a>.<br>
 

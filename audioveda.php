@@ -106,15 +106,15 @@
         Other features in this program (compared to AudioLib) are CD ripping and MP3
         playback (using the well known <a href="amp.php">AMP</a> decoding library). 
         Also, encoded tracks are no longer stored in a database, but in individual 
-        .EPC files. Another nice feature is that it crashes whenever you try to close
-        it.<br><br>
+        .EPC files. Another nice feature is that the program crashes whenever you 
+        try to close it.<br><br>
       
         It seems VedaLabs has gone out of business because all information about them
-        disappeared and their web site has gone offline years ago (you can still check
+        disappeared and their web site went offline years ago (you can still check
         part of if at <a href="https://web.archive.org/web/20000620121811/http://www.audioveda.com:80/"
         target=outside>archive.org</a> though).<br><br>
         
-        To use the ePAC routines in AudioVeda, you need to register with their server - 
+        To use the ePAC routines in AudioVeda you need to register with their server - 
         but the server is now unavailable! So I am also hosting a registry patch that 
         fools AudioVeda into believing it has already been registered. Just unzip the 
         patch and double-click to import it into the registry.<br>

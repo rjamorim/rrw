@@ -109,13 +109,12 @@
         
         The program works for 20 days and then expires - unless you can find the
         required patch to make it "registered"...<br><br>
-        
-        A mirror of the official web site can be seen <a 
-        href="https://web.archive.org/web/20000419043526/http://www.celestialtech.com/"
-        target=outside>here</a>.<br><br>
-        
+
         At some point CelestialTech became VedaLabs (check <a href="audioveda.php">
-        AudioVeda</a>) and later disappeared, along with their web site.<br>
+        AudioVeda</a>) and later disappeared, along with their web site - that can 
+        still be seen at the <a 
+        href="https://web.archive.org/web/20000419043526/http://www.celestialtech.com/"
+        target=outside>Internet Archive</a> though.<br>
         
         <br>
         <br>

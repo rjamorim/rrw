@@ -110,7 +110,9 @@
         An interesting detail is that "Mafuka" is believed to actually mean an English profanity, 
         "mother f**ker".<br><br>
         
-        I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br>
+        I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
+        
+        <i>Big thanks to Elohe for providing this "encoder"</i><br>
         
         <br>
         <br>
@@ -121,8 +123,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mfk_install.zip">mfk_install.zip</a> - 1.418Kb<br>
-        <br>
-        <i>Big thanks to Elohe for providing this "encoder"</i>
+
 
         </blockquote></font>
 

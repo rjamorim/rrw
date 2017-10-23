@@ -98,7 +98,7 @@
         codec developed in Japan for usage in game music by Entis Lab.<br><br>
         
         The codec seems to be CBR (at least in the only encoder I managed to get 
-        working). Most encoders I found have an interface written in Japanese, 
+        working). Most encoders I found have the interface written in Japanese, 
         including the ones created by the codec developer, so I am hosting a third 
         party encoder here called <a href="http://hp.vector.co.jp/authors/VA027311/"
         target=outside>Daru</a> that supports MIO.<br><br>
@@ -107,7 +107,7 @@
         
         I am also hosting a Winamp input plugin for MIO files. The file info 
         interface is in japanese, but you can easily detect information about frequency, 
-        bit depth and channel count<br><br>
+        bit depth and channel count.<br><br>
         
         The official home page of Entis Lab can be found <a href="http://www.entis.jp/eri/"
         target=outside>here</a>. Visitor comments on codec audio quality would be 

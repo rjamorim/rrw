@@ -99,8 +99,8 @@
         
         This encoder has a famously nasty bug in stereo coding, so its usage is not
         recommended. It is worth mentioning that even though three versions are available
-        here for download, all of them are based on the same libraries, therefore all 
-        of them have this bug.<br>
+        here for download, all are based on the same libraries, therefore all of them 
+        have this bug.<br>
         
         <br>
         <br>

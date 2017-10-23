@@ -97,7 +97,7 @@
         compression app. Compression is not on par with modern compressors, yet, it
         works well.<br><br>
         
-        This program works on Win16 besides Win32.<br><br>
+        This program works on Windows 3.x besides Win32.<br><br>
         
         You can still see Marian's description of the codec at the archived <a
         href="https://web.archive.org/web/20080723013102/http://www.marian.de:80/en/downloads" 

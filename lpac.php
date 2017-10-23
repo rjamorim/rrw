@@ -123,7 +123,7 @@
         Version: 1.40 (codec 3.08)<br>
         Interface: Command line<br>
         Platform: Linux<br>
-        Download: <a href="files/lossless/lpac_s.tar.gz">lpac_s.tar.gz</a> - 221Kb<br>
+        Download: <a href="files/lossless/lpac_s.tar.gz">lpac_s.tar.gz</a> - 197Kb<br>
         <br>
         Date: ?<br>
         Version: 1.00<br>

@@ -104,13 +104,13 @@
         became leader and released version 3.0 featuring gpsycho, a new psychoacoustic
         model he developed.<br><br>
         
-        Nowadays LAME is considered the best MP3 encoder at variable and high bitrates,
-        mostly thanks to the dedicated work of talented developers like Takehiro 
-        Tominaga, Naoki Shibata, Gabriel Bouvigne, Robert Hegemann, etc. And 
+        Nowadays LAME is considered the best MP3 encoder at variable and mid-high 
+        bitrates, mostly thanks to the dedicated work of talented developers like 
+        Takehiro Tominaga, Naoki Shibata, Gabriel Bouvigne, Robert Hegemann, etc. And 
         development is still going on...<br><br>
         
         The LAME home page is located <a href="http://lame.sourceforge.net/" target=outside>
-        here</a><br>
+        here</a>.<br>
         
         <br>
         <br>

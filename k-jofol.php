@@ -104,9 +104,9 @@
         AAC</a> codec through a plugin provided by the author. This time, it isn't encrypted
         with PElock - but with ASpack instead...<br><br>
         
-        It was developed by the french programmer Christophe Thibault up to version 0.51. 
-        He was working on version 2000 when he was hired to work for Nullsoft - makers
-        of Winamp -, putting development permanently on hold.<br>
+        It was developed by the programmer Christophe Thibault up to version 0.51. He was 
+        working on version 2000 when he was hired to work for Nullsoft - makers of Winamp -, 
+        putting development permanently on hold.<br>
         
         <br>
         <br>

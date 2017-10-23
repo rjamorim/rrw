@@ -100,11 +100,11 @@
         <a href="http://www.quicktime.com" target=outside>QuickTime</a> v3.<br><br>
         
         The codec's official name is "RaveSound", according to <a
-        href="https://web.archive.org/web/20080510104307/http://www.qdesign.com/news/archives/01_06_98.htm" target=outside>
-        this</a> press release, but is commonly called QDesign Codec. It is one of 
-        the most agressive codecs known - meaning it compresses quite well at 
-        very low bitrates, but its aggressiveness introduces too many artifacts
-        at higher bitrates.<br><br>
+        href="https://web.archive.org/web/20080510104307/http://www.qdesign.com/news/archives/01_06_98.htm" 
+        target=outside>this</a> press release, but is commonly called QDesign Codec. 
+        It is one of the most agressive codecs known - meaning it compresses quite 
+        well at very low bitrates, but its aggressiveness introduces too many 
+        artifacts at higher bitrates.<br><br>
         
         The personal version comes with QuickTime Pro and allows encoding at bitrates up 
         to 48kbps. The professional version allows bitrates up to 128kbps.<br><br>

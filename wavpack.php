@@ -95,7 +95,7 @@
         David Bryant started developing WavPack in mid-1998, with the release of version
         1.0. This first version compressed and decompressed audio losslessly, nothing else,
         but by then it already sported one of the best efficiency vs. speed ratios among
-        lossless encoders. <br><br>
+        lossless encoders.<br><br>
         
         Very soon after the release of version 1.0, Bryant released v. 2.0, which featured
         lossy encoding (using only quantization for data reduction - no psychoacoustic 
@@ -114,7 +114,7 @@
         error robustness, multichannel support, etc.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
-        target=outside>here</a><br>
+        target=outside>here</a>.<br>
 
         <br>
         <br>

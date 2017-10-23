@@ -103,8 +103,8 @@
         to their player the option of half and quarter quality playback, similar to an option 
         available to this day in MP3 players.<br><br>
         
-        Decoding quality is reasonable. For MP2 decoding, the Philips MPEG player offers higher
-        accuracy.<br><br>
+        Decoding quality is reasonable. For MP2 decoding, the <a href="mpegplayer.php">Philips 
+        MPEG player</a> offers higher accuracy.<br><br>
         
         Years later, Xing created the XingMP3 player, a companion for their <a href="xing.php">MP3
         encoder</a> and CD ripper (AudioCatalyst). It is way more featureful and better looking

@@ -93,8 +93,8 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         VocPack is a very old lossless audio compressor. It was developed by Nicola Ferioli
-        in 1993, and its main purpose is compressing 8bit voice recordings. Version 1 will not
-        work with 16bit streams, that limitation was addressed in version 2.<br><br>
+        in 1993, and its main purpose is compressing 8-bit voice recordings. Version 1 will not
+        work with 16-bit streams, that limitation was addressed in version 2.<br><br>
         
         Version 2 has other improvements, but pay attention! - it is shareware, and as a 
         limitation it will not allow you to decompress the compressed files. So, it is

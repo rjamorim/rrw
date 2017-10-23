@@ -53,9 +53,9 @@
     
     
       </table>
-    <br><br><br>
+    <br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=3800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=2700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -148,8 +148,6 @@
         <br>
         Date: 2005-01-28<br>
         Version: 1.15t<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.15t.zip">mppenc-windows-1.15t.zip</a> - 54Kb<br>
         <br>
         <hr>
@@ -157,140 +155,94 @@
         <br>
         Date: 2003-02-19<br>
         Version: 1.15r<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.15r.zip">mppenc-windows-1.15r.zip</a> - 78Kb<br>
         <br>
         Date: 2003-01-27<br>
         Version: 1.15i<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.15i.zip">mppenc-windows-1.15i.zip</a> - 76Kb<br>
         <br>
         Date: 2002-12-18<br>
         Version: 1.15f<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.15f.zip">mppenc-windows-1.15f.zip</a> - 76Kb<br>
         <br>
         Date: 2002-10-26<br>
         Version: 1.14<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.14.zip">mppenc-windows-1.14.zip</a> - 75Kb<br>
         <br>
         Date: 2002-10-13<br>
         Version: 1.13g<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.13g.zip">mppenc-windows-1.13g.zip</a> - 76Kb<br>
         <br>
         Date: 2002-10-09<br>
         Version: 1.13a<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.13a.zip">mppenc-windows-1.13a.zip</a> - 75Kb<br>
         <br>
         Date: 2002-10-08<br>
         Version: 1.12<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.12.zip">mppenc-windows-1.12.zip</a> - 392Kb<br>
         <br>
         Date: 2002-08-26<br>
         Version: 1.11b<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.11b.zip">mppenc-windows-1.11b.zip</a> - 72Kb<br>
         <br>
         Date: 2002-08-26<br>
         Version: 1.11a<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.11a.zip">mppenc-windows-1.11a.zip</a> - 393Kb<br>
         <br>
         Date: 2002-07-31<br>
         Version: 1.1<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.1.zip">mppenc-windows-1.1.zip</a> - 396Kb<br>
         <br>
         Date: 2002-07-08<br>
         Version: 1.06<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.06.zip">mppenc-windows-1.06.zip</a> - 399Kb<br>
         <br>
         Date: 2002-07-02<br>
         Version: 1.05z3<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.05z3.zip">mppenc-windows-1.05z3.zip</a> - 395Kb<br>
         <br>
         Date: 2002-06-28<br>
         Version: 1.05z2<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.05z2.zip">mppenc-windows-1.05z2.zip</a> - 182Kb<br>
         <br>
         Date: 2002-06-27<br>
         Version: 1.05z1<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.05z1.zip">mppenc-windows-1.05z1.zip</a> - 208Kb<br>
         <br>
         Date: 2002-05-27<br>
         Version: 1.04<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.04.zip">mppenc-windows-1.04.zip</a> - 379Kb<br>
         <br>
         Date: 2002-05-13<br>
         Version: 1.02<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.02.zip">mppenc-windows-1.02.zip</a> - 375Kb<br>
         <br>
         Date: 2002-05-04<br>
         Version: 1.01j<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.01j.zip">mppenc-windows-1.01j.zip</a> - 370Kb<br>
         <br>
         Date: 2002-03-26<br>
         Version: 1.0<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-1.0.zip">mppenc-windows-1.0.zip</a> - 381Kb<br>
         <br>
         Date: 2002-01-11<br>
         Version: 0.90s<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-0.90s.zip">mppenc-windows-0.90s.zip</a> - 162Kb<br>
         <br>
         Date: 2001-12-18<br>
         Version: 0.90o<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-0.90o.zip">mppenc-windows-0.90o.zip</a> - 161Kb<br>
         <br>
         Date: 2001-12-12<br>
         Version: 0.90m<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-0.90m.zip">mppenc-windows-0.90m.zip</a> - 159Kb<br>
         <br>
         Date: 2001-11-26<br>
         Version: 0.90k<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-0.90k.zip">mppenc-windows-0.90k.zip</a> - 69Kb<br>
         <br>
         Date: 2001-11-14<br>
         Version: 0.90i<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc-windows-0.90i.zip">mppenc-windows-0.90i.zip</a> - 138Kb<br>
         <br>
         <hr>
@@ -298,46 +250,32 @@
         <br>
         Date: 2001-07-10<br>
         Version: 1.7.9c<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc_1_7_9c.zip">mppenc_1_7_9c.zip</a> - 78Kb<br>
         <br>
         Date: 2001-05-06<br>
         Version: 1.7.9a<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc_1_7_9a.zip">mppenc_1_7_9a.zip</a> - 78Kb<br>
         <br>
         Date: 2001-04-03<br>
         Version: 1.7.9<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc_1_7_9.zip">mppenc_1_7_9.zip</a> - 77Kb<br>
         <br>
         Date: 2000-11-24<br>
         Version: 1.7.8<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppenc_1_7_8.zip">mppenc_1_7_8.zip</a> - 73Kb<br>
         <br>
         Date: 2000-07-05<br>
         Version: N/A (SV5)<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppsv5.zip">mppsv5.zip</a> - 68Kb<br>
         <i>Found by Roberto Amorim</i><br>
         <br>
         Date: 2000-01-06<br>
         Version: N/A (SV4)<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppsv4.zip">mppsv4.zip</a> - 63Kb<br>
         <i>Lots of thanks to Filburt (Adam) for providing the SV4 encoder</i><br>
         <br>
         Date: 2000-06-18<br>
         Version: N/A (SV5) - Decoder<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
         Download: <a href="files/mpp/mppdec.zip">mppdec.zip</a> - 50Kb<br>
         <i>Found by Roberto Amorim</i><br>
         <br>

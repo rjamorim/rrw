@@ -100,7 +100,7 @@
         href="nttvqf.php">VQF</a>).<br><br>
         
         The reality is that Astrid AAC is far from being ISO AAC compliant. Actually,
-        it's far from being AAC! The encoding routines are based on libraries stolen 
+        it is far from being AAC! The encoding routines are based on libraries stolen 
         from Celestialtech's <a href="audiolib.php">AudioLib</a> (that used Lucent's PAC 
         encoder). Not surprisingly, the original binaries were encrypted.<br><br>
         

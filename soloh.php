@@ -101,7 +101,7 @@
         But popularity comes at a price. This is another encoder that felt the wrath of 
         Fraunhofer and the developer had to remove binaries from his server.<br><br>
         
-        Besides outputting bad quality MP3s, it's very slow and buggy. Don't open the 
+        Besides outputting bad quality MP3s, it's very slow and buggy. Do not open the 
         about box, it will hang the program.<br>
         
         <br>

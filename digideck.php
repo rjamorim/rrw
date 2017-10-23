@@ -93,11 +93,11 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/digideck.png" target=outside><img src="screens/digideck.png" 
         alt="Digideck" align=right></a>
-        During the early days of MP3, DigiDeck was the player of choice for users with slow
-        computers. It often featured best speeds on decoding benchmarks.<br><br>
+        During the early days of MP3, DigiDeck was the player of choice for users with 
+        slow computers. It often featured best speeds on decoding benchmarks.<br><br>
         
-        As expected, it avoids some calculations to increase decoder performance, so decoding
-        quality is not on par with accurate decoders.<br><br>
+        As one would expect, it avoids some calculations to increase decoder performance, 
+        so decoding quality is not on par with accurate decoders.<br><br>
         
         It does not have a native interface. So, whenever the program is closed, the user 
         is asked if he wants to change the skin the next time the player is loaded. I included

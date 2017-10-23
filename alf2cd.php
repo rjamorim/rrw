@@ -102,7 +102,7 @@
         installed on that system.<br><br>
         
         Besides the ACM codec, it was distributed with its own CD ripper and GUI
-        encoder. It only allows high bitrates, from 256 to 512kbps.<br><br>
+        encoder. Only high bitrates are available, from 256 to 512kbps.<br><br>
         
         It never met much success, and was hosted on their web page for only one or
         two years. You can still find a mirror of it at the <a 

@@ -102,8 +102,6 @@
         It uses PlayMedia's <a href="amp.php">AMP</a> decoding engine, therefore quality is 
         not on par with accurate decoders (FhG, mpg123, MAD)<br><br>
         
-        This player is no longer being developed or supported.<br>
-        
         <br>
         <br>
         Date: 1997<br>

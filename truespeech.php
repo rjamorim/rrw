@@ -97,7 +97,7 @@
         The TrueSpeech technology has been developed by the DSP Group of Santa Clara,
         California, a company specialized in DSP applications.<br><br>
         
-        It is available at several versions and bitrates. By far, the most popular
+        It is available in several versions and bitrates. By far, the most popular
         version is 8.5 (8.5kbps), which is bundled with all versions of Windows
         since Windows 95 as an ACM codec. The encoder featured here encodes to this
         version.<br>

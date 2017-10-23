@@ -97,8 +97,8 @@
         and before that only very expensive hardware encoders existed (not that l3enc
         was not expensive itself, registration for version 2.0 cost 350DM - ~U$250)<br><br>
         
-        Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), 
-        Solaris (SPARC), SunOS (SPARC), Irix (MIPS), NeXT (68K). The first (pre-1.0) DOS
+        Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), Solaris 
+        (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K). The first (pre-1.0) DOS
         versions even featured fixed point math encoder and decoder for the 8088 
         architecture.<br><br>
         

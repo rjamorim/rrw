@@ -94,13 +94,12 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundvq-ply.png" target=outside><img src="screens/soundvq-ply.png" 
         alt="SoundVQ Player" align=right></a>
-        At some point during the late nineties, Yamaha licensed the VQF technology 
-        from <a href="nttvqf.php">NTT</a> and created their own encoder, SoundVQ.
-        <br><br>
+        At some point during the late nineties, Yamaha licensed the <a href="nttvqf.php">VQF</a>
+        technology from NTT and created their own encoder, SoundVQ.<br><br>
         
-        It has features like batch encoding and recording from line-in. Quality in
-        high quality mode is good, but encoding is very slow. Also, it only works 
-        for 90 days then expires.<br><br>
+        It has features like batch encoding and recording from line-in. Quality in high 
+        quality mode is good, but encoding is very slow. Also, it only works for 90 days 
+        then expires.<br><br>
         
         Yamaha discontinued offering their SoundVQ software line after the obvious
         failure of the format in becoming popular.<br><br>

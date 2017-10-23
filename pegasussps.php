@@ -102,7 +102,7 @@
         is free - only lossless compression is limited to 10 uses, and after that you
         need to buy a license.<br><br>
         
-        The page about SPS at Pegasus is now gone and it's not being marketed by them
+        The page about SPS at Pegasus is now gone and it is not being marketed by them
         anymore. But you can still find it (and buy it) at 
         <a href="http://www.krishnasoft.com/sps.htm#SPSLink" target=outside>Krishna
         Software</a>.<br>

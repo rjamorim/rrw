@@ -99,7 +99,7 @@
         tracks in one file, which potentially leads to slightly improved 
         compression.<br><br>
         
-        There are both 16bit and 32bit versions available in the downloadable package
+        There are both 16-bit and 32-bit versions available in the downloadable package
         offered here<br>
         
         <br>
