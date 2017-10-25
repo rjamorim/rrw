@@ -147,6 +147,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
                   And these are the updates:
                   <ul>
+                    <li>iMPload complete MP3pro audio player/ripper/manager</li>
                     <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
                     <li>RKau lossless compressor</li>
                   </ul>
