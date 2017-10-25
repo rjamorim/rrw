@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -102,7 +102,8 @@
         
         A mirror of the official page is available at <a 
         href="https://web.archive.org/web/20060810025048/http://bladeenc.mp3.no:80/" 
-        target=outside>archive.org</a>.<br>
+        target=outside>archive.org</a>. And you can check the entire changelog
+        <a href="files/mpeg/blade-changelog.html" target=outside>here</a>.<br>
         
         <br>
         <br>
@@ -134,7 +135,7 @@
         Date: 2001-01-22<br>
         Version: 0.92.6 (GUI v1.4)<br>
         Interface: Graphical<br>
-        Platform: Macintosh PPC<br>
+        Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/mpeg/blademac.sit">blademac.sit</a> - 529Kb<br>
 
         </blockquote></font>
