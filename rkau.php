@@ -89,7 +89,7 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b> RKau lossless compressor </b></div><p></font>
+          <br><div align="justify"><b>RKau lossless compressor</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         RKau was created by Malcolm Taylor to be a high performance lossless audio 
         compressor, also offering a simple lossy encoding mode. It was developed 

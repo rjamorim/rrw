@@ -92,16 +92,16 @@
           <br><div align="justify"> <b>MPEGplus/Musepack</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        MPEGplus was a format created by the German programmer Andree Buschmann.
-        Based on the MPEG layer 2 algorithms, he tweaked the format to a point that
-        made it the best format for high bitrates.<br><br>
+        MPEGplus was a format created by the programmer Andree Buschmann. Based on 
+        the MPEG layer 2 algorithms, he tweaked the format to a point that made it 
+        the best format for high bitrates.<br><br>
         
-        The difference between SV4 and SV5 is that SV5 allows stream lenghts larger than 
-        avg. 30 minutes (a limitation in SV4).<br><br>
+        The difference between SV4 and SV5 is that SV5 allows stream lenghts larger 
+        than avg. 30 minutes (a limitation in SV4).<br><br>
         
         By late 2001, the format changed name to Musepack due to potential trademark
-        isues over the MPEG name. At about the same time Frank Klemm, another German
-        programmer, took over the role of main developer.<br><br>
+        isues over the MPEG name. At about the same time Frank Klemm took over the 
+        role of main developer.<br><br>
         
         Mr. Klemm maintained the codec up to around mid-2003, and after that, reduced
         his participation in its development to a minimum. Even though he also released
@@ -110,18 +110,18 @@
         Now, Musepack was indeed a very remarkable codec in the early 2000s, being 
         both very fast and delivering high audio quality. The competition was quite
         unremarkable: Ogg Vorbis was still at the beta stage, the only serious AAC
-        implementation was <a href="aacenc.php">Psytel AAC</a>, a very slow encoder,
+        implementation was <a href="aacenc.php">Psytel AAC</a>, a quite slow encoder,
         and <a href="lame.php">LAME</a> was far from being the amazingly fast and high 
         quality codec it is today.<br><br>
         
-        Ever since then, Vorbis reached 1.0 release status and 1.1, counting on aoyumi's
-        great tuning work. There is also BlackSword's ASM optimization of aoyumi's tune,
-        turning it into a very fast encoder. LAME progressed by leaps and bounds, extracting
-        more quality out of the MP3 format than previously thought possible. And both 
-        Nero and iTunes AAC encoders were released, featuring high quality and fast
-        encoding for this format (at last!).<br><br>
+        Ever since then, Vorbis reached 1.0 release status and beyond, counting on 
+        aoyumi's great tuning work. There is also BlackSword's ASM optimization of 
+        aoyumi's tune, turning it into a very fast encoder. LAME progressed by leaps 
+        and bounds, extracting more quality out of the MP3 format than previously 
+        thought possible. And both Nero and iTunes AAC encoders were released, 
+        featuring high quality and fast encoding for this format (at last!).<br><br>
         
-        So, while Musepack lagged behind, the competition quickly catched up. In that
+        So, while Musepack lagged behind, competition quickly catched up. In that
         context, where Musepack is no longer the undisputed champion of quality and 
         speed, its downsides become more proeminent: near to nonexistant portable
         player support, suboptimal seeking routines, no support for multichannel
@@ -132,8 +132,8 @@
         The official page is available <a href="http://www.musepack.net" target=outside>
         here</a>.<br><br>
         
-        I'd like to thank mister Francis Niechcial - Guruboolez - for providing all the
-        binaries here which are not credited to someone else.<br>
+        I'd like to thank mister Francis Niechcial - Guruboolez - for providing all 
+        the binaries here which are not credited to someone else.<br>
         
         <br>
         <br>
