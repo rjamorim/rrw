@@ -113,6 +113,8 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/blade.zip">blade.zip</a> - 93Kb<br>
         <br>
+        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
+        alt="BladeEnc for Mac" align=right height="80%"></a>
         Date: 1999-12-31<br>
         Version: 0.91<br>
         Download: <a href="files/mpeg/blade091.zip">blade091.zip</a> - 160Kb<br>
@@ -121,7 +123,6 @@
         Version: 0.82<br>
         Download: <a href="files/mpeg/blade082.zip">blade082.zip</a> - 118Kb<br>
         <i>Submitted by ViPER1313</i><br>
-        <br>
         Date: 1998-12-17<br>
         Version: 0.76<br>
         Download: <a href="files/mpeg/blade076.zip">blade076.zip</a> - 100Kb<br>
