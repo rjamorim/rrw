@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,7 +98,7 @@
         If you are looking for screenshots of NAD, look at <a 
         href="http://www.glop.org/nad/" target=outside>The Museum of NAD</a>.<br><br>
         
-        All files here were submitted by Mitiok. Big thanks to him!<br>
+        All files here <!--(except NAD 1.0)--> were submitted by Mitiok. Big thanks to him!<br>
         
         <br>
         <br>
@@ -107,11 +107,16 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/nad/christmasnaddy.zip">christmasnaddy.zip</a> - 77Kb<br>
+        <!--<br>
+        Date: 1998-11-02<br>
+        Version: 1.0 "Naddy"<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/nad/nad_1.0.zip">nad_1.0.zip</a> - 132Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>-->
         <br>
         Date: 1998-05-06<br>
         Version: 0.94 pre beta 3<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
         Download: <a href="files/nad/nad094pb3.zip">nad094pb3.zip</a> - 134Kb<br>
         <br>
         Date: 1998-05-02<br>
