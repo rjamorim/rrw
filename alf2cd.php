@@ -93,8 +93,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/alf2cd.png" target=outside><img src="screens/alf2cd.png" 
         alt="ALF2 CD" align=right height="60%"></a>
-        ALF2 CD is a very obscure format created by Russian company NCT Soft in the
-        early 2000s.<br><br>
+        ALF2 CD is a very obscure format created by developers Lev Bannov and 
+        Aleksei Myasnikov at Russian company NCT Soft in the early 2000s.<br><br>
         
         It is implemented as an ACM codec, therefore all encoded files are wrapped
         in a WAV container. That way, any standard player using ACM (such as Winamp
