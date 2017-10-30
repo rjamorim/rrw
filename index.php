@@ -62,7 +62,7 @@
       </table>
 <img width=1 height=1300 src="dot.gif">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -144,10 +144,12 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   This is the first update where ReallyRareWares development and changes are being versioned
                   at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
+                  
+                  Of course, feel free to submit pull requests... <br><br>
 
-                  And these are the updates:
+                  And these are the updates, mostly player stuff:
                   <ul>
-                    <li>iMPload complete MP3pro audio player/ripper/manager</li>
+                    <li>iMPload complete MP3pro music player/ripper/manager</li>
                     <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
                     <li>More versions of Apollo contributed by [JAZ]</li>
                     <li>NAD MP3 player v1.0 (thanks to Zachary Jelesoff)</li>
@@ -174,6 +176,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>LTAC/LPAC lossless compressors</li>
                   </ul>
              </blockquote></font>
+
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-01: </b></div><p>
@@ -184,7 +187,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   
                   Check the pages of your favorite graphical applications (I do not see much point in adding
                   screenshots of command line applications), maybe there will be a screenshot there. I have not
-                  yet upoaded screenshots for all apps, but those will probably come in the next updates.<br><br>
+                  yet uploaded screenshots for all apps, those will probably come in the next update.<br><br>
                   
                   Besides the screenshots, this is what has been added/updated:
                   <ul>
