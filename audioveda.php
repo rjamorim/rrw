@@ -106,8 +106,8 @@
         Other features in this program (compared to AudioLib) are CD ripping and MP3
         playback (using the well known <a href="amp.php">AMP</a> decoding library). 
         Also, encoded tracks are no longer stored in a database, but in individual 
-        .EPC files. Another nice feature is that the program crashes whenever you 
-        try to close it.<br><br>
+        .EPC files. Another nice feature is that the program freezes whenever you 
+        try to close it and must be killed from the task manager.<br><br>
       
         It seems VedaLabs has gone out of business because all information about them
         disappeared and their web site went offline years ago (you can still check
