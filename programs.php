@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1700><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=1750><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -191,10 +191,12 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=amp.php>AMP MP3 player</a><br>
                 <a href=apollo.php>Apollo player</a><br>
+                <!--<a href=dicevqf.php>Dice VQF Player</a><br>-->
                 <a href=digideck.php>DigiDeck MP3 player</a><br>
                 <a href=macplay3.php>FhG IIS MacPlay3</a><br>
                 <a href=winplay3.php>FhG IIS WinPlay3</a><br>
-                <a href=foobar2000.php>Foobar2000 player</a><br>
+                <a href=foobar2000.php>Foobar2000</a><br>
+                <!--<a href=impload.php>iMPload complete MP3pro</a><br>-->
                 <a href=k-jofol.php>K-J&ouml;fol player</a><br>
                 <a href=musearc.php>Musearc player</a><br>
                 <a href=nad.php>NAD player</a><br>
