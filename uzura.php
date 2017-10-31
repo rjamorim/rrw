@@ -93,7 +93,11 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Uzura is an open source MP1/3 encoder with a characteristic that makes it 
-        stand out from the rest: it is completely written in Fortran.<br>
+        stand out from the rest: it is completely written in Fortran.<br><br>
+        
+        You can see a mirror of its web site <a 
+        href="https://web.archive.org/web/20021204005320/http://members.tripod.co.jp/kitaurawa/index_e.html"
+        target=outside>here</a>.<br>
 
         <br>
         <br>
@@ -109,7 +113,7 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/uzura1.zip">uzura1.zip</a> - 138Kb<br>
         <br>
-        Builds provided by John33<br>
+        <i>Compiles provided by John33</i><br>
 
         </blockquote></font>
 
