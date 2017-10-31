@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audioveda.png" target=outside><img src="screens/audioveda.png" 
-        alt="AudioVeda" align=right height="50%"></a>
+        alt="AudioVeda" align=right height="52%"></a>
         At some point, <a href="audiolib.php">CelestialTech</a> became VedaLabs. Quite 
         appropiately, besides changing their name they changed their audio program (now 
         called AudioVeda, and with a much better interface) and changed the codec. They 
