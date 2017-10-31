@@ -140,8 +140,6 @@
         Download: <a href="files/eac/eac095pb1.zip">eac095pb1.zip</a> - 1.072Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
-        <a href="screens/EAC01.png" target=outside><img src="screens/EAC01.png" 
-        alt="EAC 0.1" align=right height="40%"></a>
         Date: 2002-05-22<br>
         Version: 0.9b4<br>
         Download: <a href="files/eac/eac09b4.zip">eac09b4.zip</a> - 956Kb<br>
@@ -193,6 +191,8 @@
         Download: <a href="files/eac/eac05b.zip">eac05b.zip</a> - 104Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
+        <a href="screens/EAC01.png" target=outside><img src="screens/EAC01.png" 
+        alt="EAC 0.1" align=right height="40%"></a>
         Date: 1998-08-07<br>
         Version: 0.4b<br>
         Download: <a href="files/eac/eac04b.zip">eac04b.zip</a> - 74Kb<br>
