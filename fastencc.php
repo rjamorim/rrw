@@ -124,7 +124,7 @@
         <br>
         Date: 2000-03-10<br>
         Version: 3.1.1<br>
-        Interface: Library+API<br>
+        Interface: Libraries + API<br>
         Platform: Win32<br>
         Download: <a href="files/fhg/mp3enc.zip">mp3enc.zip</a> - 313Kb<br>
 

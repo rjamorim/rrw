@@ -110,7 +110,7 @@
         target=outside>archive.org</a>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for sending me these files and reminding me of 
-        the existence of PlusV!</i><br>
+        the existence of PlusV.</i><br>
 
         <br>
         <br>

@@ -97,16 +97,16 @@
         audio editors and workstations; and Mayah, makers of audio encoding, transmission,
         and broadcasting hardware.<br><br>
         
-        iMPload complete MP3pro is meant to be an all-in-one solution for audio management 
-        and playback, with its biggest selling point being support for the <a 
+        iMPload complete MP3pro is meant to be an all-in-one solution for audio playback 
+        and management, with its biggest selling point being support for the <a 
         href="ctmp3pro.php">MP3pro</a> format.<br><br>
         
         Interestingly, it offers to use LAME (version 3.88) besides the FhG MP3pro 
-        encoder for MP3 recording and ripping. Besides MP3, it supports Ogg Vorbis,
-        WMA and WAV.<br><br>
+        encoder for MP3 recording and ripping. In addition to MP3, it supports Ogg 
+        Vorbis, WMA, and WAV.<br><br>
         
         The features are vast and varied. It includes playlists/media library, advanced
-        equalizer, trippy visualization plugins, CD ripping, CD burning, recording from 
+        equalizer, trippy visualization plugins, CD ripping, CD writing, recording from 
         line-in and microphone, volume normalization using a technology similar to <a 
         href="https://en.wikipedia.org/wiki/ReplayGain" target=outside>ReplayGain</a>, 
         CD cover maker, FTP client to play music from a server, DSP effects using VST 
