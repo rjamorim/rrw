@@ -103,7 +103,11 @@
         without the password. I put "protect" surrounded by quotation marks because 
         the password is stored in <a href="screens/audiozip-srsly.png" target=outside>plain 
         text</a> at offset 0x06 of the compressed file... <br>
-        Certainly the work of seasoned cryptographers!<br>
+        Certainly the work of seasoned cryptographers!<br><br>
+        
+        The AudioZip webpage has been mirrored <a
+        href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm"
+        target=outside>here</a>.<br>
         
         <br>
         <br>
