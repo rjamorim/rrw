@@ -95,7 +95,7 @@
         alt="MP3 to EXE creator interface" align=right height="75%"></a>
         MP3 to EXE is a shareware created by Oliver Buchjost with the idea of enabling
         MP3 files to be played stand-alone, with no need of a decoder or player. In
-        fact, the player cantains the MP3 file within itself.<br><br>
+        fact, the player contains the MP3 file within itself.<br><br>
         
         The idea is to enable songs to be distributed with no concern whether the
         recipient will have an MP3 player installed (which was a valid concern in 
@@ -104,13 +104,15 @@
         
         The EXE creator allows a high customization level of the generated player,
         from visuals to functionality, and also allows previewing how the player is
-        going to look once created.<br><br>
+        going to look once created. There is even a provision to split files to
+        fit in floppy disks!<br><br>
 
         The MP3 decoder is based on a Delphi component called EldoS Sounds, which
         by its turn is based on mpg123, therefore decoding accuracy should be high.<br><br>
         
         For some reason, I could not get the player to work on Windows 10 or XP. 
-        The screenshot here was taken on a Windows NT 4 virtual machine.<br><br>
+        The screenshot here was taken on a Windows NT 4 virtual machine, and even 
+        then, I could not get the volume sliders to work.<br><br>
         
         The web site is gone, but a mirror is available at the <a
         href="https://web.archive.org/web/20000229093848/http://www.mp3toexe.com"
