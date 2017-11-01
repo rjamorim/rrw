@@ -1,0 +1,27 @@
+p.first {text-indent:15px;color: #000066;font-family: Arial, Helvetica, sans-serif; font-size:10pt; line-height:120%; margin-right: 8%; margin-left: 8%; margin-top: 8%; margin-bottom: 2%} p.quote {text-indent:0px; 
+color: gray;font-family: arial, Verdana, Helvetica, sans-serif; font-size:16px;line-height:150%; margin-top: auto; margin-right: 11%; margin-left: 11%} 
+p.nomargin { text-indent:0px;color: #000066;font-family: Arial, Helvetica, sans-serif; font-size:10pt; margin-right: 0%; margin-left: 0%; margin-top: 0%; margin-bottom: 0%}
+.press_dates {  font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #000066}
+p.mfcolomns {font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 120%; color: #000066; margin-top: auto; margin-right: 10px; margin-bottom: auto; margin-left: 10px }
+.bcrumb {font-family: Arial, Helvetica, sans-serif; font-size: 0.69em; color: #003366; border-color: #003366 black}
+A:link {
+	COLOR: #6666cc
+}
+A:visited {
+	COLOR: #666666
+}
+A:active {
+	COLOR: #9999ff
+}
+A:hover {
+	COLOR: #6666cc
+; text-decoration: none
+}
+.quicklink { font-family: Arial, Helvetica, sans-serif; font-size: 0.69em; color: #003366; border-color: #003366 black ; clip:   rect(   )}
+.quotebig { font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #999999 }
+p.shaded { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: normal; color: 000066; margin-top: auto; margin-right: 10px; margin-bottom: auto; margin-left: 10px ; list-style-type: circle ; background-color: #99FFFF}
+p.mfc { text-indent:15px;color: #000066;font-family: Arial, Helvetica, sans-serif; font-size:10pt; line-height:130%; margin-right: 8%; margin-left: 8%; margin-top: 8%; margin-bottom: 2% }
+p.mfcs { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: normal; color: #000066; margin-right: 4px; margin-bottom: 15px; margin-left: 4px}
+.reg_inputfield { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-color: #EEECFF; }
+.orng_inputfield { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-color: #A8D0FD; }
+.colbdy { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 13px; color: #000066; padding-right: 3px; padding-left: 3px}
