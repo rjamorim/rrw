@@ -140,20 +140,33 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <br><div align="justify"><b> 2017-11-: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Several updates</b></font><p>
+                  This update is just that... updates:
+                  <ul>
+                    <li>RKau lossless compressor</li>
+                    <li>Emagic Zap lossless compressor</li>
+                  </ul>
+             </blockquote></font>-->
+             
+        
+            <!--<font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>GitHub and new goodies</b></font><p>
                   This is the first update where ReallyRareWares development and changes are being versioned
                   at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
                   
-                  Of course, feel free to submit pull requests... <br><br>
+                  Of course, feel free to submit pull requests... ;-) <br><br>
 
-                  And these are the updates, mostly player stuff:
+                  And these are the updates, this time around  focused on music players:
                   <ul>
                     <li>iMPload complete MP3pro music player/ripper/manager</li>
                     <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
                     <li>More versions of Apollo contributed by [JAZ]</li>
                     <li>NAD MP3 player v1.0 (thanks to Zachary Jelesoff)</li>
-                    <li>RKau lossless compressor</li>
+                    <li>Two AMP-based MP3 players for Win32 (thanks to Zachary Jelesoff)</li>
                   </ul>
              </blockquote></font>-->
         
