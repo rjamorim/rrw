@@ -140,6 +140,7 @@
                 <a href=wavarc.php>Wavarc</a><br>
                 <a href=wavpack.php>WavPack</a><br>
                 <a href=wavezip.php>WaveZip/MUSICompress</a><br>
+                <!--<a href=zap.php>Emagic Zap</a><br>-->
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
