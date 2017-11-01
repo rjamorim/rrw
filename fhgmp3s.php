@@ -112,7 +112,7 @@
         
         <a href="screens/fhgmp3s-enc.png" target=outside><img src="screens/fhgmp3s-enc.png" 
         alt="MP3S Encoder" align=right></a>
-        The encoders only accept 5.1 WAV files. Also, it is worth mentioning that 
+        The encoders only accept 5.1 wav files. Also, it is worth mentioning that 
         the GUI encoder expires on 2007-12-31, so set your PC clock to before that 
         date if you want to use it. You can also use the command line encoders (for 
         Windows, Linux and MacOS X) which, as far as I can tell, do not expire.<br><br>

@@ -131,6 +131,7 @@
         Platform: Win32<br>
         Download: <a href="files/lossless/in_lpac.exe">in_lpac.exe</a> - 47Kb<br>
         <br>
+        <hr>
         Date: 1998-10-05<br>
         Version: 1.71<br>
         Interface: Graphical<br>

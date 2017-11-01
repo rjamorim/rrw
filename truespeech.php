@@ -116,7 +116,7 @@
         Platform: Win32<br>
         Download: <a href="files/vocodecs/tsply95.exe">tsply95.exe</a> - 942Kb<br>
         <a href="screens/truespeech-ply.png" target=outside><img src="screens/truespeech-ply.png" 
-        alt="TrueSpeech Player" align=right></a>
+        alt="TrueSpeech Player" align=right height="70%"></a>
         <br>
         Date: 1996-03-20<br>
         Version: 3.10b (Player)<br>

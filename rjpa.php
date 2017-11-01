@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,7 +98,7 @@
         alt="rJPa encoder" align=right height="50%"></a>
         rJPa is actually not an encoder, but a frontend for the tompg (Xing) MP1/2/3 
         encoder, which is illegally distributed with the installation (tompg.exe 
-        mysteriously appears in \Windows\System32).<br><br>
+        mysteriously appears in \Windows\System32 after you install rJPa).<br><br>
         
         Also included is a playlist builder.<br><br>
         

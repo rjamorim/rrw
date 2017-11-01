@@ -93,22 +93,24 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mafuka-ply.png" target=outside><img src="screens/mafuka-ply.png" 
         alt="Mafuka Player" align=right height="60%"></a>
-        When it was released, in late 2000, the Mafuka format took the audio coding community
-        by storm. It promised - and "delivered" - same quality as MP3 at 1/3 of the file size.
-        It seemed the obscure Dr. Keiji Mafuka had come up with a real breakthrough in
-        multimedia compression.<br><br>
+        When it was released, in late 2000, the Mafuka format took the audio coding 
+        community by storm. It promised - and "delivered" - same quality as MP3 at 
+        a third of the file size. It seemed the obscure Dr. Keiji Mafuka had come up 
+        with a real breakthrough in multimedia compression.<br><br>
         
-        Soon, people started becoming suspicious. Why did the encoder accept only .mp3 files,
-        and not uncompressed .wav? Why files encoded in one computer would not play in other
-        machines? How come noone ever heard of such breakthrough research going on in Japan?<br><br>
+        Soon, people started becoming suspicious. Why did the encoder accept only 
+        .mp3 files, and not uncompressed .wav? Why files encoded in one computer 
+        would not play in other machines? How come noone ever heard of such 
+        breakthrough research going on in Japan?<br><br>
         
-        Soon the truth was revealed: the Mafuka encoder was just a big prank. It took the MP3
-        file, divided in three parts, renamed the first part to .mfk and hid the other parts 
-        very well. At decoding time, the files were merged together again. That is why a file 
-        encoded in one computer would not work in another.<br><br>
+        Soon the truth was revealed: the Mafuka encoder was just a big prank. It 
+        took the MP3 file, divided in three parts, renamed the first part to .mfk 
+        and hid the other parts very well. At decoding time, the files were merged 
+        together again. That is why a file encoded in one computer would not work 
+        in another.<br><br>
         
-        An interesting detail is that "Mafuka" is believed to actually mean an English profanity, 
-        "mother f**ker".<br><br>
+        An interesting detail is that "Mafuka" is believed to actually mean an 
+        american profanity, "mother f**ker".<br><br>
         
         I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
         

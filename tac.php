@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,24 +94,25 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/tac.png" target=outside><img src="screens/tac.png" 
         alt="TAC demo 5" align=right height="65%"></a>
-        TAC (Transparent Audio Codec) was developed at K+K research, and comprised
+        TAC (Transparent Audio Codec) was developed at K+K research, which comprised
         two developers: Kevin Anderson (KA) and Karsten Madsen (KM).<br><br>
         
         This codec became quite famous due to incessant praising about it by KM at
         several web forums and web pages (one of the most famous is mirrored <a 
-        href="mirrors/km/audiocomp1.html">here</a>. Another one is <a 
-        href="mirrors/km1/index.html">here</a>. And a third one is <a 
-        href="mirrors/km2/index.html">here</a>). Among his claims, KM said TAC was 
-        better than any codec ever developed (even the FhG AAC encoders, back then
-        the golden standards), best quality at a wide range of bitrates, support 
-        and interest from the recoding and gaming industries...<br><br>
+        href="mirrors/km/audiocomp1.html" target=outside>here</a>. Another one is <a 
+        href="mirrors/km1/index.html" target=outside>here</a>. And a third one is <a 
+        href="mirrors/km2/index.html" target=outside>here</a>). Among his claims, 
+        KM said TAC was better than any codec ever developed (even the FhG AAC 
+        encoders, back then the golden standards), best quality at a wide range 
+        of bitrates, support and interest from the recoding and gaming 
+        industries...<br><br>
         
         He also announced an AAC encoder (MP01) that supposedly had better quality
         than Fraunhofer's reference implementation. Still, no one has ever seen 
         it in action.<br><br>
         
         Eventually KM lost credibility at several forums and disappeared from the 
-        scene. Soon afterwards KA (that was the real programmer) gave up developing 
+        scene. Soon afterwards KA (who was the real programmer) gave up developing 
         the format.<br><br>
         
         In this page are featured two demo encoders with respective frontends. No 

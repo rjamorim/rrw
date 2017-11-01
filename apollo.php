@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Apollo player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/apollo.png" target=outside><img src="screens/apollo.png" 
-        alt="Apollo 37k" align=right height="55%"></a>
+        alt="Apollo 37k" align=right height="45%"></a>
         With the slogan "Sound quality is not skinnable", Apollo is an audio player with 
         strong focus on quality - its MP3 decoder is famously one of the most mathematically
         accurate ones, if not the most accurate.<br><br>
