@@ -93,21 +93,21 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         WavArc is another abandoned lossless compressor. It was developed up to 1997
-        by the Canadian programmer Dennis Lee.<br><br>
+        by Dennis Lee.<br><br>
         
         One of the unique features of this compressor is that it can store several
         tracks in one file, which potentially leads to slightly improved 
         compression.<br><br>
         
-        There are both 16-bit and 32-bit versions available in the downloadable package
-        offered here<br>
+        There are both 16-bit and 32-bit versions available in the package offered 
+        here.<br>
         
         <br>
         <br>
         Date: 1997-08-01<br>
         Version: 1.1<br>
         Interface: Command line<br>
-        Platform: DOS and Win32<br>
+        Platform: DOS<br>
         Download: <a href="files/lossless/wavarc.zip">wavarc.zip</a> - 139Kb<br>
 
         </blockquote></font>
