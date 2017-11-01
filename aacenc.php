@@ -104,13 +104,12 @@
         Liquifier was also available, but streams created by it were encrypted.<br><br>
         
         Two versions are available here, AACenc - slow and high quality, and Fastenc - 
-        fast and lower quality. At the bottom you will find Psytel MPEG4 studio, that is 
-        a compile of the reference sources with a frontend.<br><br>
+        fast and lower quality. At the bottom you will find Psytel MPEG4 studio, which 
+        is a compile of the reference sources with a frontend.<br><br>
         
-        By mid-2002, Psytel Research and all its assets were bought by Ahead Software 
-        GmbH., and AACenc became Nero AAC Encoder.<br><br>
-        
-        You can still check a mirror of the Psytel Research web site at the <a
+        By mid-2002 Psytel Research and all its assets were bought by Ahead Software 
+        GmbH., makes of Nero Burning ROM, and AACenc became Nero AAC Encoder. You can 
+        still visit a mirror of the web site at the <a
         href="https://web.archive.org/web/20020610032644/http://www.psytel-research.co.yu:80/index.htm"
         target=outside>Internet Archive</a>.<br><br>
         
