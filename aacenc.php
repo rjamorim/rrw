@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -109,6 +109,10 @@
         
         By mid-2002, Psytel Research and all its assets were bought by Ahead Software 
         GmbH., and AACenc became Nero AAC Encoder.<br><br>
+        
+        You can still check a mirror of the Psytel Research web site at the <a
+        href="https://web.archive.org/web/20020610032644/http://www.psytel-research.co.yu:80/index.htm"
+        target=outside>Internet Archive</a>.<br><br>
         
         Obs: AACenc and Fastenc require the Intel ia32math.dll library. Download it
         <a href="files/aac/psytel/ia32math.zip">here</a> - 126Kb.<br>
