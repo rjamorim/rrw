@@ -145,6 +145,8 @@
         Download: <a href="files/eac/eac09b4.zip">eac09b4.zip</a> - 956Kb<br>
         <i>kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
         <br>
+        <a href="screens/EAC06.png" target=outside><img src="screens/EAC06.png" 
+        alt="EAC 0.6" align=right height="40%"></a>
         Date: 2001-06-22<br>
         Version: 0.9pb11<br>
         Download: <a href="files/eac/eac09pb11.zip">eac09pb11.zip</a> - 835Kb<br>
