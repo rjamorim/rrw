@@ -103,7 +103,7 @@
         A mirror of the official page is available at <a 
         href="https://web.archive.org/web/20060810025048/http://bladeenc.mp3.no:80/" 
         target=outside>archive.org</a>. And you can check the entire changelog
-        <a href="files/mpeg/blade-changelog.html" target=outside>here</a>.<br>
+        <a href="files/blade/blade-changelog.html" target=outside>here</a>.<br>
         
         <br>
         <br>
@@ -111,34 +111,47 @@
         Version: 0.94.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/blade.zip">blade.zip</a> - 93Kb<br>
+        Download: <a href="files/blade/blade094.zip">blade094.zip</a> - 93Kb<br>
         <br>
         <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
         alt="BladeEnc for Mac" align=right height="80%"></a>
+        <!--Date: 2001-01-19<br>
+        Version: 0.92.7<br>
+        Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178Kb<br>
+        <br>-->
         Date: 1999-12-31<br>
         Version: 0.91<br>
-        Download: <a href="files/mpeg/blade091.zip">blade091.zip</a> - 160Kb<br>
+        Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160Kb<br>
         <br>
         Date: 1999-07-22<br>
         Version: 0.82<br>
-        Download: <a href="files/mpeg/blade082.zip">blade082.zip</a> - 118Kb<br>
+        Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118Kb<br>
         <i>Submitted by ViPER1313</i><br>
         <br>
         Date: 1998-12-17<br>
         Version: 0.76<br>
-        Download: <a href="files/mpeg/blade076.zip">blade076.zip</a> - 100Kb<br>
+        Download: <a href="files/blade/blade076.zip">blade076.zip</a> - 100Kb<br>
         <i>Submitted by SacRat</i><br>
         <br>
         Date: 1998-11-27<br>
         Version: 0.75<br>
-        Download: <a href="files/mpeg/blade075.zip">blade075.zip</a> - 199Kb<br>
-        <i>Submitted by SacRat</i><br><br>
+        Download: <a href="files/blade/blade075.zip">blade075.zip</a> - 199Kb<br>
+        <i>Submitted by SacRat</i><br>
         <br>
+        <!--Date: 1998-09-14<br>
+        Version: 0.72<br>
+        Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107Kb<br>
+        <br>
+        Date: 1998-07-06<br>
+        Version: 0.60<br>
+        Download: <a href="files/blade/blade060.zip">blade072.zip</a> - 108Kb<br>
+        <br>-->
+        <hr>
         Date: 2001-01-22<br>
         Version: 0.92.6 (GUI v1.4)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
-        Download: <a href="files/mpeg/blademac.sit">blademac.sit</a> - 529Kb<br>
+        Download: <a href="files/blade/blademac.sit">blademac.sit</a> - 529Kb<br>
 
         </blockquote></font>
 
