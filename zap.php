@@ -93,15 +93,15 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/zap.png" target=outside><img src="screens/zap.png" 
         alt="Zap demo. So ugly!" align=right height="70%"></a>
-        Zap is a lossless compressor created by famous German music software and 
-        hardware company Emagic, makers of the Logic sequencer.<br><br>
+        Zap, "Zero-loss Audio Packer", is a lossless compressor created by famous 
+        German music software and hardware company Emagic, makers of the Logic 
+        sequencer.<br><br>
         
         The compressor is a demo version and is only available for the Mac OS 
         platform, but there are freeware decompressors for Windows and Mac OS
         (actually, adware because they continuously scroll adverts for Emagic 
-        products). I could not get to use the decompressors in either Windows or
-        Mac OS. I thought they were drag-and-drop applications, but that does not
-        seem to be the case.<br><br>
+        products). To use the Windows decompressor, you need to call it from the
+        command line "unzapwin.exe file.zap".<br><br>
         
         One interesting feature of Zap is that it can create self extracting 
         archives. Unfortunately, that functionality is not available in the demo
