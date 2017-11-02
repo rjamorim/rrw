@@ -133,7 +133,7 @@
           <br><div align="justify"><center><b>Credits</b></center></div><br><br>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-          <blockquote><a href="mailto:roberto@rjamorim.com">Roberto Amorim:</a> contents, texts, site maintenance.</blockquote> <p>
+          <blockquote><a href="mailto:rjamorim@yahoo.com">Roberto Amorim:</a> contents, texts, screenshots, site maintenance.</blockquote> <p>
           <blockquote><a href="mailto:rafanetz@yahoo.com.br">Rafael Urbanetz:</a> hypertext markup and coding, webdesign, graphics. </blockquote> <p> 
         </blockquote></font>
 
