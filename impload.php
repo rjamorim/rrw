@@ -101,9 +101,9 @@
         and management, with its biggest selling point being support for the <a 
         href="ctmp3pro.php">MP3pro</a> format.<br><br>
         
-        Interestingly, it offers to use LAME (version 3.88) besides the FhG MP3pro 
-        encoder for MP3 recording and ripping. In addition to MP3, it supports Ogg 
-        Vorbis, WMA, and WAV.<br><br>
+        Interestingly, <a href="lame.php">LAME</a> (version 3.88) is a choice besides 
+        the FhG MP3pro encoder for MP3 recording and ripping. It supports Ogg Vorbis,
+        WMA, and WAV in addition to MP3.<br><br>
         
         The features are vast and varied. It includes playlists/media library, advanced
         equalizer, trippy visualization plugins, CD ripping, CD writing, recording from 
