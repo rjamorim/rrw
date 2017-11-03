@@ -74,7 +74,7 @@
     </table></td></tr>
       <tr><td>
         <table border="0" cellpadding="10" cellspacing="0" width="100%">
-      <tr><td width="450"></td>
+      <tr><td width="500"></td>
         <td width="20%"></td></tr>
       <tr><td>
         <font face="Geneva,Verdana,Helvetica,Arial">
@@ -105,9 +105,15 @@
         about box, it will hang the program.<br>
         
         <br>
+        <!--<br>
+        Date: 1998-02-24<br>
+        Version: 0.07a<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/mpeg/soloh007a.zip">soloh007a.zip</a> - 316Kb<br>-->
         <br>
         Date: 1998-02-23<br>
-        Version: 0.07a<br>
+        Version: 0.07<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/soloh007.zip">soloh007.zip</a> - 316Kb<br>
