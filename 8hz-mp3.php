@@ -91,28 +91,36 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>8hz-MP3 encoder</b></div> <p> </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        8hz-MP3 is more or less a compile of the dist10 reference code. It was put 
-        together by a duo of Danish programmers working at 8hz Productions, a game
-        developer. <br><br>
+        <!--<a href="screens/8hz-mp3.png" target=outside><img src="screens/8hz-mp3.png" 
+        alt="8hz-mp3 v0.1.1b" align=right height="78%"></a>-->
+        8hz-MP3 is more or less a compile of the dist10 reference sources, with a 
+        focus on speeding up that code. It was put together by a duo of Danish 
+        programmers working at 8hz Productions, a game developer.<br><br>
         
         They were among the first to feel the wrath of Fraunhofer. They received a
         cease-and-desist letter claiming patent violation, and immediately afterwards 
-        stopped developing and distributing their encoder. 
-        <a href="http://www.8hz.com/mp3/" target=outside>This</a> is what remains of 
+        stopped developing and distributing their encoder. <a 
+        href="http://www.8hz.com/mp3/" target=outside>This</a> is what remains of 
         8hz-MP3's official page.<br><br>
         
-        The binary provided here comes from 
+        The version 0.2b provided here is a further development by 
         <a href="http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html" target=outside>
-        Japan</a> (interface is in english though). Sources are also available at 
-        that link.<br>
-        
+        Jun Somekawa</a>. Sources are also available at that link.<br>
+                
         <br>
         <br>
-        Date: 1998-04-17<br>
-        Version: 04J<br>
+        Date: 1999-04-09<br>
+        Version: 0.2b - 04J<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/8hz-mp3.zip">8hz-mp3.zip</a> - 100Kb<br>
+        Download: <a href="files/mpeg/8hz-mp3_02b.zip">8hz-mp3_02b.zip</a> - 100Kb<br>
+        <!--<br>
+        Date: 1998-05-07<br>
+        Version: 0.1.1b<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/mpeg/8hz-mp3_011b.zip">8hz-mp3_011b.zip</a> - 83Kb<br>-->
+        
         </blockquote></font>
 
         <br><br>
