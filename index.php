@@ -296,7 +296,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Foobar2000 and a surprise</b></font><p>
                   I was planning to only make an update near Christmas, but so many nice dudes
-                  submitted old versions of foobar2000, that I decided to make a quick update and 
+                  submitted old versions of foobar2000 that I decided to make a quick update and 
                   add a foobar page to the site.<br><br>
                   
                   The collection is still far from complete, therefore, if you happen to have an old

@@ -1,0 +1,127 @@
+ (place tab stops every one-half inches for best viewing)
+
+                                      MUSICompress(tm)
+                                Lossless Audio Compression
+
+        * Completely lossless audio compression software
+        * 2x - 3x better compression than PKzip(tm) on audio
+        * 4x - 5x faster than PKzip(tm) on audio
+        * 1.5:1 to 3:1 average compression ratios on audio
+        * Compression speed is 8x - 12x faster than real-time
+            on 16-bit, 44.1 ksamp/sec audio (100 MHz Pentium)
+        * Sample-accurate editing of compressed files
+        * Lossy mode for higher compression ratios
+        * C object code (MS Visual C++) or source code license 
+        * DSP object or source code license (Motorola, TI DSPs)
+        * Low-MIPS algorithm suitable for FPGAs or ASICs
+        * Free PC demo app available from our Web site!
+
+1.0  Introduction
+
+Soundspace Audio introduces MUSICompress(tm) - a fast, lossless audio compression algorithm
+intended for high-quality audio applications.  MUSICompress implements a patent-pending algorithm
+which losslessly compresses audio much more effectively and more quickly than alternative,
+Lempel-Ziv data compression algorithms. MUSICompress returns a bit-for-bit identical copy of
+your original digital audio recording after decom-pression.  And MUSICompress is fast! 
+MUSICompress files can be cued (played with random offset) and edited with sample accuracy
+in their compressed format.  Finally, MUSICompress' lossy mode offers better compression ratios
+with user-specified quality.
+
+
+2.0  Audio Compression Alternatives
+
+Computer users have regularly been using file-based data compression utilities like PKzip to compress
+all kinds of computer files.  Such utilities are only marginally effective on audio files, since their
+compression algorithms were developed for text, spreadsheet, and database files. A .zip file can't be
+played back before decom-pression, and it can't be cued or edited. Lossy audio compression algorithms
+like MPEG, Dolby AC-3, and RealAudio suffer from two drawbacks.  First, they can require lots of
+MIPS or dedicated hardware to compress your audio files.  Secondly, they don't give you back your
+original audio.  The audio you get after a compression-decompression pass is NOT the same as the
+audio you put in, because these algorithms are lossy.  They use psychoacoustic principles to remove
+bits you may not miss.  But we believe that many customers actually want all of their original bits.
+
+3.0  MUSICompress (TM)
+
+Soundspace Audio's MUSICompress algorithm is targeted for audio applications where audio quality
+is paramount.   MUSICompress was specifically designed to remove the redundancies present in
+digital audio or other sampled data signals while perfectly preserving the original waveform, bit for bit.
+MUSICompress achieves high compression ratios, typically at least 2:1, often as much as 4:1, using
+your 8-bit or 16-bit, mono or stereo digital audio source material as input. MUSICompress processing
+is fast, many times faster than playback time.  Finally, MUSICompress files can be cued and edited
+with sample accuracy in their compressed format.
+
+4.0  Example Compression Ratios
+                
+Cut #   Title or Type   Original Size   PKzip size (MB) MC size (MB)    MC advantage
+        of Audio                (MB)            (% saved)       (% saved)
+1       Sine wave       8.74            6.04 (30.9%)    3.34 (61.8%)    2.00
+2       Pink noise      4.02            2.75 (31.6%)    2.13 (47.0%)    1.49
+3       Mozart strings  6.87            5.46 (20.5%)    2.83 (58.8%)    2.87
+4       Peg, Steely Dan 20.98           18.81 (10.3%)   13.37 (36.3%)   3.51
+5       Spring, Vivaldi 19.23           16.38 (14.8%)   11.54 (40.0%)   2.70
+6       Lithium Sunset,
+        Sting           20.01           18.79 (6.1%)    14.06 (29.7%)   4.88
+7       Solo piano,
+        P. Aaberg       18.58           13.82 (25.6%)   5.77 (68.9%)    2.69
+8       Sade, Kenny G   22.98           19.91 (13.4%)   14.22 (38.1%)   2.85
+9       I Can't Dance,
+        Genesis         21.26           19.14 (10.0%)   13.57 (36.2%)   3.63
+10      Only Wanna...,
+        Hootie          19.99           19.18 (4.1%)    15.86 (20.7%)   5.10
+
+SUMMARY         162.66          140.28 (13.8%)  96.69 (40.6%)   2.95
+
+5.0 Example Compression Times (on a 100 MHz Pentium)
+
+Cut #   Title or Type   Cut Length      PKzip time      MC time         MC advantage
+        of Audio                (sec)           (sec, x faster  (sec, x faster
+                                        than real-time) than real-time)
+1       Sine wave       102             49 (2.08)       11 (9.27)       4.45
+2       Pink noise      49              23 (2.13)         5 (9.80)      4.60
+3       Mozart strings  82              48 (1.71)         9 (9.11)      5.33
+4       Peg, Steely Dan 238             145 (1.64)      32 (7.44)       4.53
+5       Spring, Vivaldi 215             136 (1.58)      27 (7.96)       5.04
+6       Lithium Sunset,
+        Sting           158             94 (1.68)       21 (7.52)       4.48
+7       Solo piano,
+        P. Aaberg       211             127 (1.66)      23 (9.17)       5.52
+8       Sade, Kenny G   260             161 (1.61)      36 (7.22)       4.47
+9       I Can't Dance,
+        Genesis         241             151 (1.60)      32 (7.53)       4.72
+10      Only Wanna...,
+        Hootie          226             147 (1.54)      32 (7.06)       4.59
+
+SUMMARY         1782            1081 (1.65)     228 (7.82)      4.74
+
+6.0  Products
+
+Product                 Description                                     Price
+---------                       --------------                                  ------
+PC Demo Software:       Runs under Windows 3.1, Win95, and              Free
+                        WinNT.  Uses any .WAV file as input.            (under NDA)
+                        (available under non-disclosure agreement)
+
+C Object or Source      Object A: MSVC version 4.x (32-bit .lib)                Call for quote
+                        Object B: MSVC version 1.52 (16-bit .lib)
+                        C Source code is fully ANSI standard.
+
+DSP Object or Source    Platforms: Motorola 56xxx, TI 'C2x, 'C2xx               Call for quote
+(available Summer 1997)
+
+Algorithm License       For FPGA or ASIC implementations                Call for quote
+
+6.0  Soundspace Audio
+
+Soundspace Audio is a privately held business located in Sunnyvale, CA (USA).  Soundspace Audio
+was founded in September 1995 by Al Wegener, the company's president.   Mr. Wegener is a digital
+signal processing (DSP) engineer by training, with a BSEE from Bucknell University and an MSCS
+from Stanford University.  With over 15 years of DSP experience and over 5 years in the pro audio
+business, Mr. Wegener developed the MUSICompress algorithm specifically to provide a high-quality,
+low-MIPS solution for lossless and loss-limited audio compression.  A U. S. patent application for
+MUSICompress and related audio compression technologies was filed in April 1996.
+
+Copyright (c) Soundspace Audio, 1996-97. All rights reserved.  PKzip is a trademark of PKware, Inc.
+RealAudio is a trademark of Progressive Networks, Inc.  Dolby AC-3 is a trademark of Dolby Labs
+Licensing Corp.  All other  trademarks or trade names are the property of their respective holders. 
+MUSICompress, MC App, and the MUSICompress logo are  trademarks of Soundspace Audio.
+
