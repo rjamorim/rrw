@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -109,10 +109,20 @@
 
         <br>
         <br>
-        Date: 2003-10-30<br>
-        Version: 37zc<br>
+        Date: 2007-01-18<br>
+        Version: 37zz (final version)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
+        Download: <a href="files/players/Apollo37zz.exe">Apollo37zz.exe</a> - 673Kb<br>
+        <i>Kindly contributed by [Jaz]</i><br>
+        <br>
+        Date: 2005-06-20<br>
+        Version: 37zp<br>
+        Download: <a href="files/players/Apollo37zp.exe">Apollo37zp.exe</a> - 676Kb<br>
+        <i>Kindly contributed by [Jaz]</i><br>
+        <br>
+        Date: 2003-10-30<br>
+        Version: 37zc<br>
         Download: <a href="files/players/Apollo37zc.exe">Apollo37zc.exe</a> - 644Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
