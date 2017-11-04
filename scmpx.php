@@ -95,8 +95,8 @@
         <a href="screens/scmpx.png" target=outside><img src="screens/scmpx.png" 
         alt="SCMPX" align=right></a>
         SCMPX is another MP3 encoder developed in Japan (together with <a href="uzura.php">
-        Uzura</a>, <a href="wingogo.php">Gogo</a>, <a href="m3e.php">M3E</a> and YunaSoft), 
-        by Shinji Chiba.<br><br>
+        Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a href="m3e.php">M3E</a>), by 
+        Shinji Chiba.<br><br>
         
         It is a dist10 encoder with several tweaks. It supports encoding, decoding and
         playback of MP1, MP2 and MP3 files (including VBR), as well as splitting MP2 
