@@ -98,7 +98,7 @@
         If you are looking for screenshots of NAD, look at <a 
         href="http://www.glop.org/nad/" target=outside>The Museum of NAD</a>.<br><br>
         
-        All files here <!--(except NAD 1.0)--> were submitted by Mitiok. Big thanks to him!<br>
+        All files here (except NAD 1.0) were submitted by Mitiok. Big thanks to him!<br>
         
         <br>
         <br>
@@ -107,13 +107,13 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/nad/christmasnaddy.zip">christmasnaddy.zip</a> - 77Kb<br>
-        <!--<br>
+        <br>
         Date: 1998-11-02<br>
         Version: 1.0 "Naddy"<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/nad/nad_1.0.zip">nad_1.0.zip</a> - 132Kb<br>
-        <i>Kindly contributed by Zachary Jelesoff</i><br>-->
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
         <br>
         Date: 1998-05-06<br>
         Version: 0.94 pre beta 3<br>

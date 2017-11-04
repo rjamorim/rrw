@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -91,8 +91,8 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>AMP MP3 decoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <!--<a href="screens/amp076.png" target=outside><img src="screens/amp076.png" 
-        alt="AMP Win32 0.76" align=right></a>-->
+        <a href="screens/gamp064.png" target=outside><img src="screens/gamp064.png" 
+        alt="G-AMP 0.64" align=right></a>
         AMP is an early, highly optimized MP2/3 player and decoder created by Tomislav 
         Uzelac.<br><br>
         
@@ -109,18 +109,13 @@
         AMP) and switched to FhG's decoder. Which turned out to be for the best, since it is
         a more accurate decoder - AMP got some of its speed at the expense of accuracy.<br><br>
         
-        I am only hosting sources here, so it would be very welcome if people could contribute 
-        binaries and maybe other versions.<br>
-        
-        <!--I am also hosting here two minimalistic players based on AMP for the Windows platform.
+        I am also hosting here two minimalistic players based on AMP for the Windows platform.
         Both were developed by Gouta Ilyes and are little more than a demonstration of AMP's
         playback capabilities - they have minimal interface and functionality. Also, they seem
         to be terribly buggy, as they severely mangled my sample MP3 files when playing them
         back. Maybe I somehow set them up (?) incorrectly? Maybe they just are not meant to 
         work on Windows XP (my testing ground)? Mysteries...<br>
 
-        <a href="screens/gamp064.png" target=outside><img src="screens/gamp064.png" 
-        alt="G-AMP 0.64" align=right></a>-->
         <br>
         <br>
         Date: 1997-08<br>
@@ -129,7 +124,9 @@
         Platform: Source code<br>
         Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98Kb<br>
         <i>Kindly contributed by Martin Guy.</i><br>
-        <!--<br>
+        <br>
+        <a href="screens/amp076.png" target=outside><img src="screens/amp076.png" 
+        alt="AMP Win32 0.76" align=right></a>
         Date: 2003-07-19<br>
         Version: 0.6.4<br>
         Interface: Graphical<br>
@@ -142,8 +139,8 @@
         Interface: Graphical<br>
         Platform: Win32 + Source code<br>
         Download: <a href="files/players/ampv0.7.6-win32.zip">ampv0.7.6-win32.zip</a> - 128Kb<br>
-        <i>Kindly contributed by Zachary Jelesoff.</i><br>-->
-
+        <i>Kindly contributed by Zachary Jelesoff.</i><br>
+        
         </blockquote></font>
 
         <br><br>

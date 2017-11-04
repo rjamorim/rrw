@@ -60,9 +60,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1300 src="dot.gif">
+<img width=1 height=1500 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -97,7 +97,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2017-10-21 <br><br>
+<br><br><br>Last update: 2017-11-04 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -140,17 +140,22 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <br><div align="justify"><b> 2017-11-: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Several updates</b></font><p>
+              <font face="Tahoma" size=2 color="black"><b>Lossless compressors and MP3 encoders</b></font><p>
                   This update is just that... updates:
                   <ul>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
+                    <li>Sound Limit MP3 encoder</li>
+                    <li>YunaSoft MP3 Encoder (actually a FhG ACM codec frontend)</li>
+                    <li>Some Blade versions that I found lying around in my HDDs</li>
+                    <li>Also, an 8hz-mp3 version of the same origin</li>
+                    <li>Ditto for another SoloH version</li>
                   </ul>
              </blockquote></font>-->
              
         
-            <!--<font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-: </b></div><p>
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-04: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>GitHub and new goodies</b></font><p>
@@ -158,17 +163,21 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
                   
-                  Of course, feel free to submit pull requests... ;-) <br><br>
+                  Of course, feel free to submit pull requests... ;-)<br><br>
 
-                  And these are the updates, this time around  focused on music players:
+                  And these are the updates, this time around focused on players:
                   <ul>
                     <li>iMPload complete MP3pro music player/ripper/manager</li>
                     <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
                     <li>More versions of Apollo contributed by [JAZ]</li>
                     <li>NAD MP3 player v1.0 (thanks to Zachary Jelesoff)</li>
                     <li>Two AMP-based MP3 players for Win32 (thanks to Zachary Jelesoff)</li>
+                    <li>MP3 to EXE, which converts MP3 files into standalone players</li>
                   </ul>
-             </blockquote></font>-->
+                  
+                  I'm interested in filling up the Apollo page with more versions.  If you have them lying
+                  around, please get in touch! (check the About page)
+             </blockquote></font>
         
         
             <font face="Verdana" size=2 color="6699CC">

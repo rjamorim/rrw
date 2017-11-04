@@ -194,14 +194,14 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=amp.php>AMP MP3 player</a><br>
                 <a href=apollo.php>Apollo player</a><br>
-                <!--<a href=dicevqf.php>Dice VQF Player</a><br>-->
+                <a href=dicevqf.php>Dice VQF Player</a><br>
                 <a href=digideck.php>DigiDeck MP3 player</a><br>
                 <a href=macplay3.php>FhG IIS MacPlay3</a><br>
                 <a href=winplay3.php>FhG IIS WinPlay3</a><br>
                 <a href=foobar2000.php>Foobar2000</a><br>
-                <!--<a href=impload.php>iMPload complete MP3pro</a><br>-->
+                <a href=impload.php>iMPload complete MP3pro</a><br>
                 <a href=k-jofol.php>K-J&ouml;fol player</a><br>
-                <!--<a href=mp3toexe.php>MP3 to EXE</a><br>-->
+                <a href=mp3toexe.php>MP3 to EXE</a><br>
                 <a href=musearc.php>Musearc player</a><br>
                 <a href=nad.php>NAD player</a><br>
                 <a href=dosamp.php>Nullsoft DOSamp MP3 player</a><br>

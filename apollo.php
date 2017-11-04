@@ -115,7 +115,7 @@
         Platform: Win32<br>
         Download: <a href="files/players/Apollo37zc.exe">Apollo37zc.exe</a> - 644Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
-        <!--<br>
+        <br>
         Date: 2003-08-06<br>
         Version: 37v<br>
         Download: <a href="files/players/Apollo37v.exe">Apollo37v.exe</a> - 636Kb<br>
@@ -129,7 +129,7 @@
         Date: 2002-06-12<br>
         Version: 37k<br>
         Download: <a href="files/players/Apollo37k.exe">Apollo37k.exe</a> - 584Kb<br>
-        <i>Kindly contributed by [Jaz]</i><br>-->
+        <i>Kindly contributed by [Jaz]</i><br>
 
         </blockquote></font>
 
