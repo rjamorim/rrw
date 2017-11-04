@@ -105,8 +105,8 @@
         at their web site to obtain a registration key. Without that key, the 
         program encodes no more than 30 seconds of audio for each file.<br><br>
         
-        The registration form at the website has been gone for years, so I am
-        providing here a key found at a serial numbers website:<br>
+        The registration form and the website have been gone for years, so I am
+        providing here a key found at a serial numbers site:<br>
         <b>Mail address:</b> <i>UCF@UCF.com</i><br>
         <b>Registration key:</b> <i>EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh</i><br>
         The registration interface can be reached within the File menu.<br><br>
@@ -123,6 +123,7 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/wav2mp307.exe">wav2mp307.exe</a> - 821Kb<br>
         <br>
+        <img src="img/yunasoft-certified-quality.gif" alt="CERTIFIED!!!!" align=right>
         Date: 1997-10-11<br>
         Version: 0.4.3e<br>
         Interface: Graphical<br>
