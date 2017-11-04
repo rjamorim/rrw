@@ -121,6 +121,7 @@
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>    
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>
                 <a href=xing.php>Xing/Helix MP3 encoder</a><br>
+                <!--<a href=yunasoft.php>YunaSoft MP3 encoder</a><br>-->
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
