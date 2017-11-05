@@ -144,7 +144,7 @@
         <br>
         Date: 1998-07-06<br>
         Version: 0.60<br>
-        Download: <a href="files/blade/blade060.zip">blade072.zip</a> - 108Kb<br>
+        Download: <a href="files/blade/blade060.zip">blade060.zip</a> - 108Kb<br>
         <br>-->
         <hr>
         Date: 2001-01-22<br>

@@ -122,7 +122,7 @@
         <br>
         Date: 1997-12-05<br>
         Version: 2.72<br>
-        Interface: Command line<br>
+        Interface: Command line (also Windows fronted)<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc272.zip">l3enc272.zip</a> - 564Kb<br>
         <br>
@@ -146,7 +146,7 @@
         Version: 2.71<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc271.zip">l3enc271.zip</a> - 294Kb<br>
+        Download: <a href="files/fhg/l3enc271.zip">l3enc271.zip</a> - 295Kb<br>
         <br>
         <br>
         Date: 1996-11-07<br>
@@ -183,7 +183,7 @@
         Version: 1.50<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc150.zip">l3enc150.zip</a> - 1011Kb<br>
+        Download: <a href="files/fhg/l3enc150.zip">l3enc150.zip</a> - 240Kb<br>
         <br>
         <br>
         Date: 1994-07-13<br>

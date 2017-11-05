@@ -121,7 +121,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/xing/mp32wav.zip">mp32wav.zip</a> - 302Kb<br>
-        <i>Submitted by Mitiok</i><br>
+        <i>Kindly submitted by Mitiok</i><br>
 
         </blockquote></font>
 
