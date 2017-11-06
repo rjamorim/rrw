@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,7 +99,7 @@
         It offers several features related to tagging and whether to save output
         as WAV-wrapped MP3 streams or standard MP3 files.<br><br>
         
-        The main differences between versions 0.7 and 0.4.3e hosted here is that 0.7
+        The main differences between versions 0.4.3e and 0.7 hosted here are that 0.7
         supports batch encoding and stripping the RIFF headers from WAV files. But 
         starting with 0.7, YunaSoft required that users register for free at their 
         web site to obtain a registration key. Without that key, the program encodes 
