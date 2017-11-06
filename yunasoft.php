@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -101,15 +101,16 @@
         
         The main differences between versions 0.7 and 0.4.3e hosted here is that 0.7
         supports batch encoding and stripping the RIFF headers from WAV files. But 
-        starting with 0.7, YunaSoft started requiring that users register for free
-        at their web site to obtain a registration key. Without that key, the 
-        program encodes no more than 30 seconds of audio for each file.<br><br>
+        starting with 0.7, YunaSoft required that users register for free at their 
+        web site to obtain a registration key. Without that key, the program encodes 
+        no more than 30 seconds of audio for each file.<br><br>
         
         The registration form and the website have been gone for years, so I am
-        providing here a key found at a serial numbers site:<br>
-        <b>Mail address:</b> <i>UCF@UCF.com</i><br>
-        <b>Registration key:</b> <i>EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh</i><br>
-        The registration interface can be reached within the File menu.<br><br>
+        providing here a key found at a "serial numbers" site:<br>
+        <b>Mail address:</b> UCF@UCF.com<br>
+        <b>Registration key:</b> EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh<br>
+        <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br>
+        The registration window can be reached in File menu.<br><br>
         
         A mirror of the YunaSoft webpage can be seen <a 
         href="https://web.archive.org/web/19981212034259/http://www.yunasoft.gr.jp/"
