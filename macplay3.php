@@ -101,8 +101,8 @@
         decoding, since the 68k CPU is not powerful enough to playback MP3 in real time. 
         Besides, it is a demo version that has no interface (all commands are done through
         the menu bar, similar to Winamp 0.2) and decoding is limited to 20 seconds. Version 
-        1.4b2 only works on PowerPC machines, but it has an actual interface and no 
-        limitations.<br><br>
+        1.4b2 was the last version developed by FhG and only works on PowerPC machines, 
+        but it has an actual interface and no limitations.<br><br>
         
         At least, version 0.99 had a great installation blurb...<br>
         
