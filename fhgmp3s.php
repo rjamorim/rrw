@@ -160,7 +160,7 @@
         Version: 4.0.0 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/mp3splayerv400.exe">mp3splayerv400.exe</a> - 2.973Kb<br>
+        Download: <a href="files/fhg/MP3sPlayerv400.exe">MP3sPlayerv400.exe</a> - 2.973Kb<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         <!--Date: 2009-01-20<br>
