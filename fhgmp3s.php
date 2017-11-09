@@ -110,14 +110,12 @@
         normal decoders can decode the standard stereo track, providing backwards 
         compatibility.<br><br>
         
-        <a href="screens/fhgmp3s-enc.png" target=outside><img src="screens/fhgmp3s-enc.png" 
-        alt="MP3S Encoder" align=right></a>
         The encoders only accept 5.1 wav files. Also, it is worth mentioning that 
         the GUI encoder expires on 2007-12-31, so set your PC clock to before that 
         date if you want to use it. You can also use the command line encoders (for 
         Windows, Linux and MacOS X) which, as far as I can tell, do not expire.<br><br>
         
-        I am also hosting here the MP3SX Converter, a tool that takes stereo MP3 files 
+        I am also hosting here the MP3 SX Converter, a tool that takes stereo MP3 files 
         and attempts to add surround sound information to them. Reviews around the 
         Internet say it is not really good.<br><br>
         
@@ -126,44 +124,97 @@
         you can check their pages, with technical information and marketing blurbs, <a
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com:80/" 
         target=outside>here</a> and <a href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de:80/amm/download/mp3surround/index.html"
-        target=outside>here</a>.<br><br>
+        target=outside>here</a>.<br>
         
-        <i>Big thanks to Zachary Jelesoff for sending me most of the files here.</i><br>
-
         <br>
         <br>
+        <a href="screens/fhgmp3s-enc.png" target=outside><img src="screens/fhgmp3s-enc.png" 
+        alt="MP3S Encoder" align=right></a>
+        <!--Date: 2008-01-17<br>
+        Version: 1.1.5 (encoder)<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.exe">MP3sGuiEnc_v1.1.5.exe</a> - 2.112Kb<br>
         <br>
-        <a href="screens/fhgmp3s-mp3sx.png" target=outside><img src="screens/fhgmp3s-mp3sx.png" 
-        alt="MP3SX Converter" align=right></a>
+        Date: 2008-01-17<br>
+        Version: 1.1.5 (encoder)<br>
+        Interface: Graphical<br>
+        Platform: MacOS X (universal)<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.dmg">MP3sGuiEnc_v1.1.5.dmg</a> - 5.874Kb<br>
+        <br>-->
         Date: 2007-05-25<br>
         Version: 1.1.4 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.exe">MP3sGuiEnc_v1.1.4.exe</a> - 2.418Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
+        <!--Date: 2007-05-25<br>
+        Version: 1.1.4 (encoder)<br>
+        Interface: Graphical<br>
+        Platform: MacOS X (universal)<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.dmg">MP3sGuiEnc_v1.1.4.dmg</a> - 6.481Kb<br>
+        <br>
+        <hr>-->
         Date: 2010-02-04<br>
         Version: 4.0.0 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/fhg/mp3splayerv400.exe">mp3splayerv400.exe</a> - 2.973Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
+        <!--Date: 2009-01-20<br>
+        Version: 3.0.2 (player)<br>
+        Interface: Graphical<br>
+        Platform: MacOS X (universal)<br>
+        Download: <a href="files/fhg/MP3sPlayer3.0.2.dmg">MP3sPlayer3.0.2.dmg</a> - 7.360Kb<br>
+        <br>
+        <hr>-->
+        <a href="screens/fhgmp3s-mp3sx.png" target=outside><img src="screens/fhgmp3s-mp3sx.png" 
+        alt="MP3SX Converter" align=right></a>
         Date: 2006-04-10<br>
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2.103Kb<br>
         <br>
+        <!--Date: 2006-04-28<br>
+        Version: 1.1.0<br>
+        Interface: Graphical<br>
+        Platform: MacOS X (universal)<br>
+        Download: <a href="files/fhg/MP3SXConverter1.1.0uni.dmg">MP3SXConverter1.1.0uni.dmg</a> - 6.101Kb<br>
+        <br>
+        Date: 2006-04-13<br>
+        Version: 1.1.0<br>
+        Interface: Graphical<br>
+        Platform: Linux<br>
+        Download: <a href="files/fhg/MP3SXConverterV1.1.0.tar">MP3SXConverterV1.1.0.tar</a> - 2.660Kb<br>
+        <br>
+        <hr>-->
         Date: 2008-05-30<br>
         Version: 1.5<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
         Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2.427Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2008-05-30<br>
         Version: 1.4<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
         Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff.</i><br>
+        <!--<br>
+        <hr>
+        Date: 2006-02-07<br>
+        Version: 2.0<br>
+        Interface: Winamp plugin<br>
+        Platform: Win32<br>
+        Download: <a href="files/fhg/IIS_MP3s_Winamp_Plugin.exe">IIS_MP3s_Winamp_Plugin.exe</a> - 949Kb<br>
+        <br><br>
+        <i>I also have tools to use MP3 Surround with Shoutcast servers. If you have
+        any use for them, feel free to get in touch!</i><br>-->
+
 
         </blockquote></font>
 
