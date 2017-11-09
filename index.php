@@ -97,7 +97,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2017-11-04 <br><br>
+<br><br><br>Last update: 2017-11-25 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,7 +137,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </a>
         
             <!--<font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-: </b></div><p>
+              <br><div align="justify"><b> 2017-11-25: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Lossless compressors and MP3 encoders</b></font><p>
@@ -146,6 +146,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
                     <li>Sound Limit MP3 encoder</li>
+                    <li>Audioactive Production Studio and Player</li>
                     <li>YunaSoft MP3 Encoder (actually a FhG ACM codec frontend)</li>
                     <li>Some Blade versions that I found lying around in my HDDs</li>
                     <li>Also, an 8hz-mp3 version of the same origin</li>
