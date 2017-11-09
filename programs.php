@@ -116,7 +116,7 @@
                 <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>    
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
                 <a href=shine.php>Shine MP3 encoder</a><br>
-                <a href=soloh.php>SoloH MP1/2/3 encoder</a><br>
+                <a href=soloh.php>SoloH mpegEnc</a><br>
                 <!--<a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>-->
                 <a href=uzura.php>Uzura MP1/3 encoder</a><br>    
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>    

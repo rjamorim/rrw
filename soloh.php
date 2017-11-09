@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - SoloH MP1/2/3 encoder</TITLE>
+<TITLE>ReallyRareWares - SoloH mpegEnc</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,19 +89,19 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>SoloH MP1/2/3 encoder</b></div> <p>
+          <br><div align="justify"> <b>SoloH mpegEnc</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soloh.png" target=outside><img src="screens/soloh.png" alt="SoloH" 
-        align=right height="70%"></a>
-        SoloH is another dist10 compile, only this time with a fancy GUI instead of just
-        command line interface. Also, it works as a CD ripper. For that reason, it became 
-        pretty popular at its time.<br><br>
+        align=right height="60%"></a>
+        SoloH is another dist10 compile that encodes MP1/2/3 files, only this time with a 
+        fancy GUI instead of just a command line interface. Also, it works as a CD ripper. 
+        For that reason, it became pretty popular in its time.<br><br>
         
         But popularity comes at a price. This is another encoder that felt the wrath of 
         Fraunhofer and the developer had to remove binaries from his server.<br><br>
         
-        Besides outputting bad quality MP3s, it's very slow and buggy. Do not open the 
+        Besides outputting bad quality MP3s, it is very slow and buggy. Do not open the 
         about box, it will hang the program.<br>
         
         <br>
