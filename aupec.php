@@ -113,6 +113,12 @@
         Platform: Win32<br>
         Download: <a href="files/AUPEC_Enc.exe">AUPEC_Enc.exe</a> - 632Kb<br>
         Winamp Plugin: <a href="files/AUPEC_Plugin.exe">AUPEC_Plugin.exe</a> - 49Kb<br>
+        <br>
+        Date: 2000<br>
+        Version: g2<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/aupec-cli.zip">aupec-cli.zip</a> - 84Kb<br>
 
         </blockquote></font>
 
