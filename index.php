@@ -151,7 +151,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Some Blade versions that I found lying around in my HDDs</li>
                     <li>Also, an 8hz-mp3 version of the same origin</li>
                     <li>Ditto for another SoloH version</li>
-                    <li>Lots of new versions of MP3 Surround tools, and a Winamp plugin</li>
+                    <li>Several new versions of MP3 Surround tools, and a Winamp plugin</li>
                   </ul>
              </blockquote></font>-->
              

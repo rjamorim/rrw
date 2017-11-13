@@ -98,7 +98,7 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=lame.php>LAME Ain't an MP3 Encoder</a><br><br>
                 <a href=8hz-mp3.php>8hz-MP3 MP3 encoder</a><br>
-                <!--<a href=8hz-mp3.php>Audioactive Production Studio and Player</a><br>-->
+                <!--<a href=audioactive.php>Audioactive Production Studio and Player</a><br>-->
                 <a href=blade.php>Blade MP3 encoder</a><br>
                 <a href=cannamp3.php>CannaMP3 MP3 encoder</a><br>
                 <a href=ctmp3pro.php>Coding Technologies MP3pro encoder</a><br>
