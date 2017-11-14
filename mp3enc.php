@@ -103,8 +103,8 @@
         The MP3 page at Fraunhofer IIS is located <a href="https://www.mp3-history.com/" 
         target=outside>here</a><br><br>
         
-        The MP3enc versions available for download here are for demonstration, and the 
-        encoding is limited to 30 seconds.<br>
+        The MP3enc versions available here are for demonstration, and the encoding is 
+        limited to 30 seconds.<br>
         
         <br>
         <br>

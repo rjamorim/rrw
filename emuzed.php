@@ -92,13 +92,13 @@
           <br><div align="justify"> <b>Emuzed MP4 AAC Encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        This encoder was developed by an Indian company named Emuzed for embedded 
+        This AAC encoder was developed by an Indian company named Emuzed for embedded 
         multimedia applications.<br><br>
         
         Eventually Emuzed was bought by Flextronics, and later sold to Aricent, a
         communications company.<br><br>
         
-        I couldn't find any information about this AAC encoder at Aricent's page, but 
+        I couldn't find any information about this encoder at Aricent's page, but 
         a mirror of the former Emuzed page with some little information can be seen <a 
         href="https://web.archive.org/web/20070104221608/http://www.emuzed.com/encoders.html"
         target=outside>here</a>.<br>
