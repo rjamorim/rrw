@@ -60,9 +60,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1600 src="dot.gif">
+<img width=1 height=1650 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -152,7 +152,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>MP3 encoders</b></font><p>
-                  I decided to update several MP3 encoders this time around:
+                  I decided to upload/update several MP3 encoders this time around:
                   <ul>
                     <li>Sound Limit MP3 encoder</li>
                     <li>Audioactive Production Studio and Player</li>
