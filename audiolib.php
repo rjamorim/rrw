@@ -122,7 +122,7 @@
         Version: 1.0.005<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/audiolib-1_0.exe">audiolib-1_0.exe</a> - 2.710Kb<br>
+        Download: <a href="files/others/audiolib-1_0.exe">audiolib-1_0.exe</a> - 2.710Kb<br>
 
         </blockquote></font>
 

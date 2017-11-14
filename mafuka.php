@@ -124,7 +124,7 @@
         Version: 1.0beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mfk_install.zip">mfk_install.zip</a> - 1.418Kb<br>
+        Download: <a href="files/others/mfk_install.zip">mfk_install.zip</a> - 1.418Kb<br>
 
 
         </blockquote></font>

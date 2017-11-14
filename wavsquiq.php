@@ -110,7 +110,7 @@
         Version: 0.90 beta<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/wavsq090.zip">wavsq090.zip</a> - 9Kb<br>
+        Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9Kb<br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>
 

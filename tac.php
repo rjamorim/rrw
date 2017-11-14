@@ -127,13 +127,13 @@
         Version: 05 demo<br>
         Interface: Command Line + Frontend<br>
         Platform: Win32<br>
-        Download: <a href="files/tacdemo5.zip">tacdemo5.zip</a> - 109Kb<br>
+        Download: <a href="files/others/tacdemo5.zip">tacdemo5.zip</a> - 109Kb<br>
         <br>
         Date: 1999-11-25<br>
         Version: 04 demo<br>
         Interface: Command Line + Frontend<br>
         Platform: Win32<br>
-        Download: <a href="files/tacdemo4.zip">tacdemo4.zip</a> - 78Kb<br>
+        Download: <a href="files/others/tacdemo4.zip">tacdemo4.zip</a> - 78Kb<br>
         
         </blockquote></font>
 

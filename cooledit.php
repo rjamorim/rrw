@@ -113,7 +113,7 @@
         Version: 1.3.1<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/cool131.zip">cool131.zip</a> - 366Kb<br>
+        Download: <a href="files/others/cool131.zip">cool131.zip</a> - 366Kb<br>
 
         </blockquote></font>
 

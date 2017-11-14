@@ -121,13 +121,13 @@
         Version: R43<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/Daru.zip">Daru.zip</a> - 568Kb<br>
+        Download: <a href="files/others/Daru.zip">Daru.zip</a> - 568Kb<br>
         <br>
         Date: 2203 (!)<br>
         Version: 1.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/in_mio.zip">in_mio.zip</a> - 61Kb<br>
+        Download: <a href="files/others/in_mio.zip">in_mio.zip</a> - 61Kb<br>
         
 
         </blockquote></font>

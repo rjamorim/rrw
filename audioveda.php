@@ -125,8 +125,8 @@
         Version: 2.0 beta2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/audioveda-beta2.exe">audioveda-beta2.exe</a> - 3.856Kb<br>
-        Registry patch: <a href="files/audioveda.zip">audioveda.zip</a> - 1Kb<br>
+        Download: <a href="files/others/audioveda-beta2.exe">audioveda-beta2.exe</a> - 3.856Kb<br>
+        Registry patch: <a href="files/others/audioveda.zip">audioveda.zip</a> - 1Kb<br>
 
         </blockquote></font>
 

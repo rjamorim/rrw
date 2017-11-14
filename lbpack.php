@@ -119,7 +119,7 @@
         Version: 1.57<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
-        Download: <a href="files/lb.zip">lb.zip</a> - 154Kb<br>
+        Download: <a href="files/others/lb.zip">lb.zip</a> - 154Kb<br>
         
         </blockquote></font>
 
