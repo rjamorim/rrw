@@ -94,9 +94,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiozip.png" target=outside><img src="screens/audiozip.png" 
         alt="AudioZip" align=right height="50%"></a>
-        AudioZip has been developed at the Centre for Signal Processing, Nanyang 
-        Technological University, in Singapore, by the professor Lin Xiao. The compression
-        ratio is good, but it is quite slow.<br><br>
+        AudioZip has been developed at the Centre for Signal Processing - Nanyang 
+        Technological University, in Singapore, by professor Lin Xiao. The compression
+        ratio is good, but the compressor is quite slow.<br><br>
         
         One interesting feature of AudioZip is that there is a choice to use a password
         at compression time to "protect" the compressed file. Decompression fails
@@ -105,7 +105,7 @@
         text</a> at offset 0x06 of the compressed file... <br>
         Certainly the work of seasoned cryptographers!<br><br>
         
-        The AudioZip webpage has been mirrored <a
+        The AudioZip webpage has been mirrored by the Internet Archive <a
         href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm"
         target=outside>here</a>.<br>
         
