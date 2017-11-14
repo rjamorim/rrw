@@ -137,22 +137,32 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </a>
         
             <!--<font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-25: </b></div><p>
+              <br><div align="justify"><b> 2017-12-: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Lossless compressors and MP3 encoders</b></font><p>
-                  This update is just that... updates:
+              <font face="Tahoma" size=2 color="black"><b>Lossless compressors</b></font><p>
                   <ul>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
+                  </ul>
+             </blockquote></font>-->
+        
+            <!--<font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-25: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>MP3 encoders</b></font><p>
+                  I decided to update several MP3 encoders this time around:
+                  <ul>
                     <li>Sound Limit MP3 encoder</li>
                     <li>Audioactive Production Studio and Player</li>
                     <li>YunaSoft MP3 Encoder (actually a FhG ACM codec frontend)</li>
                     <li>Some Blade versions that I found lying around in my HDDs</li>
                     <li>Also, an 8hz-mp3 version of the same origin</li>
                     <li>Ditto for another SoloH version</li>
-                    <li>Several new versions of MP3 Surround tools, and a Winamp plugin</li>
+                    <li>Several new versions of FhG MP3 Surround tools, and a Winamp plugin</li>
                   </ul>
+                  If you have LAME versions not featured at the LAME page, please submit them!
              </blockquote></font>-->
              
         
