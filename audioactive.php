@@ -115,8 +115,8 @@
         not much more than that, but decoding quality is very good since it uses the
         FhG decoder.<br><br>
         
-        Telos stopped marketing their Audioactive producs, but you can still peek at
-        a mirror of the original web site at the Internet Archive, <a
+        Telos stopped marketing their Audioactive products, but you can still peek 
+        at a mirror of the original web site at the Internet Archive, <a
         href="https://web.archive.org/web/20020331053439/http://www.audioactive.com:80/"
         target=outside>here</a>.<br>
 
