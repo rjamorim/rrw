@@ -93,8 +93,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/winplay3v23.png" target=outside><img src="screens/winplay3v23.png" 
         alt="WinPlay3 2.3" align=right height="100%"></a>
-        WinPlay3 was created by the creators of the MP3 standard - the FhG institute. It
-        was the first real-time MP3 player.<br><br>
+        WinPlay3 was developed by the creators of the MP3 standard - the Fraunhofer 
+        Institute. It was the first real-time MP3 player.<br><br>
         
         It had few features - no playlists, no equalizer, no tagging support - but it
         did what it was meant to do. Among the options, you could set up CPU class - 
@@ -103,9 +103,8 @@
         very useful feature back in 1995 (when version 1.0 was released) since 486s
         were still common.<br><br>
         
-        The first versions (probably the 1.x series) were distributed as shareware and 
-        required a registration fee of DM 86,25 (~US$ 55,00). Later it was made 
-        freeware.<br><br>
+        The first versions (1.x series) were distributed as shareware and required a 
+        registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions were made freeware.<br><br>
         
         There are versions available for Win16 (Windows 3.x) and Win32.<br><br>
         
@@ -119,8 +118,6 @@
         Platform: Win32<br>
         Download: <a href="files/players/wp32v23b5.exe">wp32v23b5.exe</a> - 983Kb<br>
         <br>
-        <a href="screens/winplay3v1.png" target=outside><img src="screens/winplay3v1.png" 
-        alt="WinPlay3 1" align=right height="100%"></a>
         Date: 1997-05-22<br>
         Version: 2.3b5<br>
         Interface: Graphical<br>
@@ -132,6 +129,8 @@
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
         Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1.221Kb<br>
+        <a href="screens/winplay3v1.png" target=outside><img src="screens/winplay3v1.png" 
+        alt="WinPlay3 1" align=right height="100%"></a>
         <br>
         Date: 1996-03-05<br>
         Version: 1.40<br>
