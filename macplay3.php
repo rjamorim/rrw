@@ -97,12 +97,12 @@
         Mac OS Classic. It seems to have the same (few) features of its Windows counterpart.
         <br><br>
         
-        The Alpha 0.99 version works on the M68K platform, but it is only useful for 
+        The alpha 0.99 version works on the M68K platform, but it is only useful for 
         decoding, since the 68k CPU is not powerful enough to playback MP3 in real time. 
         Besides, it is a demo version that has no interface (all commands are done through
-        the menu bar, similar to Winamp 0.2) and decoding is limited to 20 seconds. Version 
-        1.4b2 was the last version developed by FhG and only works on PowerPC machines, 
-        but it has an actual interface and no limitations.<br><br>
+        the menu bar, similar to Winamp 0.2) and playback (but not decoding) is limited to
+        20 seconds. Version 1.4b2 was the last version developed by FhG and only works on 
+        PowerPC machines, but it has an actual interface and no limitations.<br><br>
         
         At least, version 0.99 had a great installation blurb...<br>
         
@@ -113,13 +113,13 @@
         Interface: Graphical<br>
         <a href="screens/macplay3v099-inst.png" target=outside><img src="screens/macplay3v099-inst.png" 
         alt="MacPlay3 v0.99 installation" align=right height="77%"></a>
-        Platform: Macintosh PPC<br>
+        Platform: MacOS Classic PPC<br>
         Download: <a href="files/players/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519Kb<br>
         <br>
-        Date: 1996<br>
+        Date: 1996-03-28<br>
         Version: 0.99 alpha<br>
         Interface: Graphical<br>
-        Platform: Macintosh 68K/PPC<br>
+        Platform: MacOS Classic 68K/PPC<br>
         Download: <a href="files/players/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168Kb<br>
         
 
