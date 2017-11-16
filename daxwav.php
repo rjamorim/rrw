@@ -109,7 +109,7 @@
         Date: 1999<br>
         Version: 1.0<br>
         Interface: Graphical<br>
-        Platform: 68k MacOS<br>
+        Platform: MacOS Classic 68K<br>
         Download: <a href="files/lossless/daxaif1.0.sit">daxaif1.0.sit</a> - 89Kb<br>
         <br>
         <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
@@ -117,7 +117,7 @@
         Date: 1999<br>
         Version: 1.1<br>
         Interface: Graphical<br>
-        Platform: 68k/PPC MacOS<br>
+        Platform: MacOS Classic 68K/PPC<br>
         Download: <a href="files/lossless/daxaif1.1.sit">daxaif1.1.sit</a> - 141Kb<br>
         
         </blockquote></font>
