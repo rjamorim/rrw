@@ -105,7 +105,7 @@
         and Telegraph, the format was standardized as MPEG4 ALS and at that time, LPAC too
         was frozen, with no further development planned.<br><br>
         
-        The LPAC webpage is mirrored at the Wayback Machine, available <a
+        The LPAC webpage is mirrored at the Internet Archive, available <a
         href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html"
         target=outside>here</a>, and the LTAC webpage is mirrored <a
         href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html"
