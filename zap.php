@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,13 +99,14 @@
         
         The compressor is a demo version and is only available for the Mac OS 
         platform, but there are freeware decompressors for Windows and Mac OS
-        (actually, adware because they continuously scroll adverts for Emagic 
-        products). To use the Windows decompressor, you need to call it from the
-        command line "unzapwin.exe file.zap".<br><br>
+        - actually, adware because they continuously scroll adverts for Emagic 
+        products. To use the Windows decompressor (it should <i>really</i> be
+        drag-n-drop), you need to call it from the command line "unzapwin.exe 
+        file.zap".<br><br>
         
         One interesting feature of Zap is that it can create self extracting 
         archives. Unfortunately, that functionality is not available in the demo
-        version.<br><br>
+        version (also, the demo will not compress files larger than 500kB).<br><br>
         
         In July 2002 Emagic was bought by Apple Computer and Zap was discontinued
         (maybe it lives on in <a href="https://en.wikipedia.org/wiki/Apple_Lossless"

@@ -94,10 +94,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         MPEGplus was a format created by the programmer Andree Buschmann. Based on 
         the MPEG layer 2 algorithms, he tweaked the format to a point that made it 
-        the best format for high bitrates.<br><br>
+        the best one for mid-high bitrates, in both speed and quality.<br><br>
         
-        The difference between SV4 and SV5 is that SV5 allows stream lenghts larger 
-        than avg. 30 minutes (a limitation in SV4).<br><br>
+        The difference between SV(Stream Version)4 and SV5 is that SV5 allows stream 
+        lenghts larger than avg. 30 minutes (a limitation in SV4).<br><br>
         
         By late 2001, the format changed name to Musepack due to potential trademark
         isues over the MPEG name. At about the same time Frank Klemm took over the 
@@ -107,12 +107,11 @@
         his participation in its development to a minimum. Even though he also released
         the codec sources, very little was done by third parties ever since.<br><br>
         
-        Now, Musepack was indeed a very remarkable codec in the early 2000s, being 
-        both very fast and delivering high audio quality. The competition was quite
-        unremarkable: Ogg Vorbis was still at the beta stage, the only serious AAC
-        implementation was <a href="aacenc.php">Psytel AAC</a>, a quite slow encoder,
-        and <a href="lame.php">LAME</a> was far from being the amazingly fast and high 
-        quality codec it is today.<br><br>
+        Now, Musepack was indeed a great codec in the late 90s and early 2000s. The 
+        competition was quite unremarkable: Ogg Vorbis was still at the beta stage, 
+        the only serious AAC implementation was <a href="aacenc.php">Psytel AAC</a>, 
+        a quite slow encoder, and <a href="lame.php">LAME</a> was far from being the 
+        amazingly fast and high quality codec it is today.<br><br>
         
         Ever since then, Vorbis reached 1.0 release status and beyond, counting on 
         aoyumi's great tuning work. There is also BlackSword's ASM optimization of 
@@ -124,10 +123,10 @@
         So, while Musepack lagged behind, competition quickly catched up. In that
         context, where Musepack is no longer the undisputed champion of quality and 
         speed, its downsides become more proeminent: near to nonexistant portable
-        player support, suboptimal seeking routines, no support for multichannel
-        streams, no hability to cut and paste streams, and so on. That led former 
-        enthusiasts to abandon the format and move on to better supported options. 
-        Today, Musepack is little more than a curiosity.<br><br>
+        player support, suboptimal seeking, no support for multichannel streams, 
+        no hability to cut and paste streams, and so on. That led former enthusiasts 
+        to abandon the format and move on to better supported options. Today, 
+        Musepack is little more than a curiosity.<br><br>
         
         The official page is available <a href="http://www.musepack.net" target=outside>
         here</a>.<br><br>

@@ -118,7 +118,7 @@
         steep, because it never became popular and the creators gave up marketing it
         after a few years. Still, you can check a mirror of its webpage at the <a 
         href="https://web.archive.org/web/20040824123836/http://www.impload.com/"
-        target=outside>Wayback Machine</a>.<br>
+        target=outside>Internet Archive</a>.<br>
 
         <br>
         <br>
