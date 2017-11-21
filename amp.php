@@ -118,9 +118,9 @@
 
         <br>
         <br>
-        Date: 1997-08<br>
+        Date: 1997-08-23<br>
         Version: 0.7.6<br>
-        Interface: -<br>
+        Interface: Command line<br>
         Platform: Source code<br>
         Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98Kb<br>
         <i>Kindly contributed by Martin Guy.</i><br>
