@@ -188,7 +188,7 @@
         Download: <a href="files/aac/psytel/fastenc.zip">fastenc.zip</a> - 95Kb<br>
         <br>
         <hr>
-        Date: 1999<br>
+        Date: 1999-03-19<br>
         Version: experimental 1.0alpha2<br>
         Interface: Command line + frontend<br>
         Platform: Win32<br>

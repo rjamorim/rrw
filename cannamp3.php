@@ -109,13 +109,13 @@
         
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-11-15<br>
         Version: 1.2.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/cannamp3.zip">cannamp3.zip</a> - 185Kb<br>
         <br>
-        Date: 1998<br>
+        Date: 1998-08-13<br>
         Version: 1.0.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>

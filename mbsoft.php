@@ -103,24 +103,24 @@
         At the end of 1999 Menno opened the sources of his apps and started the <a 
         href="http://www.audiocoding.com" target=outside>FAAC</a> (Freeware Advanced 
         Audio Coder) project. The project is still alive, and its decoder (FAAD2) is 
-        nowadays considered one of the best and fastest AAC decoders. Faac's quality is 
-        also progressing at a fast pace.<br>
+        nowadays considered one of the best and fastest AAC decoders. Faac is also
+        under constant (if slow) development.<br>
         
         <br>
         <br>
-        Date: 1999<br>
-        Version: 0.2<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbaacenc02.zip">mbaacenc02.zip</a> - 78Kb<br>
-        <br>
-        Date: 1999<br>
+        Date: 1999-05-19<br>
         Version: 0.3 (includes Audiograbber plugin)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
         Download: <a href="files/aac/mbsoft/mbaacenc03.zip">mbaacenc03.zip</a> - 202Kb<br>
         <br>
-        Date: 1999<br>
+        Date: 1999-04-16<br>
+        Version: 0.2<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/aac/mbsoft/mbaacenc02.zip">mbaacenc02.zip</a> - 78Kb<br>
+        <br>
+        Date: 1999-05-19<br>
         Version: 0.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>

@@ -128,13 +128,13 @@
         
         <br>
         <br>
-        Date: 2000-08<br>
+        Date: 2000-07-28<br>
         Version: 1.2.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/others/mvppc12.exe">mvppc12.exe</a> - 2.083Kb<br>
         <br>
-        Date: 1998<br>
+        Date: 1999-05-13<br>
         Version: 2.0<br>
         Interface: Graphical (QuickTime component)<br>
         Platform: Win32<br>

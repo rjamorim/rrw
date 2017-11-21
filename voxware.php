@@ -116,13 +116,13 @@
         
         <br>
         <br>
-        Date: 1996<br>
+        Date: 1996-08-07<br>
         Version: 2.0 (Player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/tvp20.exe">tvp20.exe</a> - 1.062Kb<br>
         <br>
-        Date: 1996<br>
+        Date: 1996-09-18<br>
         Version: 2.0.025 (Encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
@@ -130,7 +130,7 @@
         <a href="screens/toolvox-ply.png" target=outside><img src="screens/toolvox-ply.png" 
         alt="Toolvox player" align=right></a>
         <br>
-        Date: 1996<br>
+        Date: 1997-05-14<br>
         Version: 2.5 (TeleVox)<br>
         Interface: Graphical<br>
         Platform: Win32<br>

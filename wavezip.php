@@ -108,7 +108,7 @@
         
         <br>
         <br>
-        Date: 2000<br>
+        Date: 2001-08-19<br>
         Version: 3.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
@@ -127,7 +127,7 @@
         
         <br>
         <br>
-        Date: 2000<br>
+        Date: 2000-05-31<br>
         Version: 2.01<br>
         Interface: Graphical<br>
         Platform: Win32<br>

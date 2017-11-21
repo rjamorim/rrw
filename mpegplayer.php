@@ -98,15 +98,15 @@
         
         <br>
         <br>
-        Date: 1996<br>
-        Version: 1.1<br>
+        Date: 1997-02-13<br>
+        Version: 1.1 (yes, it is newer than 2.0)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/mpegplayer11.zip">mpegplayer11.zip</a> - 34Kb<br>
         <br>
         <a href="screens/mpegplayer2.png" target=outside><img src="screens/mpegplayer2.png" 
         alt="Philips MPEG Audio Player" align=right height="81%"></a>
-        Date: 1996<br>
+        Date: 1996-04-19<br>
         Version: 2.0 beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>

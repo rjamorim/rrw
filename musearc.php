@@ -107,7 +107,7 @@
         
         <br>
         <br>
-        Date: 1997-03<br>
+        Date: 1997-04-01<br>
         Version: 4.4.97.3 beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>

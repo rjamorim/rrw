@@ -104,7 +104,7 @@
         
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-10-28<br>
         Version: 1.05<br>
         Interface: Graphical<br>
         Platform: Win32<br>

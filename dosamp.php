@@ -104,7 +104,7 @@
         
         <br>
         <br>
-        Date: 1997<br>
+        Date: 1998-01-10<br>
         Version: 0.7/0.8 (the player itself does not seem to be too sure)<br>
         Interface: Command line<br>
         Platform: DOS<br>

@@ -118,7 +118,7 @@
         
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-05-19<br>
         Version: 1.0.005<br>
         Interface: Graphical<br>
         Platform: Win32<br>

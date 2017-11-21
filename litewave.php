@@ -103,7 +103,7 @@
         
         <br>
         <br>
-        Date: 2002<br>
+        Date: 2002-04-25<br>
         Version: 1.0.011<br>
         Interface: Command line<br>
         Platform: Win32<br>

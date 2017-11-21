@@ -100,25 +100,25 @@
         
         <br>
         <br>
-        Date: 1999<br>
+        Date: 1999-12-13<br>
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/lossless/daxwav32.zip">daxwav32.zip</a> - 71Kb<br>
         <br>
-        Date: 1999<br>
-        Version: 1.0<br>
-        Interface: Graphical<br>
-        Platform: MacOS Classic 68K<br>
-        Download: <a href="files/lossless/daxaif1.0.sit">daxaif1.0.sit</a> - 89Kb<br>
-        <br>
-        <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
-        alt="Daxaif" align=right height="70%"></a>
-        Date: 1999<br>
+        Date: 1999-08-21<br>
         Version: 1.1<br>
         Interface: Graphical<br>
         Platform: MacOS Classic 68K/PPC<br>
         Download: <a href="files/lossless/daxaif1.1.sit">daxaif1.1.sit</a> - 141Kb<br>
+        <br>
+        <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
+        alt="Daxaif" align=right height="70%"></a>
+        Date: 1999-02-23<br>
+        Version: 1.0<br>
+        Interface: Graphical<br>
+        Platform: MacOS Classic 68K<br>
+        Download: <a href="files/lossless/daxaif1.0.sit">daxaif1.0.sit</a> - 89Kb<br>
         
         </blockquote></font>
 

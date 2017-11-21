@@ -116,7 +116,7 @@
         <br>
         <br>
         Date: 1997<br>
-        Version: 1.57<br>
+        Version: 1.60<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
         Download: <a href="files/others/lb.zip">lb.zip</a> - 154Kb<br>

@@ -106,13 +106,13 @@
         
         <br>
         <br>
-        Date: 1998-08<br>
+        Date: 1998-08-06<br>
         Version: 1.32<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/PureWin132.exe">PureWin132.exe</a> - 1.354Kb<br>
         <br>
-        Date: 1998-08<br>
+        Date: 1998-08-06<br>
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: Win32<br>

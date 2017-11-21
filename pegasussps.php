@@ -109,7 +109,7 @@
         
         <br>
         <br>
-        Date: 1997<br>
+        Date: 1998-02-21<br>
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>

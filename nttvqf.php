@@ -129,7 +129,7 @@
         Platform: Win32<br>
         Download: <a href="files/vqf/Tvq-p215e.exe">Tvq-p215e.exe</a> - 1.793Kb<br>
         <br>
-        Date: ?<br>
+        Date: 2001-07-02<br>
         Version: 1.0<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>

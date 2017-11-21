@@ -110,7 +110,7 @@
                 
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-02-28<br>
         Version: 1.02<br>
         Interface: Graphical<br>
         Platform: Win32<br>

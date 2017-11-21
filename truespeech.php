@@ -110,7 +110,7 @@
         Platform: Win16/Win32<br>
         Download: <a href="files/vocodecs/tscnvrt1.exe">tscnvrt1.exe</a> - 81Kb<br>
         <br>
-        Date: 1996-07<br>
+        Date: 1996-08-04<br>
         Version: 3.20b (Player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>

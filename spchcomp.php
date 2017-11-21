@@ -92,15 +92,17 @@
           <br><div align="justify"> <b>Voyce Tech SpchComp</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        SpchComp is another obsure voice compression codec. The encoder and decoder come in the
-        same program, so plugins and standalone decoders are not available.<br><br>
+        <a href="screens/spchcomp.png" target=outside><img src="screens/spchcomp.png" 
+        alt="SpchComp" align=right></a>
+        SpchComp is another obsure voice compression codec. The encoder and decoder come 
+        in the same program, so plugins and standalone decoders are not available.<br><br>
         
         It allows choosing different speed/quality settings. Being a demo version, it only
         allows encoding up to 1 minute of voice data in each stream.<br>
         
         <br>
         <br>
-        Date: 1996<br>
+        Date: 1996-02-22<br>
         Version: 2.22<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>

@@ -105,7 +105,7 @@
 
         <br>
         <br>
-        Date: 2003<br>
+        Date: 2003-07-22<br>
         Version: ?<br>
         Interface: Command line<br>
         Platform: Win32<br>

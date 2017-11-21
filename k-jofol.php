@@ -116,14 +116,14 @@
         Platform: Win32<br>
         Download: <a href="files/players/kjofol2000b2.exe">kjofol2000b2.exe</a> - 1.774Kb<br>
         <br>
-        Date: 1999<br>
+        Date: 1999-01-18<br>
         Version: 0.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/kjofol051.exe">kjofol051.exe</a> - 1.391Kb<br>
         <i>Kindly contributed by Mitiok</i><br>
         <br>
-        Date: 1999<br>
+        Date: 1998-11-01<br>
         Version: 0.42<br>
         Interface: Graphical<br>
         Platform: Win32<br>

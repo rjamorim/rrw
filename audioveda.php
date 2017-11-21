@@ -121,7 +121,7 @@
         
         <br>
         <br>
-        Date: 1999<br>
+        Date: 1999-12-30<br>
         Version: 2.0 beta2<br>
         Interface: Graphical<br>
         Platform: Win32<br>

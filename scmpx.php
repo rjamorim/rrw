@@ -108,7 +108,7 @@
         
         <br>
         <br>
-        Date: 1999<br>
+        Date: 1999-08-30<br>
         Version: 1.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>

@@ -123,7 +123,7 @@
         Platform: Win32<br>
         Download: <a href="files/others/Daru.zip">Daru.zip</a> - 568Kb<br>
         <br>
-        Date: 2203 (!)<br>
+        Date: 2203 (!) (actually, 2003-11-03)<br>
         Version: 1.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>

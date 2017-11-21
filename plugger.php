@@ -103,13 +103,13 @@
         
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-09-08<br>
         Version: 0.4<br>
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/plugger.zip">plugger.zip</a> - 242Kb<br>
         <br>
-        Date: 1998<br>
+        Date: 1998-08-29<br>
         Version: 0.3<br>
         Interface: Command line<br>
         Platform: Win32<br>

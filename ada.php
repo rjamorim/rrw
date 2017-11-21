@@ -98,7 +98,7 @@
    
         <br>
         <br>
-        Date: 1999<br>
+        Date: 1999-05-06<br>
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: DOS<br>

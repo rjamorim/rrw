@@ -114,13 +114,13 @@
         
         <br>
         <br>
-        Date: 1999<br>
+        Date: 2000-03-04<br>
         Version: 0.99a<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/M3E_B099a.zip">M3E_B099a.zip</a> - 775Kb<br>
         <br>
-        Date: 1999<br>
+        Date: 2000-01-02<br>
         Version: 0.98b<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>

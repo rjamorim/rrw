@@ -110,7 +110,7 @@
         
         <br>
         <br>
-        Date: 1998<br>
+        Date: 1998-10-11<br>
         Version: 0.2 (decoder 0.1)<br>
         Interface: Command line<br>
         Platform: Win32<br>
