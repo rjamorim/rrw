@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -113,16 +113,16 @@
         Platform: Win32<br>
         Download: <a href="files/blade/blade094.zip">blade094.zip</a> - 93Kb<br>
         <br>
-        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
-        alt="BladeEnc for Mac" align=right height="80%"></a>
-        <!--Date: 2001-01-19<br>
+        Date: 2001-01-19<br>
         Version: 0.92.7<br>
         Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178Kb<br>
-        <br>-->
+        <br>
         Date: 1999-12-31<br>
         Version: 0.91<br>
         Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160Kb<br>
         <br>
+        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
+        alt="BladeEnc for Mac" align=right height="80%"></a>
         Date: 1999-07-22<br>
         Version: 0.82<br>
         Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118Kb<br>
@@ -138,14 +138,14 @@
         Download: <a href="files/blade/blade075.zip">blade075.zip</a> - 199Kb<br>
         <i>Submitted by SacRat</i><br>
         <br>
-        <!--Date: 1998-09-14<br>
+        Date: 1998-09-14<br>
         Version: 0.72<br>
         Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107Kb<br>
         <br>
         Date: 1998-07-06<br>
         Version: 0.60<br>
         Download: <a href="files/blade/blade060.zip">blade060.zip</a> - 108Kb<br>
-        <br>-->
+        <br>
         <hr>
         Date: 2001-01-22<br>
         Version: 0.92.6 (GUI v1.4)<br>

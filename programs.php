@@ -98,7 +98,7 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=lame.php>LAME Ain't an MP3 Encoder</a><br><br>
                 <a href=8hz-mp3.php>8hz-MP3 MP3 encoder</a><br>
-                <!--<a href=audioactive.php>Audioactive Production Studio and Player</a><br>-->
+                <a href=audioactive.php>Audioactive Production Studio and Player</a><br>
                 <a href=blade.php>Blade MP3 encoder</a><br>
                 <a href=cannamp3.php>CannaMP3 MP3 encoder</a><br>
                 <a href=ctmp3pro.php>Coding Technologies MP3pro encoder</a><br>
@@ -117,12 +117,12 @@
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
                 <a href=shine.php>Shine MP3 encoder</a><br>
                 <a href=soloh.php>SoloH mpegEnc</a><br>
-                <!--<a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>-->
+                <a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>
                 <a href=uzura.php>Uzura MP1/3 encoder</a><br>    
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>    
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>
                 <a href=xing.php>Xing/Helix MP3 encoder</a><br>
-                <!--<a href=yunasoft.php>YunaSoft MP3 encoder</a><br>-->
+                <a href=yunasoft.php>YunaSoft MP3 encoder</a><br>
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
@@ -137,8 +137,8 @@
                 <a href=lpac.php>LTAC/LPAC</a><br>
                 <a href=pegasussps.php>Pegasus SPS</a><br>
                 <!--<a href=rkau.php>RKau</a><br>-->
-                <a href=split2000.php>Split2000</a><br>
                 <a href=sonarc.php>Sonarc</a><br>
+                <a href=split2000.php>Split2000</a><br>
                 <a href=vocpack.php>VocPack</a><br>
                 <a href=wavarc.php>Wavarc</a><br>
                 <a href=wavpack.php>WavPack</a><br>
