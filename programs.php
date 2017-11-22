@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1750><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=1800><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>

@@ -60,7 +60,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1650 src="dot.gif">
+<img width=1 height=1900 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
@@ -97,7 +97,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2017-11-04 <br><br>
+<br><br><br>Last update: 2017-11-22 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -144,15 +144,24 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   <ul>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
+                    <li>A few extra PlusV tools</li>
                   </ul>
              </blockquote></font>-->
         
-            <!--<font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-25: </b></div><p>
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-22: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>MP3 encoders</b></font><p>
-                  I decided to upload/update several MP3 encoders this time around:
+              <font face="Tahoma" size=2 color="black"><b>File dates and MP3 encoders</b></font><p>
+                  I did some serious research these last few weeks, trying to obtain information as 
+                  accurate as possible for the dates displayed for each file (that information will
+                  come handy for some site improvements I've been planning).<br><br> 
+                  
+                  I researched release notes, readmes, zip file timestamps, and even PE timestamps,
+                  and hopefully the pages now portray as accurately as possible what was released
+                  when.<br><br>
+              
+                  Also, I decided to upload/update several MP3 encoders this time around:
                   <ul>
                     <li>Sound Limit MP3 encoder</li>
                     <li>Audioactive Production Studio and Player</li>
@@ -161,9 +170,10 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Also, an 8hz-mp3 version of the same origin</li>
                     <li>Ditto for another SoloH version</li>
                     <li>Several new versions of FhG MP3 Surround tools, and a Winamp plugin</li>
+                    <li>A new(er) version of SCMPX</li>
                   </ul>
                   If you have LAME versions not featured at the LAME page, please submit them!
-             </blockquote></font>-->
+             </blockquote></font>
              
         
             <font face="Verdana" size=2 color="6699CC">
