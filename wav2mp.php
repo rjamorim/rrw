@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Wav2mp MP2 encoder</TITLE>
+<TITLE>ReallyRareWares - Wav2mp MP1/2 encoder</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,11 +89,12 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b> Wav2mp MP2 encoder</b></div> <p>
+          <br><div align="justify"><b> Wav2mp MP1/2 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Wav2mp is an MP2 encoder that was created as an accompanying tool to avi2vcd, 
-        a program that creates VCD-compatible MPEG1 streams out of AVI files.<br>
+        Wav2mp is an MPEG audio layers 1 and 2 encoder that was created as an accompanying 
+        tool to avi2vcd, a program that creates VCD-compatible MPEG1 streams out of AVI 
+        files.<br>
         
         <br>
         <br>
