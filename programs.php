@@ -33,7 +33,7 @@
       <td bgcolor="#999999" width=119 align="center" nowrap>
       <font size="1" face="Tahoma">
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    
+
     </td>
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
@@ -45,13 +45,11 @@
 <br>
     <?php include("menu.htm") ?>
 
-
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td></td></tr>
     <tr></tr>
     <tr><td></td></tr>
-    
-    
+
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
@@ -59,7 +57,7 @@
       </table>
       </font>
       </td>
-     
+
       </tr>
     </table></td>
     <!-- Corpo principal -->
@@ -80,7 +78,7 @@
         <font face="Geneva,Verdana,Helvetica,Arial">
 
         <!-- Corpo agora -->
-        
+
         <table border="0" cellpadding="2" cellspacing="0" width="20">
           <tr bgcolor="669999"><td width="20"><img width=20 height=1 src="dot.gif"></td>
           <td><font face="Tahoma" size="4" color="black"><img src="img/programs2.gif"></font></td>
@@ -108,18 +106,18 @@
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
                 <a href=fhgmp3hd.php>FhG MP3 HD lossless encoder</a><br>
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
-                <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>    
+                <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
                 <a href=m3e.php>M3E MP3 encoder</a><br>
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
-                <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>    
+                <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
                 <a href=shine.php>Shine MP3 encoder</a><br>
                 <a href=soloh.php>SoloH mpegEnc</a><br>
                 <a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>
-                <a href=uzura.php>Uzura MP1/3 encoder</a><br>    
-                <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>    
+                <a href=uzura.php>Uzura MP1/3 encoder</a><br>
+                <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>
                 <a href=xing.php>Xing/Helix MP3 encoder</a><br>
                 <a href=yunasoft.php>YunaSoft MP3 encoder</a><br>
@@ -213,7 +211,7 @@
                 <a href=xingsound.php>XingSound MP2/XingMP3 player</a><br>
                 <a href=yamp.php>Yamp player</a><br>
             </blockquote>
-            
+
         <font face="Verdana" size=2 color="669900">
           <br><div align="justify"><b>Misc. rarities:</b></div>
             </font>
@@ -227,7 +225,6 @@
 
         <br><br>
 
-
       </font>
       </td></tr>
     </table>
@@ -237,7 +234,7 @@
     </tr>
   </table></td>
   </tr>
-</table>  
+</table>
 
 <?php include("footer.htm") ?>
 

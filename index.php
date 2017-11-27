@@ -3,7 +3,7 @@
 <HTML>
 <HEAD>
 <TITLE>ReallyRareWares</TITLE>
-<meta name="keywords" content="audio, AAC, OGG, MP3, Psytel, AACenc, Faad, Oggdec, CDex, Frontend"> 
+<meta name="keywords" content="Audio, MP3, LAME, FhG, AAC, OGG, Lossless, Musepack, VQF, Obscure, Obsolete, Museum, Player">
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -34,7 +34,7 @@
       <td bgcolor="#999999" width=119 align="center" nowrap>
       <font size="1" face="Tahoma">
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    
+
     </td>
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
@@ -55,7 +55,7 @@
     <tr><td align="center">
       <table border="0" cellpadding="0" cellspacing="0">
         <tr>
-         
+
         </tr>
       </table>
     </td></tr>
@@ -66,10 +66,10 @@
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License" style="border-width:0" 
+<img alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
-<br />All text in this website is licensed under a <a style="color: white" 
-rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative 
+<br />All text in this website is licensed under a <a style="color: white"
+rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
 Commons Attribution-ShareAlike 4.0 International License</a>
 
 <!-- /Creative Commons License -->
@@ -106,7 +106,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
       </table>
       </font>
       </td>
-     
+
       </tr>
     </table></td>
     <!-- Corpo principal -->
@@ -135,32 +135,36 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
-        
+
             <!--<font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-12-: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Lossless compressors</b></font><p>
+              <font face="Tahoma" size=2 color="black"><b>Happy holidays!</b></font><p>
                   <ul>
+                    This time around, just a simple update to wrap up 2017. Have some lovely
+                    holidays! See you all again in 2018!<br>
+
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
+                    <li>Several versions of Apollo (thanks to Thundik81)</li>
                     <li>A few extra PlusV tools</li>
                   </ul>
              </blockquote></font>-->
-        
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-11-22: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>File dates and MP3 encoders</b></font><p>
-                  I did some serious research these last few weeks, trying to obtain information as 
+                  I did some serious research these last few weeks, trying to obtain information as
                   accurate as possible for the dates displayed for each file (that information will
-                  come handy for some site improvements I've been planning).<br><br> 
-                  
+                  come handy for some site improvements I've been planning).<br><br>
+
                   I researched release notes, readmes, zip file timestamps, and even PE timestamps,
                   and hopefully the pages now portray as accurately as possible what was released
                   when.<br><br>
-              
+
                   Also, I decided to upload/update several MP3 encoders this time around:
                   <ul>
                     <li>Sound Limit MP3 encoder</li>
@@ -174,8 +178,8 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   </ul>
                   If you have LAME versions not featured at the LAME page, please submit them!
              </blockquote></font>
-             
-        
+
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-11-04: </b></div><p>
             </font>
@@ -184,7 +188,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   This is the first update where ReallyRareWares development and changes are being versioned
                   at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
-                  
+
                   Of course, feel free to submit pull requests... ;-)<br><br>
 
                   And these are the updates, this time around focused on players:
@@ -196,12 +200,12 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Two AMP-based MP3 players for Win32 (thanks to Zachary Jelesoff)</li>
                     <li>MP3 to EXE, which converts MP3 files into standalone players</li>
                   </ul>
-                  
+
                   I'm interested in filling up the Apollo page with more versions.  If you have them lying
                   around, please get in touch! (check the About page)
              </blockquote></font>
-        
-        
+
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-21: </b></div><p>
             </font>
@@ -209,7 +213,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <font face="Tahoma" size=2 color="black"><b>More screenshots and nice updates</b></font><p>
                   I added screenshots to most (all?) graphical programs in ReallyRareWares. Some are bland,
                   some are amazing, several are just horrid. Have fun perusing them!<br><br>
-                  
+
                   Besides the screenshots, these are the novelties:
                   <ul>
                     <li>A page for FhG MP3 Sourround (thanks to Zachary Jelesoff)</li>
@@ -221,18 +225,18 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   </ul>
              </blockquote></font>
 
-        
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-01: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Screenshots!</b></font><p>
                   This update includes something I have been meaning to add to RRW for years: screenshots!<br><br>
-                  
+
                   Check the pages of your favorite graphical applications (I do not see much point in adding
                   screenshots of command line applications), maybe there will be a screenshot there. I have not
                   yet uploaded screenshots for all apps, those will probably come in the next update.<br><br>
-                  
+
                   Besides the screenshots, this is what has been added/updated:
                   <ul>
                     <li>A page for the MP3 PlusV encoder (thanks to Zachary Jelesoff)</li>
@@ -243,8 +247,8 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   </ul>
                   Enjoy!
             </blockquote></font>
-        
-        
+
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-09-10: </b></div><p>
             </font>
@@ -262,75 +266,75 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   </ul>
                   Hope you enjoy the updates, and please keep those rare pieces of software coming!
             </blockquote></font>
-        
-        
+
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-09-03: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Time to get things moving again</b></font><p>
-                  After more than 10 years of inactivity, I believe it is about time to bring
+                  After more than ten years of inactivity, I believe it is about time to bring
                   ReallyRareWares back.<br><br>
-                  
+
                   I stupidly let my other domain - rjamorim.com - expire and then it got stolen
                   by one of those jolly domain squatters. That made me lose interest in the project
                   somehow. But I never stopped receiving e-mails from people asking for software
                   I used to host here, and that showed me there was still interest in old, weird
                   or just interesting pieces of audio software.<br><br>
-                  
-                  These last few weeks I did a major cleanup. Replaced dead links with archive.org 
+
+                  These last few weeks I did a major cleanup. Replaced dead links with archive.org
                   mirrors or deleted them altogether, fixed several spelling and grammar mistakes,
                   fixed visuals on some pages.<br><br>
-                  
-                  Now in the next few weeks/months, I'll go back to updating. I have a small 
-                  backlog of stuff I received from friends and contacts at HA to upload, and also 
-                  should create articles for tools that have come and gone during this time - for 
-                  instance, the FhG MP3 surround encoder and the CodingTechnologies MP3pro encoder.
+
+                  Now in the next few weeks/months, I'll go back to updating. I have a small
+                  backlog of stuff I received from friends and contacts at HA to upload, and also
+                  should create articles for tools that have come and gone during this time - for
+                  example, the FhG MP3 Surround and CodingTechnologies MP3pro encoders.
                   <br><br>
-                  
+
                   I would also like to count on you, friends and visitors, to send me software that
-                  you believe belongs here, or send corrections/additions to the articles. I'd like, 
+                  you believe belongs here, or send corrections/additions to the articles. I'd like,
                   for instance, to add the versions I missed of some of the tools available here (EAC,
                   LAME, foobar2000...)<br><br>
-                  
+
                   Thank you for your patience all those years!<br><br>
-                  
+
                   Best regards;<br><br>
-                  
+
                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roberto
             </blockquote></font>
-         
+
              <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2006-04-23: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>An update, at last!</b></font><p>
                   Lo and behold, here it is! Without further ado, I present you the Christmas (!)
-                  update to ReallyRareWares: A much improved Musepack section, reflecting the recent 
-                  removal of the same section from <a href="http://www.rarewares.org">RareWares</a>. 
-                  There are countless Musepack versions there, most of them kindly contributed by 
+                  update to ReallyRareWares: A much improved Musepack section, reflecting the recent
+                  removal of the same section from <a href="http://www.rarewares.org">RareWares</a>.
+                  There are countless Musepack versions there, most of them kindly contributed by
                   Guruboolez.<br>
             </blockquote></font>
-        
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2005-10-14: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Foobar2000 and a surprise</b></font><p>
                   I was planning to only make an update near Christmas, but so many nice dudes
-                  submitted old versions of foobar2000 that I decided to make a quick update and 
+                  submitted old versions of foobar2000 that I decided to make a quick update and
                   add a foobar page to the site.<br><br>
-                  
+
                   The collection is still far from complete, therefore, if you happen to have an old
                   version of this player not yet featured at the foobar page, please send it to
                   my e-mail address (available at the About page)<br><br>
-                  
+
                   Also, I added a hidden surprise. Look around for it, and you'll eventually find...
                   <br><br>
-                  
+
                   Until Christmas!
             </blockquote></font>
-            
+
             <br><br>
             <center>Please check older news <a href=oldnews.php>here</a>.</center>
 
@@ -345,7 +349,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
     </tr>
   </table></td>
   </tr>
-</table>  
+</table>
 
 <?php include("footer.htm") ?>
 
