@@ -96,7 +96,13 @@
         Dakx started as a Mac68k lossless audio compressor (Dakx Aif) that later got 
         ported to Windows. Compression ratio is not good but it offers some interesting 
         features, like the one that allows users to truncate the bit depth of a 
-        Wav file in real time, while it is being played.<br>
+        Wav file in real time, while it is being played.<br><br>
+        
+        Try as I might, I could not get the MacOS version to work.<br><br>
+        
+        The Dakx LLC web site can still be visited at the Internet Archive, <a 
+        href="https://web.archive.org/web/20010204020400/http://www.dakx.com/" 
+        target=outside>here</a>.<br>
         
         <br>
         <br>
