@@ -115,7 +115,7 @@
         Version: 3.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/audiozip.zip">audiozip.zip</a> - 578Kb<br>
+        Download: <a href="files/lossless/AudioZip.zip">AudioZip.zip</a> - 578Kb<br>
 
         </blockquote></font>
 

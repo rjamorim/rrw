@@ -98,10 +98,10 @@
         one, supporting playlists and displaying detailed information about the stream
         being played.<br><br>
         
-        It doesn't support tags. Interestingly, it can read ancillary data about the tracks
+        It does not support tags. Interestingly, it can read ancillary data about the tracks
         stored in 4DOS/4NT descript.ion files.<br><br>
         
-        It didn't meet success, probably because it was a quite expensive player (registration
+        It did not meet success, probably because it was a quite expensive player (registration
         cost 30 dollars) competing against alternatives that were free, more featureful and 
         prettier.<br>
         
