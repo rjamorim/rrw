@@ -104,7 +104,7 @@
         Version: 2.1i<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/sonarc.zip">sonarc.zip</a> - 71Kb<br>
+        Download: <a href="files/lossless/SonArc.zip">SonArc.zip</a> - 71Kb<br>
 
         </blockquote></font>
 
