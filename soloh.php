@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -105,12 +105,12 @@
         about box, it will hang the program.<br>
         
         <br>
-        <!--<br>
+        <br>
         Date: 1998-02-24<br>
         Version: 0.07a<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh007a.zip">soloh007a.zip</a> - 316Kb<br>-->
+        Download: <a href="files/mpeg/soloh007a.zip">soloh007a.zip</a> - 316Kb<br>
         <br>
         Date: 1998-02-23<br>
         Version: 0.07<br>
