@@ -91,6 +91,8 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Sonic Foundry SoftEncode</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
+        <a href="screens/softencode.png" target=outside><img src="screens/softencode.png" 
+        alt="Sonic Foundry SoftEncode" align=right height="50%"></a>
         SoftEncode is an AC3 encoder created and marketed by Sonic Foundry based on
         the official Dolby libraries with a pleasing and featureful interface.<br><br>
         
@@ -108,7 +110,8 @@
         192kbps for stereo streams and 448kbps for 5.1 streams. Streams are always 
         constant bitrate - there is no VBR option.<br><br>
         
-        The version hosted here is a demo. SoftEncode was very expensive - USD 995,00
+        The version hosted here is a demonstration. It allows full access to the 
+        interface, but disables AC3 encoding. SoftEncode was very expensive - USD 995,00
         for the 5.1 version and 495,00 for the stereo version - because the format was
         never meant to be encoded by end users, but by DVD authoring facilities.<br><br>
         
@@ -118,7 +121,7 @@
 
         <br>
         <br>
-        Date: 2001-01-17<br>
+        Date: 1998-01-22<br>
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
