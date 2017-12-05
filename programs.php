@@ -160,6 +160,7 @@
                 <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
                 <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
                 <a href=soundvq.php>Yamaha SoundVQ</a><br>
+                <!--<a href=softencode.php>SoftEncode AC3 encoder</a><br>-->
                 <a href=tac.php>K+K Research TAC</a><br>
                 <a href=wavsquiq.php>Arminio Grgic's WavSquiq</a><br>
             </blockquote>

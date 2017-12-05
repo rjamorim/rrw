@@ -145,6 +145,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     This time around, just a simple update to wrap up 2017. Have some lovely
                     holidays! See you all again in 2018!<br>
 
+                    <li>Sonic Foundry SoftEncode AC3 encoder</li>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
                     <li>Several versions of Apollo (thanks to Thundik81)</li>
@@ -286,7 +287,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   mirrors or deleted them altogether, fixed several spelling and grammar mistakes,
                   fixed visuals on some pages.<br><br>
 
-                  Now in the next few weeks/months, I'll go back to updating. I have a small
+                  Now in the next few weeks/months I'll go back to updating. I have a small
                   backlog of stuff I received from friends and contacts at HA to upload, and also
                   should create articles for tools that have come and gone during this time - for
                   example, the FhG MP3 Surround and CodingTechnologies MP3pro encoders.
