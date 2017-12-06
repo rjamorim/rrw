@@ -148,6 +148,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Sonic Foundry SoftEncode AC3 encoder</li>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
+                    <li>Iomega RecordIt MP2 recorder</li>
                     <li>Several versions of Apollo (thanks to Thundik81)</li>
                     <li>A few extra PlusV tools</li>
                   </ul>

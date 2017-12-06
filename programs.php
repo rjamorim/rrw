@@ -111,6 +111,7 @@
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
+                <!--<a href=recordit.php>Iomega RecordIt</a><br>-->
                 <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
                 <a href=shine.php>Shine MP3 encoder</a><br>
