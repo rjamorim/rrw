@@ -104,17 +104,17 @@
         
         <br>
         <br>
-        Date: 1993-02-03<br>
-        Version: 1.0<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/lossless/vocpak10.zip">vocpak10.zip</a> - 15Kb<br>
-        <br>
         Date: 1993-09-01<br>
         Version: 2.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/lossless/vocpak20.zip">vocpak20.zip</a> - 79Kb<br>
+        <br>
+        Date: 1993-02-03<br>
+        Version: 1.0<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lossless/vocpak10.zip">vocpak10.zip</a> - 15Kb<br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>
 
