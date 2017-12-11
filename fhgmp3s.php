@@ -120,11 +120,15 @@
         and attempts to add surround sound information to them. Reviews around the 
         Internet say it is not really good.<br><br>
         
-        Just like MP3pro, MP3 Surround failed to get any traction anywhere and was
-        quietly abandoned by FhG. But as usual, Archive.org comes to the rescue and 
-        you can check their pages, with technical information and marketing blurbs, <a
+        Just like MP3pro, MP3 Surround failed to get any traction anywhere (although,
+        surprisingly, it was supported on the <a 
+        href="http://manuals.playstation.net/document/en/ps3/current/music/filetypes.html"
+        target=outside>PlayStation 3</a>) and was quietly abandoned by FhG. But as 
+        usual, Archive.org comes to the rescue and you can check their pages, with 
+        technical information and marketing blurbs, <a
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com:80/" 
-        target=outside>here</a> and <a href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de:80/amm/download/mp3surround/index.html"
+        target=outside>here</a> and <a 
+        href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de:80/amm/download/mp3surround/index.html"
         target=outside>here</a>.<br>
         
         <br>
