@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - FhG/Technicolor MP3HD</TITLE>
+<TITLE>ReallyRareWares - FhG/Technicolor mp3HD</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,9 +89,9 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>FhG/Technicolor MP3HD</b></div><p></font>
+          <br><div align="justify"><b>FhG/Technicolor mp3HD</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        MP3HD was created by FhG and Technicolor (formerly Thomson) as a proprietary 
+        mp3HD was created by FhG and Technicolor (formerly Thomson) as a proprietary 
         extension to the MP3 format allowing lossless encoding and playback.<br><br>
         
         This trick is achieved by encoding a normal MP3 stream, and then grafting into
@@ -104,7 +104,7 @@
         hybrid mode and OptimFrog DualStream.<br><br>
         
         Just like <a href="ctmp3pro.php">MP3pro</a> and <a href="fhgmp3s.php">MP3
-        Surround</a>, MP3HD failed to become popular and was quickly abandoned by its
+        Surround</a>, mp3HD failed to become popular and was quickly abandoned by its
         creators. Fortunately, Archive.org has a mirror of the original web page, <a
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com:80/" 
         target=outside>here</a>.<br><br>

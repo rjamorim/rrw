@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - FhG MP3 surround</TITLE>
+<TITLE>ReallyRareWares - FhG MP3 Surround</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,12 +89,12 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>FhG MP3 surround</b></div><p></font>
+          <br><div align="justify"><b>FhG MP3 Surround</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/fhgmp3s-ply.png" target=outside><img src="screens/fhgmp3s-ply.png" 
         alt="MP3S Player" align=right></a>
         MP3 Surround was yet another attempt by Fraunhofer (like <a href="ctmp3pro.php">MP3pro</a>
-        and <a href="fhgmp3hd.php">MP3HD</a>) to extend the lifespan of the MP3 format 
+        and <a href="fhgmp3hd.php">mp3HD</a>) to extend the lifespan of the MP3 format 
         (and by lifespan, I mean "the period of time we can continue extracting licensing 
         fees from users")<br><br>
         
