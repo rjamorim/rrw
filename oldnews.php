@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=2700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -89,6 +89,37 @@
 
         </table>
         </a>
+
+             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2006-04-23: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>An update, at last!</b></font><p>
+                  Lo and behold, here it is! Without further ado, I present you the Christmas (!)
+                  update to ReallyRareWares: A much improved Musepack section, reflecting the recent
+                  removal of the same section from <a href="http://www.rarewares.org">RareWares</a>.
+                  There are countless Musepack versions there, most of them kindly contributed by
+                  Guruboolez.<br>
+            </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2005-10-14: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+                  <font face="Tahoma" size=2 color="black"><b>Foobar2000 and a surprise</b></font><p>
+                  I was planning to only make an update near Christmas, but so many nice dudes
+                  submitted old versions of foobar2000 that I decided to make a quick update and
+                  add a foobar page to the site.<br><br>
+
+                  The collection is still far from complete, therefore, if you happen to have an old
+                  version of this player not yet featured at the foobar page, please send it to
+                  my e-mail address (available at the About page)<br><br>
+
+                  Also, I added a hidden surprise. Look around for it, and you'll eventually find...
+                  <br><br>
+
+                  Until Christmas!
+            </blockquote></font>
         
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2005-10-08: </b></div><p>

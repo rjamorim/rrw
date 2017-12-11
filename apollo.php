@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1250><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,13 +92,14 @@
           <br><div align="justify"><b>Apollo player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/apollo.png" target=outside><img src="screens/apollo.png" 
-        alt="Apollo 37k" align=right height="45%"></a>
+        alt="Apollo 37zz" align=right height="45%"></a>
         With the slogan "Sound quality is not skinnable", Apollo is an audio player with 
         strong focus on quality - its MP3 decoder is famously one of the most mathematically
         accurate ones, if not the most accurate.<br><br>
         
-        Like in <a href="foobar2000.php">Foobar2000</a>, this focus on quality above all
-        reflects on a spartan but fast and uncluttered interface.<br><br>
+        Like with <a href="foobar2000.php">Foobar2000</a>, this focus on quality above all
+        reflects on a spartan but fast and uncluttered interface. Also, a much beloved 
+        feature of Apollo was its minibar mode, shown below.<br><br>
         
         Apollo development ended in 2007 but the web page can still be reached at <a
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
@@ -116,10 +117,57 @@
         Download: <a href="files/players/Apollo37zz.exe">Apollo37zz.exe</a> - 673Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
+        Date: 2006-10-23<br>
+        Version: 37zy<br>
+        Download: <a href="files/players/Apollo37zy.exe">Apollo37zy.exe</a> - 671Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2006-06-12<br>
+        Version: 37zx<br>
+        Download: <a href="files/players/Apollo37zx.exe">Apollo37zx.exe</a> - 672Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
+        alt="Apollo 37zz mini" align=right height="45%"></a>
+        Date: 2006-05-12<br>
+        Version: 37zw<br>
+        Download: <a href="files/players/Apollo37zw.exe">Apollo37zw.exe</a> - 672Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2006-04-11<br>
+        Version: 37zv<br>
+        Download: <a href="files/players/Apollo37zv.exe">Apollo37zv.exe</a> - 672Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2006-03-19<br>
+        Version: 37zu<br>
+        Download: <a href="files/players/Apollo37zu.exe">Apollo37zu.exe</a> - 671Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2006-03-15<br>
+        Version: 37zs<br>
+        Download: <a href="files/players/Apollo37zs.exe">Apollo37zs.exe</a> - 669Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2005-10-03<br>
+        Version: 37zq<br>
+        Download: <a href="files/players/Apollo37zq.exe">Apollo37zq.exe</a> - 677Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
         Date: 2005-06-20<br>
         Version: 37zp<br>
         Download: <a href="files/players/Apollo37zp.exe">Apollo37zp.exe</a> - 676Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
+        <br>
+        Date: 2005-05-05<br>
+        Version: 37zn<br>
+        Download: <a href="files/players/Apollo37zn.exe">Apollo37zn.exe</a> - 674Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2005-01-27<br>
+        Version: 37zl<br>
+        Download: <a href="files/players/Apollo37zl.exe">Apollo37zl.exe</a> - 673Kb<br>
+        <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2003-10-30<br>
         Version: 37zc<br>

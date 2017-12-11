@@ -60,7 +60,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1950 src="dot.gif">
+<img width=1 height=1750 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -97,7 +97,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2017-11-22 <br><br>
+<br><br><br>Last update: 2017-12-11 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -136,8 +136,8 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </table>
         </a>
 
-            <!--<font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-12-: </b></div><p>
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-12-11: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Happy holidays!</b></font><p>
@@ -152,7 +152,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Several versions of Apollo (thanks to Thundik81)</li>
                     <li>A few extra PlusV tools</li>
                   </ul>
-             </blockquote></font>-->
+             </blockquote></font>
 
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-11-22: </b></div><p>
@@ -304,37 +304,6 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   Best regards;<br><br>
 
                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roberto
-            </blockquote></font>
-
-             <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2006-04-23: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>An update, at last!</b></font><p>
-                  Lo and behold, here it is! Without further ado, I present you the Christmas (!)
-                  update to ReallyRareWares: A much improved Musepack section, reflecting the recent
-                  removal of the same section from <a href="http://www.rarewares.org">RareWares</a>.
-                  There are countless Musepack versions there, most of them kindly contributed by
-                  Guruboolez.<br>
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2005-10-14: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-                  <font face="Tahoma" size=2 color="black"><b>Foobar2000 and a surprise</b></font><p>
-                  I was planning to only make an update near Christmas, but so many nice dudes
-                  submitted old versions of foobar2000 that I decided to make a quick update and
-                  add a foobar page to the site.<br><br>
-
-                  The collection is still far from complete, therefore, if you happen to have an old
-                  version of this player not yet featured at the foobar page, please send it to
-                  my e-mail address (available at the About page)<br><br>
-
-                  Also, I added a hidden surprise. Look around for it, and you'll eventually find...
-                  <br><br>
-
-                  Until Christmas!
             </blockquote></font>
 
             <br><br>

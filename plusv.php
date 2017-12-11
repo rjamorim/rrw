@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -91,23 +91,25 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>PlusV encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        PlusV was the open source alternative to <a href="ctmp3pro.php">MP3pro</a>.
-        The encoder split wav files in two, the low frequencies were encoded with a standard
+        PlusV was the open source alternative to <a href="ctmp3pro.php">MP3pro</a>. The 
+        encoder split wav files in two, the low frequencies were encoded with a standard
         MP3 encoder (in this case, <a href="lame.php">LAME</a>) and the high frequencies
         were very efficiently encoded into a special "+V" format.<br><br>
         
         The encoded .m3v files carried both frequency ranges, and a special decoder would 
-        decode both at playback time. A standard MP3 decoder would only decode the low
+        decode both at playback time. A standard MP3 decoder would decode only the low
         frequencies, seriously impacting quality.<br><br>
-        
-        The PlusV specification can be read in <a 
-        href="https://www.mp3-tech.org/programmer/docs/plusv.pdf">this</a> PDF document
-        hosted by Gabriel Bouvigne.<br><br>
+
+        Besides the official PlusV tools, am also hosting here some additional ones 
+        developed by "gameplaya15143": an interleaver to merge mp3 + pv streams, and a 
+        modified plusv.exe with fixes and extra functionality.<br><br>
         
         Unfortunately PlusV met with even less success than MP3pro, and ended up being 
         quickly abandoned by its developers. You can still check their web page though,
         using <a href="https://web.archive.org/web/20011128233927/http://www.plusv.org:80/" 
-        target=outside>archive.org</a>.<br><br>
+        target=outside>archive.org</a>; and read the specification in <a 
+        href="https://www.mp3-tech.org/programmer/docs/plusv.pdf" target=outside>this</a> 
+        PDF document hosted by Gabriel Bouvigne.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for sending me these files and reminding me of 
         the existence of PlusV.</i><br>
@@ -131,6 +133,12 @@
         Interface: -<br>
         Platform: Source code<br>
         Download: <a href="files/mpeg/plusv-1.10-source.tar.gz">plusv-1.10-source.tar.gz</a> - 72Kb<br>
+        <br>
+        Date: 2006-05-08<br>
+        Version: GP mod<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/mpeg/plusv-tools-GP.zip">plusv-tools-GP.zip</a> - 210Kb<br>
 
         </blockquote></font>
 

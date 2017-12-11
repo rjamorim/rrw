@@ -53,7 +53,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1800><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=1900><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -104,14 +104,14 @@
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
-                <a href=fhgmp3hd.php>FhG MP3 HD lossless encoder</a><br>
+                <a href=fhgmp3hd.php>FhG mp3HD lossless encoder</a><br>
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
                 <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
                 <a href=m3e.php>M3E MP3 encoder</a><br>
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
-                <!--<a href=recordit.php>Iomega RecordIt</a><br>-->
+                <a href=recordit.php>Iomega RecordIt</a><br>
                 <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
                 <a href=shine.php>Shine MP3 encoder</a><br>
@@ -135,14 +135,14 @@
                 <a href=litewave.php>LiteWave</a><br>
                 <a href=lpac.php>LTAC/LPAC</a><br>
                 <a href=pegasussps.php>Pegasus SPS</a><br>
-                <!--<a href=rkau.php>RKau</a><br>-->
+                <a href=rkau.php>RKau</a><br>
                 <a href=sonarc.php>Sonarc</a><br>
                 <a href=split2000.php>Split2000</a><br>
                 <a href=vocpack.php>VocPack</a><br>
                 <a href=wavarc.php>Wavarc</a><br>
                 <a href=wavpack.php>WavPack</a><br>
                 <a href=wavezip.php>WaveZip/MUSICompress</a><br>
-                <!--<a href=zap.php>Emagic Zap</a><br>-->
+                <a href=zap.php>Emagic Zap</a><br>
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
@@ -161,7 +161,7 @@
                 <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
                 <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
                 <a href=soundvq.php>Yamaha SoundVQ</a><br>
-                <!--<a href=softencode.php>SoftEncode AC3 encoder</a><br>-->
+                <a href=softencode.php>SoftEncode AC3 encoder</a><br>
                 <a href=tac.php>K+K Research TAC</a><br>
                 <a href=wavsquiq.php>Arminio Grgic's WavSquiq</a><br>
             </blockquote>
