@@ -144,7 +144,8 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   <ul>
                     This time around, just a simple update to wrap up 2017. Have some lovely
                     holidays! See you all again in 2018!<br>
-
+                    
+                    These are the updates:
                     <li>Sonic Foundry SoftEncode AC3 encoder</li>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
