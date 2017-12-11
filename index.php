@@ -141,11 +141,11 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Happy holidays!</b></font><p>
-                  <ul>
-                    This time around, just a simple update to wrap up 2017. Have some lovely
-                    holidays! See you all again in 2018!<br><br>
+                  This time around, just a simple update to wrap up 2017. Have some lovely
+                  holidays! See you all again in 2018!<br><br>
                     
-                    These are the updates:<br>
+                  These are the updates:
+                  <ul>
                     <li>Sonic Foundry SoftEncode AC3 encoder</li>
                     <li>RKau lossless compressor</li>
                     <li>Emagic Zap lossless compressor</li>
