@@ -94,16 +94,16 @@
         <a href="screens/softencode.png" target=outside><img src="screens/softencode.png" 
         alt="Sonic Foundry SoftEncode" align=right height="50%"></a>
         SoftEncode is an AC3 encoder created and marketed by Sonic Foundry based on
-        the official Dolby libraries with a pleasing and featureful interface.<br><br>
+        the official Dolby libraries, with a pleasing and featureful interface.<br><br>
         
         AC3 is a compression format created by Dolby Laboratories originally to provide
         digital sound in cinemas, with the encoded track stored optically in 35mm film 
         prints.<br><br>
         
-        AC3 had its big breakthrough when it was selected as a mandatory format (next 
-        to LPCM) in the DVD standard. It single-handedly brought surround sound to 
+        The format had its big breakthrough when it was selected as a mandatory format
+        (next to LPCM) in the DVD standard. It single-handedly brought surround sound to 
         the masses - LPCM could only be stored in DVDs in stereo mode and DTS, another
-        multichannel audio alternative, was not mandatory, so only high end DVD players 
+        multichannel audio format, was not mandatory, so only high end DVD players 
         supported it.<br><br>
         
         The compression performance is similar to MP2: AC3 achieves transparency around
@@ -111,9 +111,10 @@
         constant bitrate - there is no VBR option.<br><br>
         
         The version hosted here is a demonstration. It allows full access to the 
-        interface, but disables AC3 encoding. SoftEncode was very expensive - USD 995,00
-        for the 5.1 version and 495,00 for the stereo version - because the format was
-        never meant to be encoded by end users, but by DVD authoring facilities.<br><br>
+        interface, but disables AC3 encoding. SoftEncode was very expensive - USD 
+        995,00 for the multichannel version and 495,00 for the stereo one - because 
+        the format was never meant to be encoded by end users, but by DVD authoring 
+        facilities.<br><br>
         
         The SoftEncode web page can still be seen at the Internet Archive, <a 
         href="https://web.archive.org/web/20000619113635/http://www.sonicfoundry.com:80/Products/NewShowProduct.asp?PID=12"
