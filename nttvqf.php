@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -100,7 +100,8 @@
         
         The format using the TwinVQ technology is called VQF. There are several 
         limitations in this format: 2 channels at most, no VBR, very slow encoding, 
-        little support. It can pretty safely be considered dead these days.<br><br>
+        little support, no public specifications or open source implementation. It 
+        can pretty safely be considered dead these days.<br><br>
         
         TwinVQ, on the other hand, is still alive as part of the MPEG4 audio standard,
         being used for very small bitrates (8-16kbps).<br><br>
