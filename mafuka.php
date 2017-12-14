@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,13 +98,13 @@
         a third of the file size. It seemed the obscure Dr. Keiji Mafuka had come up 
         with a real breakthrough in multimedia compression.<br><br>
         
-        Soon, people started becoming suspicious. Why did the encoder accept only 
+        But then, people started becoming suspicious. Why did the encoder accept only 
         .mp3 files, and not uncompressed .wav? Why files encoded in one computer 
-        would not play in other machines? How come noone ever heard of such 
+        would not decode in other machines? How come noone ever heard of such 
         breakthrough research going on in Japan?<br><br>
         
         Soon the truth was revealed: the Mafuka encoder was just a big prank. It 
-        took the MP3 file, divided in three parts, renamed the first part to .mfk 
+        took the MP3 file, divided it in three parts, renamed the first part to .mfk 
         and hid the other parts very well. At decoding time, the files were merged 
         together again. That is why a file encoded in one computer would not work 
         in another.<br><br>
