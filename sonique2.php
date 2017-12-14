@@ -95,41 +95,41 @@
         <a href="screens/sonique2.png" target=outside><img src="screens/sonique2.png" 
         alt="The interface of discord" align=right height="80%"></a>
         <p><i><b>Part of the following story is flawed. I'm leaving it here for humour
-        purposes. For a more truthful depiction of what really happened, read the bottom of the
-        page.</b></i></p>
+        purposes. For a more truthful depiction of what really happened, read the bottom of
+        the page.</b></i></p>
         
         Once upon a time, an alpha of Sonique 2 was leaked (note: this isn't the alpha/beta 
         that was available for a while in the the official <a href="http://sonique.lycos.com" 
         target=outside>Sonique</a> page. That beta - now dead too - was developed by the new 
-        development team. The alpha here was developed by the original team)<br><br>
+        development team. The alpha here was developed by the original team).<br><br>
         
-        I remember sonique fans were completely hysterical about this alpha. They went to
+        I remember Sonique fans were completely hysterical about this alpha. They went to
         great lenghts to shut down every site hosting it, supposedly out of fear Lycos would 
         drop development because of this high treason. The real reason, of course, is that 
         they wanted to be the only "kool boyz" to own such a rare tool and flaunter it in 
         front of helpless newbies that badly wanted it too.<br><br>
         
-        A good image of how things were dealt with those days at the Sonique forums can
-        be depicted by <a href="files/players/asl.txt" target=outside>this protest article</a>
-        that was posted at one of them<br><br>
+        A good image of how things were dealt with those days at the Sonique forums can be 
+        depicted by <a href="files/players/asl.txt" target=outside>this protest article</a>
+        that was posted at one of them.<br><br>
         
         Unfortunately for them, a copy landed in my hands. In yet another attempt to prove
         my theory that "once something appears on the Internet, no amount of effort can
-        take it down" (check the recent leakage and distribution of Windows source code 
+        take it down" (check the leakage and distribution of Windows 2000 source code 
         through peer to peer networks), I hosted it, accompanied by a very crude page, at
         my university server. And so <a href="http://www.rarewares.org" target=outside>
         RareWares</a> was born.<br><br>
         
         So, here it is for you. The rage-inducing Sonique 2 alpha in all its unfinished 
         glory. The interface is quite bloated, matter of factly, and functionality is
-        minimal. Maybe I'm not really into eye-candy overkill... If this was the future of 
-        Sonique, it's not a surprise it completely flunked.<br><br>
+        minimal. Maybe I am not really into eye-candy overkill... If this was the future 
+        of Sonique, it iss not a surprise it completely flunked.<br><br>
         
         Ah, yes. As it turns out, Lycos noticed they were just wasting money with their 
         Sonique division and decided to fire all developers. An outcry ensued, and they
         hired two new developers to continue Sonique 2 development. Soon after, though,
         they realized they owed nothing to a handful of squabbling nerds with too much
-        free time on their hands, and finally let Sonique die a (mostly) peaceful death.<br><br>
+        time on their hands, and finally let Sonique die a (mostly) peaceful death.<br><br>
         
         If you are looking for old, official versions of Sonique 1, look at <a 
         href="http://www.glop.org/sonique/" target=outside>The Museum of Sonique</a>.<br>
@@ -181,9 +181,9 @@
         confident my version is rather accurate)</p>
         
         <p>To conclude the epic Sonique tale... Tony wrote Tuniac after he left Sonique
-        (<a href="http://www.tuniac.com">http://www.tuniac.com</a>, or for a more recent 
-        compile go to 
-        <a href="http://www.wasteofcash.com/tuniac/">http://www.wasteofcash.com/tuniac/</a> )</p>
+        (<a href="http://www.tuniac.com" target=outside>http://www.tuniac.com</a>, or 
+        for a more recent compile go to <a href="http://www.wasteofcash.com/tuniac/"
+        target=outside>http://www.wasteofcash.com/tuniac/</a> )</p>
 
         <p>Currently we are lazy, and Tony believes he is now a photographer not a programmer. 
         Blur is MIA. Tuniac2 with an OpenGL GUI, SQL database, etc, etc. is like 10% done (and 
