@@ -135,6 +135,21 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <!--<font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The first update in 2018</b></font><p>
+                  Time to get things rolling in this new year!<br><br>
+                    
+                  These are the updates:
+                  <ul>
+                    <li>RealJukebox</li>
+                    <li>MpegDJ Encoder</li>
+                    <li></li>
+                  </ul>
+             </blockquote></font>-->
 
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-12-11: </b></div><p>

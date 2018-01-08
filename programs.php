@@ -106,8 +106,9 @@
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
                 <a href=fhgmp3hd.php>FhG mp3HD lossless encoder</a><br>
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
-                <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
                 <a href=m3e.php>M3E MP3 encoder</a><br>
+                <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
+                <!--<a href=mpegdj.php>MpegDJ encoder</a><br-->
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
@@ -207,6 +208,7 @@
                 <a href=nad.php>NAD player</a><br>
                 <a href=dosamp.php>Nullsoft DOSamp MP3 player</a><br>
                 <a href=mpegplayer.php>Philips MPEG Audio player</a><br>
+                <!--<a href=realjuke.php>RealJukebox</a><br>-->
                 <a href=sonique2.php>Sonique2 alpha MP3 player</a><br>
                 <a href=soundapp.php>SoundApp Mac OS Player</a><br>
                 <a href=xaudio.php>XAudio player</a><br>
