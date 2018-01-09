@@ -110,7 +110,7 @@
         target=outside>here</a>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for sending me this file and reminding me 
-        of the existence of MP3HD!</i><br>
+        of the existence of mp3HD!</i><br>
 
         <br>
         <br>

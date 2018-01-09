@@ -105,8 +105,8 @@
         file.zap".<br><br>
         
         One interesting feature of Zap is that it can create self extracting 
-        archives. Unfortunately, that functionality is not available in the demo
-        version (also, the demo will not compress files larger than 500kB).<br><br>
+        archives. Alas, that functionality is not available in the demo version 
+        (also, the demo will not compress files larger than 500kB).<br><br>
         
         In July 2002 Emagic was bought by Apple Computer and Zap was discontinued
         (maybe it lives on in <a href="https://en.wikipedia.org/wiki/Apple_Lossless"

@@ -96,9 +96,7 @@
         The famous sound card manufacturer Marian created this little lossless 
         compression app. Compression is not on par with modern compressors, yet, it
         works well.<br><br>
-        
-        This program works on Windows 3.x besides Win32.<br><br>
-        
+                
         You can still see Marian's description of the codec at the archived <a
         href="https://web.archive.org/web/20080723013102/http://www.marian.de:80/en/downloads" 
         target=outside>download page</a> (see bottom).<br>        
@@ -108,7 +106,7 @@
         Date: 1998-02-09<br>
         Version: 1.0<br>
         Interface: Graphical<br>
-        Platform: Win16/Win32<br>
+        Platform: Win16<br>
         Download: <a href="files/lossless/apac.zip">apac.zip</a> - 404Kb<br>
 
         </blockquote></font>

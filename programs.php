@@ -194,6 +194,7 @@
           <br><div align="justify"><b>Old/rare players:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
+                <!--<a href=atta2b.php>AT&amp;T a2b music</a><br>-->
                 <a href=amp.php>AMP MP3 player</a><br>
                 <a href=apollo.php>Apollo player</a><br>
                 <a href=dicevqf.php>Dice VQF Player</a><br>
