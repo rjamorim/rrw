@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - DigiDeck MP3 player</TITLE>
+<TITLE>ReallyRareWares - Digideck MP3 player</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,21 +89,25 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>DigiDeck MP3 player</b></div> <p></font>
+          <br><div align="justify"> <b>Digideck MP3 player</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/digideck.png" target=outside><img src="screens/digideck.png" 
         alt="Digideck" align=right></a>
-        During the early days of MP3, DigiDeck was the player of choice for users with 
+        During the early days of MP3, Digideck was the player of choice for users with 
         slow computers. It often featured best speeds on decoding benchmarks.<br><br>
         
         As one would expect, it avoids some calculations to increase decoder performance, 
         so decoding quality is not on par with accurate decoders.<br><br>
         
+        The decoder is very limited. It only supports 44.1kHz stereo MP3 files (and
+        complains that 48kHz files are "low quality").<br><br>
+        
         It does not have a native interface. So, whenever the program is closed, the user 
         is asked if he wants to change the skin the next time the player is loaded. I included
         two skins with the file offered here.<br><br>
         
-        It is also poor on features. No playlists, no equalizer, no tagging...<br><br>
+        It is also poor on features. No playlists, no equalizer, no tagging, no WAV file
+        playback...<br><br>
         
         Development stopped in mid-1998.<br>
         
