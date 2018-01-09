@@ -101,25 +101,28 @@
         cease-and-desist letter claiming patent violation, and immediately afterwards 
         stopped developing and distributing their encoder. <a 
         href="http://www.8hz.com/mp3/" target=outside>This</a> is what remains of 
-        8hz-MP3's official page.<br><br>
+        8hz-MP3's official page.<br>
         
-        The version 0.2b provided here is a further development by 
-        <a href="http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html" target=outside>
-        Jun Somekawa</a>.<br>
-                
         <br>
-        <br>
-        Date: 1999-04-09<br>
-        Version: 0.2b - 04J<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
-        Download: <a href="files/mpeg/8hz-mp3_02b.zip">8hz-mp3_02b.zip</a> - 100Kb<br>
         <br>
         Date: 1998-05-07<br>
         Version: 0.1.1b<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/8hz-mp3_011b.zip">8hz-mp3_011b.zip</a> - 83Kb<br>
+        <br><br>
+        
+        Version 0.2b is a further development by <a 
+        href="http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html" target=outside>
+        Jun Somekawa</a>.<br>
+        
+        <br>
+        Date: 1999-04-09<br>
+        Version: 0.2b - 04J<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/mpeg/8hz-mp3_02b.zip">8hz-mp3_02b.zip</a> - 100Kb<br>
+        
         
         </blockquote></font>
 
