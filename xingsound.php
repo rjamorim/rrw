@@ -74,7 +74,7 @@
     </table></td></tr>
       <tr><td>
         <table border="0" cellpadding="10" cellspacing="0" width="100%">
-      <tr><td width="450"></td>
+      <tr><td width="500"></td>
         <td width="20%"></td></tr>
       <tr><td>
         <font face="Geneva,Verdana,Helvetica,Arial">
@@ -92,8 +92,8 @@
           <br><div align="justify"> <b>XingSound MP2 player/XingMP3 player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
-        alt="XingMP3 Player" align=right></a>
+        <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
+        alt="XingSound" align=right></a>
         XingSound is an MP2 and WAV audio player for Win16. It is as minimalist as can get, not even
         pause is implemented. Its only functions are "Open", "Play", "Stop" and "Repeat".<br><br>
         
@@ -104,23 +104,10 @@
         available to this day in MP3 players.<br><br>
         
         Decoding quality is reasonable. For MP2 decoding, the <a href="mpegplayer.php">Philips 
-        MPEG player</a> offers higher accuracy.<br><br>
-        
-        Years later, Xing created the XingMP3 player, a companion for their <a href="xing.php">MP3
-        encoder</a> and CD ripper (AudioCatalyst). It is way more featureful and better looking
-        than its predecessor.<br>
+        MPEG player</a> offers higher accuracy.<br>
         
         <br>
         <br>
-        Date: 1999-08-06<br>
-        Version: 1.0.1<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/xing/mp3p101.exe">mp3p101.exe</a> - 2.105Kb<br>
-        <i>Installer kindly contributed by Zachary Jelesoff</i><br>
-        <br>
-        <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
-        alt="XingSound" align=right></a>
         Date: 1995-02-15<br>
         Version: ?<br>
         Interface: Graphical<br>
@@ -132,7 +119,22 @@
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
+        <br><br>
         
+        <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
+        alt="XingMP3 Player" align=right></a>
+        Years later, Xing created the XingMP3 player, a companion for their <a href="xing.php">MP3
+        encoder</a> and CD ripper (AudioCatalyst). It is way more featureful and better looking
+        than its predecessor.<br>
+        
+        <br>
+        <br>
+        Date: 1999-08-06<br>
+        Version: 1.0.1<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/xing/mp3p101.exe">mp3p101.exe</a> - 2.105Kb<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
         
         </blockquote></font>
 
