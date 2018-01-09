@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -110,11 +110,7 @@
         256kbps (but not 320 and 224, for some reason) and the high quality encoding
         mode (which is very slow), but it cost a whopping 149,95 dollars plus 
         shipping!<br><br>
-        
-        Audioactive also created a freeware MP3 player. It has a playlist editor and
-        not much more than that, but decoding quality is very good since it uses the
-        FhG decoder.<br><br>
-        
+
         Telos stopped marketing their Audioactive products, but you can still peek 
         at a mirror of the original web site at the Internet Archive, <a
         href="https://web.archive.org/web/20020331053439/http://www.audioactive.com:80/"
@@ -128,14 +124,20 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/aaps204.zip">aaps204.zip</a> - 2.822Kb<br>
         <br>
-        <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
-        alt="Audioactive Player" align=right></a>
         Date: 1998-06-13<br>
         Version: 1.05e<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/aaps105e.exe">aaps105e.exe</a> - 1.865Kb<br>
-        <br>
+        <br><br>
+        
+        <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
+        alt="Audioactive Player" align=right></a>
+        Audioactive also created a freeware MP3 player. It has a playlist editor and
+        not much more than that, but decoding quality is very good since it uses the
+        FhG decoder.<br>
+        
+        <br>   
         Date: 2000-07-07<br>
         Version: 2.06c (player)<br>
         Interface: Graphical<br>
