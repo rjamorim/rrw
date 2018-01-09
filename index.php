@@ -203,7 +203,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <br><div align="justify"><b> 2017-11-04: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>GitHub and new goodies</b></font><p>
+              <font face="Tahoma" size=2 color="black"><b>GitHub and players</b></font><p>
                   This is the first update where ReallyRareWares development and changes are being versioned
                   at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
@@ -236,7 +236,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   Besides the screenshots, these are the novelties:
                   <ul>
                     <li>A page for FhG MP3 Sourround (thanks to Zachary Jelesoff)</li>
-                    <li>A page for FhG MP3HD hybrid compressor (thanks to Zachary Jelesoff)</li>
+                    <li>A page for FhG mp3HD hybrid compressor (thanks to Zachary Jelesoff)</li>
                     <li>A page for the super obscure ALF2 CD codec (thanks to Zachary Jelesoff)</li>
                     <li>Lots of old Foobar2000 versions (thanks to Thundik81)</li>
                     <li>SoundApp player and converter for classic Mac OS</li>
