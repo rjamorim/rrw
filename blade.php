@@ -97,8 +97,8 @@
         (around 192 and 256kbps)<br><br>
         
         Development officially ceased on 2002-08-11, although by then an year had 
-        already passed since the last update. The developer recommended users to 
-        switch to Ogg Vorbis.<br><br>
+        already passed since the last update. The developer recommended users switch 
+        to Ogg Vorbis.<br><br>
         
         A mirror of the official page is available at <a 
         href="https://web.archive.org/web/20060810025048/http://bladeenc.mp3.no:80/" 
