@@ -111,7 +111,7 @@
         competition was quite unremarkable: Ogg Vorbis was still at the beta stage, 
         the only serious AAC implementation was <a href="aacenc.php">Psytel AAC</a>, 
         a quite slow encoder, and <a href="lame.php">LAME</a> was far from being the 
-        amazingly fast and high quality codec it is today.<br><br>
+        amazingly fast and high quality encoder it is today.<br><br>
         
         Ever since then, Vorbis reached 1.0 release status and beyond, counting on 
         aoyumi's great tuning work. There is also BlackSword's ASM optimization of 
