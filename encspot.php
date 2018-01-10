@@ -101,9 +101,9 @@
         (improved at the time - the current version of mp3guessenc, that is still
         being developed, is much more advanced that Encspot ever was).<br><br>
         
-        The main feature of Encspot is trying to guess which encoder was used to
-        encode an MP3 stream. To do that, it analyzes tags and usage of MP3
-        features that tend to be typical of one encoder or another.<br><br>
+        The main feature is trying to guess which encoder was used to encode an 
+        MP3 file. To do that, it analyzes tags and usage of MP3 features that tend 
+        to be typical of one encoder or another.<br><br>
         
         Besides that, it offers advanced analysis features such as bitrate distribution
         graphs, frame statistics, bit reservoir usage and other detailed information
@@ -117,8 +117,8 @@
         Around mid-2005 Encspot stopped being developed and in late 2006 Jon decided 
         to give away the Pro version license <a 
         href="http://web.archive.org/web/20080214225807/http://www.guerillasoft.co.uk:80/encspot/encspotprolicense.txt" 
-        target=outside>for free</a>. The web site is gone, but you can find a mirror
-        of it at the <a 
+        target=outside>for free</a> (also included in the download files). The web 
+        site is gone, but you can find a mirror of it at the <a 
         href="http://web.archive.org/web/20080218014539/http://www.guerillasoft.co.uk:80/encspot/index.html"
         target=outside>Internet Archive</a>.<br><br>
         
