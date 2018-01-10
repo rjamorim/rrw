@@ -147,7 +147,9 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   <ul>
                     <li>RealJukebox</li>
                     <li>MpegDJ Encoder</li>
+                    <li>EncSpot MP3 analyzer</li>
                     <li>AT&amp;T a2b music (thanks to Zachary Jelesoff)</li>
+                    <li>A few more WavPack versions (thanks to David Bryant)</li>
                     <li></li>
                   </ul>
              </blockquote></font>-->

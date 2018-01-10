@@ -224,6 +224,7 @@
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
+                <!--<a href=encspot.php>EncSpot MP3 analyzer</a><br>-->
             </blockquote>
 
         </blockquote></font>
