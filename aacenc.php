@@ -108,7 +108,7 @@
         is a compile of the reference sources with a frontend.<br><br>
         
         By mid-2002 Psytel Research and all its assets were bought by Ahead Software 
-        GmbH., makes of Nero Burning ROM, and AACenc became Nero AAC Encoder. You can 
+        GmbH., makers of Nero Burning ROM, and AACenc became Nero AAC Encoder. You can 
         still visit a mirror of the web site at the <a
         href="https://web.archive.org/web/20020610032644/http://www.psytel-research.co.yu:80/index.htm"
         target=outside>Internet Archive</a>.<br><br>
