@@ -91,13 +91,15 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Nullsoft DOSamp</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
+        <a href="screens/dosamp.png" target=outside><img src="screens/dosamp.png" alt="DOSamp" 
+        align=right height="60%"></a>
         DOSamp was probably the first MP3 player for DOS (l3dec was only a decoder). It was 
         created by Justin Frankel, the same developer that created the hugely popular 
-        Winamp player.<br><br>
+        <a href="http://www.winamp.com" target=outside>Winamp</a> player.<br><br>
         
         There is not much functionality. The program is called from the command line with
         the file name passed as parameter. At most the user can select downmixing and
-        sampling rate output.<br><br>
+        sampling rate output, and playback can be paused and resumed.<br><br>
         
         It uses PlayMedia's <a href="amp.php">AMP</a> decoding engine, therefore quality is 
         not on par with accurate decoders (FhG, mpg123, MAD)<br><br>
