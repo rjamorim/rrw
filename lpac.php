@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -96,19 +96,36 @@
         LTAC - Lossless Transform Audio Compression - was the first lossless codec developed
         by Tilman Liebchen while studying at Technische Universit&auml;t Berlin.<br><br>
         
+        The LTAC webpage is mirrored at the Internet Archive, <a
+        href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html"
+        target=outside>here</a>.<br>
+        
+        <br>
+        <br>
+        Date: 1998-10-05<br>
+        Version: 1.71<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/lossless/ltac98.zip">ltac98.zip</a> - 109Kb<br>
+        <br>
+        Date: 1998-06-25<br>
+        Version: 1.61<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42Kb<br>
+        <br><br>
+        
         After a while, he abandoned LTAC to focus on the development of LPAC - Lossless 
         Predictive Audio Compression - based on linear prediction, increasing compression 
         and making it faster compared to LTAC, which is based on transform coding.<br><br>
         
         Finally, LPAC was selected as the basis of the MPEG4 lossless audio standardization
-        effort. After further improvements submitted by Real Networks and Nippon Telephone
-        and Telegraph, the format was standardized as MPEG4 ALS and at that time, LPAC too
-        was frozen, with no further development planned.<br><br>
+        effort. After further improvements submitted by Real Networks and NTT, the format 
+        was standardized as MPEG4 ALS and at that time LPAC too was frozen, with no further 
+        development planned.<br><br>
         
         The LPAC webpage is mirrored at the Internet Archive, available <a
         href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html"
-        target=outside>here</a>, and the LTAC webpage is mirrored <a
-        href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html"
         target=outside>here</a>.<br>        
 
         <br>
@@ -130,19 +147,6 @@
         Interface: Winamp plugin<br>
         Platform: Win32<br>
         Download: <a href="files/lossless/in_lpac.exe">in_lpac.exe</a> - 47Kb<br>
-        <br>
-        <hr>
-        Date: 1998-10-05<br>
-        Version: 1.71<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/lossless/ltac98.zip">ltac98.zip</a> - 109Kb<br>
-        <br>
-        Date: 1998-06-25<br>
-        Version: 1.61<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42Kb<br>
 
         </blockquote></font>
 
