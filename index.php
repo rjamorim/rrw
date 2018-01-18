@@ -145,12 +145,12 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     
                   These are the updates:
                   <ul>
-                    <li>RealJukebox</li>
+                    <li>RealJukebox music player/manager</li>
                     <li>MpegDJ Encoder</li>
+                    <li>Ultimate [MP1/2/3] Encoder</li>
                     <li>EncSpot Pro MP3 analyzer</li>
                     <li>AT&amp;T a2b music (thanks to Zachary Jelesoff)</li>
                     <li>A few more WavPack versions (thanks to David Bryant)</li>
-                    <li>Ultimate [MP1/2/3] Encoder</li>
                   </ul>
              </blockquote></font>-->
 

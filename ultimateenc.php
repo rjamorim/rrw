@@ -93,22 +93,21 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/ultimateenc.png" target=outside><img src="screens/ultimateenc.png" 
         alt="Ultimate Encoder 1.5" align=right height="70%"></a>
-        OK, so here we have an MP1/2/3 encoder. Commercial (registration cost 49
-        dollars). Looks and sounds like little more than a dist10 compile. <a 
+        OK, so here we have an MP1/2/3 encoder and decoder. Shareware (registration 
+        cost 49 dollars). Looks and sounds like a dist10 compile. <a 
         href="screens/ultimateenc1.png" target=outside>Horrible</a> <a 
         href="screens/ultimateenc2.png" target=outside>wizard-based</a> <a 
         href="screens/ultimateenc3.png" target=outside>interface</a>. Can also 
-        decode MP1/2/3 and rip CDs. Comes from Romania.<br><br>
+        rip CDs. Comes from Romania.<br><br>
     
-        Sounds familiar?<br><br>
+        <a href="soundlimit.php">Sounds familiar?</a><br><br>
         
-        I honestly do not know the stories behind Ultimate Encoder and <a 
-        href="soundlimit.php">Sound Limit</a>, but something fishy is definitely 
-        going on. Please compare the screenshots available above and the ones at 
-        SoundLimit's page. Even some of the (ugly, unnecessary) textures are the 
-        same!<br><br>
+        I do not know the stories behind Ultimate Encoder and Sound Limit, but 
+        something fishy is definitely going on. Please compare the screenshots 
+        available above and the ones at SoundLimit's page. Even some of the (ugly, 
+        unnecessary) textures are the same!<br><br>
         
-        If you know any story, please get in <a href="about.php">touch</a>!<br><br>
+        If you know any story, please get <a href="about.php">in touch</a>!<br><br>
         
         The demo version hosted here is only valid for 30 days after installation.
         A mirror of the web page is available <a 
