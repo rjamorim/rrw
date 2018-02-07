@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -101,8 +101,8 @@
         lossy encoding (using only quantization for data reduction - no psychoacoustic 
         process was applied to the stream).<br><br>
         
-        In 1999, the developer released version 3.0, which featured novelties such as a fast 
-        mode (with reduced compression ratio), compression of RAW files and error detection.
+        In 1999 version 3.0 was released, which featured novelties such as a fast mode 
+        (with reduced compression ratio), compression of RAW files and error detection.
         <br><br>
         
         WavPack development is still going on, and a major feature added in late 3.x versions
@@ -110,13 +110,38 @@
         that both can be decompressed back to the original PCM stream, or the lossy file can be 
         decompressed alone with slight quality losses.<br><br>
         
+        With version 3.97, the sources were released under a BSD license. Before that, WavPack
+        was closed source freeware.<br><br>
+        
         WavPack 4 has been later released. It adds important features such as fast seeking, 
-        error robustness, multichannel support, etc.<br><br>
+        improved error robustness, multichannel and high resolution audio support, among 
+        others.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
-        target=outside>here</a>.<br>
+        target=outside>here</a>.<br><br>
+        
+        <i>All files here were kindly contributed by David Bryant himself.</i><br>
 
         <br>
+        <br>
+        Date: 2003-02-18<br>
+        Version: 3.97<br>
+        Interface: Command line + plugins<br>
+        Platform: Win32<br>
+        Download: <a href="files/lossless/wavpack3.97.zip">wavpack3.97.zip</a> - 177Kb<br>
+        Sources: <a href="files/lossless/wpsources.zip">wpsources.zip</a> - 94Kb<br>
+        <br>
+        Date: 2002-12-12<br>
+        Version: 3.4<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lossless/wavpck34.zip">wavpck34.zip</a> - 86Kb<br>
+        <br>
+        Date: 2000-06-11<br>
+        Version: 3.2<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lossless/wavpck32.zip">wavpck32.zip</a> - 78Kb<br>
         <br>
         Date: 1999-09-12<br>
         Version: 3.0<br>
@@ -135,7 +160,7 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/lossless/WAVPACK1.ZIP">WAVPACK1.ZIP</a> - 43Kb<br>
-                
+        
 
         </blockquote></font>
 

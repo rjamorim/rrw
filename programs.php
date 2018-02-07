@@ -108,7 +108,7 @@
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
                 <a href=m3e.php>M3E MP3 encoder</a><br>
                 <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
-                <!--<a href=mpegdj.php>MpegDJ encoder</a><br-->
+                <a href=mpegdj.php>MpegDJ encoder</a><br>
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
@@ -118,7 +118,7 @@
                 <a href=shine.php>Shine MP3 encoder</a><br>
                 <a href=soloh.php>SoloH mpegEnc</a><br>
                 <a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>
-                <!--<a href=ultimateenc.php>Ultimate [MP1/2/3] Encoder</a><br>-->
+                <a href=ultimateenc.php>Ultimate [MP1/2/3] Encoder</a><br>
                 <a href=uzura.php>Uzura MP1/3 encoder</a><br>
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>
@@ -195,7 +195,7 @@
           <br><div align="justify"><b>Old/rare players:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-                <!--<a href=atta2b.php>AT&amp;T a2b music</a><br>-->
+                <a href=atta2b.php>AT&amp;T a2b music</a><br>
                 <a href=amp.php>AMP MP3 player</a><br>
                 <a href=apollo.php>Apollo player</a><br>
                 <a href=dicevqf.php>Dice VQF Player</a><br>
@@ -210,7 +210,7 @@
                 <a href=nad.php>NAD player</a><br>
                 <a href=dosamp.php>Nullsoft DOSamp MP3 player</a><br>
                 <a href=mpegplayer.php>Philips MPEG Audio player</a><br>
-                <!--<a href=realjuke.php>RealJukebox</a><br>-->
+                <a href=realjuke.php>RealJukebox</a><br>
                 <a href=sonique2.php>Sonique2 alpha MP3 player</a><br>
                 <a href=soundapp.php>SoundApp Mac OS Player</a><br>
                 <a href=xaudio.php>XAudio player</a><br>
@@ -225,7 +225,7 @@
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
-                <!--<a href=encspot.php>EncSpot MP3 analyzer</a><br>-->
+                <a href=encspot.php>EncSpot MP3 analyzer</a><br>
             </blockquote>
 
         </blockquote></font>

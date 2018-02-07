@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=3800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -89,6 +89,105 @@
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-10-21: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>More screenshots and nice updates</b></font><p>
+                  I added screenshots to most (all?) graphical programs in ReallyRareWares. Some are bland,
+                  some are amazing, several are just horrid. Have fun perusing them!<br><br>
+
+                  Besides the screenshots, these are the novelties:
+                  <ul>
+                    <li>A page for FhG MP3 Sourround (thanks to Zachary Jelesoff)</li>
+                    <li>A page for FhG mp3HD hybrid compressor (thanks to Zachary Jelesoff)</li>
+                    <li>A page for the super obscure ALF2 CD codec (thanks to Zachary Jelesoff)</li>
+                    <li>Lots of old Foobar2000 versions (thanks to Thundik81)</li>
+                    <li>SoundApp player and converter for classic Mac OS</li>
+                    <li>LTAC/LPAC lossless compressors</li>
+                  </ul>
+             </blockquote></font>
+
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-10-01: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Screenshots!</b></font><p>
+                  This update includes something I have been meaning to add to RRW for years: screenshots!<br><br>
+
+                  Check the pages of your favorite graphical applications (I do not see much point in adding
+                  screenshots of command line applications), maybe there will be a screenshot there. I have not
+                  yet uploaded screenshots for all apps, those will probably come in the next update.<br><br>
+
+                  Besides the screenshots, this is what has been added/updated:
+                  <ul>
+                    <li>A page for the MP3 PlusV encoder (thanks to Zachary Jelesoff)</li>
+                    <li>A page for the AMP MP3 decoder - famously used in early versions of Winamp (thanks to Martin Guy)</li>
+                    <li>Apollo MP3 player (thanks to [Jaz])</li>
+                    <li>Several VQF updates: NTT player and VQF SDK, Yamaha player and another version of the encoder</li>
+                    <li>Xing MP3 player</li>
+                  </ul>
+                  Enjoy!
+            </blockquote></font>
+
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-09-10: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>First update in a loooong while</b></font><p>
+                  Here is the first real update since I decided to bring RRW back to life.
+                  This is what has been added/updated:
+                  <ul>
+                    <li>A page for CodingTechnologies MP3pro encoder</li>
+                    <li>A page for Xing MP3 encoder, including an old version and a more recent Helix version</li>
+                    <li>More recent versions of Gogo</li>
+                    <li>Emuzed MP4 encoder</li>
+                    <li>A reverse engineering document describing parts of the QDesign codec</li>
+                    <li>The rJPa MP1/2/3 decoder</li>
+                  </ul>
+                  Hope you enjoy the updates, and please keep those rare pieces of software coming!
+            </blockquote></font>
+
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-09-03: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Time to get things moving again</b></font><p>
+                  After more than ten years of inactivity, I believe it is about time to bring
+                  ReallyRareWares back.<br><br>
+
+                  I stupidly let my other domain - rjamorim.com - expire and then it got stolen
+                  by one of those jolly domain squatters. That made me lose interest in the project
+                  somewhat. But I never stopped receiving e-mails from people asking for software
+                  I used to host here, and that showed me there was still interest in old, weird
+                  or just interesting pieces of audio software.<br><br>
+
+                  These last few weeks I did a major cleanup. Replaced dead links with archive.org
+                  mirrors or deleted them altogether, fixed several spelling and grammar mistakes,
+                  fixed visuals on some pages.<br><br>
+
+                  Now in the next few weeks/months I'll go back to updating. I have a small
+                  backlog of stuff I received from friends and contacts at HA to upload, and also
+                  should create articles for tools that have come and gone during this time - for
+                  example, the FhG MP3 Surround and CodingTechnologies MP3pro encoders.
+                  <br><br>
+
+                  I would also like to count on you, friends and visitors, to send me software that
+                  you believe belongs here, or send corrections/additions to the articles. I'd like,
+                  for instance, to add the versions I missed of some of the tools available here (EAC,
+                  LAME, foobar2000...)<br><br>
+
+                  Thank you for your patience all those years!<br><br>
+
+                  Best regards;<br><br>
+
+                  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roberto
+            </blockquote></font>
+            
 
              <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2006-04-23: </b></div><p>
@@ -315,10 +414,9 @@
                   
                   Also, I count on your help to make this collection more complete.
                   If you have some very rare and old audio encoder or decoder which 
-                  isn't featured here, please drop me a 
-                  <a href="mailto:rjamorim@yahoo.com">mail</a>. Information on historical
-                  facts and corrections to the articles featured here are also very 
-                  welcome.<br><br>
+                  isn't featured here, please drop me a <a href="about.php">mail</a>.
+                  Information on historical facts and corrections to the articles 
+                  featured here are also very welcome.<br><br>
                   
                   Enjoy!<br><br>
                   

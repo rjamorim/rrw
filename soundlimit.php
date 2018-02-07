@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Sound Limit MP1/2/3 encoder</TITLE>
+<TITLE>ReallyRareWares - Sound Limit MP3 encoder</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,20 +89,23 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Sound Limit MP1/2/3 encoder</b></div><p></font>
+          <br><div align="justify"><b>Sound Limit MP3 encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundlimit.png" target=outside><img src="screens/soundlimit.png" 
         alt="Sound Limit 2.0" align=right height="70%"></a>
-        Sound Limit was a shareware MP3 encoder created in Romania by Eastern
-        Digital.<br><br>
+        Sound Limit is a shareware MP1/2/3 encoder and decoder created in Romania by 
+        Eastern Digital.<br><br>
         
         Considering its age, speed and user comments about bad quality, it seems to 
-        be little more than a dist10 compile with <a href="screens/soundlimit1.png"
+        be little more than a dist10 compile with a <a href="screens/soundlimit1.png"
         target=outside>quite</a> <a href="screens/soundlimit2.png" target=outside>
         ugly</a> <a href="screens/soundlimit3.png" target=outside>interface</a>.
         Which is all the more amazing considering registration cost 30 dollars.<br><br>
         
-        The demo version hosted here is only valid for 30 days after installation.
+        Also, it has some unknown, fishy relationship with <a href="ultimateenc.php">
+        Ultimate Encoder</a>.<br><br>
+        
+        The demo versions hosted here are only valid for 30 days after installation.
         A mirror of the web page is available <a 
         href="https://web.archive.org/web/20000305214044/http://2edc.com:80/products/slimit/index.html"
         target=outside>here</a>.<br>
