@@ -93,8 +93,8 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Blade was developed by Tord Jansson. It started as a compile of the dist10 
-        sources but later Jannson started tweaking quality, mostly at high bitrates 
-        (around 192 and 256kbps)<br><br>
+        sources but soon Jansson started tweaking speed and quality, mostly at high 
+        bitrates (around 192 and 256kbps)<br><br>
         
         Development officially ceased on 2002-08-11, although by then an year had 
         already passed since the last update. The developer recommended users switch 
