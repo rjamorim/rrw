@@ -97,13 +97,13 @@
         This is another tool to convert MP3 files to standalone players. The 
         other tool is featured <a href=mp3toexe.php>here</a>.<br><br>
         
-        This application is almost the complete opposite of the other one. 
-        Whereas Oliver's program is highly customizable, this one is as minimal
-        as can get. There are no options on the creator app other than output
-        directory, and the player offers nothing but playback position 
-        information. There are no buttons, no volume control, nothing in the 
-        interface is clickable (other than a link to the program's web page, 
-        that is).<br><br>
+        This application is almost the complete opposite of the other one featured
+        in this website. Whereas Oliver's program is highly customizable, this 
+        one is as minimal as can get. There are no options on the creator app 
+        other than output directory, and the player offers nothing but playback 
+        position information. There are no buttons, no volume control, nothing 
+        in the interface is clickable (other than a link to the program's web 
+        page, that is).<br><br>
         <a href="screens/mp32exe2-creator.png" target=outside><img 
         src="screens/mp32exe2-creator.png" alt="MP3 to EXE 2 converter interface" 
         align=right height="75%"></a>
