@@ -60,7 +60,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=850 src="dot.gif">
+<img width=1 height=1150 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -97,7 +97,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2018-02-07 <br><br>
+<br><br><br>Last update: 2018-06-22 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -135,6 +135,33 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-06-22: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Finally another update</b></font><p>
+                  More than four months since the last update, here comes another 
+                  one.<br><br>
+                  
+                  I would like to remind RRW visitors that I depend on your 
+                  contributions to keep adding obscure software to this website - 
+                  my personal collection of oddities is all but already featured
+                  in its entirety here.<br><br>
+                  
+                  So, if you have something you believe might be of interest to
+                  be preserved here, please don't hesitate to get <a href="about.php">
+                  in touch</a>.<br><br>
+                    
+                  And these are the updates:
+                  <ul>
+                    <li>M&eacute;tis MP3 player (thanks to Zachary Jelesoff)</li>
+                    <li>Another MP3 to EXE converter (thanks to Zachary Jelesoff)</li>
+                    <li>WWV - Women, Whisky and VQF! (thanks to Zachary Jelesoff)</li>
+                    <li>Plugins for several formats for Apollo player</li>
+                    <li>Another version of Yamaha SoundVQ Encoder (thanks to Sebastian Knop)</li>
+                  </ul>
+             </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2018-02-07: </b></div><p>

@@ -53,7 +53,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1900><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=1950><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -205,7 +205,9 @@
                 <a href=foobar2000.php>Foobar2000</a><br>
                 <a href=impload.php>iMPload complete MP3pro</a><br>
                 <a href=k-jofol.php>K-J&ouml;fol player</a><br>
+                <a href=metis.php>M&eacute;tis MP3 player</a><br>
                 <a href=mp3toexe.php>MP3 to EXE</a><br>
+                <a href=mp3toexe2.php>MP3 to EXE (another one)</a><br>
                 <a href=musearc.php>Musearc player</a><br>
                 <a href=nad.php>NAD player</a><br>
                 <a href=dosamp.php>Nullsoft DOSamp MP3 player</a><br>
@@ -213,6 +215,7 @@
                 <a href=realjuke.php>RealJukebox</a><br>
                 <a href=sonique2.php>Sonique2 alpha MP3 player</a><br>
                 <a href=soundapp.php>SoundApp Mac OS Player</a><br>
+                <a href=wwv.php>WWV VQF player</a><br>
                 <a href=xaudio.php>XAudio player</a><br>
                 <a href=xingsound.php>XingSound MP2/XingMP3 player</a><br>
                 <a href=yamp.php>Yamp player</a><br>
