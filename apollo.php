@@ -114,80 +114,85 @@
         Version: 37zz (final version)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/Apollo37zz.exe">Apollo37zz.exe</a> - 673Kb<br>
+        Download: <a href="files/apollo/Apollo37zz.exe">Apollo37zz.exe</a> - 673Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         Date: 2006-10-23<br>
         Version: 37zy<br>
-        Download: <a href="files/players/Apollo37zy.exe">Apollo37zy.exe</a> - 671Kb<br>
+        Download: <a href="files/apollo/Apollo37zy.exe">Apollo37zy.exe</a> - 671Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2006-06-12<br>
         Version: 37zx<br>
-        Download: <a href="files/players/Apollo37zx.exe">Apollo37zx.exe</a> - 672Kb<br>
+        Download: <a href="files/apollo/Apollo37zx.exe">Apollo37zx.exe</a> - 672Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
         alt="Apollo 37zz mini" align=right height="45%"></a>
         Date: 2006-05-12<br>
         Version: 37zw<br>
-        Download: <a href="files/players/Apollo37zw.exe">Apollo37zw.exe</a> - 672Kb<br>
+        Download: <a href="files/apollo/Apollo37zw.exe">Apollo37zw.exe</a> - 672Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2006-04-11<br>
         Version: 37zv<br>
-        Download: <a href="files/players/Apollo37zv.exe">Apollo37zv.exe</a> - 672Kb<br>
+        Download: <a href="files/apollo/Apollo37zv.exe">Apollo37zv.exe</a> - 672Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2006-03-19<br>
         Version: 37zu<br>
-        Download: <a href="files/players/Apollo37zu.exe">Apollo37zu.exe</a> - 671Kb<br>
+        Download: <a href="files/apollo/Apollo37zu.exe">Apollo37zu.exe</a> - 671Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2006-03-15<br>
         Version: 37zs<br>
-        Download: <a href="files/players/Apollo37zs.exe">Apollo37zs.exe</a> - 669Kb<br>
+        Download: <a href="files/apollo/Apollo37zs.exe">Apollo37zs.exe</a> - 669Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2005-10-03<br>
         Version: 37zq<br>
-        Download: <a href="files/players/Apollo37zq.exe">Apollo37zq.exe</a> - 677Kb<br>
+        Download: <a href="files/apollo/Apollo37zq.exe">Apollo37zq.exe</a> - 677Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2005-06-20<br>
         Version: 37zp<br>
-        Download: <a href="files/players/Apollo37zp.exe">Apollo37zp.exe</a> - 676Kb<br>
+        Download: <a href="files/apollo/Apollo37zp.exe">Apollo37zp.exe</a> - 676Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         Date: 2005-05-05<br>
         Version: 37zn<br>
-        Download: <a href="files/players/Apollo37zn.exe">Apollo37zn.exe</a> - 674Kb<br>
+        Download: <a href="files/apollo/Apollo37zn.exe">Apollo37zn.exe</a> - 674Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2005-01-27<br>
         Version: 37zl<br>
-        Download: <a href="files/players/Apollo37zl.exe">Apollo37zl.exe</a> - 673Kb<br>
+        Download: <a href="files/apollo/Apollo37zl.exe">Apollo37zl.exe</a> - 673Kb<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
         Date: 2003-10-30<br>
         Version: 37zc<br>
-        Download: <a href="files/players/Apollo37zc.exe">Apollo37zc.exe</a> - 644Kb<br>
+        Download: <a href="files/apollo/Apollo37zc.exe">Apollo37zc.exe</a> - 644Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         Date: 2003-08-06<br>
         Version: 37v<br>
-        Download: <a href="files/players/Apollo37v.exe">Apollo37v.exe</a> - 636Kb<br>
+        Download: <a href="files/apollo/Apollo37v.exe">Apollo37v.exe</a> - 636Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         Date: 2003-03-18<br>
         Version: 37ud<br>
-        Download: <a href="files/players/Apollo37ud.exe">Apollo37ud.exe</a> - 632Kb<br>
+        Download: <a href="files/apollo/Apollo37ud.exe">Apollo37ud.exe</a> - 632Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         Date: 2002-06-12<br>
         Version: 37k<br>
-        Download: <a href="files/players/Apollo37k.exe">Apollo37k.exe</a> - 584Kb<br>
+        Download: <a href="files/apollo/Apollo37k.exe">Apollo37k.exe</a> - 584Kb<br>
         <i>Kindly contributed by [Jaz]</i><br>
+        <br>
+        <hr>
+        Apollo Plug-In Package<br>
+        Formats: Ogg Vorbis, WMA, WavPack, TTA, FLAC, CD-DA, MOD, etc.<br>
+        Download: <a href="files/apollo/Apollo_Plug-ins.zip">Apollo_Plug-ins.zip</a> - 448Kb<br>
 
         </blockquote></font>
 

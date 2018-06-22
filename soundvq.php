@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -123,6 +123,13 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870Kb<br>
+        <br>
+        Date: 2000-05-07<br>
+        Version: 2.60b1 (encoder)<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/vqf/vqe260b1e.exe">vqe260b1e.exe</a> - 1.871Kb<br>
+        <i>Kindly contributed by Sebastian Knop.</i><br>
         <br>
         Date: 2000-03-20<br>
         Version: 2.52b1 (player)<br>

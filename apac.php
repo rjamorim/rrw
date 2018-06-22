@@ -95,7 +95,7 @@
         alt="a-Pac" align=right height="80%"></a>
         The famous sound card manufacturer Marian created this little lossless 
         compression app. Compression is not on par with modern compressors, yet, it
-        works well.<br><br>
+        works well and features a pleasing interface.<br><br>
                 
         You can still see Marian's description of the codec at the archived <a
         href="https://web.archive.org/web/20080723013102/http://www.marian.de:80/en/downloads" 

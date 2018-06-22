@@ -96,7 +96,7 @@
         WWV - Women, Whisky and VQF - is yet another simple, minimal VQF player.
         With a lovely name.<br><br>
         
-        There is not much to say here, it plays VQF files and VQL playlists. And
+        There is not much to say here, it plays VQF files and VQL playlists, and
         nothing else. Also features a simple playlist editor. It requires the 
         decoding libraries from the <a href=soundvq.php>Yamaha SoundVQ</a> 
         player.<br><br>

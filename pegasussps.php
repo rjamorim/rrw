@@ -99,9 +99,9 @@
         href="https://web.archive.org/web/20010418053334/http://jpg.com:80/imagetech_els.htm"
         target=outside>Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
         
-        The editor itself has actually very few features. But, from the looks of it, it 
-        is free - only lossless compression is limited to 10 uses, and after that you
-        need to buy a license.<br><br>
+        The editor itself has very few features. But, from the looks of it, it is free - 
+        only lossless compression is limited to 10 uses, and after that you need to buy 
+        a license.<br><br>
         
         The page about SPS at Pegasus is now gone and it is not being marketed by them
         anymore. But you can still find it (and buy it) at 
