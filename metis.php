@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Dicas/zPlane Compaact!</TITLE>
+<TITLE>ReallyRareWares - M&eacute;tis MP3 player</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,30 +89,36 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Dicas/zPlane Compaact!</b></div> <p></font>
+          <br><div align="justify"><b>M&eacute;tis MP3 player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/compaact.png" target=outside><img src="screens/compaact.png" 
-        alt="Compaact!" align=right height="65%"></a>
-        Compaact! was an AAC encoder developed by the DSP engineer Alexander Lerch, 
-        released in late 2003.<br><br>
+        <a href="screens/metis.png" target=outside><img src="screens/metis.png" 
+        alt="Metis MP3 player" align=right height="75%"></a>
+        M&eacute;tis is a very obscure MP3 player created by <a 
+        href="http://www.audionetworks.com" target=outside>AudioNetworks</a>
+        to showcase their DASE technology, meant to improve sound quality of 
+        files that passed through compression.<br><br>
         
-        It met good acceptance as soon as it was released. Also, it was packed with 
-        interesting features. There are three different quality levels (from faster 
-        encoding to high quality), support for LC and Main profiles, ability to enable 
-        or disable tools like TNS or PNS, multichannel encoding support, several 
-        preprocessing routines, and a very interesting preview feature, that allows 
-        users to preview in real time how their tracks will sound after encoded.<br><br>
+        If this technology provides any actual improvements to MP3 files' sound
+        quality, that remains to be seen (the player itself uses the XAudio 
+        playback engine).<br><br>
         
-        For some reason, it was discontinued in early 2005. The zPlane web site can 
-        be reached <a href="http://www.zplane.de/" target=outside>here</a>.<br>
+        The player sports a quite minimalistic and ugly interface. Nothing is
+        configurable other than appearance. At least playlists are supported...
+        <br><br>
         
+        As far as I know, only version 1.0 was released and the player never saw
+        any update.<br><br>
+        
+        <i>Big thanks to Zachary Jelesoff for introducing me to M&eacute;tis.
+        </i><br>
+
         <br>
         <br>
-        Date: 2004-05-04<br>
-        Version: 1.2.1<br>
+        Date: 1999-12-14<br>
+        Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507Kb<br>
+        Download: <a href="files/players/metis.exe">metis.exe</a> - 1.439Kb<br>
 
         </blockquote></font>
 

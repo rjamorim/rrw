@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Dicas/zPlane Compaact!</TITLE>
+<TITLE>ReallyRareWares - MP3 to EXE (another one)</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,30 +89,44 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Dicas/zPlane Compaact!</b></div> <p></font>
+          <br><div align="justify"><b> MP3 to EXE (another one) </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/compaact.png" target=outside><img src="screens/compaact.png" 
-        alt="Compaact!" align=right height="65%"></a>
-        Compaact! was an AAC encoder developed by the DSP engineer Alexander Lerch, 
-        released in late 2003.<br><br>
+        <a href="screens/mp32exe2-player.png" target=outside><img 
+        src="screens/mp32exe2-player.png" alt="MP3 to EXE 2 player interface" 
+        align=right></a>
+        This is another tool to convert MP3 files to standalone players. The 
+        other tool is featured <a href=mp3toexe.php>here</a>.<br><br>
         
-        It met good acceptance as soon as it was released. Also, it was packed with 
-        interesting features. There are three different quality levels (from faster 
-        encoding to high quality), support for LC and Main profiles, ability to enable 
-        or disable tools like TNS or PNS, multichannel encoding support, several 
-        preprocessing routines, and a very interesting preview feature, that allows 
-        users to preview in real time how their tracks will sound after encoded.<br><br>
+        This application is almost the complete opposite of the other one. 
+        Whereas Oliver's program is highly customizable, this one is as minimal
+        as can get. There are no options on the creator app other than output
+        directory, and the player offers nothing but playback position 
+        information. There are no buttons, no volume control, nothing in the 
+        interface is clickable (other than a link to the program's web page, 
+        that is).<br><br>
+        <a href="screens/mp32exe2-creator.png" target=outside><img 
+        src="screens/mp32exe2-creator.png" alt="MP3 to EXE 2 converter interface" 
+        align=right height="75%"></a>
         
-        For some reason, it was discontinued in early 2005. The zPlane web site can 
-        be reached <a href="http://www.zplane.de/" target=outside>here</a>.<br>
+        On the other hand, the player stub only adds 10kB to the MP3 file size.
+        So it is the best choice if file size is of the utmost importance. 
+        Besides, the player seems to work without problems on Windows XP and 10.
+        <br><br>
+        
+        The web page for the application can be located at the Internet
+        Archive, <a href="http://web.archive.org/web/20010806110947/www.cutess.com/mp3toexe.htm"
+        target=outside>here</a>.<br><br>
+        
+        <i>Big thanks to Zachary Jelesoff for introducing me to this alternative
+        MP3 to EXE.</i><br>
         
         <br>
         <br>
-        Date: 2004-05-04<br>
-        Version: 1.2.1<br>
+        Date: 2001-07-21<br>
+        Version: 1.31<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507Kb<br>
+        Download: <a href="files/players/mp3toexe2.zip">mp3toexe2.zip</a> - 174Kb<br>
 
         </blockquote></font>
 

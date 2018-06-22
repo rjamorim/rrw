@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Dicas/zPlane Compaact!</TITLE>
+<TITLE>ReallyRareWares - WWV VQF player</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,30 +89,30 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Dicas/zPlane Compaact!</b></div> <p></font>
+          <br><div align="justify"><b> WWV VQF Player </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/compaact.png" target=outside><img src="screens/compaact.png" 
-        alt="Compaact!" align=right height="65%"></a>
-        Compaact! was an AAC encoder developed by the DSP engineer Alexander Lerch, 
-        released in late 2003.<br><br>
+        <a href="screens/wwv.png" target=outside><img src="screens/wwv.png" 
+        alt="WWV VQF player" align=right></a>
+        WWV - Women, Whisky and VQF - is yet another simple, minimal VQF player.
+        With a lovely name.<br><br>
         
-        It met good acceptance as soon as it was released. Also, it was packed with 
-        interesting features. There are three different quality levels (from faster 
-        encoding to high quality), support for LC and Main profiles, ability to enable 
-        or disable tools like TNS or PNS, multichannel encoding support, several 
-        preprocessing routines, and a very interesting preview feature, that allows 
-        users to preview in real time how their tracks will sound after encoded.<br><br>
+        There is not much to say here, it plays VQF files and VQL playlists. And
+        nothing else. Also features a simple playlist editor. It requires the 
+        decoding libraries from the <a href=soundvq.php>Yamaha SoundVQ</a> 
+        player.<br><br>
         
-        For some reason, it was discontinued in early 2005. The zPlane web site can 
-        be reached <a href="http://www.zplane.de/" target=outside>here</a>.<br>
+        Suprisingly the web site is still available, <a href="http://wwvqf.tripod.com/"
+        target=outside>here</a>.<br><br>
         
+        <i>Big thanks to Zachary Jelesoff for introducing me to WWV.</i><br>
+
         <br>
         <br>
-        Date: 2004-05-04<br>
-        Version: 1.2.1<br>
+        Date: 2000-09-12<br>
+        Version: 1.02<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507Kb<br>
+        Download: <a href="files/players/wwv.zip">wwv.zip</a> - 152Kb<br>
 
         </blockquote></font>
 
