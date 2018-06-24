@@ -158,7 +158,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>M&eacute;tis MP3 player (thanks to Zachary Jelesoff)</li>
                     <li>Another MP3 to EXE converter (thanks to Zachary Jelesoff)</li>
                     <li>WWV - Women, Whisky and VQF! (thanks to Zachary Jelesoff)</li>
-                    <li>Plugins for several formats for Apollo player</li>
+                    <li>Apollo plugins for several formats</li>
                     <li>Another version of Yamaha SoundVQ Encoder (thanks to Sebastian Knop)</li>
                   </ul>
              </blockquote></font>

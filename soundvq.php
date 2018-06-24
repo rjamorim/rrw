@@ -3,7 +3,6 @@
 <HTML>
 <HEAD>
 <TITLE>ReallyRareWares - Yamaha SoundVQ</TITLE>
-
 </HEAD>
 <BODY bgcolor="#FFFFFF">
 
@@ -116,7 +115,7 @@
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b9e.exe">vqe260b9e.exe</a> - 1.874Kb<br>
         <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
-        alt="SoundVQ Encoder" align=right height="60%"></a>
+        alt="SoundVQ Encoder" align=right height="228"></a>
         <br>
         Date: 2000-10-30<br>
         Version: 2.60b3 (encoder)<br>
