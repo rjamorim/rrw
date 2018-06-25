@@ -92,7 +92,7 @@
           <br><div align="justify"><b> EncSpot </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/encspot1.png" target=outside><img src="screens/encspot1.png" 
-        alt="Encspot - Main interface" align=right height="40%"></a>
+        alt="Encspot - Main interface" align=right height=222></a>
         EncSpot is a very featureful MPEG audio stream analyzer created by Jon Dee of
         Guerrilasoft.<br><br>
         
@@ -126,20 +126,20 @@
         more buggy) than version 2.2.<br>
 
         <a href="screens/encspot2.png" target=outside><img src="screens/encspot2.png" 
-        alt="Encspot - File interface" align=right height="40%"></a>
+        alt="Encspot - File interface" align=right height=180></a>
         <br>
         <br>
         Date: 2005-05-31<br>
         Version: 2.2 pro<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/encspotpro2.2beta2.zip">encspotpro2.2beta2.zip</a> - 513Kb<br>
+        Download: <a href="files/others/encspotpro2.2beta2.zip">encspotpro2.2beta2.zip</a> - 513kB<br>
         <br>
         Date: 2002-06-18<br>
         Version: 2.1 pro<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/encspot-2.1-pro.zip">encspot-2.1-pro.zip</a> - 589Kb<br>
+        Download: <a href="files/others/encspot-2.1-pro.zip">encspot-2.1-pro.zip</a> - 589kB<br>
 
         </blockquote></font>
 

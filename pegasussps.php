@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
-        alt="Pegasus SPS" align=right height="45%"></a>
+        alt="Pegasus SPS" align=right height=275></a>
         Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as a general
         purpose audio editor, that features a lossless mode based on Pegasus' ELS (<a 
         href="https://web.archive.org/web/20010418053334/http://jpg.com:80/imagetech_els.htm"
@@ -114,7 +114,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 560Kb<br>
+        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 560kB<br>
 
         </blockquote></font>
 

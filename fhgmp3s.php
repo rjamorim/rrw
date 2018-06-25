@@ -139,40 +139,40 @@
         Version: 1.1.5 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.exe">MP3sGuiEnc_v1.1.5.exe</a> - 2.112Kb<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.exe">MP3sGuiEnc_v1.1.5.exe</a> - 2.112kB<br>
         <br>
         Date: 2008-01-17<br>
         Version: 1.1.5 (encoder)<br>
         Interface: Graphical<br>
         Platform: MacOS X (universal)<br>
-        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.dmg">MP3sGuiEnc_v1.1.5.dmg</a> - 5.874Kb<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.dmg">MP3sGuiEnc_v1.1.5.dmg</a> - 5.874kB<br>
         <br>
         Date: 2007-05-25<br>
         Version: 1.1.4 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.exe">MP3sGuiEnc_v1.1.4.exe</a> - 2.418Kb<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.exe">MP3sGuiEnc_v1.1.4.exe</a> - 2.418kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2007-05-25<br>
         Version: 1.1.4 (encoder)<br>
         Interface: Graphical<br>
         Platform: MacOS X (universal)<br>
-        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.dmg">MP3sGuiEnc_v1.1.4.dmg</a> - 6.481Kb<br>
+        Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.dmg">MP3sGuiEnc_v1.1.4.dmg</a> - 6.481kB<br>
         <br>
         <hr>
         Date: 2010-02-04<br>
         Version: 4.0.0 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3sPlayerv400.exe">MP3sPlayerv400.exe</a> - 2.973Kb<br>
+        Download: <a href="files/fhg/MP3sPlayerv400.exe">MP3sPlayerv400.exe</a> - 2.973kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2009-01-20<br>
         Version: 3.0.2 (player)<br>
         Interface: Graphical<br>
         Platform: MacOS X (universal)<br>
-        Download: <a href="files/fhg/MP3sPlayer3.0.2.dmg">MP3sPlayer3.0.2.dmg</a> - 7.360Kb<br>
+        Download: <a href="files/fhg/MP3sPlayer3.0.2.dmg">MP3sPlayer3.0.2.dmg</a> - 7.360kB<br>
         <br>
         <hr>
         <a href="screens/fhgmp3s-mp3sx.png" target=outside><img src="screens/fhgmp3s-mp3sx.png" 
@@ -181,33 +181,33 @@
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2.103Kb<br>
+        Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2.103kB<br>
         <br>
         Date: 2006-04-28<br>
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: MacOS X (universal)<br>
-        Download: <a href="files/fhg/MP3SXConverter1.1.0uni.dmg">MP3SXConverter1.1.0uni.dmg</a> - 6.101Kb<br>
+        Download: <a href="files/fhg/MP3SXConverter1.1.0uni.dmg">MP3SXConverter1.1.0uni.dmg</a> - 6.101kB<br>
         <br>
         Date: 2006-04-13<br>
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Linux<br>
-        Download: <a href="files/fhg/MP3SXConverterV1.1.0.tar">MP3SXConverterV1.1.0.tar</a> - 2.660Kb<br>
+        Download: <a href="files/fhg/MP3SXConverterV1.1.0.tar">MP3SXConverterV1.1.0.tar</a> - 2.660kB<br>
         <br>
         <hr>
         Date: 2008-05-30<br>
         Version: 1.5<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
-        Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2.427Kb<br>
+        Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2.427kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2008-05-30<br>
         Version: 1.4<br>
         Interface: Command line<br>
         Platform: Win32/Linux/MacOS X<br>
-        Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528Kb<br>
+        Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         <hr>
@@ -215,7 +215,7 @@
         Version: 2.0<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/IIS_MP3s_Winamp_Plugin.exe">IIS_MP3s_Winamp_Plugin.exe</a> - 949Kb<br>
+        Download: <a href="files/fhg/IIS_MP3s_Winamp_Plugin.exe">IIS_MP3s_Winamp_Plugin.exe</a> - 949kB<br>
         <br><br>
         <i>I also have tools to use MP3 Surround with Shoutcast servers. If you have
         any use for them, feel free to get <a href="about.php">in touch</a>!</i><br>

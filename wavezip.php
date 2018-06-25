@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/wavezip.png" target=outside><img src="screens/wavezip.png" 
-        alt="WaveZip" align=right height="60%"></a>
+        alt="WaveZip" align=right height=347></a>
         MUSICompress is a lossless audio encoding algorithm developed by Al Wegener.
         Its focus is in being fast (quoting the author: "an extra 10% compression 
         ratio just isn't worth a 20x wait").<br><br>
@@ -112,7 +112,7 @@
         Version: 3.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/mcapp.zip">mcapp.zip</a> - 39Kb<br>
+        Download: <a href="files/lossless/mcapp.zip">mcapp.zip</a> - 39kB<br>
         <br><br>
         
         WaveZip is a GUI lossless encoder that uses MUSICompress' libraries for
@@ -131,7 +131,7 @@
         Version: 2.01<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/wz2setup.exe">wz2setup.exe</a> - 2.763Kb<br>
+        Download: <a href="files/lossless/wz2setup.exe">wz2setup.exe</a> - 2.763kB<br>
 
         </blockquote></font>
 

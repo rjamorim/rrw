@@ -92,7 +92,7 @@
           <br><div align="justify"><b>LTAC/LPAC lossless compressor</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/lpac.png" target=outside><img src="screens/lpac.png" 
-        alt="LPAC archiver" align=right height="60%"></a>
+        alt="LPAC archiver" align=right height=255></a>
         LTAC - Lossless Transform Audio Compression - was the first lossless codec developed
         by Tilman Liebchen while studying at Technische Universit&auml;t Berlin.<br><br>
         
@@ -106,13 +106,13 @@
         Version: 1.71<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/ltac98.zip">ltac98.zip</a> - 109Kb<br>
+        Download: <a href="files/lossless/ltac98.zip">ltac98.zip</a> - 109kB<br>
         <br>
         Date: 1998-06-25<br>
         Version: 1.61<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42Kb<br>
+        Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42kB<br>
         <br><br>
         
         After a while, he abandoned LTAC to focus on the development of LPAC - Lossless 
@@ -134,19 +134,19 @@
         Version: 1.41 (codec 3.08)<br>
         Interface: Graphical + Command line + API<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/lpacfull.zip">lpacfull.zip</a> - 221Kb<br>
+        Download: <a href="files/lossless/lpacfull.zip">lpacfull.zip</a> - 221kB<br>
         <br>
         Date: 2002-08-02<br>
         Version: 1.40 (codec 3.08)<br>
         Interface: Command line<br>
         Platform: Linux<br>
-        Download: <a href="files/lossless/lpac_s.tar.gz">lpac_s.tar.gz</a> - 197Kb<br>
+        Download: <a href="files/lossless/lpac_s.tar.gz">lpac_s.tar.gz</a> - 197kB<br>
         <br>
         Date: ?<br>
         Version: 1.00<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/in_lpac.exe">in_lpac.exe</a> - 47Kb<br>
+        Download: <a href="files/lossless/in_lpac.exe">in_lpac.exe</a> - 47kB<br>
 
         </blockquote></font>
 

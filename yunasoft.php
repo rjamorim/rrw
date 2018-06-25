@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Yunasoft MP3 Encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/yunasoft.png" target=outside><img src="screens/yunasoft.png" 
-        alt="YunaSoft MP3 Encoder 0.7" align=right height="70%"></a>
+        alt="YunaSoft MP3 Encoder 0.7" align=right height=310></a>
         Yunasoft is an application coming from Japan, but it is not really an MP3
         encoder - actually, it is a frontend to the FhG ACM MP3 codec.<br><br>
         
@@ -122,14 +122,14 @@
         Version: 0.7<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wav2mp307.exe">wav2mp307.exe</a> - 821Kb<br>
+        Download: <a href="files/mpeg/wav2mp307.exe">wav2mp307.exe</a> - 821kB<br>
         <br>
         <img src="img/yunasoft-certified-quality.gif" alt="CERTIFIED!!!!" align=right>
         Date: 1997-10-11<br>
         Version: 0.4.3e<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wav2mp3043e.exe">wav2mp3043e.exe</a> - 807Kb<br>
+        Download: <a href="files/mpeg/wav2mp3043e.exe">wav2mp3043e.exe</a> - 807kB<br>
 
         </blockquote></font>
 

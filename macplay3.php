@@ -112,15 +112,15 @@
         Version: 1.4b2<br>
         Interface: Graphical<br>
         <a href="screens/macplay3v099-inst.png" target=outside><img src="screens/macplay3v099-inst.png" 
-        alt="MacPlay3 v0.99 installation" align=right height="77%"></a>
+        alt="MacPlay3 v0.99 installation" align=right height=180></a>
         Platform: MacOS Classic PPC<br>
-        Download: <a href="files/players/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519Kb<br>
+        Download: <a href="files/players/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519kB<br>
         <br>
         Date: 1996-03-28<br>
         Version: 0.99 alpha<br>
         Interface: Graphical<br>
         Platform: MacOS Classic 68K/PPC<br>
-        Download: <a href="files/players/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168Kb<br>
+        Download: <a href="files/players/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168kB<br>
         
 
         </blockquote></font>

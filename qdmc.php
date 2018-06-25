@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/qdesign-mvp.png" target=outside><img src="screens/qdesign-mvp.png" 
-        alt="QDesign MVP" align=right height="75%"></a>
+        alt="QDesign MVP" align=right height=292></a>
         The QDesign Music Codec was originally <a href="lbpack.php">LBpack</a>, by 
         Dmitry Shmunk. QDesign corporation bought the codec and hired the developer 
         to create what would become the official audio compression in Apple's 
@@ -132,19 +132,19 @@
         Version: 1.2.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/mvppc12.exe">mvppc12.exe</a> - 2.083Kb<br>
+        Download: <a href="files/others/mvppc12.exe">mvppc12.exe</a> - 2.083kB<br>
         <br>
         Date: 1999-05-13<br>
         Version: 2.0<br>
         Interface: Graphical (QuickTime component)<br>
         Platform: Win32<br>
-        Download: <a href="files/others/QDMC2_Pro_Demo.exe">QDMC2_Pro_Demo.exe</a> - 1.327Kb<br>
+        Download: <a href="files/others/QDMC2_Pro_Demo.exe">QDMC2_Pro_Demo.exe</a> - 1.327kB<br>
         <br>
         Date: 2004-01-14<br>
         Version: 1.2<br>
         Interface: PDF document<br>
         Platform: -<br>
-        Download: <a href="files/others/qdmc2.pdf">qdmc2.pdf</a> - 309Kb<br>
+        Download: <a href="files/others/qdmc2.pdf">qdmc2.pdf</a> - 309kB<br>
 
         </blockquote></font>
 

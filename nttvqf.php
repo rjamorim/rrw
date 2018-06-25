@@ -110,7 +110,7 @@
         href="https://web.archive.org/web/20041012071040/http://www.twinvq.org/english/index_en.html" 
         target=outside>here</a>.<br><br>
         <a href="screens/nttvqf-enc.png" target=outside><img src="screens/nttvqf-enc.png" 
-        alt="TwinVQ Encoder" align=right height="51%"></a>
+        alt="TwinVQ Encoder" align=right height=238></a>
         
         I am also mirroring Thor's <a href="mirrors/vqf/index.html">page</a> from 
         dalnetvqf, featuring VQF plugins for Winamp. Thanks to Thor for providing 
@@ -122,25 +122,25 @@
         Version: 2.1.1 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/NTTenc.zip">NTTenc.zip</a> - 514Kb<br>
+        Download: <a href="files/vqf/NTTenc.zip">NTTenc.zip</a> - 514kB<br>
         <br>
         Date: 2000-09-22<br>
         Version: 2.1.5 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/Tvq-p215e.exe">Tvq-p215e.exe</a> - 1.793Kb<br>
+        Download: <a href="files/vqf/Tvq-p215e.exe">Tvq-p215e.exe</a> - 1.793kB<br>
         <br>
         Date: 2001-07-02<br>
         Version: 1.0<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/in_vqf.exe">in_vqf.exe</a> - 419Kb<br>
+        Download: <a href="files/vqf/in_vqf.exe">in_vqf.exe</a> - 419kB<br>
         <br>
         Date: 2000-10-12<br>
         Version: 20001012<br>
         Interface: SDK<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/vqf/Tvq20001012_open_nc.zip">Tvq20001012_open_nc.zip</a> - 3.152Kb<br>
+        Download: <a href="files/vqf/Tvq20001012_open_nc.zip">Tvq20001012_open_nc.zip</a> - 3.152kB<br>
 
         </blockquote></font>
 

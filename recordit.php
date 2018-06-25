@@ -92,7 +92,7 @@
           <br><div align="justify"><b> Iomega RecordIt </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/recordit-ply.png" target=outside><img src="screens/recordit-ply.png" 
-        alt="RecordIt - player interface" align=right height="50%"></a>
+        alt="RecordIt - player interface" align=right height=107></a>
         RecordIt is a recording app created by Iomega. Its main goal was to enable 
         customers of their Zip drives to rip their CDs and make the tracks fit inside 
         one Zip disk (100MB).<br><br>
@@ -108,7 +108,7 @@
         112kbps and 1 star = 24kbps/22kHz.<br><br>
         
         <a href="screens/recordit-enc.png" target=outside><img src="screens/recordit-enc.png" 
-        alt="RecordIt - encoder interface" align=right height="50%"></a>
+        alt="RecordIt - encoder interface" align=right height=209></a>
         It is worth mentioning the program is not really an encoder, but a recorder - 
         which means, it will not accept .wav files for input. It will only encode 
         from an audio CD, line-in or a microphone.<br>
@@ -119,7 +119,7 @@
         Version: 1.1<br>
         Interface: Graphical<br>
         Platform: Win32 (Win9x only)<br>
-        Download: <a href="files/mpeg/RecordIt.zip">RecordIt.zip</a> - 2838Kb<br>
+        Download: <a href="files/mpeg/RecordIt.zip">RecordIt.zip</a> - 2838kB<br>
 
         </blockquote></font>
 

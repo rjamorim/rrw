@@ -92,7 +92,7 @@
           <br><div align="justify"><b> MpegDJ Encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mpegdj.png" target=outside><img src="screens/mpegdj.png" 
-        alt="MpegDJ Encoder" align=right height="50%"></a>
+        alt="MpegDJ Encoder" align=right height=240></a>
         MpegDJ Encoder is an MP2/MP3 encoder created by the <a href="xaudio.php">Xaudio</a>
         developers.<br><br>
         
@@ -109,7 +109,7 @@
         Version: 1.99k<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mpegdjencoder.exe">mpegdjencoder.exe</a> - 2.648Kb<br>
+        Download: <a href="files/mpeg/mpegdjencoder.exe">mpegdjencoder.exe</a> - 2.648kB<br>
 
         </blockquote></font>
 

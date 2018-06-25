@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Sonic Foundry SoftEncode</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/softencode.png" target=outside><img src="screens/softencode.png" 
-        alt="Sonic Foundry SoftEncode" align=right height="50%"></a>
+        alt="Sonic Foundry SoftEncode" align=right height=265></a>
         SoftEncode is an AC3 encoder created and marketed by Sonic Foundry based on
         the official Dolby libraries, with a pleasing and featureful interface.<br><br>
         
@@ -126,7 +126,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/softendemv10x86.exe">softendemv10x86.exe</a> - 675Kb<br>
+        Download: <a href="files/others/softendemv10x86.exe">softendemv10x86.exe</a> - 675kB<br>
 
         </blockquote></font>
 

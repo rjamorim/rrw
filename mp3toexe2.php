@@ -106,7 +106,7 @@
         page, that is).<br><br>
         <a href="screens/mp32exe2-creator.png" target=outside><img 
         src="screens/mp32exe2-creator.png" alt="MP3 to EXE 2 converter interface" 
-        align=right height="75%"></a>
+        align=right height=232></a>
         
         On the other hand, the player stub only adds 10kB to the MP3 file size.
         So it is the best choice if file size is of the utmost importance. 
@@ -126,7 +126,7 @@
         Version: 1.31<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/mp3toexe2.zip">mp3toexe2.zip</a> - 174Kb<br>
+        Download: <a href="files/players/mp3toexe2.zip">mp3toexe2.zip</a> - 174kB<br>
 
         </blockquote></font>
 

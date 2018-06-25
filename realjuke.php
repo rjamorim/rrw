@@ -92,7 +92,7 @@
           <br><div align="justify"><b> RealJukebox </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/realjuke.png" target=outside><img src="screens/realjuke.png" 
-        alt="Make it stop!" align=right height="60%"></a>
+        alt="Make it stop!" align=right height=330></a>
         RealJukebox is an audio playback, management and CD ripping application created 
         by RealNetworks in the late 90's.<br><br>
         
@@ -103,7 +103,7 @@
         on screen, unnecessary textures, and oh, what's that? An advertisement? So 
         lovely!<br><br>
         
-        There is also a handful of skins to make the interface a little less horrendous,
+        There is also a handful of skins to make the interface a little less horrid,
         but they do not achieve great success in that endeavour either.<br><br>
         
         Now, the encoder... RN had just purchased <a href="xing.php">Xing Tech</a>,
@@ -139,7 +139,7 @@
         Version: 2<br>
         Interface: Bloated<br>
         Platform: Win32<br>
-        Download: <a href="files/players/rjukebox20.exe">rjukebox20.exe</a> - 9.152Kb<br>
+        Download: <a href="files/players/rjukebox20.exe">rjukebox20.exe</a> - 9.152kB<br>
 
         </blockquote></font>
 

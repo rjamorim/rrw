@@ -92,7 +92,7 @@
           <br><div align="justify"><b>iMPload complete MP3pro</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/impload.png" target=outside><img src="screens/impload.png" 
-        alt="iMPload MP3pro" align=right height="40%"></a>
+        alt="iMPload MP3pro" align=right height=279></a>
         iMPload was a partnership between famous German companies Steinberg, makers of
         audio editors and workstations; and Mayah, makers of audio encoding, transmission,
         and broadcasting hardware.<br><br>
@@ -126,7 +126,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/impload.zip">impload.zip</a> - 23.914Kb<br>
+        Download: <a href="files/mpeg/impload.zip">impload.zip</a> - 23.914kB<br>
 
         </blockquote></font>
 

@@ -103,7 +103,7 @@
         Version: 0.10<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mp2enc.zip">mp2enc.zip</a> - 166Kb<br>
+        Download: <a href="files/mpeg/mp2enc.zip">mp2enc.zip</a> - 166kB<br>
 
         </blockquote></font>
 

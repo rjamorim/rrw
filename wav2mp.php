@@ -102,13 +102,13 @@
         Version: 1.2<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wav2mp12.zip">wav2mp12.zip</a> - 79Kb<br>
+        Download: <a href="files/mpeg/wav2mp12.zip">wav2mp12.zip</a> - 79kB<br>
         <br>
         Date: 2001-02-03<br>
         Version: 1.1<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wav2mp11.zip">wav2mp11.zip</a> - 48Kb<br>
+        Download: <a href="files/mpeg/wav2mp11.zip">wav2mp11.zip</a> - 48kB<br>
         <br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         encoder.</i>

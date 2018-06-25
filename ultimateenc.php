@@ -92,7 +92,7 @@
           <br><div align="justify"><b> Ultimate Encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/ultimateenc.png" target=outside><img src="screens/ultimateenc.png" 
-        alt="Ultimate Encoder 1.5" align=right height="70%"></a>
+        alt="Ultimate Encoder 1.5" align=right height=214></a>
         OK, so here we have an MP1/2/3 encoder and decoder. Shareware (registration 
         cost 49 dollars). Looks and sounds like a dist10 compile. <a 
         href="screens/ultimateenc1.png" target=outside>Horrible</a> <a 
@@ -107,7 +107,8 @@
         available above and the ones at SoundLimit's page. Even some of the (ugly, 
         unnecessary) textures are the same!<br><br>
         
-        If you know any story, please get <a href="about.php">in touch</a>!<br><br>
+        If you know what was going on, please get <a href="about.php">in touch
+        </a>!<br><br>
         
         The demo version hosted here is only valid for 30 days after installation.
         A mirror of the web page is available <a 
@@ -120,7 +121,7 @@
         Version: 1.5<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/ueshw15a.zip">ueshw15a.zip</a> - 1.470Kb<br>
+        Download: <a href="files/mpeg/ueshw15a.zip">ueshw15a.zip</a> - 1.470kB<br>
 
         </blockquote></font>
 

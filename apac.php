@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>Marian's a-Pac</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/apac.png" target=outside><img src="screens/apac.png" 
-        alt="a-Pac" align=right height="80%"></a>
+        alt="a-Pac" align=right height=237></a>
         The famous sound card manufacturer Marian created this little lossless 
         compression app. Compression is not on par with modern compressors, yet, it
         works well and features a pleasing interface.<br><br>
@@ -107,7 +107,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/lossless/apac.zip">apac.zip</a> - 404Kb<br>
+        Download: <a href="files/lossless/apac.zip">apac.zip</a> - 404kB<br>
 
         </blockquote></font>
 

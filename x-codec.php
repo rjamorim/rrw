@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>X-Codec MP3 encoder</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/x-codec.png" target=outside><img src="screens/x-codec.png" 
-        alt="X-Codec" align=right height="75%"></a>
+        alt="X-Codec" align=right height=236></a>
         Very little is known about this encoder. The author claims he developed the 
         encoding routines alone (hmmm...), the decoding routines are based on Bugsy
         Wabbit's decoder library (very popular among Delphi programmers a long time 
@@ -112,7 +112,7 @@
         Version: 1.2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/x-codec.zip">x-codec.zip</a> - 542Kb<br>
+        Download: <a href="files/xing/x-codec.zip">x-codec.zip</a> - 542kB<br>
         <br>
         <ul>
         <li><p>Feedback from Benjamin Derge:</p></li>

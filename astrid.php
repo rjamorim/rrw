@@ -106,7 +106,7 @@
         
         The binaries available here have been decrypted by me, if only because they
         can now be better compressed with Zip. They were encrypted with PELOCKnt, and
-        I used peunlock to decrypt them. <br>
+        I used peunlock to decrypt them.<br>
         
         <br>
         <br>
@@ -114,7 +114,7 @@
         Version: 0.2 (decoder 0.1)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/others/astrid.zip">astrid.zip</a> - 571Kb<br>
+        Download: <a href="files/others/astrid.zip">astrid.zip</a> - 571kB<br>
 
         </blockquote></font>
 

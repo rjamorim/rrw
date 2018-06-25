@@ -104,7 +104,7 @@
         
         FhG distributed with l3enc an MPEG layer 3 <a href="files/fhg/l3faq.txt"
         target=outside>FAQ</a> and a small collection of <a href="files/fhg/mp3-bitstreams.tar.gz">
-        test bitstreams</a> (1.370Kb).<br><br>
+        test bitstreams</a> (1.370kB).<br><br>
         
         By the end of 1997 l3enc stopped being developed in favour of the development
         of <a href="mp3enc.php">MP3enc</a>.<br>
@@ -117,93 +117,93 @@
         Version: 0.99a<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc099a.zip">l3enc099a.zip</a> - 311Kb<br>
+        Download: <a href="files/fhg/l3enc099a.zip">l3enc099a.zip</a> - 311kB<br>
         <br>       
         <br>
         Date: 1997-12-05<br>
         Version: 2.72<br>
         Interface: Command line (also Windows fronted)<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc272.zip">l3enc272.zip</a> - 564Kb<br>
+        Download: <a href="files/fhg/l3enc272.zip">l3enc272.zip</a> - 564kB<br>
         <br>
         Platform: Linux x86<br>
-        Download: <a href="files/fhg/l3enc272.linux.tar.gz">l3enc272.linux.tar.gz</a> - 206Kb<br>
+        Download: <a href="files/fhg/l3enc272.linux.tar.gz">l3enc272.linux.tar.gz</a> - 206kB<br>
         <br>
         Platform: NeXTstep<br>
-        Download: <a href="files/fhg/l3enc272.next.tar.gz">l3enc272.next.tar.gz</a> - 749Kb<br>
+        Download: <a href="files/fhg/l3enc272.next.tar.gz">l3enc272.next.tar.gz</a> - 749kB<br>
         <br>
         Platform: SGI Irix<br>
-        Download: <a href="files/fhg/l3enc272.sgi.tar.gz">l3enc272.sgi.tar.gz</a> - 359Kb<br>
+        Download: <a href="files/fhg/l3enc272.sgi.tar.gz">l3enc272.sgi.tar.gz</a> - 359kB<br>
         <br>
         Platform: Solaris SPARC<br>
-        Download: <a href="files/fhg/l3enc272.solaris.tar.gz">l3enc272.solaris.tar.gz</a> - 236Kb<br>
+        Download: <a href="files/fhg/l3enc272.solaris.tar.gz">l3enc272.solaris.tar.gz</a> - 236kB<br>
         <br>
         Platform: SunOS<br>
-        Download: <a href="files/fhg/l3enc272.sun4.tar.gz">l3enc272.sun4.tar.gz</a> - 284Kb<br>
+        Download: <a href="files/fhg/l3enc272.sun4.tar.gz">l3enc272.sun4.tar.gz</a> - 284kB<br>
         <br>
         <br>
         Date: 1997-08-27<br>
         Version: 2.71<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc271.zip">l3enc271.zip</a> - 295Kb<br>
+        Download: <a href="files/fhg/l3enc271.zip">l3enc271.zip</a> - 295kB<br>
         <br>
         <br>
         Date: 1996-11-07<br>
         Version: 2.61<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc261.zip">l3enc261.zip</a> - 301Kb<br>
+        Download: <a href="files/fhg/l3enc261.zip">l3enc261.zip</a> - 301kB<br>
         <br>
         <br>
         Date: 1996-07-31<br>
         Version: 2.60<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc260.zip">l3enc260.zip</a> - 312Kb<br>
+        Download: <a href="files/fhg/l3enc260.zip">l3enc260.zip</a> - 312kB<br>
         <br>
         Platform: Linux<br>
-        Download: <a href="files/fhg/l3enc260.linux.tar.gz">l3enc260.linux.tar.gz</a> - 198Kb<br>
+        Download: <a href="files/fhg/l3enc260.linux.tar.gz">l3enc260.linux.tar.gz</a> - 198kB<br>
         <br>
         <br>
         Date: 1995-09-04<br>
         Version: 2.00<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc200.zip">l3enc200.zip</a> - 287Kb<br>
+        Download: <a href="files/fhg/l3enc200.zip">l3enc200.zip</a> - 287kB<br>
         <br>
         Platform: NeXTstep<br>
-        Download: <a href="files/fhg/l3enc200.next.tar.gz">l3enc200.next.tar.gz</a> - 686Kb<br>
+        Download: <a href="files/fhg/l3enc200.next.tar.gz">l3enc200.next.tar.gz</a> - 686kB<br>
         <br>
         Platform: Linux<br>
-        Download: <a href="files/fhg/l3enc200.linux.tar.gz">l3enc200.linux.tar.gz</a> - 179Kb<br>
+        Download: <a href="files/fhg/l3enc200.linux.tar.gz">l3enc200.linux.tar.gz</a> - 179kB<br>
         <br>
         <br>
         Date: 1995-02-22<br>
         Version: 1.50<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc150.zip">l3enc150.zip</a> - 240Kb<br>
+        Download: <a href="files/fhg/l3enc150.zip">l3enc150.zip</a> - 240kB<br>
         <br>
         <br>
         Date: 1994-07-13<br>
         Version: 1.00<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc100.zip">l3enc100.zip</a> - 126Kb<br>
+        Download: <a href="files/fhg/l3enc100.zip">l3enc100.zip</a> - 126kB<br>
         <br>
         Platform: SunOS<br>
-        Download: <a href="files/fhg/l3enc100.sun4.tar.z">l3enc100.sun4.tar.z</a> - 394Kb<br>
+        Download: <a href="files/fhg/l3enc100.sun4.tar.z">l3enc100.sun4.tar.z</a> - 394kB<br>
         <br>
         <br>
         Date: 1994-06-13<br>
         Version: 0.99c<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc099c.zip">l3enc099c.zip</a> - 312Kb<br>
+        Download: <a href="files/fhg/l3enc099c.zip">l3enc099c.zip</a> - 312kB<br>
         <br>
         Platform: SunOS<br>
-        Download: <a href="files/fhg/l3enc099c.sun4.tar.z">l3enc099c.sun4.tar.z</a> - 284Kb<br>
+        Download: <a href="files/fhg/l3enc099c.sun4.tar.z">l3enc099c.sun4.tar.z</a> - 284kB<br>
         <br>
 
 

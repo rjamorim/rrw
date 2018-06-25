@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/yamp.png" target=outside><img src="screens/yamp.png" 
-        alt="I TOLD YOU IT WAS HORRIBLE" align=right height="75%"></a>
+        alt="I TOLD YOU IT WAS HORRIBLE" align=right height=222></a>
         Yet another MP3 player for Windows. I think the only remarkable thing about this one
         is that all skins I tried are horrendous. Let's move on.<br>   
         
@@ -103,7 +103,7 @@
         Version: 3.3<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/yamp33.zip">yamp33.zip</a> - 2.122Kb<br>
+        Download: <a href="files/players/yamp33.zip">yamp33.zip</a> - 2.122kB<br>
 
         </blockquote></font>
 

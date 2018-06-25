@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/gogo239.png" target=outside><img src="screens/gogo239.png" 
-        alt="Gogo 2.39" align=right height="70%"></a>
+        alt="Gogo 2.39" align=right height=330></a>
         Gogo is a fork from the Lame MP3 encoder, with the most CPU-intensive routines 
         rewritten in assembler. That makes Gogo one of the fastest MP3 encoders with 
         good quality.<br><br>
@@ -119,26 +119,26 @@
         Version: 3.13a (based on LAME 3.88)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing313a.exe">wing313a.exe</a> - 3.756Kb<br>
-        Package for non-Japanese Windows: <a href="files/mpeg/wing313a-pack.zip">wing313a-pack.zip</a> - 840Kb<br>
+        Download: <a href="files/mpeg/wing313a.exe">wing313a.exe</a> - 3.756kB<br>
+        Package for non-Japanese Windows: <a href="files/mpeg/wing313a-pack.zip">wing313a-pack.zip</a> - 840kB<br>
         <br>
         Date: 2002-01-23<br>
         Version: 3.09 (based on LAME 3.88)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/gogo3.09.zip">gogo3.09.zip</a> - 78Kb<br>
+        Download: <a href="files/mpeg/gogo3.09.zip">gogo3.09.zip</a> - 78kB<br>
         <br>
         Date: 2000-12-31<br>
         Version: 2.39c (based on LAME 3.29 + parts of 3.5x)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing239c.exe">wing239c.exe</a> - 568Kb<br>
+        Download: <a href="files/mpeg/wing239c.exe">wing239c.exe</a> - 568kB<br>
         <br>
         Date: 2000-01-20<br>
         Version: 2.24d (based on LAME 3.23)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing224d.exe">wing224d.exe</a> - 408Kb<br>
+        Download: <a href="files/mpeg/wing224d.exe">wing224d.exe</a> - 408kB<br>
         </blockquote></font>
 
         <br><br>

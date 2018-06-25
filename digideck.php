@@ -117,7 +117,7 @@
         Version: 0.82a<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/digideck.zip">digideck.zip</a> - 305Kb<br>
+        Download: <a href="files/players/digideck.zip">digideck.zip</a> - 305kB<br>
 
         </blockquote></font>
 

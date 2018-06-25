@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Dice VQF Player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/dicevqf.png" target=outside><img src="screens/dicevqf.png" 
-        alt="Dice VQF Player" align=right height="90%"></a>
+        alt="Dice VQF Player" align=right height=274></a>
         This is a small player 100% focused on <a href="nttvqf.php">VQF</a> playback. 
         It does not support MP3 or even WAV files.<br><br>
         
@@ -108,7 +108,7 @@
         Version: 1.4<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/dicevqf14.zip">dicevqf14.zip</a> - 1047Kb<br>
+        Download: <a href="files/vqf/dicevqf14.zip">dicevqf14.zip</a> - 1047kB<br>
 
 
         </blockquote></font>

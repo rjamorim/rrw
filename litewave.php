@@ -107,7 +107,7 @@
         Version: 1.0.011<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/litewave.zip">litewave.zip</a> - 60Kb<br>
+        Download: <a href="files/lossless/litewave.zip">litewave.zip</a> - 60kB<br>
 
         </blockquote></font>
 

@@ -108,7 +108,7 @@
         Version: 1.1<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/WavArc.zip">WavArc.zip</a> - 139Kb<br>
+        Download: <a href="files/lossless/WavArc.zip">WavArc.zip</a> - 139kB<br>
 
         </blockquote></font>
 

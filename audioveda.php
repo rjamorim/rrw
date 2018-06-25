@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audioveda.png" target=outside><img src="screens/audioveda.png" 
-        alt="AudioVeda" align=right height="52%"></a>
+        alt="AudioVeda" align=right height=303></a>
         At some point, <a href="audiolib.php">CelestialTech</a> became VedaLabs. Quite 
         appropiately, besides changing their name they changed their audio program (now 
         called AudioVeda, and with a much better interface) and changed the codec. They 
@@ -125,8 +125,8 @@
         Version: 2.0 beta2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/audioveda-beta2.exe">audioveda-beta2.exe</a> - 3.856Kb<br>
-        Registry patch: <a href="files/others/audioveda.zip">audioveda.zip</a> - 1Kb<br>
+        Download: <a href="files/others/audioveda-beta2.exe">audioveda-beta2.exe</a> - 3.856kB<br>
+        Registry patch: <a href="files/others/audioveda.zip">audioveda.zip</a> - 1kB<br>
 
         </blockquote></font>
 

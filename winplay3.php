@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>FhG IIS WinPlay3</b></div> <p> </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/winplay3v23.png" target=outside><img src="screens/winplay3v23.png" 
-        alt="WinPlay3 2.3" align=right height="100%"></a>
+        alt="WinPlay3 2.3" align=right></a>
         WinPlay3 was developed by the creators of the MP3 standard - the Fraunhofer 
         Institute. It was the first real-time MP3 player.<br><br>
         
@@ -116,39 +116,39 @@
         Version: 2.3b5<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/wp32v23b5.exe">wp32v23b5.exe</a> - 983Kb<br>
+        Download: <a href="files/players/wp32v23b5.exe">wp32v23b5.exe</a> - 983kB<br>
         <br>
         Date: 1997-05-22<br>
         Version: 2.3b5<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/players/wp3v23b5.exe">wp3v23b5.exe</a> - 807Kb<br>
+        Download: <a href="files/players/wp3v23b5.exe">wp3v23b5.exe</a> - 807kB<br>
         <br>
         Date: 1996-10-28<br>
         Version: 2.0<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1.221Kb<br>
+        Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1.221kB<br>
         <a href="screens/winplay3v1.png" target=outside><img src="screens/winplay3v1.png" 
-        alt="WinPlay3 1" align=right height="100%"></a>
+        alt="WinPlay3 1" align=right></a>
         <br>
         Date: 1996-03-05<br>
         Version: 1.40<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/players/wpv140.exe">wpv140.exe</a> - 1.171Kb<br>
+        Download: <a href="files/players/wpv140.exe">wpv140.exe</a> - 1.171kB<br>
         <br>
         Date: 1995-12-22<br>
         Version: 1.30<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/players/wpv130.exe">wpv130.exe</a> - 202Kb<br>
+        Download: <a href="files/players/wpv130.exe">wpv130.exe</a> - 202kB<br>
         <br>
         Date: 1995-09-07<br>
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/players/wpv10.exe">wpv10.exe</a> - 154Kb<br>
+        Download: <a href="files/players/wpv10.exe">wpv10.exe</a> - 154kB<br>
 
 
         </blockquote></font>

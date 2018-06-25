@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>Philips MPEG Audio Player</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mpegplayer1.png" target=outside><img src="screens/mpegplayer1.png" 
-        alt="Philips MPEG Audio Player" align=right height="80%"></a>
+        alt="Philips MPEG Audio Player" align=right height=140></a>
         This is a very minimalistic audio player created by Philips. It only plays back
         MP2 (a standard mostly developed by Philips) and WAV. It does not play MP3.<br>
         
@@ -102,15 +102,15 @@
         Version: 1.1 (yes, it is newer than 2.0)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/mpegplayer11.zip">mpegplayer11.zip</a> - 34Kb<br>
+        Download: <a href="files/players/mpegplayer11.zip">mpegplayer11.zip</a> - 34kB<br>
         <br>
         <a href="screens/mpegplayer2.png" target=outside><img src="screens/mpegplayer2.png" 
-        alt="Philips MPEG Audio Player" align=right height="81%"></a>
+        alt="Philips MPEG Audio Player" align=right height=219></a>
         Date: 1996-04-19<br>
         Version: 2.0 beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/mpegplayer2.zip">mpegplayer2.zip</a> - 34Kb<br>
+        Download: <a href="files/players/mpegplayer2.zip">mpegplayer2.zip</a> - 34kB<br>
 
         </blockquote></font>
 

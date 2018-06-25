@@ -128,38 +128,38 @@
         Version: 3.97<br>
         Interface: Command line + plugins<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/wavpack3.97.zip">wavpack3.97.zip</a> - 177Kb<br>
-        Sources: <a href="files/lossless/wpsources.zip">wpsources.zip</a> - 94Kb<br>
+        Download: <a href="files/lossless/wavpack3.97.zip">wavpack3.97.zip</a> - 177kB<br>
+        Sources: <a href="files/lossless/wpsources.zip">wpsources.zip</a> - 94kB<br>
         <br>
         Date: 2002-12-12<br>
         Version: 3.4<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/wavpck34.zip">wavpck34.zip</a> - 86Kb<br>
+        Download: <a href="files/lossless/wavpck34.zip">wavpck34.zip</a> - 86kB<br>
         <br>
         Date: 2000-06-11<br>
         Version: 3.2<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/wavpck32.zip">wavpck32.zip</a> - 78Kb<br>
+        Download: <a href="files/lossless/wavpck32.zip">wavpck32.zip</a> - 78kB<br>
         <br>
         Date: 1999-09-12<br>
         Version: 3.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/WAVPACK3.ZIP">WAVPACK3.ZIP</a> - 80Kb<br>
+        Download: <a href="files/lossless/WAVPACK3.ZIP">WAVPACK3.ZIP</a> - 80kB<br>
         <br>
         Date: 1998-09-02<br>
         Version: 2.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/WAVPACK2.ZIP">WAVPACK2.ZIP</a> - 45Kb<br>
+        Download: <a href="files/lossless/WAVPACK2.ZIP">WAVPACK2.ZIP</a> - 45kB<br>
         <br>
         Date: 1998-08-15<br>
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/WAVPACK1.ZIP">WAVPACK1.ZIP</a> - 43Kb<br>
+        Download: <a href="files/lossless/WAVPACK1.ZIP">WAVPACK1.ZIP</a> - 43kB<br>
         
 
         </blockquote></font>

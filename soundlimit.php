@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Sound Limit MP3 encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundlimit.png" target=outside><img src="screens/soundlimit.png" 
-        alt="Sound Limit 2.0" align=right height="70%"></a>
+        alt="Sound Limit 2.0" align=right height=214></a>
         Sound Limit is a shareware MP1/2/3 encoder and decoder created in Romania by 
         Eastern Digital.<br><br>
         
@@ -116,13 +116,13 @@
         Version: 2.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/slshw25r.zip">slshw25r.zip</a> - 1.143Kb<br>
+        Download: <a href="files/mpeg/slshw25r.zip">slshw25r.zip</a> - 1.143kB<br>
         <br>
         Date: 1998-09-21<br>
         Version: 2.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/sl20shw.zip">sl20shw.zip</a> - 1.218Kb<br>
+        Download: <a href="files/mpeg/sl20shw.zip">sl20shw.zip</a> - 1.218kB<br>
 
         </blockquote></font>
 

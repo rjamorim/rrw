@@ -106,7 +106,7 @@
         Version: 2.22<br>
         Interface: Graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/vocodecs/scutl222.zip">scutl222.zip</a> - 233Kb<br>
+        Download: <a href="files/vocodecs/scutl222.zip">scutl222.zip</a> - 233kB<br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>
 

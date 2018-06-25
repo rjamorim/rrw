@@ -108,33 +108,33 @@
         Version: 1.0 (Encoder)<br>
         Interface: Minimalistic (and buggy) graphical<br>
         Platform: Win16/Win32<br>
-        Download: <a href="files/vocodecs/tscnvrt1.exe">tscnvrt1.exe</a> - 81Kb<br>
+        Download: <a href="files/vocodecs/tscnvrt1.exe">tscnvrt1.exe</a> - 81kB<br>
         <br>
         Date: 1996-08-04<br>
         Version: 3.20b (Player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/tsply95.exe">tsply95.exe</a> - 942Kb<br>
+        Download: <a href="files/vocodecs/tsply95.exe">tsply95.exe</a> - 942kB<br>
         <a href="screens/truespeech-ply.png" target=outside><img src="screens/truespeech-ply.png" 
-        alt="TrueSpeech Player" align=right height="70%"></a>
+        alt="TrueSpeech Player" align=right height=136></a>
         <br>
         Date: 1996-03-20<br>
         Version: 3.10b (Player)<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/vocodecs/tsply311.zip">tsply311.zip</a> - 989Kb<br>
+        Download: <a href="files/vocodecs/tsply311.zip">tsply311.zip</a> - 989kB<br>
         <br>
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
         Platform: MacOS Classic 68K<br>
-        Download: <a href="files/vocodecs/tspmac68.hqx">tspmac68.hqx</a> - 353Kb<br>
+        Download: <a href="files/vocodecs/tspmac68.hqx">tspmac68.hqx</a> - 353kB<br>
         <br>
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
         Platform: MacOS Classic PPC<br>
-        Download: <a href="files/vocodecs/tsppwrmc.hqx">tsppwrmc.hqx</a> - 386Kb<br>
+        Download: <a href="files/vocodecs/tsppwrmc.hqx">tsppwrmc.hqx</a> - 386kB<br>
 
         </blockquote></font>
 

@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/xing-enc.png" target=outside><img src="screens/xing-enc.png" 
-        alt="Xing Encoder" align=right height="75%"></a>
+        alt="Xing Encoder" align=right height=290></a>
         The Xing MP3 encoder was created, seemingly from scratch, by the Xing Technology 
         Corporation with a primary goal in mind: creating a very fast encoder.<br><br>
         
@@ -123,31 +123,31 @@
         Version: 1.5b9<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/MP3EN15.EXE">MP3EN15.EXE</a> - 1.841Kb<br>
+        Download: <a href="files/xing/MP3EN15.EXE">MP3EN15.EXE</a> - 1.841kB<br>
         <br>
         Date: 2005-07-23<br>
         Version: 5.0 (MSVC compile)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/helix_mp3enc_r11_vc7.zip">helix_mp3enc_r11_vc7.zip</a> - 113Kb<br>
+        Download: <a href="files/xing/helix_mp3enc_r11_vc7.zip">helix_mp3enc_r11_vc7.zip</a> - 113kB<br>
         <br>
         Date: 2005-07-23<br>
         Version: 5.0 (ICL compile)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/helix_mp3enc_r11_icl9.zip">helix_mp3enc_r11_icl9.zip</a> - 157Kb<br>
+        Download: <a href="files/xing/helix_mp3enc_r11_icl9.zip">helix_mp3enc_r11_icl9.zip</a> - 157kB<br>
         <br>
         Date: 2005-07-23<br>
         Version: 5.0 (64 bits)<br>
         Interface: Command line<br>
         Platform: Win64<br>
-        Download: <a href="files/xing/helix_mp3enc_r11_x64.zip">helix_mp3enc_r11_x64.zip</a> - 156Kb<br>
+        Download: <a href="files/xing/helix_mp3enc_r11_x64.zip">helix_mp3enc_r11_x64.zip</a> - 156kB<br>
         <br>
         Date: 2005-07-23<br>
         Version: 5.0<br>
         Interface: Command line<br>
         Platform: sources<br>
-        Download: <a href="files/xing/helix_mp3enc_5.0r11.tar.gz">helix_mp3enc_5.0r11.tar.gz</a> - 230Kb<br>
+        Download: <a href="files/xing/helix_mp3enc_5.0r11.tar.gz">helix_mp3enc_5.0r11.tar.gz</a> - 230kB<br>
         
 
         </blockquote></font>

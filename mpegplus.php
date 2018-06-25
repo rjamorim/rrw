@@ -107,7 +107,7 @@
         his participation in its development to a minimum. Even though he also released
         the codec sources, very little was done by third parties ever since.<br><br>
         
-        Now, Musepack was indeed a great codec in the late 90s and early 2000s. The 
+        Now, Musepack was indeed a great format in the late 90s and early 2000s. The 
         competition was quite unremarkable: Ogg Vorbis was still at the beta stage, 
         the only serious AAC implementation was <a href="aacenc.php">Psytel AAC</a>, 
         a quite slow encoder, and <a href="lame.php">LAME</a> was far from being the 
@@ -122,7 +122,7 @@
         
         So, while Musepack lagged behind, competition quickly catched up. In that
         context, where Musepack is no longer the undisputed champion of quality and 
-        speed, its downsides become more proeminent: near to nonexistant portable
+        speed, its downsides become more preeminent: near to nonexistant portable
         player support, suboptimal seeking, no support for multichannel streams, 
         no hability to cut and paste streams, and so on. That led former enthusiasts 
         to abandon the format and move on to better supported options. Today, 
@@ -143,146 +143,146 @@
         Version: 1.15u<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpp/mppenc-windows-1.15u.zip">mppenc-windows-1.15u.zip</a> - 97Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.15u.zip">mppenc-windows-1.15u.zip</a> - 97kB<br>
         <br>
         Date: 2005-01-28<br>
         Version: 1.15t<br>
-        Download: <a href="files/mpp/mppenc-windows-1.15t.zip">mppenc-windows-1.15t.zip</a> - 54Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.15t.zip">mppenc-windows-1.15t.zip</a> - 54kB<br>
         <br>
         <hr>
         <center> Versions by Frank Klemm </center>
         <br>
         Date: 2003-02-19<br>
         Version: 1.15r<br>
-        Download: <a href="files/mpp/mppenc-windows-1.15r.zip">mppenc-windows-1.15r.zip</a> - 78Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.15r.zip">mppenc-windows-1.15r.zip</a> - 78kB<br>
         <br>
         Date: 2003-01-27<br>
         Version: 1.15i<br>
-        Download: <a href="files/mpp/mppenc-windows-1.15i.zip">mppenc-windows-1.15i.zip</a> - 76Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.15i.zip">mppenc-windows-1.15i.zip</a> - 76kB<br>
         <br>
         Date: 2002-12-18<br>
         Version: 1.15f<br>
-        Download: <a href="files/mpp/mppenc-windows-1.15f.zip">mppenc-windows-1.15f.zip</a> - 76Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.15f.zip">mppenc-windows-1.15f.zip</a> - 76kB<br>
         <br>
         Date: 2002-10-26<br>
         Version: 1.14<br>
-        Download: <a href="files/mpp/mppenc-windows-1.14.zip">mppenc-windows-1.14.zip</a> - 75Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.14.zip">mppenc-windows-1.14.zip</a> - 75kB<br>
         <br>
         Date: 2002-10-13<br>
         Version: 1.13g<br>
-        Download: <a href="files/mpp/mppenc-windows-1.13g.zip">mppenc-windows-1.13g.zip</a> - 76Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.13g.zip">mppenc-windows-1.13g.zip</a> - 76kB<br>
         <br>
         Date: 2002-10-09<br>
         Version: 1.13a<br>
-        Download: <a href="files/mpp/mppenc-windows-1.13a.zip">mppenc-windows-1.13a.zip</a> - 75Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.13a.zip">mppenc-windows-1.13a.zip</a> - 75kB<br>
         <br>
         Date: 2002-10-08<br>
         Version: 1.12<br>
-        Download: <a href="files/mpp/mppenc-windows-1.12.zip">mppenc-windows-1.12.zip</a> - 392Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.12.zip">mppenc-windows-1.12.zip</a> - 392kB<br>
         <br>
         Date: 2002-08-26<br>
         Version: 1.11b<br>
-        Download: <a href="files/mpp/mppenc-windows-1.11b.zip">mppenc-windows-1.11b.zip</a> - 72Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.11b.zip">mppenc-windows-1.11b.zip</a> - 72kB<br>
         <br>
         Date: 2002-08-26<br>
         Version: 1.11a<br>
-        Download: <a href="files/mpp/mppenc-windows-1.11a.zip">mppenc-windows-1.11a.zip</a> - 393Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.11a.zip">mppenc-windows-1.11a.zip</a> - 393kB<br>
         <br>
         Date: 2002-07-31<br>
         Version: 1.1<br>
-        Download: <a href="files/mpp/mppenc-windows-1.1.zip">mppenc-windows-1.1.zip</a> - 396Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.1.zip">mppenc-windows-1.1.zip</a> - 396kB<br>
         <br>
         Date: 2002-07-08<br>
         Version: 1.06<br>
-        Download: <a href="files/mpp/mppenc-windows-1.06.zip">mppenc-windows-1.06.zip</a> - 399Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.06.zip">mppenc-windows-1.06.zip</a> - 399kB<br>
         <br>
         Date: 2002-07-02<br>
         Version: 1.05z3<br>
-        Download: <a href="files/mpp/mppenc-windows-1.05z3.zip">mppenc-windows-1.05z3.zip</a> - 395Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.05z3.zip">mppenc-windows-1.05z3.zip</a> - 395kB<br>
         <br>
         Date: 2002-06-28<br>
         Version: 1.05z2<br>
-        Download: <a href="files/mpp/mppenc-windows-1.05z2.zip">mppenc-windows-1.05z2.zip</a> - 182Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.05z2.zip">mppenc-windows-1.05z2.zip</a> - 182kB<br>
         <br>
         Date: 2002-06-27<br>
         Version: 1.05z1<br>
-        Download: <a href="files/mpp/mppenc-windows-1.05z1.zip">mppenc-windows-1.05z1.zip</a> - 208Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.05z1.zip">mppenc-windows-1.05z1.zip</a> - 208kB<br>
         <br>
         Date: 2002-05-27<br>
         Version: 1.04<br>
-        Download: <a href="files/mpp/mppenc-windows-1.04.zip">mppenc-windows-1.04.zip</a> - 379Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.04.zip">mppenc-windows-1.04.zip</a> - 379kB<br>
         <br>
         Date: 2002-05-13<br>
         Version: 1.02<br>
-        Download: <a href="files/mpp/mppenc-windows-1.02.zip">mppenc-windows-1.02.zip</a> - 375Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.02.zip">mppenc-windows-1.02.zip</a> - 375kB<br>
         <br>
         Date: 2002-05-04<br>
         Version: 1.01j<br>
-        Download: <a href="files/mpp/mppenc-windows-1.01j.zip">mppenc-windows-1.01j.zip</a> - 370Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.01j.zip">mppenc-windows-1.01j.zip</a> - 370kB<br>
         <br>
         Date: 2002-03-26<br>
         Version: 1.0<br>
-        Download: <a href="files/mpp/mppenc-windows-1.0.zip">mppenc-windows-1.0.zip</a> - 381Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-1.0.zip">mppenc-windows-1.0.zip</a> - 381kB<br>
         <br>
         Date: 2002-01-11<br>
         Version: 0.90s<br>
-        Download: <a href="files/mpp/mppenc-windows-0.90s.zip">mppenc-windows-0.90s.zip</a> - 162Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-0.90s.zip">mppenc-windows-0.90s.zip</a> - 162kB<br>
         <br>
         Date: 2001-12-18<br>
         Version: 0.90o<br>
-        Download: <a href="files/mpp/mppenc-windows-0.90o.zip">mppenc-windows-0.90o.zip</a> - 161Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-0.90o.zip">mppenc-windows-0.90o.zip</a> - 161kB<br>
         <br>
         Date: 2001-12-12<br>
         Version: 0.90m<br>
-        Download: <a href="files/mpp/mppenc-windows-0.90m.zip">mppenc-windows-0.90m.zip</a> - 159Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-0.90m.zip">mppenc-windows-0.90m.zip</a> - 159kB<br>
         <br>
         Date: 2001-11-26<br>
         Version: 0.90k<br>
-        Download: <a href="files/mpp/mppenc-windows-0.90k.zip">mppenc-windows-0.90k.zip</a> - 69Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-0.90k.zip">mppenc-windows-0.90k.zip</a> - 69kB<br>
         <br>
         Date: 2001-11-14<br>
         Version: 0.90i<br>
-        Download: <a href="files/mpp/mppenc-windows-0.90i.zip">mppenc-windows-0.90i.zip</a> - 138Kb<br>
+        Download: <a href="files/mpp/mppenc-windows-0.90i.zip">mppenc-windows-0.90i.zip</a> - 138kB<br>
         <br>
         <hr>
         <center> Versions by Andree Buschmann </center>
         <br>
         Date: 2001-07-10<br>
         Version: 1.7.9c<br>
-        Download: <a href="files/mpp/mppenc_1_7_9c.zip">mppenc_1_7_9c.zip</a> - 78Kb<br>
+        Download: <a href="files/mpp/mppenc_1_7_9c.zip">mppenc_1_7_9c.zip</a> - 78kB<br>
         <br>
         Date: 2001-05-06<br>
         Version: 1.7.9a<br>
-        Download: <a href="files/mpp/mppenc_1_7_9a.zip">mppenc_1_7_9a.zip</a> - 78Kb<br>
+        Download: <a href="files/mpp/mppenc_1_7_9a.zip">mppenc_1_7_9a.zip</a> - 78kB<br>
         <br>
         Date: 2001-04-03<br>
         Version: 1.7.9<br>
-        Download: <a href="files/mpp/mppenc_1_7_9.zip">mppenc_1_7_9.zip</a> - 77Kb<br>
+        Download: <a href="files/mpp/mppenc_1_7_9.zip">mppenc_1_7_9.zip</a> - 77kB<br>
         <br>
         Date: 2000-11-24<br>
         Version: 1.7.8<br>
-        Download: <a href="files/mpp/mppenc_1_7_8.zip">mppenc_1_7_8.zip</a> - 73Kb<br>
+        Download: <a href="files/mpp/mppenc_1_7_8.zip">mppenc_1_7_8.zip</a> - 73kB<br>
         <br>
         Date: 2000-07-05<br>
         Version: N/A (SV5)<br>
-        Download: <a href="files/mpp/mppsv5.zip">mppsv5.zip</a> - 68Kb<br>
+        Download: <a href="files/mpp/mppsv5.zip">mppsv5.zip</a> - 68kB<br>
         <i>Found by Roberto Amorim</i><br>
         <br>
         Date: 2000-01-06<br>
         Version: N/A (SV4)<br>
-        Download: <a href="files/mpp/mppsv4.zip">mppsv4.zip</a> - 63Kb<br>
+        Download: <a href="files/mpp/mppsv4.zip">mppsv4.zip</a> - 63kB<br>
         <i>Lots of thanks to Filburt (Adam) for providing the SV4 encoder</i><br>
         <br>
         Date: 2000-06-18<br>
         Version: N/A (SV5) - Decoder<br>
-        Download: <a href="files/mpp/mppdec.zip">mppdec.zip</a> - 50Kb<br>
+        Download: <a href="files/mpp/mppdec.zip">mppdec.zip</a> - 50kB<br>
         <i>Found by Roberto Amorim</i><br>
         <br>
         Date: 2000-06-22<br>
         Version: N/A (SV5)<br>
         Interface: Decoding library<br>
         Platform: Win32<br>
-        Download: <a href="files/mpp/mpplib.zip">mpplib.zip</a> - 33Kb<br>
+        Download: <a href="files/mpp/mpplib.zip">mpplib.zip</a> - 33kB<br>
         <i>Lots of thanks to Sebastian Knop for providing the SV5 apps</i>
 
         </blockquote></font>

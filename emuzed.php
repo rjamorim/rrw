@@ -109,7 +109,7 @@
         Version: ?<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/emuzed.zip">emuzed.zip</a> - 89Kb<br>
+        Download: <a href="files/aac/emuzed.zip">emuzed.zip</a> - 89kB<br>
 
         </blockquote></font>
 

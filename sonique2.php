@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/sonique2.png" target=outside><img src="screens/sonique2.png" 
-        alt="The interface of discord" align=right height="80%"></a>
+        alt="The interface of discord" align=right height=240></a>
         <p><i><b>Part of the following story is flawed. I'm leaving it here for humour
         purposes. For a more truthful depiction of what really happened, read the bottom of
         the page.</b></i></p>
@@ -140,7 +140,7 @@
         Version: 2.0 alpha<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/sonique2.zip">sonique2.zip</a> - 1.531Kb<br>
+        Download: <a href="files/players/sonique2.zip">sonique2.zip</a> - 1.531kB<br>
         
         <br><br>
         <ul>

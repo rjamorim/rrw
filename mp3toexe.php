@@ -92,7 +92,7 @@
           <br><div align="justify"><b> MP3 to EXE </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mp32exe-creator.png" target=outside><img src="screens/mp32exe-creator.png" 
-        alt="MP3 to EXE converter interface" align=right height="75%"></a>
+        alt="MP3 to EXE converter interface" align=right height=208></a>
         MP3 to EXE is a shareware created by Oliver Buchjost with the goal of enabling
         MP3 files to be played stand-alone, with no need of a decoder or player. In
         fact, the player contains the MP3 file within itself.<br><br>
@@ -131,7 +131,7 @@
         Version: 2.6<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/mp3toexe.zip">mp3toexe.zip</a> - 980Kb<br>
+        Download: <a href="files/players/mp3toexe.zip">mp3toexe.zip</a> - 980kB<br>
 
         </blockquote></font>
 

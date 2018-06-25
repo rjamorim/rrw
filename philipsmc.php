@@ -110,7 +110,7 @@
         Version: 2.5<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/philipsmc.zip">philipsmc.zip</a> - 412Kb<br>
+        Download: <a href="files/mpeg/philipsmc.zip">philipsmc.zip</a> - 412kB<br>
 
         </blockquote></font>
 

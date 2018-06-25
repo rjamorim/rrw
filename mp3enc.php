@@ -112,44 +112,44 @@
         Version: 3.1<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_win32.zip">mp3encdemo_3_1_win32.zip</a> - 219Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_win32.zip">mp3encdemo_3_1_win32.zip</a> - 219kB<br>
         <br>
         Platform: Linux<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_linux.tgz">mp3encdemo_3_1_linux.tgz</a> - 207Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_linux.tgz">mp3encdemo_3_1_linux.tgz</a> - 207kB<br>
         <br>
         Platform: Solaris<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_solaris.tgz">mp3encdemo_3_1_solaris.tgz</a> - 236Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_solaris.tgz">mp3encdemo_3_1_solaris.tgz</a> - 236kB<br>
         <br>
         Platform: SunOS 4<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_sun4.tgz">mp3encdemo_3_1_sun4.tgz</a> - 227Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_sun4.tgz">mp3encdemo_3_1_sun4.tgz</a> - 227kB<br>
         <br>
         Platform: Irix<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_irix.tgz">mp3encdemo_3_1_irix.tgz</a> - 223Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_irix.tgz">mp3encdemo_3_1_irix.tgz</a> - 223kB<br>
         <br>
         Platform: Digital Unix<br>
-        Download: <a href="files/fhg/mp3encdemo_3_1_alpha.tgz">mp3encdemo_3_1_alpha.tgz</a> - 233Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_3_1_alpha.tgz">mp3encdemo_3_1_alpha.tgz</a> - 233kB<br>
         <br>
         <br>
         Date: 1998-03-25<br>
         Version: 3.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/mp3encdemo_win32.zip">mp3encdemo_win32.zip</a> - 209Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_win32.zip">mp3encdemo_win32.zip</a> - 209kB<br>
         <br>
         Platform: Linux<br>
-        Download: <a href="files/fhg/mp3encdemo_linux.tgz">mp3encdemo_linux.tgz</a> - 174Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_linux.tgz">mp3encdemo_linux.tgz</a> - 174kB<br>
         <br>
         Platform: Solaris<br>
-        Download: <a href="files/fhg/mp3encdemo_sol.tgz">mp3encdemo_sol.tgz</a> - 181Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_sol.tgz">mp3encdemo_sol.tgz</a> - 181kB<br>
         <br>
         Platform: SunOS 4<br>
-        Download: <a href="files/fhg/mp3encdemo_sun4.tgz">mp3encdemo_sun4.tgz</a> - 196Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_sun4.tgz">mp3encdemo_sun4.tgz</a> - 196kB<br>
         <br>
         Platform: Irix<br>
-        Download: <a href="files/fhg/mp3encdemo_irix.tgz">mp3encdemo_irix.tgz</a> - 190Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_irix.tgz">mp3encdemo_irix.tgz</a> - 190kB<br>
         <br>
         Platform: Digital Unix<br>
-        Download: <a href="files/fhg/mp3encdemo_alpha.tgz">mp3encdemo_alpha.tgz</a> - 196Kb<br>
+        Download: <a href="files/fhg/mp3encdemo_alpha.tgz">mp3encdemo_alpha.tgz</a> - 196kB<br>
 
         </blockquote></font>
 

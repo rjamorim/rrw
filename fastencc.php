@@ -108,25 +108,25 @@
         Version: 1.02<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/fastencc102.zip">fastencc102.zip</a> - 187Kb<br>
+        Download: <a href="files/fhg/fastencc102.zip">fastencc102.zip</a> - 187kB<br>
         <br>
         Date: 2001-06-06<br>
         Version: 1.01<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/fastencc101.zip">fastencc101.zip</a> - 192Kb<br>
+        Download: <a href="files/fhg/fastencc101.zip">fastencc101.zip</a> - 192kB<br>
         <br>
         Date: 2001-05-25<br>
         Version: 0.99pre<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/fastencc099.zip">fastencc099.zip</a> - 165Kb<br>
+        Download: <a href="files/fhg/fastencc099.zip">fastencc099.zip</a> - 165kB<br>
         <br>
         Date: 2000-03-10<br>
         Version: 3.1.1<br>
         Interface: Libraries + API<br>
         Platform: Win32<br>
-        Download: <a href="files/fhg/mp3enc.zip">mp3enc.zip</a> - 313Kb<br>
+        Download: <a href="files/fhg/mp3enc.zip">mp3enc.zip</a> - 313kB<br>
 
         </blockquote></font>
 

@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/aupec.png" target=outside><img src="screens/aupec.png" 
-        alt="AUPECg2" align=right height="50%"></a>
+        alt="AUPECg2" align=right height=268></a>
         AUPEC stands for Auckland University Perceptual Entropy Coder (g2 is for
         generation 2). It was developed by Mark Vinton as his undergraduate
         research project. <br><br>
@@ -111,14 +111,14 @@
         Version: g2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/AUPEC_Enc.exe">AUPEC_Enc.exe</a> - 632Kb<br>
-        Winamp Plugin: <a href="files/others/AUPEC_Plugin.exe">AUPEC_Plugin.exe</a> - 49Kb<br>
+        Download: <a href="files/others/AUPEC_Enc.exe">AUPEC_Enc.exe</a> - 632kB<br>
+        Winamp Plugin: <a href="files/others/AUPEC_Plugin.exe">AUPEC_Plugin.exe</a> - 49kB<br>
         <br>
         Date: 2000<br>
         Version: g2<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/others/aupec-cli.zip">aupec-cli.zip</a> - 84Kb<br>
+        Download: <a href="files/others/aupec-cli.zip">aupec-cli.zip</a> - 84kB<br>
 
         </blockquote></font>
 

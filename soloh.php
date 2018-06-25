@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soloh.png" target=outside><img src="screens/soloh.png" alt="SoloH" 
-        align=right height="60%"></a>
+        align=right height=284></a>
         SoloH is another dist10 compile that encodes MP1/2/3 files, only this time with a 
         fancy GUI instead of just a command line interface. Also, it works as a CD ripper. 
         For that reason, it became pretty popular in its time.<br><br>
@@ -110,31 +110,31 @@
         Version: 0.07a<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh007a.zip">soloh007a.zip</a> - 316Kb<br>
+        Download: <a href="files/mpeg/soloh007a.zip">soloh007a.zip</a> - 316kB<br>
         <br>
         Date: 1998-02-23<br>
         Version: 0.07<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh007.zip">soloh007.zip</a> - 316Kb<br>
+        Download: <a href="files/mpeg/soloh007.zip">soloh007.zip</a> - 316kB<br>
         <br>
         Date: 1997-12-04<br>
         Version: 0.06<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh006.zip">soloh006.zip</a> - 945Kb<br>
+        Download: <a href="files/mpeg/soloh006.zip">soloh006.zip</a> - 945kB<br>
         <br>
         Date: 1997-07-05<br>
         Version: 0.03<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh003.zip">soloh003.zip</a> - 899Kb<br>
+        Download: <a href="files/mpeg/soloh003.zip">soloh003.zip</a> - 899kB<br>
         <br>
         Date: 1998<br>
         Version: <br>
         Interface: Help file<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/soloh007-help.zip">soloh007-help.zip</a> - 56Kb<br>
+        Download: <a href="files/mpeg/soloh007-help.zip">soloh007-help.zip</a> - 56kB<br>
 
         </blockquote></font>
 

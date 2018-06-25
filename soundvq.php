@@ -113,28 +113,28 @@
         Version: 2.60b9 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b9e.exe">vqe260b9e.exe</a> - 1.874Kb<br>
+        Download: <a href="files/vqf/vqe260b9e.exe">vqe260b9e.exe</a> - 1.874kB<br>
         <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
-        alt="SoundVQ Encoder" align=right height="228"></a>
+        alt="SoundVQ Encoder" align=right height=228></a>
         <br>
         Date: 2000-10-30<br>
         Version: 2.60b3 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870Kb<br>
+        Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870kB<br>
         <br>
         Date: 2000-05-07<br>
         Version: 2.60b1 (encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b1e.exe">vqe260b1e.exe</a> - 1.871Kb<br>
+        Download: <a href="files/vqf/vqe260b1e.exe">vqe260b1e.exe</a> - 1.871kB<br>
         <i>Kindly contributed by Sebastian Knop.</i><br>
         <br>
         Date: 2000-03-20<br>
         Version: 2.52b1 (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/vqp252b1e.exe">vqp252b1e.exe</a> - 1.458Kb<br>
+        Download: <a href="files/vqf/vqp252b1e.exe">vqp252b1e.exe</a> - 1.458kB<br>
 
         </blockquote></font>
 

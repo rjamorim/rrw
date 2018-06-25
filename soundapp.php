@@ -107,19 +107,19 @@
         Version: 2.7.3<br>
         Interface: Graphical<br>
         Platform: MacOS Classic PPC<br>
-        Download: <a href="files/players/SoundApp_PPC273.sit">SoundApp_PPC273.sit</a> - 593Kb<br>
+        Download: <a href="files/players/SoundApp_PPC273.sit">SoundApp_PPC273.sit</a> - 593kB<br>
         <br>
         Date: 1998-04-16<br>
         Version: 2.5<br>
         Interface: Graphical<br>
         Platform: MacOS Classic 68K/PPC<br>
-        Download: <a href="files/players/Soundapp_fat25.sit.bin">Soundapp_fat25.sit.bin</a> - 877Kb<br>
+        Download: <a href="files/players/Soundapp_fat25.sit.bin">Soundapp_fat25.sit.bin</a> - 877kB<br>
         <br>
         Date: 1997-12-15<br>
         Version: 2.4.3<br>
         Interface: Graphical<br>
         Platform: MacOS Classic 68K/PPC<br>
-        Download: <a href="files/players/SoundApp_Fat243.sit.hqx">SoundApp_Fat243.sit.hqx</a> - 1106Kb<br>
+        Download: <a href="files/players/SoundApp_Fat243.sit.hqx">SoundApp_Fat243.sit.hqx</a> - 1106kB<br>
 
         </blockquote></font>
 

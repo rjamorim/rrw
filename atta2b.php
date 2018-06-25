@@ -92,7 +92,7 @@
           <br><div align="justify"><b>AT&amp;T a2b music</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/a2bmusic.png" target=outside><img src="screens/a2bmusic.png" 
-        alt="Indecence" align=right height="70%"></a>
+        alt="Indecence" align=right height=320></a>
         a2b music was an attempt at creating a digital music delivery system by 
         telecommunications giant AT&amp;T, fresh from the recording industry scare
         caused by the sudden popularity of the MP3 format.<br><br>
@@ -128,7 +128,7 @@
         Version: 2.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/setup_a2b_200.exe">setup_a2b_200.exe</a> - 2.559Kb<br>
+        Download: <a href="files/players/setup_a2b_200.exe">setup_a2b_200.exe</a> - 2.559kB<br>
 
         </blockquote></font>
 

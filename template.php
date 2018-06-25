@@ -91,7 +91,8 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>  </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        
+        <a href="screens/TEMPLATE.png" target=outside><img src="screens/TEMPLATE.png" 
+        alt="SoundVQ Encoder" align=right height=XXX>
         
 
         <br>
@@ -100,7 +101,7 @@
         Version: <br>
         Interface: <br>
         Platform: <br>
-        Download: <a href="files/"></a> - Kb<br>
+        Download: <a href="files/"></a> - kB<br>
 
         </blockquote></font>
 

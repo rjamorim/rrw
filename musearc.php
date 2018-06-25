@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/musearc.png" target=outside><img src="screens/musearc.png" 
-        alt="Musearc" align=right height="70%"></a>
+        alt="Musearc" align=right height=247></a>
         Musearc was yet another MPEG Audio (layers 2 and 3) player. It was a quite featureful 
         one, supporting playlists and displaying detailed information about the stream
         being played.<br><br>
@@ -111,7 +111,7 @@
         Version: 4.4.97.3 beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/musearc.zip">musearc.zip</a> - 226Kb<br>
+        Download: <a href="files/players/musearc.zip">musearc.zip</a> - 226kB<br>
 
         </blockquote></font>
 

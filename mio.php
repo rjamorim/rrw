@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/daru.png" target=outside><img src="screens/daru.png" 
-        alt="Daru" align=right height="60%"></a>
+        alt="Daru" align=right height=218></a>
         MIO (Music Interleaved and Orthogonal transformated format) is an obscure 
         codec developed in Japan for usage in game music by Entis Lab.<br><br>
         
@@ -121,13 +121,13 @@
         Version: R43<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/Daru.zip">Daru.zip</a> - 568Kb<br>
+        Download: <a href="files/others/Daru.zip">Daru.zip</a> - 568kB<br>
         <br>
         Date: 2203 (!) (actually, 2003-11-03)<br>
         Version: 1.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/others/in_mio.zip">in_mio.zip</a> - 61Kb<br>
+        Download: <a href="files/others/in_mio.zip">in_mio.zip</a> - 61kB<br>
         
 
         </blockquote></font>

@@ -108,19 +108,19 @@
         Version: ?<br>
         Interface: CoolEdit filter<br>
         Platform: Win32<br>
-        Download: <a href="files/others/coolmp32.zip">coolmp32.zip</a> - 97Kb<br>
+        Download: <a href="files/others/coolmp32.zip">coolmp32.zip</a> - 97kB<br>
         <br>
         Date: 1998<br>
         Version: ?<br>
         Interface: CoolEdit filter<br>
         Platform: Win32<br>
-        Download: <a href="files/others/gnump3.zip">gnump3.zip</a> - 128Kb<br>
+        Download: <a href="files/others/gnump3.zip">gnump3.zip</a> - 128kB<br>
         <br>
         Date: 2000-2001<br>
         Version: ?<br>
         Interface: CoolEdit filter<br>
         Platform: Win32<br>
-        Download: <a href="files/others/PPfilters.zip">PPfilters.zip</a> - 850Kb<br>
+        Download: <a href="files/others/PPfilters.zip">PPfilters.zip</a> - 850kB<br>
 
         </blockquote></font>
 

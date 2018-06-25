@@ -100,7 +100,7 @@
         decode both at playback time. A standard MP3 decoder would decode only the low
         frequencies, seriously impacting quality.<br><br>
 
-        Besides the official PlusV tools, am also hosting here some additional ones 
+        Besides the official PlusV tools, I am also hosting here some additional ones 
         developed by "gameplaya15143": an interleaver to merge mp3 + pv streams, and a 
         modified plusv.exe with fixes and extra functionality.<br><br>
         
@@ -120,25 +120,25 @@
         Version: 1.10<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/plusv110-win32bin.zip">plusv110-win32bin.zip</a> - 372Kb<br>
+        Download: <a href="files/mpeg/plusv110-win32bin.zip">plusv110-win32bin.zip</a> - 372kB<br>
         <br>
         Date: 2001-11-17<br>
         Version: 0.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/in_plusv.exe">in_plusv.exe</a> - 85Kb<br>
+        Download: <a href="files/mpeg/in_plusv.exe">in_plusv.exe</a> - 85kB<br>
         <br>
         Date: 2001-12-17<br>
         Version: 1.10<br>
         Interface: -<br>
         Platform: Source code<br>
-        Download: <a href="files/mpeg/plusv-1.10-source.tar.gz">plusv-1.10-source.tar.gz</a> - 72Kb<br>
+        Download: <a href="files/mpeg/plusv-1.10-source.tar.gz">plusv-1.10-source.tar.gz</a> - 72kB<br>
         <br>
         Date: 2006-05-08<br>
         Version: GP mod<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/plusv-tools-GP.zip">plusv-tools-GP.zip</a> - 210Kb<br>
+        Download: <a href="files/mpeg/plusv-tools-GP.zip">plusv-tools-GP.zip</a> - 210kB<br>
 
         </blockquote></font>
 

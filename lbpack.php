@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/lbpack.png" target=outside><img src="screens/lbpack.png" 
-        alt="LBPack player" align=right height="80%"></a>
+        alt="LBPack player" align=right height=263></a>
         LBPack (Low Bitrate Packer and Player) was created around 1997 by Dmitry Shmunk, 
         an engineer working at the Budker Institute of Nuclear Physics in Russia. He 
         later went on to work at QDesign in Canada, and LBpack became the <a 
@@ -120,7 +120,7 @@
         Version: 1.60<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
-        Download: <a href="files/others/lb.zip">lb.zip</a> - 154Kb<br>
+        Download: <a href="files/others/lb.zip">lb.zip</a> - 154kB<br>
         
         </blockquote></font>
 

@@ -105,13 +105,13 @@
         Version: 0.4a<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/uzura3.zip">uzura3.zip</a> - 189Kb<br>
+        Download: <a href="files/mpeg/uzura3.zip">uzura3.zip</a> - 189kB<br>
         <br>
         Date: 2002-11-24<br>
         Version: N/A<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/uzura1.zip">uzura1.zip</a> - 138Kb<br>
+        Download: <a href="files/mpeg/uzura1.zip">uzura1.zip</a> - 138kB<br>
         <br>
         <i>Compiles provided by John33</i><br>
 

@@ -103,19 +103,19 @@
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/vocodecs/espch10.zip">espch10.zip</a> - 96Kb<br>
+        Download: <a href="files/vocodecs/espch10.zip">espch10.zip</a> - 96kB<br>
         <br>
         Date: 1997-02-12<br>
         Version: 1.5 (player)<br>
         Interface: Browser plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/npe32_15.zip">npe32_15.zip</a> - 41Kb<br>
+        Download: <a href="files/vocodecs/npe32_15.zip">npe32_15.zip</a> - 41kB<br>
         <br>
         Date: 1997-02-12<br>
         Version: 1.5 (player)<br>
         Interface: Browser plugin<br>
         Platform: Win16<br>
-        Download: <a href="files/vocodecs/npe16_15.zip">npe16_15.zip</a> - 33Kb<br>
+        Download: <a href="files/vocodecs/npe16_15.zip">npe16_15.zip</a> - 33kB<br>
         <br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>

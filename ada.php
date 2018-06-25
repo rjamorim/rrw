@@ -102,7 +102,7 @@
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/ada.zip">ada.zip</a> - 23Kb<br>
+        Download: <a href="files/lossless/ada.zip">ada.zip</a> - 23kB<br>
 
         </blockquote></font>
 

@@ -92,7 +92,7 @@
           <br><div align="justify"><b>ALF2 CD codec</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/alf2cd.png" target=outside><img src="screens/alf2cd.png" 
-        alt="ALF2 CD" align=right height="60%"></a>
+        alt="ALF2 CD" align=right height=245></a>
         ALF2 CD is a very obscure format created by developers Lev Bannov and 
         Aleksei Myasnikov at Russian company NCT Soft in the early 2000s.<br><br>
         
@@ -117,13 +117,13 @@
         Version: 2.30<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/ALF2CD-230.exe">ALF2CD-230.exe</a> - 1.424Kb<br>
+        Download: <a href="files/others/ALF2CD-230.exe">ALF2CD-230.exe</a> - 1.424kB<br>
         <br>
         Date: 2001-02-28<br>
         Version: 2.01<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/ALF2CD-201.exe">ALF2CD-201.exe</a> - 1.131Kb<br>
+        Download: <a href="files/others/ALF2CD-201.exe">ALF2CD-201.exe</a> - 1.131kB<br>
 
         </blockquote></font>
 

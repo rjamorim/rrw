@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/tac.png" target=outside><img src="screens/tac.png" 
-        alt="TAC demo 5" align=right height="65%"></a>
+        alt="TAC demo 5" align=right height=290></a>
         TAC (Transparent Audio Codec) was developed at K+K research, which comprised
         two developers: Kevin Anderson (KA) and Karsten Madsen (KM).<br><br>
         
@@ -127,13 +127,13 @@
         Version: 05 demo<br>
         Interface: Command Line + Frontend<br>
         Platform: Win32<br>
-        Download: <a href="files/others/tacdemo5.zip">tacdemo5.zip</a> - 109Kb<br>
+        Download: <a href="files/others/tacdemo5.zip">tacdemo5.zip</a> - 109kB<br>
         <br>
         Date: 1999-11-25<br>
         Version: 04 demo<br>
         Interface: Command Line + Frontend<br>
         Platform: Win32<br>
-        Download: <a href="files/others/tacdemo4.zip">tacdemo4.zip</a> - 78Kb<br>
+        Download: <a href="files/others/tacdemo4.zip">tacdemo4.zip</a> - 78kB<br>
         
         </blockquote></font>
 

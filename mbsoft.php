@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mbsoft.png" target=outside><img src="screens/mbsoft.png" 
-        alt="MBSoft Encoder" align=right height="60%"></a>
+        alt="MBSoft Encoder" align=right height=183></a>
         MBsoft started around 1998 from Menno Bakker's work on the AAC reference 
         sources.<br><br>
         
@@ -112,19 +112,19 @@
         Version: 0.3 (includes Audiograbber plugin)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbaacenc03.zip">mbaacenc03.zip</a> - 202Kb<br>
+        Download: <a href="files/aac/mbsoft/mbaacenc03.zip">mbaacenc03.zip</a> - 202kB<br>
         <br>
         Date: 1999-04-16<br>
         Version: 0.2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbaacenc02.zip">mbaacenc02.zip</a> - 78Kb<br>
+        Download: <a href="files/aac/mbsoft/mbaacenc02.zip">mbaacenc02.zip</a> - 78kB<br>
         <br>
         Date: 1999-05-19<br>
         Version: 0.1<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbsoft_in_aac.zip">mbsoft_in_aac.zip</a> - 64Kb<br>
+        Download: <a href="files/aac/mbsoft/mbsoft_in_aac.zip">mbsoft_in_aac.zip</a> - 64kB<br>
 
         </blockquote></font>
 

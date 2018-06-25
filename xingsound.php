@@ -112,13 +112,13 @@
         Version: ?<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/xing/mpgaudio2.exe">mpgaudio2.exe</a> - 114Kb<br>
+        Download: <a href="files/xing/mpgaudio2.exe">mpgaudio2.exe</a> - 114kB<br>
         <br>
         Date: 1993-07-23<br>
         Version: ?<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107Kb<br>
+        Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107kB<br>
         <br><br>
         
         <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
@@ -133,7 +133,7 @@
         Version: 1.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/mp3p101.exe">mp3p101.exe</a> - 2.105Kb<br>
+        Download: <a href="files/xing/mp3p101.exe">mp3p101.exe</a> - 2.105kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
         
         </blockquote></font>

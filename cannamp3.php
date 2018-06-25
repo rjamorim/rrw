@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>CannaMP3 encoder</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/cannamp3.png" target=outside><img src="screens/cannamp3.png" 
-        alt="CannaMP3" align=right height="90%"></a>
+        alt="CannaMP3" align=right height=288></a>
         CannaMP3 is an MP3 encoder developed by the programmer Gabriele Cannata. 
         It comes with a GUI, and is able to encode directly from CDs through 
         digital audio extraction. <br><br>
@@ -113,13 +113,13 @@
         Version: 1.2.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/cannamp3.zip">cannamp3.zip</a> - 185Kb<br>
+        Download: <a href="files/mpeg/cannamp3.zip">cannamp3.zip</a> - 185kB<br>
         <br>
         Date: 1998-08-13<br>
         Version: 1.0.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/cannamp3v1.zip">cannamp3v1.zip</a> - 174Kb<br>
+        Download: <a href="files/mpeg/cannamp3v1.zip">cannamp3v1.zip</a> - 174kB<br>
 
         </blockquote></font>
 

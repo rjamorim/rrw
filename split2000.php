@@ -107,9 +107,9 @@
         Version: 1.0.0<br>
         Interface: Graphical or command line<br>
         Platform: Linux<br>
-        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113Kb<br>
+        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
         Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110Kb<br>
+        - 110kB<br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i> <br>
         <br>        
@@ -118,7 +118,7 @@
         He was kind enough to provide diff files and precompiled binaries that were compiled
         on Debian/unstable.<br>
         Very big thanks!<br>
-        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167Kb.
+        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
 
         </blockquote></font>
 

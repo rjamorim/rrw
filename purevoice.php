@@ -110,13 +110,13 @@
         Version: 1.32<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/PureWin132.exe">PureWin132.exe</a> - 1.354Kb<br>
+        Download: <a href="files/vocodecs/PureWin132.exe">PureWin132.exe</a> - 1.354kB<br>
         <br>
         Date: 1998-08-06<br>
         Version: 1.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/PVconvert.zip">PVconvert.zip</a> - 70Kb<br>
+        Download: <a href="files/vocodecs/PVconvert.zip">PVconvert.zip</a> - 70kB<br>
 
         </blockquote></font>
 

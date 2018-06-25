@@ -114,14 +114,14 @@
         Version: 0.1.4<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/Shine.zip">Shine.zip</a> - 61Kb<br>
+        Download: <a href="files/mpeg/Shine.zip">Shine.zip</a> - 61kB<br>
         <br>
         Date: 2003-10-18<br>
         Version: 1.09<br>
         Interface: Command line<br>
         Platform: RISCOS StrongARM<br>
-        Download: <a href="files/mpeg/sh109.zip">sh109.zip</a> - 25Kb<br>
-        Fixed point souce code: <a href="files/mpeg/shinefixed.zip">shinefixed.zip</a> - 39Kb<br>
+        Download: <a href="files/mpeg/sh109.zip">sh109.zip</a> - 25kB<br>
+        Fixed point souce code: <a href="files/mpeg/shinefixed.zip">shinefixed.zip</a> - 39kB<br>
 
         </blockquote></font>
 

@@ -92,7 +92,7 @@
           <br><div align="justify"><b>M&eacute;tis MP3 player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/metis.png" target=outside><img src="screens/metis.png" 
-        alt="Metis MP3 player" align=right height="75%"></a>
+        alt="Metis MP3 player" align=right height=212></a>
         M&eacute;tis is a very obscure MP3 player created by <a 
         href="http://www.audionetworks.com" target=outside>AudioNetworks</a>
         to showcase their DASE technology, meant to improve sound quality of 
@@ -118,7 +118,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/metis.exe">metis.exe</a> - 1.439Kb<br>
+        Download: <a href="files/players/metis.exe">metis.exe</a> - 1.439kB<br>
 
         </blockquote></font>
 

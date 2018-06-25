@@ -112,13 +112,13 @@
         Version: 1.60<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/scmpx16e.zip">scmpx16e.zip</a> - 271Kb<br>
+        Download: <a href="files/mpeg/scmpx16e.zip">scmpx16e.zip</a> - 271kB<br>
         <br>
         Date: 1999-08-30<br>
         Version: 1.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/scmpx.zip">scmpx.zip</a> - 426Kb<br>
+        Download: <a href="files/mpeg/scmpx.zip">scmpx.zip</a> - 426kB<br>
 
         </blockquote></font>
 

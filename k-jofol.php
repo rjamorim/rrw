@@ -92,7 +92,7 @@
           <br><div align="justify"><b>K-J&ouml;fol Audio Player</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/k-jofol.png" target=outside><img src="screens/k-jofol.png" 
-        alt="K-Jofol 2000" align=right height="75%"></a>
+        alt="K-Jofol 2000" align=right height=167></a>
         K-J&ouml;fol was a pretty popular audio player in its heyday, around 1999-2000.<br><br>
         
         One reason it became so popular is that it was the first real player supporting 
@@ -114,20 +114,20 @@
         Version: 2000beta2<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/kjofol2000b2.exe">kjofol2000b2.exe</a> - 1.774Kb<br>
+        Download: <a href="files/players/kjofol2000b2.exe">kjofol2000b2.exe</a> - 1.774kB<br>
         <br>
         Date: 1999-01-18<br>
         Version: 0.51<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/kjofol051.exe">kjofol051.exe</a> - 1.391Kb<br>
+        Download: <a href="files/players/kjofol051.exe">kjofol051.exe</a> - 1.391kB<br>
         <i>Kindly contributed by Mitiok</i><br>
         <br>
         Date: 1998-11-01<br>
         Version: 0.42<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/kjofol042.exe">kjofol042.exe</a> - 763Kb<br>
+        Download: <a href="files/players/kjofol042.exe">kjofol042.exe</a> - 763kB<br>
         <i>Kindly contributed by Lars Viklund</i>
 
         </blockquote></font>

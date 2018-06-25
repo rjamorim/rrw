@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/m3e.png" target=outside><img src="screens/m3e.png" 
-        alt="M3E encoder translated by Harashin" align=right height="50%"></a>
+        alt="M3E encoder translated by Harashin" align=right height=260></a>
         M3E is an encoder that was only popular in Japan. It started being developed 
         in 1999 by Wata-Ken. It implemented an unique VBR method (at that time only 
         <a href="xing.php">Xing</a> and <a href="lame.php">LAME</a> also offered VBR), 
@@ -118,13 +118,13 @@
         Version: 0.99a<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/M3E_B099a.zip">M3E_B099a.zip</a> - 775Kb<br>
+        Download: <a href="files/mpeg/M3E_B099a.zip">M3E_B099a.zip</a> - 775kB<br>
         <br>
         Date: 2000-01-02<br>
         Version: 0.98b<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/M3E_B098.zip">M3E_B098.zip</a> - 518Kb<br><br>
+        Download: <a href="files/mpeg/M3E_B098.zip">M3E_B098.zip</a> - 518kB<br><br>
         
 
         </blockquote></font>

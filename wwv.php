@@ -112,7 +112,7 @@
         Version: 1.02<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/wwv.zip">wwv.zip</a> - 152Kb<br>
+        Download: <a href="files/players/wwv.zip">wwv.zip</a> - 152kB<br>
 
         </blockquote></font>
 

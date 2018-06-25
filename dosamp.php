@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>Nullsoft DOSamp</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/dosamp.png" target=outside><img src="screens/dosamp.png" alt="DOSamp" 
-        align=right height="60%"></a>
+        align=right height=255></a>
         DOSamp was probably the first MP3 player for DOS (l3dec was only a decoder). It was 
         created by Justin Frankel, the same developer that created the hugely popular 
         <a href="http://www.winamp.com" target=outside>Winamp</a> player.<br><br>
@@ -110,7 +110,7 @@
         Version: 0.7/0.8 (the player itself does not seem to be too sure)<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/players/dosamp07.exe">dosamp07.exe</a> - 110Kb<br>
+        Download: <a href="files/players/dosamp07.exe">dosamp07.exe</a> - 110kB<br>
 
         </blockquote></font>
 

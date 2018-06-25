@@ -114,7 +114,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/xaudio-0.8a.i586-microsoft-win32.exe">
-        xaudio-0.8a.i586-microsoft-win32.exe</a> - 819Kb<br>
+        xaudio-0.8a.i586-microsoft-win32.exe</a> - 819kB<br>
 
         </blockquote></font>
 

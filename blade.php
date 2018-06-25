@@ -111,47 +111,47 @@
         Version: 0.94.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/blade/blade094.zip">blade094.zip</a> - 93Kb<br>
+        Download: <a href="files/blade/blade094.zip">blade094.zip</a> - 93kB<br>
         <br>
         Date: 2001-01-19<br>
         Version: 0.92.7<br>
-        Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178Kb<br>
+        Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178kB<br>
         <br>
         Date: 1999-12-31<br>
         Version: 0.91<br>
-        Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160Kb<br>
+        Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160kB<br>
         <br>
         <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
-        alt="BladeEnc for Mac" align=right height="80%"></a>
+        alt="BladeEnc for Mac" align=right height=244></a>
         Date: 1999-07-22<br>
         Version: 0.82<br>
-        Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118Kb<br>
+        Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118kB<br>
         <i>Submitted by ViPER1313</i><br>
         <br>
         Date: 1998-12-17<br>
         Version: 0.76<br>
-        Download: <a href="files/blade/blade076.zip">blade076.zip</a> - 100Kb<br>
+        Download: <a href="files/blade/blade076.zip">blade076.zip</a> - 100kB<br>
         <i>Submitted by SacRat</i><br>
         <br>
         Date: 1998-11-27<br>
         Version: 0.75<br>
-        Download: <a href="files/blade/blade075.zip">blade075.zip</a> - 199Kb<br>
+        Download: <a href="files/blade/blade075.zip">blade075.zip</a> - 199kB<br>
         <i>Submitted by SacRat</i><br>
         <br>
         Date: 1998-09-14<br>
         Version: 0.72<br>
-        Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107Kb<br>
+        Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107kB<br>
         <br>
         Date: 1998-07-06<br>
         Version: 0.60<br>
-        Download: <a href="files/blade/blade060.zip">blade060.zip</a> - 108Kb<br>
+        Download: <a href="files/blade/blade060.zip">blade060.zip</a> - 108kB<br>
         <br>
         <hr>
         Date: 2001-01-22<br>
         Version: 0.92.6 (GUI v1.4)<br>
         Interface: Graphical<br>
         Platform: MacOS Classic (PPC)<br>
-        Download: <a href="files/blade/blademac.sit">blademac.sit</a> - 529Kb<br>
+        Download: <a href="files/blade/blademac.sit">blademac.sit</a> - 529kB<br>
 
         </blockquote></font>
 

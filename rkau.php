@@ -115,7 +115,7 @@
         Version: 1.07<br>
         Interface: Command line + Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/rkau.zip">rkau.zip</a> - 42Kb<br>
+        Download: <a href="files/lossless/rkau.zip">rkau.zip</a> - 42kB<br>
 
         </blockquote></font>
 

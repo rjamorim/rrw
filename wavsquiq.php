@@ -97,8 +97,8 @@
         <i>WAVSQUIQ can compress any WAV file into smaller one which can be reproduced WITHOUT use of any 
         decoder/decompresser - just play it like you played original WAV!</i><br><br>
         
-        Well, I compressed a WAV running "wavsquiq.exe test.wav test1.wav". The file size went from 4879Kb
-        to 4878Kb (?). Then I tried playing the generated file in Winamp ("just play it like you played 
+        Well, I compressed a WAV running "wavsquiq.exe test.wav test1.wav". The file size went from 4879kB
+        to 4878kB (?). Then I tried playing the generated file in Winamp ("just play it like you played 
         original WAV!"), and there was nothing there but noise.<br><br>
         
         Maybe I am doing something wrong? If you know how to get this program to work as it is supposed to,
@@ -110,7 +110,7 @@
         Version: 0.90 beta<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9Kb<br>
+        Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9kB<br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>
 

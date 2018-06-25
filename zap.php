@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Emagic Zap</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/zap.png" target=outside><img src="screens/zap.png" 
-        alt="Zap demo. So ugly!" align=right height="70%"></a>
+        alt="Zap demo. So ugly!" align=right height=146></a>
         Zap, "Zero-loss Audio Packer", is a lossless compressor created by famous 
         German music software and hardware company Emagic, makers of the Logic 
         sequencer.<br><br>
@@ -120,19 +120,19 @@
         Version: 1.5<br>
         Interface: Graphical<br>
         Platform: MacOS Classic<br>
-        Download: <a href="files/lossless/zap15dem.sit">zap15dem.sit</a> - 717Kb<br>
+        Download: <a href="files/lossless/zap15dem.sit">zap15dem.sit</a> - 717kB<br>
         <br>
         Date: 1997-03-13<br>
         Version: 1.0.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/unzapwin.zip">unzapwin.zip</a> - 157Kb<br>
+        Download: <a href="files/lossless/unzapwin.zip">unzapwin.zip</a> - 157kB<br>
         <br>
         Date: 1997-05-07<br>
         Version: 1.1.4<br>
         Interface: Graphical<br>
         Platform: MacOS Classic<br>
-        Download: <a href="files/lossless/dezap.sit">dezap.sit</a> - 146Kb<br>
+        Download: <a href="files/lossless/dezap.sit">dezap.sit</a> - 146kB<br>
 
         </blockquote></font>
 

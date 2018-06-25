@@ -96,7 +96,8 @@
         here dates back to 1994. And the age shows - it is not very efficient.<br><br>
         
         Officially, it is a shareware program, but to my knowledge there are no
-        limitations. Registration is now impossible because the author disappeared.<br>
+        limitations. Registration is now impossible because the author, Richard 
+        P. Sprague, is unreachable.<br>
         
         <br>
         <br>
@@ -104,7 +105,7 @@
         Version: 2.1i<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/lossless/SonArc.zip">SonArc.zip</a> - 71Kb<br>
+        Download: <a href="files/lossless/SonArc.zip">SonArc.zip</a> - 71kB<br>
 
         </blockquote></font>
 

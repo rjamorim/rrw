@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>AudioLib - Elemedia's PAC</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiolib.png" target=outside><img src="screens/audiolib.png" 
-        alt="AudioLib" align=right height="75%"></a>
+        alt="AudioLib" align=right height=250></a>
         AudioLib, as the name implies, is an audio library management app. It was 
         developed by Celestial Technologies.<br><br>
         
@@ -122,7 +122,7 @@
         Version: 1.0.005<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/audiolib-1_0.exe">audiolib-1_0.exe</a> - 2.710Kb<br>
+        Download: <a href="files/others/audiolib-1_0.exe">audiolib-1_0.exe</a> - 2.710kB<br>
 
         </blockquote></font>
 

@@ -122,7 +122,7 @@
         Version: 0.7.6<br>
         Interface: Command line<br>
         Platform: Source code<br>
-        Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98Kb<br>
+        Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98kB<br>
         <i>Kindly contributed by Martin Guy.</i><br>
         <br>
         <a href="screens/amp076.png" target=outside><img src="screens/amp076.png" 
@@ -131,14 +131,14 @@
         Version: 0.6.4<br>
         Interface: Graphical<br>
         Platform: Win32 + Source code<br>
-        Download: <a href="files/players/G-amp-0.6.67.zip">G-amp-0.6.67.zip</a> - 124Kb<br>
+        Download: <a href="files/players/G-amp-0.6.67.zip">G-amp-0.6.67.zip</a> - 124kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2002-12-29<br>
         Version: 0.7.6-5<br>
         Interface: Graphical<br>
         Platform: Win32 + Source code<br>
-        Download: <a href="files/players/ampv0.7.6-win32.zip">ampv0.7.6-win32.zip</a> - 128Kb<br>
+        Download: <a href="files/players/ampv0.7.6-win32.zip">ampv0.7.6-win32.zip</a> - 128kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         
         </blockquote></font>

@@ -93,9 +93,9 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/toolvox-enc.png" target=outside><img src="screens/toolvox-enc.png" 
-        alt="Toolvox encoder" align=right height="65%"></a>
+        alt="Toolvox encoder" align=right height=314></a>
         <a href="screens/televox.png" target=outside><img src="screens/televox.png" 
-        alt="Televox" align=right height="60%"></a>
+        alt="Televox" align=right height=314></a>
 
         All VoxWare voice compression products are based on a proprietary technology
         that seems to be quite unique in the compression world: MetaVoice. Instead of 
@@ -120,13 +120,13 @@
         Version: 2.0 (Player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/tvp20.exe">tvp20.exe</a> - 1.062Kb<br>
+        Download: <a href="files/vocodecs/tvp20.exe">tvp20.exe</a> - 1.062kB<br>
         <br>
         Date: 1996-09-18<br>
         Version: 2.0.025 (Encoder)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/ToolVGld.exe">ToolVGld.exe</a> - 1.243Kb<br>
+        Download: <a href="files/vocodecs/ToolVGld.exe">ToolVGld.exe</a> - 1.243kB<br>
         <a href="screens/toolvox-ply.png" target=outside><img src="screens/toolvox-ply.png" 
         alt="Toolvox player" align=right></a>
         <br>
@@ -134,7 +134,7 @@
         Version: 2.5 (TeleVox)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vocodecs/televx25.exe">televx25.exe</a> - 1.849Kb<br>
+        Download: <a href="files/vocodecs/televx25.exe">televx25.exe</a> - 1.849kB<br>
 
         </blockquote></font>
 

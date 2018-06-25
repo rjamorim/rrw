@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiozip.png" target=outside><img src="screens/audiozip.png" 
-        alt="AudioZip" align=right height="50%"></a>
+        alt="AudioZip" align=right height=125></a>
         AudioZip has been developed at the Centre for Signal Processing - Nanyang 
         Technological University, in Singapore, by professor Lin Xiao. The compression
         ratio is good, but the compressor is quite slow.<br><br>
@@ -115,7 +115,7 @@
         Version: 3.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/lossless/AudioZip.zip">AudioZip.zip</a> - 578Kb<br>
+        Download: <a href="files/lossless/AudioZip.zip">AudioZip.zip</a> - 578kB<br>
 
         </blockquote></font>
 

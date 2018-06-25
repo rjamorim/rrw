@@ -93,9 +93,9 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/rjpa-pl.png" target=outside><img src="screens/rjpa-pl.png" 
-        alt="rJPa encoder" align=right height="50%"></a>
+        alt="rJPa playlist builder" align=right height=232></a>
         <a href="screens/rjpa-enc.png" target=outside><img src="screens/rjpa-enc.png" 
-        alt="rJPa encoder" align=right height="50%"></a>
+        alt="rJPa encoder" align=right height=232></a>
         rJPa is actually not an encoder, but a frontend for the tompg (Xing) MP1/2/3 
         encoder, which is illegally distributed with the installation (tompg.exe 
         mysteriously appears in \Windows\System32 after you install rJPa).<br><br>
@@ -112,7 +112,7 @@
         Version: 1.02<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/rjpa.zip">rjpa.zip</a> - 1.261Kb<br>
+        Download: <a href="files/xing/rjpa.zip">rjpa.zip</a> - 1.261kB<br>
         <br><br>
         
         Also available here is an MP1/2/3 decoder developed by the same author.<br>
@@ -122,7 +122,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/xing/mp32wav.zip">mp32wav.zip</a> - 302Kb<br>
+        Download: <a href="files/xing/mp32wav.zip">mp32wav.zip</a> - 302kB<br>
         <i>Kindly submitted by Mitiok</i><br>
 
         </blockquote></font>

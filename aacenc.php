@@ -92,7 +92,7 @@
           <br><div align="justify"> <b>Psytel AACenc and Fastenc</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/psytel.png" target=outside><img src="screens/psytel.png" 
-        alt="Psytel MPEG-4 Studio" align=right height="70%"></a>
+        alt="Psytel MPEG-4 Studio" align=right height=175></a>
         Psytel Research was a company in Yugoslavia working on an optimized implementation
         of the MPEG2/4 AAC standard. It was founded around 1998 by Ivan Dimkovic, the
         lead programmer.<br><br>
@@ -114,7 +114,7 @@
         target=outside>Internet Archive</a>.<br><br>
         
         Obs: AACenc and Fastenc require the Intel ia32math.dll library. Download it
-        <a href="files/aac/psytel/ia32math.zip">here</a> - 126Kb.<br>
+        <a href="files/aac/psytel/ia32math.zip">here</a> - 126kB.<br>
         
         <br>
         <br>
@@ -122,77 +122,77 @@
         Version: 2.15<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/psytel/aacenc215.zip">aacenc215.zip</a> - 141Kb<br>
+        Download: <a href="files/aac/psytel/aacenc215.zip">aacenc215.zip</a> - 141kB<br>
         <br>
         Date: 2002-02-10<br>
         Version: 2.12<br>
-        Download: <a href="files/aac/psytel/aacenc212.zip">aacenc212.zip</a> - 141Kb<br>
+        Download: <a href="files/aac/psytel/aacenc212.zip">aacenc212.zip</a> - 141kB<br>
         <br>
         Date: 2002-01-31<br>
         Version: 2.11<br>
-        Download: <a href="files/aac/psytel/aacenc211.zip">aacenc211.zip</a> - 141Kb<br>
+        Download: <a href="files/aac/psytel/aacenc211.zip">aacenc211.zip</a> - 141kB<br>
         <br>
         Date: 2002-01-17<br>
         Version: 2.1<br>
-        Download: <a href="files/aac/psytel/aacenc21.zip">aacenc21.zip</a> - 141Kb<br>
+        Download: <a href="files/aac/psytel/aacenc21.zip">aacenc21.zip</a> - 141kB<br>
         <br>
         Date: 2002-01-11<br>
         Version: 2.02<br>
-        Download: <a href="files/aac/psytel/aacenc202.zip">aacenc202.zip</a> - 139Kb<br>
+        Download: <a href="files/aac/psytel/aacenc202.zip">aacenc202.zip</a> - 139kB<br>
         <br>
         Date: 2002-01-04<br>
         Version: 2.01<br>
-        Download: <a href="files/aac/psytel/aacenc201.zip">aacenc201.zip</a> - 144Kb<br>
+        Download: <a href="files/aac/psytel/aacenc201.zip">aacenc201.zip</a> - 144kB<br>
         <br>
         Date: 2002-01-01<br>
         Version: 2.0 (Complete release package)<br>
-        Download: <a href="files/aac/psytel/aacenc20.zip">aacenc20.zip</a> - 528Kb<br>
+        Download: <a href="files/aac/psytel/aacenc20.zip">aacenc20.zip</a> - 528kB<br>
         <br>
         Date: 2001-12-26<br>
         Version: 1.61b<br>
-        Download: <a href="files/aac/psytel/aacenc161.zip">aacenc161.zip</a> - 143Kb<br>
+        Download: <a href="files/aac/psytel/aacenc161.zip">aacenc161.zip</a> - 143kB<br>
         <br>
         Date: 2001-12-22<br>
         Version: 1.6<br>
-        Download: <a href="files/aac/psytel/aacenc16.zip">aacenc16.zip</a> - 138Kb<br>
+        Download: <a href="files/aac/psytel/aacenc16.zip">aacenc16.zip</a> - 138kB<br>
         <br>
         Date: 2001-12-14<br>
         Version: 1.5<br>
-        Download: <a href="files/aac/psytel/aacenc15.zip">aacenc15.zip</a> - 137Kb<br>
+        Download: <a href="files/aac/psytel/aacenc15.zip">aacenc15.zip</a> - 137kB<br>
         <br>
         Date: 2001-12-06<br>
         Version: 1.3<br>
-        Download: <a href="files/aac/psytel/aacenc13.zip">aacenc13.zip</a> - 137Kb<br>
+        Download: <a href="files/aac/psytel/aacenc13.zip">aacenc13.zip</a> - 137kB<br>
         <br>
         Date: 2001-09-06<br>
         Version: 1.2<br>
-        Download: <a href="files/aac/psytel/aacenc12.zip">aacenc12.zip</a> - 137Kb<br>
+        Download: <a href="files/aac/psytel/aacenc12.zip">aacenc12.zip</a> - 137kB<br>
         <br>
         Date: 2001-04-19<br>
         Version: 1.0 (Complete release package)<br>
-        Download: <a href="files/aac/psytel/aacenc10c.zip">aacenc10c.zip</a> - 263Kb<br>
+        Download: <a href="files/aac/psytel/aacenc10c.zip">aacenc10c.zip</a> - 263kB<br>
         <br>
         Date: 2001-01-18<br>
         Version: 1.0b<br>
-        Download: <a href="files/aac/psytel/aacenc10b.zip">aacenc10b.zip</a> - 263Kb<br>
+        Download: <a href="files/aac/psytel/aacenc10b.zip">aacenc10b.zip</a> - 263kB<br>
         <br>
         Date: 2000-10-11<br>
         Version: 1.0a<br>
-        Download: <a href="files/aac/psytel/aacenc10a.zip">aacenc10a.zip</a> - 263Kb<br>
+        Download: <a href="files/aac/psytel/aacenc10a.zip">aacenc10a.zip</a> - 263kB<br>
         <br>
         <hr>
         Date: 2002-03-04<br>
         Version: 2.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/psytel/fastenc.zip">fastenc.zip</a> - 95Kb<br>
+        Download: <a href="files/aac/psytel/fastenc.zip">fastenc.zip</a> - 95kB<br>
         <br>
         <hr>
         Date: 1999-03-19<br>
         Version: experimental 1.0alpha2<br>
         Interface: Command line + frontend<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/psytel/studio1.0a2.zip">studio1.0a2.zip</a> - 262Kb<br>
+        Download: <a href="files/aac/psytel/studio1.0a2.zip">studio1.0a2.zip</a> - 262kB<br>
         </blockquote></font>
 
         <br><br>

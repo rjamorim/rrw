@@ -108,7 +108,7 @@
         Version: 1.05<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/bitaac.zip">bitaac.zip</a> - 100Kb<br>
+        Download: <a href="files/aac/bitaac.zip">bitaac.zip</a> - 100kB<br>
 
         </blockquote></font>
 

@@ -115,25 +115,25 @@
         Version: 0.5alpha (Encoder)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/homeboy/hb_aacenc05.zip">hb_aacenc05.zip</a> - 491Kb<br>
+        Download: <a href="files/aac/homeboy/hb_aacenc05.zip">hb_aacenc05.zip</a> - 491kB<br>
         <br>
         Date: 1998-06-16<br>
         Version: 1.0 (Decoder)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/homeboy/hbaacdec10.zip">hbaacdec10.zip</a> - 68Kb<br>
+        Download: <a href="files/aac/homeboy/hbaacdec10.zip">hbaacdec10.zip</a> - 68kB<br>
         <br>
         Date: 1998-09-06<br>
         Version: 1.1 (Player)<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/homeboy/aacplay.zip">aacplay.zip</a> - 66Kb<br>
+        Download: <a href="files/aac/homeboy/aacplay.zip">aacplay.zip</a> - 66kB<br>
         <br>
         Date: 1998-10-27<br>
         Version: 1.09<br>
         Interface: Winamp plugin<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/homeboy/hb_in_aac.zip">hb_in_aac.zip</a> - 66Kb<br>
+        Download: <a href="files/aac/homeboy/hb_in_aac.zip">hb_in_aac.zip</a> - 66kB<br>
 
         </blockquote></font>
 

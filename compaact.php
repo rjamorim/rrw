@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Dicas/zPlane Compaact!</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/compaact.png" target=outside><img src="screens/compaact.png" 
-        alt="Compaact!" align=right height="65%"></a>
+        alt="Compaact!" align=right height=341></a>
         Compaact! was an AAC encoder developed by the DSP engineer Alexander Lerch, 
         released in late 2003.<br><br>
         
@@ -112,7 +112,7 @@
         Version: 1.2.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507Kb<br>
+        Download: <a href="files/aac/setupcompaact.exe">setupcompaact.exe</a> - 2.507kB<br>
 
         </blockquote></font>
 

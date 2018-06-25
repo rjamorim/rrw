@@ -92,7 +92,7 @@
           <br><div align="justify"><b>Audioactive Production Studio and Player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/aaps.png" target=outside><img src="screens/aaps.png" 
-        alt="Audioactive Encoder" align=right height="60%"></a>
+        alt="Audioactive Encoder" align=right height=213></a>
         The Audioactive brand was created by audio hardware manufacturer Telos to market 
         their products dealing with MP3 technology.<br><br>
         
@@ -122,13 +122,13 @@
         Version: 2.04<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/aaps204.zip">aaps204.zip</a> - 2.822Kb<br>
+        Download: <a href="files/mpeg/aaps204.zip">aaps204.zip</a> - 2.822kB<br>
         <br>
         Date: 1998-06-13<br>
         Version: 1.05e<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/aaps105e.exe">aaps105e.exe</a> - 1.865Kb<br>
+        Download: <a href="files/mpeg/aaps105e.exe">aaps105e.exe</a> - 1.865kB<br>
         <br><br>
         
         <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
@@ -142,7 +142,7 @@
         Version: 2.06c (player)<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/players/aaplay206c.exe">aaplay206c.exe</a> - 1.485Kb<br>
+        Download: <a href="files/players/aaplay206c.exe">aaplay206c.exe</a> - 1.485kB<br>
 
         </blockquote></font>
 

@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/cooledit.png" target=outside><img src="screens/cooledit.png" 
-        alt="CoolEdit 1.3.1" align=right height="40%"></a>
+        alt="CoolEdit 1.3.1" align=right height=222></a>
         CoolEdit has always enjoyed high popularity among digital audio enthusiasts, thanks to
         its powerful features, easy to use interface, and reasonable price. The version featured 
         here is among the first released. It was released in late 1993 and is compatible 
@@ -113,7 +113,7 @@
         Version: 1.3.1<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/others/cool131.zip">cool131.zip</a> - 366Kb<br>
+        Download: <a href="files/others/cool131.zip">cool131.zip</a> - 366kB<br>
 
         </blockquote></font>
 

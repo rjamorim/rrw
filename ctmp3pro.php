@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mp3pro.png" target=outside><img src="screens/mp3pro.png" 
-        alt="MP3pro Audio Player" align=right height="85%"></a>
+        alt="MP3pro Audio Player" align=right height=162></a>
         MP3pro was a nice new addition to the MP3 format. It allows 64kbps files to 
         have similar quality to files in the 96kbps-128kbps range.<br><br>
         
@@ -125,19 +125,19 @@
         Version: 1.1.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mp3ProAudioPlayer11.exe">mp3ProAudioPlayer11.exe</a> - 1.127Kb<br>
+        Download: <a href="files/mpeg/mp3ProAudioPlayer11.exe">mp3ProAudioPlayer11.exe</a> - 1.127kB<br>
         <br>
         Date: 2001-06-20<br>
         Version: 1.0.0<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/mp3ProAudioPlayer.exe">mp3ProAudioPlayer.exe</a> - 1.111Kb<br>
+        Download: <a href="files/mpeg/mp3ProAudioPlayer.exe">mp3ProAudioPlayer.exe</a> - 1.111kB<br>
         <br>
         Date: 2005-09-14<br>
         Version: 1.0.1<br>
         Interface: XMMS plugin<br>
         Platform: Linux<br>
-        Download: <a href="files/mpeg/libmp3PRO-1.0.1-1.i386.rpm">libmp3PRO-1.0.1-1.i386.rpm</a> - 159Kb<br>
+        Download: <a href="files/mpeg/libmp3PRO-1.0.1-1.i386.rpm">libmp3PRO-1.0.1-1.i386.rpm</a> - 159kB<br>
 
         </blockquote></font>
 

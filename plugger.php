@@ -98,7 +98,7 @@
         It comes in two flavours, "Plugger+" for Pentium PCs and "Plugger+ Pro" for
         Pentium Pro.<br><br>
         
-        There used to be a homepage for it at Xoom, but it got deleted and I couldn't
+        There used to be a website hosted at Xoom, but it got deleted and I couldn't
         find mirrors at archive.org.<br>
         
         <br>
@@ -107,13 +107,13 @@
         Version: 0.4<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/plugger.zip">plugger.zip</a> - 242Kb<br>
+        Download: <a href="files/mpeg/plugger.zip">plugger.zip</a> - 242kB<br>
         <br>
         Date: 1998-08-29<br>
         Version: 0.3<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/plugger03.zip">plugger03.zip</a> - 129Kb<br>
+        Download: <a href="files/mpeg/plugger03.zip">plugger03.zip</a> - 129kB<br>
         <i>Submitted by 384kbps</i>
         
         </blockquote></font>

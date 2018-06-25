@@ -92,7 +92,7 @@
           <br><div align="justify"><b> Mafuka player and encoder </b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mafuka-ply.png" target=outside><img src="screens/mafuka-ply.png" 
-        alt="Mafuka Player" align=right height="60%"></a>
+        alt="Mafuka Player" align=right height=194></a>
         When it was released, in late 2000, the Mafuka format took the audio coding 
         community by storm. It promised - and "delivered" - same quality as MP3 at 
         a third of the file size. It seemed the obscure Dr. Keiji Mafuka had come up 
@@ -119,12 +119,12 @@
         <br>
         <br>
         <a href="screens/mafuka-enc.png" target=outside><img src="screens/mafuka-enc.png" 
-        alt="Mafuka Encoder" align=right height="51%"></a>
+        alt="Mafuka Encoder" align=right height=130></a>
         Date: 2000-11-20<br>
         Version: 1.0beta<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/mfk_install.zip">mfk_install.zip</a> - 1.418Kb<br>
+        Download: <a href="files/others/mfk_install.zip">mfk_install.zip</a> - 1.418kB<br>
 
 
         </blockquote></font>
