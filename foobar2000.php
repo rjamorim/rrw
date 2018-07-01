@@ -55,7 +55,7 @@
       </table>
     <br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=4000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=4100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,6 +92,8 @@
           <br><div align="justify"><b>Foobar2000 audio player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
+        <a href="screens/foobar2000-083.png" target=outside><img src="screens/foobar2000-083.png" 
+        alt="foobar2000 0.83" align=right height=225></a>        
         The Foobar2000 audio player is the brainchild of Peter Pawlowski, who rose to fame
         when he became an official Winamp plugin developer.<br><br>
         
