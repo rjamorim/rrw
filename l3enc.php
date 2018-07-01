@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=2050><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Fraunhofer l3enc was the first MP3 (back then called MPEG audio layer 3, that's 
-        why l3enc) software encoder. The first public version was released on 1994-07-13,
+        why l3enc) software encoder. The official 1.0 version was released on 1994-07-13,
         and before that only very expensive hardware encoders existed (not that l3enc
         was not expensive itself, registration for version 2.0 cost 350DM - ~U$250)<br><br>
         
@@ -118,8 +118,8 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc099a.zip">l3enc099a.zip</a> - 311kB<br>
-        <br>       
         <br>
+        <hr>
         Date: 1997-12-05<br>
         Version: 2.72<br>
         Interface: Command line (also Windows fronted)<br>
@@ -141,21 +141,49 @@
         Platform: SunOS<br>
         Download: <a href="files/fhg/l3enc272.sun4.tar.gz">l3enc272.sun4.tar.gz</a> - 284kB<br>
         <br>
-        <br>
+        <hr>
         Date: 1997-08-27<br>
         Version: 2.71<br>
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc271.zip">l3enc271.zip</a> - 295kB<br>
         <br>
+        Platform: Solaris<br>
+        Download: <a href="files/fhg/l3enc271.solaris.tar.gz">l3enc271.solaris.tar.gz</a> - 236kB<br>
         <br>
+        Platform: Linux<br>
+        Download: <a href="files/fhg/l3enc271.linux.tar.gz">l3enc271.linux.tar.gz</a> - 205kB<br>
+        <br>
+        <hr>
+        Date: 1997-06-30<br>
+        Version: 2.70<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/fhg/l3enc270.zip">l3enc270.zip</a> - 319kB<br>
+        <br>
+        Platform: SGI Irix<br>
+        Download: <a href="files/fhg/l3enc270.sgi.tar.gz">l3enc270.sgi.tar.gz</a> - 275kB<br>
+        <br>
+        <hr>
         Date: 1996-11-07<br>
         Version: 2.61<br>
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc261.zip">l3enc261.zip</a> - 301kB<br>
         <br>
+        Platform: Linux x86<br>
+        Download: <a href="files/fhg/l3enc261.linux.tar.gz">l3enc261.linux.tar.gz</a> - 198kB<br>
         <br>
+        Platform: NeXTstep<br>
+        Download: <a href="files/fhg/l3enc261.next.tar.gz">l3enc261.next.tar.gz</a> - 726kB<br>
+        <br>
+        Platform: SGI Irix<br>
+        Download: <a href="files/fhg/l3enc261.sgi.tar.gz">l3enc261.sgi.tar.gz</a> - 271kB<br>
+        <br>
+        Platform: SunOS<br>
+        Download: <a href="files/fhg/l3enc261.sun4.tar.gz">l3enc261.sun4.tar.gz</a> - 285kB<br>
+        <br>
+        <hr>
         Date: 1996-07-31<br>
         Version: 2.60<br>
         Interface: Command line<br>
@@ -165,7 +193,7 @@
         Platform: Linux<br>
         Download: <a href="files/fhg/l3enc260.linux.tar.gz">l3enc260.linux.tar.gz</a> - 198kB<br>
         <br>
-        <br>
+        <hr>
         Date: 1995-09-04<br>
         Version: 2.00<br>
         Interface: Command line<br>
@@ -175,17 +203,20 @@
         Platform: NeXTstep<br>
         Download: <a href="files/fhg/l3enc200.next.tar.gz">l3enc200.next.tar.gz</a> - 686kB<br>
         <br>
-        Platform: Linux<br>
+        Platform: Linux x86<br>
         Download: <a href="files/fhg/l3enc200.linux.tar.gz">l3enc200.linux.tar.gz</a> - 179kB<br>
         <br>
+        Platform: SunOS<br>
+        Download: <a href="files/fhg/l3enc200.sun4.tar.gz">l3enc200.sun4.tar.gz</a> - 255kB<br>
         <br>
+        <hr>
         Date: 1995-02-22<br>
         Version: 1.50<br>
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc150.zip">l3enc150.zip</a> - 240kB<br>
         <br>
-        <br>
+        <hr>
         Date: 1994-07-13<br>
         Version: 1.00<br>
         Interface: Command line<br>
@@ -195,7 +226,7 @@
         Platform: SunOS<br>
         Download: <a href="files/fhg/l3enc100.sun4.tar.z">l3enc100.sun4.tar.z</a> - 394kB<br>
         <br>
-        <br>
+        <hr>
         Date: 1994-06-13<br>
         Version: 0.99c<br>
         Interface: Command line<br>
