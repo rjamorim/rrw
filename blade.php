@@ -126,17 +126,17 @@
         Date: 1999-07-22<br>
         Version: 0.82<br>
         Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118kB<br>
-        <i>Submitted by ViPER1313</i><br>
+        <i>Kindly contributed by ViPER1313</i><br>
         <br>
         Date: 1998-12-17<br>
         Version: 0.76<br>
         Download: <a href="files/blade/blade076.zip">blade076.zip</a> - 100kB<br>
-        <i>Submitted by SacRat</i><br>
+        <i>Kindly contributed by SacRat</i><br>
         <br>
         Date: 1998-11-27<br>
         Version: 0.75<br>
         Download: <a href="files/blade/blade075.zip">blade075.zip</a> - 199kB<br>
-        <i>Submitted by SacRat</i><br>
+        <i>Kindly contributed by SacRat</i><br>
         <br>
         Date: 1998-09-14<br>
         Version: 0.72<br>

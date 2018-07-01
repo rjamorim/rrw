@@ -131,8 +131,8 @@
         The official page is available <a href="http://www.musepack.net" target=outside>
         here</a>.<br><br>
         
-        I'd like to thank mister Francis Niechcial - Guruboolez - for providing all 
-        the binaries here which are not credited to someone else.<br>
+        I would like to thank mister Francis Niechcial - Guruboolez - for contributing 
+        all the binaries here which are not credited to someone else.<br>
         
         <br>
         <br>
@@ -271,7 +271,7 @@
         Date: 2000-01-06<br>
         Version: N/A (SV4)<br>
         Download: <a href="files/mpp/mppsv4.zip">mppsv4.zip</a> - 63kB<br>
-        <i>Lots of thanks to Filburt (Adam) for providing the SV4 encoder</i><br>
+        <i>SV4 encoder kindly contributed by Filburt (Adam)</i><br>
         <br>
         Date: 2000-06-18<br>
         Version: N/A (SV5) - Decoder<br>
@@ -283,7 +283,7 @@
         Interface: Decoding library<br>
         Platform: Win32<br>
         Download: <a href="files/mpp/mpplib.zip">mpplib.zip</a> - 33kB<br>
-        <i>Lots of thanks to Sebastian Knop for providing the SV5 apps</i>
+        <i>SV5 apps kindly contributed by Sebastian Knop</i>
 
         </blockquote></font>
 

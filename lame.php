@@ -55,7 +55,7 @@
       </table>
       <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=3000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=3100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -119,42 +119,42 @@
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/lame/lame3.93.1.zip">lame3.93.1.zip</a> - 190kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2002-11-16<br>
         Version: 3.93<br>
         Download: <a href="files/lame/lame3.93.zip">lame3.93.zip</a> - 189kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2002-04-14<br>
         Version: 3.92<br>
         Download: <a href="files/lame/lame3.92.zip">lame3.92.zip</a> - 188kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2001-12-29<br>
         Version: 3.91<br>
         Download: <a href="files/lame/lame3.91.zip">lame3.91.zip</a> - 180kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2001-12-21<br>
         Version: 3.90<br>
         Download: <a href="files/lame/lame3.90.zip">lame3.90.zip</a> - 367kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2001-12-24<br>
         Version: 3.90.1 - HydrogenAudio Fork<br>
         Download: <a href="files/lame/lame3.90.1.zip">lame3.90.1.zip</a> - 367kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2001-07-05<br>
         Version: 3.89b<br>
         Download: <a href="files/lame/lame3.89.zip">lame3.89.zip</a> - 171kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2001-03-25<br>
         Version: 3.88b<br>
         Download: <a href="files/lame/lame3.88.zip">lame3.88.zip</a> - 363kB<br>
-        <i>Submitted by Sebastian Mares</i><br>
+        <i>Kindly contributed by Sebastian Mares</i><br>
         <br>
         Date: 2000-09-25<br>
         Version: 3.87a<br>
@@ -167,7 +167,7 @@
         Date: 2000-07-03<br>
         Version: 3.85b<br>
         Download: <a href="files/lame/lame3.85.zip">lame3.85.zip</a> - 111kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2000-06-30<br>
         Version: 3.84b<br>
@@ -180,7 +180,7 @@
         Date: 2000-05-11<br>
         Version: 3.82b<br>
         Download: <a href="files/lame/lame3.82.zip">lame3.82.zip</a> - 107kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 2000-05-08<br>
         Version: 3.81b<br>
@@ -237,60 +237,60 @@
         Date: 1999-12-13<br>
         Version: 3.58b<br>
         Download: <a href="files/lame/lame3.58.zip">lame3.58.zip</a> - 99kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 1999-11-22<br>
         Version: 3.57b<br>
         Download: <a href="files/lame/lame3.57.zip">lame3.57.zip</a> - 96kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 1999-11-19<br>
         Version: 3.56b<br>
         Download: <a href="files/lame/lame3.56.zip">lame3.56.zip</a> - 98kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 1999-11-11<br>
         Version: 3.55b<br>
         Download: <a href="files/lame/lame3.55.zip">lame3.55.zip</a> - 96kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 1999-11-01<br>
         Version: 3.50<br>
         Download: <a href="files/lame/lame3.50.zip">lame3.50.zip</a> - 95kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         <br>
         Date: 1999-10-21<br>
         Version: 3.35b (DLL only)<br>
         Download: <a href="files/lame/lame3.35.dll.zip">lame3.35.dll.zip</a> - 104kB<br>
         Platform: IBM OS/2<br>
         Download: <a href="files/lame/lame3.35.OS2.zip">lame3.35.OS2.zip</a> - 145kB<br>
-        <i>Submitted by 384kbps</i><br>
+        <i>Kindly contributed by 384kbps</i><br>
         <br>
         Date: 1999-10-12<br>
         Version: 3.34b<br>
         Download: <a href="files/lame/lame3.34.zip">lame3.34.zip</a> - 131kB<br>
-        <i>Submitted by 384kbps</i><br>
+        <i>Kindly contributed by 384kbps</i><br>
         <br>
         Date: 1999-09-29<br>
         Version: 3.30b<br>
         Download: <a href="files/lame/lame3.30.zip">lame3.30.zip</a> - 364kB<br>
-        <i>Submitted by 384kbps</i><br>
+        <i>Kindly contributed by 384kbps</i><br>
         <br>
         Date: 1999-09-21<br>
         Version: 3.29b<br>
         Platform: IBM OS/2<br>
         Download: <a href="files/lame/lame3.29.OS2.zip">lame3.29.OS2.zip</a> - 193kB<br>
-        <i>Submitted by 384kbps</i><br>
+        <i>Kindly contributed by 384kbps</i><br>
         <br>
         Date: 1999-08-15<br>
         Version: 3.24b<br>
         Download: <a href="files/lame/lame3.24.zip">lame3.24.zip</a> - 363kB<br>
-        <i>Submitted by 384kbps</i><br>
+        <i>Kindly contributed by 384kbps</i><br>
         <br>
         Date: 1999-07-19<br>
         Version: 3.20<br>
         Download: <a href="files/lame/lame3.20.zip">lame3.20.zip</a> - 81kB<br>
-        <i>Submitted by getID3()</i><br>
+        <i>Kindly contributed by getID3()</i><br>
         
 
         </blockquote></font>

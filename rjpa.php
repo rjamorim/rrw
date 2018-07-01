@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -103,8 +103,9 @@
         Also included is a playlist builder.<br><br>
         
         <a href="xing.php">Xing</a> is an old MP3 encoder (development dates back to 
-        1995) and, different from other implementations, its focus is not on quality, but 
-        on speed. It is one of the fastest MP3 encoders, if not the fastest.<br>
+        1995) and, different from other implementations, its focus is primarily 
+        on speed with quality taking second place. It is one of the fastest MP3 
+        encoders, if not the fastest.<br>
       
         <br>
         <br>
@@ -123,7 +124,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/xing/mp32wav.zip">mp32wav.zip</a> - 302kB<br>
-        <i>Kindly submitted by Mitiok</i><br>
+        <i>Kindly contributed by Mitiok</i><br>
 
         </blockquote></font>
 

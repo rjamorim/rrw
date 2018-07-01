@@ -114,7 +114,7 @@
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/plugger03.zip">plugger03.zip</a> - 129kB<br>
-        <i>Submitted by 384kbps</i>
+        <i>Kindly contributed by 384kbps</i>
         
         </blockquote></font>
 

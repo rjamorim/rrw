@@ -92,13 +92,14 @@
           <br><div align="justify"><b>NAD audio player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Yet another MP3 player. NAD had the usual features: playlists, equalizer, a fancy
-        interface.<br><br>
+        Yet another MP3 player. NAD had the usual features: playlists, equalizer, 
+        tag editor (only in v1.0), a fancy interface.<br><br>
         
         If you are looking for screenshots of NAD, look at <a 
         href="http://www.glop.org/nad/" target=outside>The Museum of NAD</a>.<br><br>
         
-        All files here (except NAD 1.0) were submitted by Mitiok. Big thanks to him!<br>
+        All files here (except NAD 1.0) were kindly contributed by Mitiok. Big 
+        thanks to him!<br>
         
         <br>
         <br>
