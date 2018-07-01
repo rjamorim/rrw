@@ -2,7 +2,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Arminio Grgic's WavSquiq</TITLE>
+<TITLE>ReallyRareWares - WavSquiq</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -94,45 +94,50 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         I really have no clue what is going on here. The readme claims:<br>
         
-        <i>WAVSQUIQ can compress any WAV file into smaller one which can be reproduced WITHOUT use of any 
-        decoder/decompresser - just play it like you played original WAV!</i><br><br>
+        <i>WAVSQUIQ can compress any WAV file into smaller one which can be reproduced 
+        WITHOUT use of any decoder/decompresser - just play it like you played 
+        original WAV!</i><br><br>
         
-        Well, I compressed a WAV running "wavsquiq.exe test.wav test1.wav". The file size went from 4879kB
-        to 4878kB (?). Then I tried playing the generated file in Winamp ("just play it like you played 
-        original WAV!"), and there was nothing there but noise.<br><br>
+        Well, I compressed a WAV running "wavsquiq.exe test.wav test1.wav". The 
+        file size went from 4879kB to 4878kB (?). Then I tried playing the 
+        generated file in Winamp ("just play it like you played original WAV!"), 
+        and there was nothing there but noise.<br><br>
         
-        Maybe I am doing something wrong? If you know how to get this program to work as it is supposed to,
-        please e-mail me (address available at the About page).<br>
+        Maybe I am doing something wrong? If you know how to get this program to
+        work as it is supposed to, please e-mail me (address available at the <a 
+        href=about.php>About</a> page).<br>
         
         <br>
         <br>
-        Date: 1997<br>
+        Date: 1997-11-15<br>
         Version: 0.90 beta<br>
         Interface: Command line<br>
-        Platform: Win32<br>
+        Platform: DOS<br>
         Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9kB<br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        codec.</i>
+        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
+        submitting this codec.</i>
 
         <br><br>
         <ul>
         <li><p>Feedback from schnofler (ABC/HR Java developer):</p></li>
         </ul>
 
-        <p><i>Seems like it only works with 8-bit wavs. Apparently it always outputs files with an 
-        8-bit mono header, regardless of the input. If the input is stereo, you can correct this, 
-        for example by loading it as raw PCM data in CoolEdit and specifying the format yourself. But 
-        if the input is 16-bit it seems to mess up something else (I didn't manage to get such a file 
-        working).</p>
+        <p><i>Seems like it only works with 8-bit wavs. Apparently it always 
+        outputs files with an 8-bit mono header, regardless of the input. If the 
+        input is stereo, you can correct this, for example by loading it as raw 
+        PCM data in CoolEdit and specifying the format yourself. But if the input 
+        is 16-bit it seems to mess up something else (I didn't manage to get such 
+        a file working).</p>
         
-        <p>The compression method strikes me as a bit odd, though. With the few files I tried, it 
-        never managed to "compress" them by more than a few kb. Looking at the waves in CoolEdit it 
-        seems to just cut out small parts of the file, leaving the rest unharmed. This actually makes 
-        the compressed files shorter, and thus smaller. Pretty imaginative, eh? </p>
+        <p>The compression method strikes me as a bit odd, though. With the few 
+        files I tried, it never managed to "compress" them by more than a few kb. 
+        Looking at the waves in CoolEdit it seems to just cut out small parts of 
+        the file, leaving the rest unharmed. This actually makes the compressed 
+        files shorter, and thus smaller. Pretty imaginative, eh?</p>
         
-        <p>Thinking about it, that might be the reason, why 16-bit files don't work... it probably 
-        just cuts out random bytes, so if it cuts a 2-byte sample "in half", this will destroy the 
-        data.</i></p>
+        <p>Thinking about it, that might be the reason, why 16-bit files don't 
+        work... it probably just cuts out random bytes, so if it cuts a 2-byte 
+        sample "in half", this will destroy the data.</i></p>
 
         </blockquote></font>
 
