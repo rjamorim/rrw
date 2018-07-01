@@ -104,8 +104,8 @@
         
         The program keeps the encoded files inside a database (a security measure
         to avoid piracy), and can encode tracks from wav. A CD ripping feature is 
-        announced for next version. The interface is so obtuse and unfriendly, it
-        can be considered spiteful.<br><br>
+        announced for the next version. The interface is so obtuse and unfriendly, 
+        it can be considered spiteful.<br><br>
         
         The program works for 20 days and then expires - unless you can find the
         required patch to make it "registered"...<br><br>

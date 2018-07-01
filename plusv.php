@@ -97,7 +97,7 @@
         were very efficiently encoded into a special "+V" format.<br><br>
         
         The encoded .m3v files carried both frequency ranges, and a special decoder would 
-        decode both at playback time. A standard MP3 decoder would decode only the low
+        decode both at playback time. A standard MP3 decoder can decode only the low
         frequencies, seriously impacting quality.<br><br>
 
         Besides the official PlusV tools, I am also hosting here some additional ones 
