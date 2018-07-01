@@ -112,7 +112,7 @@
         XingSound</a> page.
         
         Xing Technology was acquired by <a href="realjuke.php">RealNetworks</a> in the 
-        early 2000s, and the MP3 encoder was renamed to Helix MP3 encoder. Then, in 
+        early 2000s, and the MP3 encoder was renamed to Helix MP3 Encoder. Then, in 
         2005, they released the sources under an open source license. It seems they 
         closed the sources again, but here you can find compiles of their encoder made 
         while they were still open, as well as the source code.<br>

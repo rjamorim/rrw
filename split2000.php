@@ -95,8 +95,7 @@
         Split2000 is an obscure lossless compressor for Linux. It seems it was never ported
         to other operating systems. Actually, neither the sources not the precompiled binary
         available here seem to work, at least on recent Linux versions. So, unless someone
-        takes the time to adapt it to recent versions, or to other operating systems, this 
-        codec can be considered completely dead.<br><br>
+        takes the time to modernize it, this codec can be considered completely dead.<br><br>
         
         The encoder web page is gone, so I'm mirroring it <a href="mirrors/split2000/split2000.html">
         here</a>.<br>

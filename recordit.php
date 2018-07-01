@@ -105,7 +105,7 @@
         I could only get the program to install on Win9x - it will not work at all
         on WinNT and variants. The interface is quite garish. In case you must know,
         the stars for quality mean: 4 stars = 256kbps, 3 stars = 192kbps, 2 stars = 
-        112kbps and 1 star = 24kbps/22kHz.<br><br>
+        112kbps, and 1 star = 24kbps/22kHz.<br><br>
         
         <a href="screens/recordit-enc.png" target=outside><img src="screens/recordit-enc.png" 
         alt="RecordIt - encoder interface" align=right height=209></a>

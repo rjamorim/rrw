@@ -114,7 +114,7 @@
         but the encoder quality is terrible.<br>
         
         I am also hosting here an analysis document created by Benjamin Larsson, 
-        describing the first steps in the reverse engineering of the codec.<br><br>
+        describing the first steps in reverse engineering the codec.<br><br>
         
         Apple has steered away from proprietary codecs like Sorenson Video and 
         QDesign, and focused on standards (MPEG4). The QDesign codec lost relevance,

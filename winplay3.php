@@ -99,7 +99,7 @@
         It had few features - no playlists, no equalizer, no tagging support - but it
         did what it was meant to do. Among the options, you could set up CPU class - 
         pentium or 486 - and output frequency. While it doesn't make much sense today, 
-        when it is hard to find computers with less than 1gHz of CPU clock, that was a 
+        when it is hard to find computers with less than 1GHz of CPU clock, that was a 
         very useful feature back in 1995 (when version 1.0 was released) since 486s
         were still common.<br><br>
         

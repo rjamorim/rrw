@@ -110,7 +110,7 @@
         <br>
         <br>
         Date: 1997-08-04<br>
-        Version: 0.9a<br>
+        Version: 0.8a<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/xaudio-0.8a.i586-microsoft-win32.exe">

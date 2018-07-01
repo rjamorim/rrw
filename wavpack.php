@@ -94,7 +94,7 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         David Bryant started developing WavPack in mid-1998, with the release of version
         1.0. This first version compressed and decompressed audio losslessly, nothing else,
-        but by then it already sported one of the best efficiency vs. speed ratios among
+        but by then it already featured one of the best efficiency vs. speed ratios among
         lossless encoders.<br><br>
         
         Very soon after the release of version 1.0, Bryant released v. 2.0, which featured

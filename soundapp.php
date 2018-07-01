@@ -96,7 +96,7 @@
         SoundApp is an audio player and converter for Mac OS Classic (System 7 to Mac OS 9)
         developed by Norman Franke that supports a wide variety of formats for reading 
         (including MP1/2/3, but only in the PowerPC version) and writing. It also 
-        features playlists.<br><br>
+        features a playlist editor.<br><br>
         
         The web site is available <a href="http://www-cs-students.stanford.edu/~franke/SoundApp/"
         target=outside>here</a>.<br>
