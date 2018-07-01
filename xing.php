@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -119,12 +119,6 @@
 
         <br>
         <br>
-        Date: 1999-01-03<br>
-        Version: 1.5b9<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/xing/MP3EN15.EXE">MP3EN15.EXE</a> - 1.841kB<br>
-        <br>
         Date: 2005-07-23<br>
         Version: 5.0 (MSVC compile)<br>
         Interface: Command line<br>
@@ -148,6 +142,18 @@
         Interface: Command line<br>
         Platform: sources<br>
         Download: <a href="files/xing/helix_mp3enc_5.0r11.tar.gz">helix_mp3enc_5.0r11.tar.gz</a> - 230kB<br>
+        <br>
+        Date: 1999-01-03<br>
+        Version: 1.5b9<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/xing/MP3EN15.EXE">MP3EN15.EXE</a> - 1.841kB<br>
+        <br>
+        Date: 1997-11-03<br>
+        Version: 3.0<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/xing/tompg.zip">tompg.zip</a> - 83kB<br>
         
 
         </blockquote></font>
