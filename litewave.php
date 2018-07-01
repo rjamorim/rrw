@@ -99,7 +99,11 @@
         Also, it includes lots of ancilliary data used to avoid loss of synchrony.
         That's another reason for the suboptimal compression.<br><br>
         
-        A lossy mode is also implemented<br>
+        A lossy mode is also implemented.<br><br>
+        
+        You can visit the LiteWave web site at the Internet Archive, <a
+        href="https://web.archive.org/web/20031203035107/http://www.clearjump.com:80/products/LiteWave.html"
+        target=outside>here</a>.<br>
         
         <br>
         <br>
