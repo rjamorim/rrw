@@ -104,6 +104,10 @@
         became leader and released version 3.0 featuring gpsycho, a new psychoacoustic
         model he developed.<br><br>
         
+        LAME is meant to be a recursive acronym, in the GNU tradition, meaning
+        LAME Ain't an MP3 Encoder. But other allusions exist, for instance, "lame"
+        is the French word for <a href=blade.php>blade</a>.<br><br>
+        
         Nowadays LAME is considered the best MP3 encoder at variable and mid-high 
         bitrates, mostly thanks to the dedicated work of talented developers like 
         Takehiro Tominaga, Naoki Shibata, Gabriel Bouvigne, Robert Hegemann, etc. And 
