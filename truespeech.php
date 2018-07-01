@@ -55,7 +55,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -116,7 +116,7 @@
         Platform: Win32<br>
         Download: <a href="files/vocodecs/tsply95.exe">tsply95.exe</a> - 942kB<br>
         <a href="screens/truespeech-ply.png" target=outside><img src="screens/truespeech-ply.png" 
-        alt="TrueSpeech Player" align=right height=136></a>
+        alt="TrueSpeech Player" align=right height=138></a>
         <br>
         Date: 1996-03-20<br>
         Version: 3.10b (Player)<br>
@@ -130,6 +130,8 @@
         Platform: MacOS Classic 68K<br>
         Download: <a href="files/vocodecs/tspmac68.hqx">tspmac68.hqx</a> - 353kB<br>
         <br>
+        <a href="screens/truespeech-plymac.png" target=outside><img src="screens/truespeech-plymac.png" 
+        alt="TrueSpeech Player for Mac" align=right height=75></a>
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
