@@ -134,8 +134,8 @@
         <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
         alt="Audioactive Player" align=right></a>
         Audioactive also created a freeware MP3 player. It has a playlist editor and
-        not much more than that, but decoding quality is very good since it uses the
-        FhG decoder.<br>
+        not much more than that - not even equalizer or tag editor - but decoding 
+        quality is very good since it uses the FhG decoder.<br>
         
         <br>   
         Date: 2000-07-07<br>
