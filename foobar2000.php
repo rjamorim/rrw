@@ -55,7 +55,7 @@
       </table>
     <br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=4100><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=4300><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -114,9 +114,24 @@
         
         <br>
         <br>
-        Version: 0.8.3<br>
+        Version: 1.3.13<br>
         Interface: Graphical<br>
         Platform: Win32<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.3.13.exe">foobar2000_v1.3.13.exe</a> - 3.847kB<br>
+        <i>Kindly contributed by mezenga</i><br>
+        <br>
+        <hr>
+        Version: 1.2.3<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.2.3.exe">foobar2000_v1.2.3.exe</a> - 3.627kB<br>
+        <i>Kindly contributed by mezenga</i><br>
+        <br>
+        <hr>
+        Version: 1.1.18<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.18.exe">foobar2000_v1.1.18.exe</a> - 3.318kB<br>
+        <i>Kindly contributed by mezenga</i><br>
+        <br>
+        <hr>
+        Version: 0.8.3<br>
         Download: <a href="files/foobar2000/foobar2000_0.8.3_case.exe">foobar2000_0.8.3_case.exe</a> - 2.448kB<br>
         <i>Kindly contributed by Holger Stenger</i><br>
         <br>
