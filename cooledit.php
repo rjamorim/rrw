@@ -109,6 +109,12 @@
         
         <br>
         <br>
+        Date: 1995-12-04<br>
+        Version: 1.5.2<br>
+        Interface: Graphical<br>
+        Platform: Win16<br>
+        Download: <a href="files/others/cool152.zip">cool152.zip</a> - 818kB<br>
+        <br>
         Date: 1993-12-11<br>
         Version: 1.3.1<br>
         Interface: Graphical<br>
