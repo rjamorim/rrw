@@ -111,6 +111,12 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/players/dosamp07.exe">dosamp07.exe</a> - 110kB<br>
+        <br>
+        Date: 1997-04-08<br>
+        Version: 0.4<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/players/dosamp04.exe">dosamp04.zip</a> - 96kB<br>
 
         </blockquote></font>
 
