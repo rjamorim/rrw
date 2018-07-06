@@ -60,17 +60,18 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1150 src="dot.gif">
+<img width=1 height=1500 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+target=outside>
 <img alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 <br />All text in this website is licensed under a <a style="color: white"
-rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-Commons Attribution-ShareAlike 4.0 International License</a>
+rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+target=outside>Creative Commons Attribution-ShareAlike 4.0 International License</a>
 
 <!-- /Creative Commons License -->
 
@@ -97,7 +98,7 @@ Commons Attribution-ShareAlike 4.0 International License</a>
 
 -->
 
-<br><br><br>Last update: 2018-06-22 <br><br>
+<br><br><br>Last update: 2018-07-06 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -135,6 +136,29 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-07-06: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Site fixes and a few updates</b></font><p>
+                  This update focuses on fixing several parts of the website, namely:<br>
+                  <ul>
+                    <li>The screenshot thumbnails (they used to only get resized in 
+                        Chrome, now they also work on Firefox, Edge, etc)</li>
+                    <li>Units are correctly named (kB instead of Kb)</li>
+                    <li>Consistency improvements all over the site</li>
+                    <li>Several small bugs and grammar errors</li>
+                  </ul>
+                  
+                  And these are the updates:
+                  <ul>
+                    <li>Several versions of l3enc that were missing. Have fun if you are still using Irix!</li>
+                    <li>A few more recent versions of foobar2000 (thanks to mezenga)</li>
+                    <li>CoolEdit version 1.5.2</li>
+                    <li>An even older version of DOSamp - 0.4</li>
+                  <ul>
+             </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2018-06-22: </b></div><p>
