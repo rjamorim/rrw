@@ -94,10 +94,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/cooledit.png" target=outside><img src="screens/cooledit.png" 
         alt="CoolEdit 1.3.1" align=right height=222></a>
-        CoolEdit has always enjoyed high popularity among digital audio enthusiasts, thanks to
-        its powerful features, easy to use interface, and reasonable price. The version featured 
-        here is among the first released. It was released in late 1993 and is compatible 
-        with Windows 3.x.<br><br>
+        CoolEdit is an audio editor that has always enjoyed high popularity among 
+        digital audio enthusiasts, thanks to its powerful features, easy to use 
+        interface, and reasonable price. The versions featured here are among the 
+        first released.<br><br>
         
         Back then it already featured interesting DSP effects and supported a nice list of
         audio formats: WAV, VOC, ADPCM, AIFF... CoolEdit kept envolving, and several versions 
