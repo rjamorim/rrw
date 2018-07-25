@@ -108,7 +108,10 @@
         
         There are versions available for Win16 (Windows 3.x) and Win32.<br><br>
         
-        After version 2.3b5 FhG stopped developing WinPlay3.<br>
+        After version 2.3b5 FhG stopped developing WinPlay3. The web page can still 
+        be accesses at the Internet Archive, <a
+        href="https://web.archive.org/web/19970606171426/http://www.iis.fhg.de:80/departs/amm/layer3/winplay3/" 
+        target=outside>here</a>.<br>
         
         <br>
         <br>
