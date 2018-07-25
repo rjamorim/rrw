@@ -188,34 +188,6 @@
         Download: <a href="files/foobar2000/foobar2000_0.7_special.exe">foobar2000_0.7_special.exe</a> - 2.180kB<br>
         <i>Kindly contributed by Holger Stenger</i><br>
         <br>
-        Version: 0.7rc16<br>
-        Download: <a href="files/foobar2000/foobar07rc16.exe">foobar07rc16.exe</a> - 1.102kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc15<br>
-        Download: <a href="files/foobar2000/foobar07rc15.exe">foobar07rc15.exe</a> - 1.122kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc13<br>
-        Download: <a href="files/foobar2000/foobar07rc13.exe">foobar07rc13.exe</a> - 1.093kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc11<br>
-        Download: <a href="files/foobar2000/foobar07rc11.exe">foobar07rc11.exe</a> - 1.091kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc8<br>
-        Download: <a href="files/foobar2000/foobar07rc8.exe">foobar07rc8.exe</a> - 1.089kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc7<br>
-        Download: <a href="files/foobar2000/foobar07rc7.exe">foobar07rc7.exe</a> - 1.083kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
-        Version: 0.7rc5<br>
-        Download: <a href="files/foobar2000/foobar07rc5.exe">foobar07rc5.exe</a> - 1.085kB<br>
-        <i>Kindly contributed by magic75</i><br>
-        <br>
         <hr>
         Version: 0.667<br>
         Download: <a href="files/foobar2000/foobar2000_0.667.exe">foobar2000_0.667.exe</a> - 1.082kB<br>
