@@ -102,7 +102,11 @@
         Fraunhofer and the developer had to remove binaries from his server.<br><br>
         
         Besides outputting bad quality MP3s, it is very slow and buggy. Do not open the 
-        about box, it will hang the program.<br>
+        about box, it will hang the program.<br><br>
+        
+        The web site and version history can be viewed at the Internet Archive, <a 
+        href="https://web.archive.org/web/20170103170919/http://www.euronet.nl/~soloh/mpegEnc/" 
+        target=outside>here</a>.<br>
         
         <br>
         <br>
