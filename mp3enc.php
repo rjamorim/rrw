@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -98,10 +99,13 @@
         Development stopped in late 1998 to favour development of a parallel branch FhG
         had been developing for some time, called <a href="fastencc.php">Fastenc</a>. While 
         being much faster than MP3enc (slowenc), it offered similar quality and had unique 
-        features like VBR coding.<br><br>
+        features such as VBR coding. The MP3enc web page can still be seen at the Internet
+        Archive, <a 
+        href="https://web.archive.org/web/19981206053611/http://www.iis.fhg.de:80/amm/download/mp3enc/index.html" 
+        target=outside>here</a>.<br><br>
         
         The MP3 page at Fraunhofer IIS is located <a href="https://www.mp3-history.com/" 
-        target=outside>here</a><br><br>
+        target=outside>here</a>.<br><br>
         
         The MP3enc versions available here are for demonstration, and the encoding is 
         limited to 30 seconds.<br>
@@ -114,7 +118,7 @@
         Platform: Win32<br>
         Download: <a href="files/fhg/mp3encdemo_3_1_win32.zip">mp3encdemo_3_1_win32.zip</a> - 219kB<br>
         <br>
-        Platform: Linux<br>
+        Platform: Linux x86<br>
         Download: <a href="files/fhg/mp3encdemo_3_1_linux.tgz">mp3encdemo_3_1_linux.tgz</a> - 207kB<br>
         <br>
         Platform: Solaris<br>
@@ -136,7 +140,7 @@
         Platform: Win32<br>
         Download: <a href="files/fhg/mp3encdemo_win32.zip">mp3encdemo_win32.zip</a> - 209kB<br>
         <br>
-        Platform: Linux<br>
+        Platform: Linux x86<br>
         Download: <a href="files/fhg/mp3encdemo_linux.tgz">mp3encdemo_linux.tgz</a> - 174kB<br>
         <br>
         Platform: Solaris<br>
