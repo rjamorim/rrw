@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -98,20 +99,23 @@
         was not expensive itself, registration for version 2.0 cost 350DM - ~U$250)<br><br>
         
         Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), Solaris 
-        (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K). The first (pre-1.0) DOS
-        versions even featured fixed point math encoder and decoder for the 8088 
-        architecture.<br><br>
+        (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K/x86/SPARC/HPPA). The first 
+        (pre-1.0) DOS versions even featured fixed point math encoder and decoder for 
+        the 8088 architecture.<br><br>
         
         FhG distributed with l3enc an MPEG layer 3 <a href="files/fhg/l3faq.txt"
         target=outside>FAQ</a> and a small collection of <a href="files/fhg/mp3-bitstreams.tar.gz">
         test bitstreams</a> (1.370kB).<br><br>
         
         By the end of 1997 l3enc stopped being developed in favour of the development
-        of <a href="mp3enc.php">MP3enc</a>.<br>
+        of <a href="mp3enc.php">MP3enc</a>. The l3enc webpage can still be seen at
+        the Internet Archive, <a 
+        href="https://web.archive.org/web/19980204230835/http://iis.fhg.de:80/departs/amm/layer3/index.html"
+        target=outside>here</a>.<br>
         
         <br>
         <br>
-        *****The First Ever publicly available MP3 software encoder*****
+        ••••• The First Ever Publicly Available MP3 Software Encoder •••••
         <br>
         Date: 1994-03-16<br>
         Version: 0.99a<br>
