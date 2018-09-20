@@ -152,7 +152,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Several small bugs and grammar errors</li>
                   </ul>
                   
-                  And these are the updates:
+                  And these are the software updates:
                   <ul>
                     <li>Several versions of l3enc that were missing. Have fun if you are still using Irix!</li>
                     <li>A few more recent versions of foobar2000 (thanks to mezenga)</li>
