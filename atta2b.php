@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -99,8 +100,8 @@
         
         The system was launched to much fanfare in the late nineties, touting wide
         industry support and much better quality than alternatives (because it was
-        using the AAC format, instead of the more common MP3). Of course, the sold
-        tracks were heavily protected with DRM schemes.<br><br>
+        using the AAC format, instead of the more common MP3). Of course, the
+        tracks on sale were heavily protected with DRM schemes.<br><br>
         
         To add insult to injury, the software requires that you install RealPlayer
         to enable streaming (to see my lenghty rant about Real crapware, read the

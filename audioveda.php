@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -117,7 +118,8 @@
         To use the ePAC routines in AudioVeda you need to register with their server - 
         but the server is now unavailable! So I am also hosting a registry patch that 
         fools AudioVeda into believing it has already been registered. Just unzip the 
-        patch and double-click to import it into the registry.<br>
+        patch and double-click to import it into the registry (tested in Win98 and 
+        WinXP. Some tweaks are probably required for 64bit Windows).<br>
         
         <br>
         <br>

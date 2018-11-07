@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -95,7 +96,7 @@
         <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
         alt="Pegasus SPS" align=right height=275></a>
         Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as a general
-        purpose audio editor, that features a lossless mode based on Pegasus' ELS (<a 
+        purpose audio editor. It features a lossless mode based on Pegasus' ELS (<a 
         href="https://web.archive.org/web/20010418053334/http://jpg.com:80/imagetech_els.htm"
         target=outside>Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
         

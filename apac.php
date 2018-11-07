@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,6 +97,9 @@
         The famous sound card manufacturer Marian created this little lossless 
         compression app. Compression is not on par with modern compressors, yet, it
         works well and features a pleasing interface.<br><br>
+        
+        The program also performs decompression and playback. Alas, it is 16 bit, so 
+        it will not run on 64bit Windows systems.<br><br>
                 
         You can still see Marian's description of the codec at the archived <a
         href="https://web.archive.org/web/20080723013102/http://www.marian.de:80/en/downloads" 
