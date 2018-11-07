@@ -53,7 +53,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -106,7 +106,9 @@
         The first versions (1.x series) were distributed as shareware and required a 
         registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions were made freeware.<br><br>
         
-        There are versions available for Win16 (Windows 3.x) and Win32.<br><br>
+        There are versions available for Win16 (Windows 3.x) and Win32. Fraunhofer 
+        also released a MacOS Classic version called <a href="macplay3.php">MacPlay3</a>.
+        <br><br>
         
         After version 2.3b5 FhG stopped developing WinPlay3. The web page can still 
         be accessed at the Internet Archive, <a

@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -100,19 +100,25 @@
         The alpha 0.99 version works on the M68K platform, but it is only useful for 
         decoding, since the 68k CPU is not powerful enough to playback MP3 in real time. 
         Besides, it is a demo version with no interface (all commands are done through
-        the menu bar, similar to Winamp 0.2) and playback (but not decoding) is limited to
-        20 seconds. Version 1.4b2 was the last version developed by FhG and only works on 
+        the menu bar, similar to Winamp 0.2) and playback (but not decoding) is limited 
+        to 20 seconds.<br><br>
+        
+        Version 1.4b2 was the last version released by FhG and only works on 
         PowerPC machines, but it has an actual interface and no limitations.<br><br>
+        
+        A mirror of the MacPlay3 website is available at the Internet Archive, <a 
+        href="https://web.archive.org/web/19980204231239/http://iis.fhg.de:80/departs/amm/layer3/macplay3/index.html"
+        target=outside>here</a>. <br><br>
         
         At least, version 0.99 had a great installation blurb...<br>
         
         <br>
         <br>
+        <a href="screens/macplay3v099-inst.png" target=outside><img src="screens/macplay3v099-inst.png" 
+        alt="MacPlay3 v0.99 installation" align=right height=180></a>
         Date: 1997-04-08<br>
         Version: 1.4b2<br>
         Interface: Graphical<br>
-        <a href="screens/macplay3v099-inst.png" target=outside><img src="screens/macplay3v099-inst.png" 
-        alt="MacPlay3 v0.99 installation" align=right height=180></a>
         Platform: MacOS Classic PPC<br>
         Download: <a href="files/players/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519kB<br>
         <br>
