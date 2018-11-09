@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -105,8 +106,9 @@
         Date: 1996-02-22<br>
         Version: 2.22<br>
         Interface: Graphical<br>
-        Platform: Win16/Win32<br>
+        Platform: Win16<br>
         Download: <a href="files/vocodecs/scutl222.zip">scutl222.zip</a> - 233kB<br>
+        <br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
         codec.</i>
 

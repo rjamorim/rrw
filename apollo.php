@@ -106,7 +106,7 @@
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
         target=outside>archive.org</a>.<br><br>
         
-        If you have other versions of Apollo lying around, please contribute them to our 
+        If you have other versions of Apollo lying around, please contribute them to the 
         collection!<br>
 
         <br>
@@ -117,7 +117,9 @@
         Platform: Win32<br>
         Download: <a href="files/apollo/Apollo37zz.exe">Apollo37zz.exe</a> - 673kB<br>
         <i>Kindly contributed by [Jaz]</i><br>
-        <br>
+        <br
+        <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
+        alt="Apollo 37zz mini" align=right height=15></a>
         Date: 2006-10-23<br>
         Version: 37zy<br>
         Download: <a href="files/apollo/Apollo37zy.exe">Apollo37zy.exe</a> - 671kB<br>
@@ -128,8 +130,6 @@
         Download: <a href="files/apollo/Apollo37zx.exe">Apollo37zx.exe</a> - 672kB<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
-        <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
-        alt="Apollo 37zz mini" align=right height=15></a>
         Date: 2006-05-12<br>
         Version: 37zw<br>
         Download: <a href="files/apollo/Apollo37zw.exe">Apollo37zw.exe</a> - 672kB<br>

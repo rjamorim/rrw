@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -105,8 +106,8 @@
         web site to obtain a registration key. Without that key, the program encodes 
         no more than 30 seconds of audio for each file.<br><br>
         
-        The registration form and the website have been gone for years, so I am
-        providing here a key found at a "serial numbers" site:<br>
+        The registration form and the website have been gone for decades, so I am
+        providing here a key found at a "serial numbers" page:<br>
         <b>Mail address:</b> UCF@UCF.com<br>
         <b>Registration key:</b> EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh<br>
         <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br>

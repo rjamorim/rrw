@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,8 +93,10 @@
           <br><div align="justify"> <b>Uzura3 / Uzura1 encoders</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Uzura is an open source MP1/3 encoder with a characteristic that makes it 
-        stand out from the rest: it is completely written in Fortran.<br><br>
+        Uzura is an open source MP1/3 encoder coming from Japan with a 
+        characteristic that makes it stand apart from the rest: it is completely
+        written in the Fortran programming language (probably all other MP3 
+        encoders are written in C and ASM).<br><br>
         
         You can see a mirror of its web site <a 
         href="https://web.archive.org/web/20021204005320/http://members.tripod.co.jp/kitaurawa/index_e.html"

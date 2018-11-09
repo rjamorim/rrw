@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -107,8 +108,8 @@
         available above and the ones at SoundLimit's page. Even some of the (ugly, 
         unnecessary) textures are the same!<br><br>
         
-        If you know what was going on, please get <a href="about.php">in touch
-        </a>!<br><br>
+        If you know what was going on, please get <a href=about.php>in touch</a>!
+        <br><br>
         
         The demo version hosted here is only valid for 30 days after installation.
         A mirror of the web page is available <a 
