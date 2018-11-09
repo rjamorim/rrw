@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -55,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=750><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -112,10 +113,12 @@
         XingSound</a> page.
         
         Xing Technology was acquired by <a href="realjuke.php">RealNetworks</a> in the 
-        early 2000s, and the MP3 encoder was renamed to Helix MP3 Encoder. Then, in 
-        2005, they released the sources under an open source license. It seems they 
-        closed the sources again, but here you can find compiles of their encoder made 
-        while they were still open, as well as the source code.<br>
+        early 2000s (but you can still check their web site at the Internet Archive, <a 
+        href="https://web.archive.org/web/20000303161440/http://www.xingtech.com:80/mp3/encoder"
+        target=outside>here</a>), and the MP3 encoder was renamed to Helix MP3 Encoder. 
+        Then, in 2005, they released the sources under an open source license. It seems 
+        they closed the sources again, but here you can find compiles of their encoder 
+        made while they were still open, as well as the source code.<br>
 
         <br>
         <br>
