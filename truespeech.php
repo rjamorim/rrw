@@ -95,8 +95,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/truespeech-enc.png" target=outside><img src="screens/truespeech-enc.png" 
         alt="I TOLD YOU IT WAS MINIMALIST" align=right></a>
-        The TrueSpeech technology has been developed by the DSP Group of Santa Clara,
-        California, a company specialized in DSP applications.<br><br>
+        The TrueSpeech voice compression technology has been developed by the DSP 
+        Group of Santa Clara, California, a company specialized in DSP 
+        applications.<br><br>
         
         It is available in several versions and bitrates. By far, the most popular
         version is 8.5 (8.5kbps), which is bundled with older versions of Windows
@@ -148,7 +149,7 @@
         <br>
         <hr>
         Date: 2001-05-08<br>
-        Version: ?<br>
+        Version: 1.00<br>
         Interface: ACM codec<br>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/tsp_codec_install.exe">tsp_codec_install.exe</a> - 96kB<br>

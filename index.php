@@ -4,7 +4,7 @@
 <HTML>
 <HEAD>
 <TITLE>ReallyRareWares</TITLE>
-<meta name="keywords" content="Audio, MP3, LAME, FhG, AAC, OGG, Lossless, Musepack, VQF, Obscure, Obsolete, Museum, Player">
+<meta name="keywords" content="Audio, MP3, LAME, FhG, AAC, Lossless, Musepack, VQF, Obscure, Obsolete, Museum, Player">
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">

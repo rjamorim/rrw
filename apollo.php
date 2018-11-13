@@ -117,7 +117,7 @@
         Platform: Win32<br>
         Download: <a href="files/apollo/Apollo37zz.exe">Apollo37zz.exe</a> - 673kB<br>
         <i>Kindly contributed by [Jaz]</i><br>
-        <br
+        <br>
         <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
         alt="Apollo 37zz mini" align=right height=15></a>
         Date: 2006-10-23<br>

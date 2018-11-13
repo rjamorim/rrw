@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,14 +95,15 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
         alt="XingSound" align=right></a>
-        XingSound is an MP2 and WAV audio player for Win16. It is as minimalist as can get, not even
-        pause is implemented. Its only functions are "Open", "Play", "Stop" and "Repeat".<br><br>
+        XingSound is an MP2 and WAV audio player for Win16 created by Xing Technology Corporation. 
+        It is as minimalist as can get, not even pause is implemented. Its only functions are 
+        "Open", "Play", "Stop" and "Repeat".<br><br>
         
         The first version available here is dated 1993 - that makes it the oldest software
-        featured at ReallyRareWares to this date (before Xing, the oldest program here was 
-        Sonarc). Considering that in 1993 most of us were still using 286s and 386s, Xing also added
-        to their player the option of half and quarter quality playback, similar to an option 
-        available to this day in MP3 players.<br><br>
+        featured at ReallyRareWares to this date (before XingSound, the oldest program here 
+        was Sonarc). Considering that in 1993 most of us were still using 286s and 386s, Xing 
+        also added to their player the option of half and quarter quality playback, similar 
+        to an option available to this day in MP3 players.<br><br>
         
         Decoding quality is reasonable. For MP2 decoding, the <a href="mpegplayer.php">Philips 
         MPEG player</a> offers higher accuracy.<br>

@@ -101,9 +101,10 @@
         And it delivers! It is much faster than other encoders in <a href=
         "http://web.archive.org/web/20071222223437/http://nyaochi.sakura.ne.jp:80/encoder-benchmark/result-20061103.html"
         target=outside>benchmark tests</a>, even compared to famously fast encoders
-        such as <a href=mpegplus.php>Musepack</a> and Ogg Vorbis Lancer. These speed
-        gains are obtained mostly with heavy usage of x86 assembly code (which, in 
-        this case, is unfortunately limited to the Windows platform).<br><br>
+        such as <a href=mpegplus.php>Musepack</a>, <a href=wingogo.php>Gogo</a> and 
+        Ogg Vorbis Lancer. These speed gains are obtained mostly with heavy usage 
+        of x86 assembly code (which, in this case, is unfortunately limited to the 
+        Windows platform).<br><br>
         
         What about quality? Surprisingly, the quality is quite good! Of course not
         on par with <a href=lame.php>LAME</a>, but if you are in a hurry, Xing can
