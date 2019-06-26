@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,8 +94,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/softencode.png" target=outside><img src="screens/softencode.png" 
         alt="Sonic Foundry SoftEncode" align=right height=265></a>
-        SoftEncode is an AC3 encoder created and marketed by Sonic Foundry based on
-        the official Dolby libraries, with a pleasing and featureful interface.<br><br>
+        SoftEncode is an AC3 encoder and decoder created and marketed by Sonic Foundry 
+        based on the official Dolby libraries, with a pleasing and featureful 
+        interface.<br><br>
         
         AC3 is a compression format created by Dolby Laboratories originally to provide
         digital sound in cinemas, with the encoded track stored optically in 35mm film 
