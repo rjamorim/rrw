@@ -119,7 +119,7 @@
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
         <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
-        alt="Apollo 37zz mini" align=right height=15></a>
+        alt="Apollo 37zz mini" align=right height=20></a>
         Date: 2006-10-23<br>
         Version: 37zy<br>
         Download: <a href="files/apollo/Apollo37zy.exe">Apollo37zy.exe</a> - 671kB<br>
