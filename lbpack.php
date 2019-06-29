@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -55,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -105,7 +106,7 @@
         <br><br>
         
         It suffers from many of the problems QDesign suffers: distortions when encoding 
-        voice, annoying artifacts, etc.<br><br>
+        voice, annoying artifacts, metallic sound, etc.<br><br>
         
         The official page was taken offline after the codec was bought by QDesign, 
         so nowadays the only information about this codec is available at the readme 
@@ -117,10 +118,16 @@
         <br>
         <br>
         Date: 1997<br>
-        Version: 1.60<br>
+        Version: 1.60 (registered)<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
         Download: <a href="files/others/lb.zip">lb.zip</a> - 154kB<br>
+        <br>
+        Date: 1997<br>
+        Version: 1.57 (demo)<br>
+        Interface: Command line + graphical player<br>
+        Platform: DOS/Win32<br>
+        Download: <a href="files/others/lbit157.zip">lbit157.zip</a> - 215kB<br>
         
         </blockquote></font>
 
