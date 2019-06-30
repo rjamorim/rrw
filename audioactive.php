@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,7 +98,8 @@
         their products dealing with MP3 technology.<br><br>
         
         All the products are based on encoders and decoders developed by Fraunhofer,
-        so you know quality is going to be good.<br><br>
+        so you know quality is going to be good. The encoder is based on <a 
+        href=mp3enc.php>FhG MP3enc</a>.<br><br>
         
         The problem with Audioactive Production Studio is that quality comes at a price. 
         A very hefty price. You see, it was offered in two versions: Lite, which allowed 
