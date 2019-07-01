@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,6 +95,10 @@
         Fraunhofer MP3enc is the successor to <a href="l3enc.php">l3enc</a>. Based on the 
         codebase of its sucessful predecessor, it offers higher quality and faster encoding.
         <br><br>
+        
+        This encoder also existed as a famous, much pirated ACM (Audio Compression 
+        Manager) codec for the Windows platform, enabling usage of the MP3 encoder
+        on most applications able to process WAV files.<br><br>
         
         Development stopped in late 1998 to favour development of a parallel branch FhG
         had been developing for some time, called <a href="fastencc.php">Fastenc</a>. While 
