@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,7 +95,7 @@
         <a href="screens/realjuke.png" target=outside><img src="screens/realjuke.png" 
         alt="Make it stop!" align=right height=330></a>
         RealJukebox is an audio playback, management and CD ripping application created 
-        by RealNetworks in the late 90's.<br><br>
+        by RealNetworks in the late nineties.<br><br>
         
         Also, it is a complete piece of garbage.<br><br>
         
