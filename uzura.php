@@ -108,7 +108,7 @@
         Version: 0.4a<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/uzura3.zip">uzura3.zip</a> - 189kB<br>
+        Download: <a href="files/mpeg/uzura3.zip">uzura3.zip</a> - 192kB<br>
         Sources: <a href="files/mpeg/uzura3srcs.zip">uzura3srcs.zip</a> - 44kB<br>
         <br>
         Date: 2002-11-24<br>
