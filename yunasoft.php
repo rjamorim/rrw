@@ -95,7 +95,8 @@
         <a href="screens/yunasoft.png" target=outside><img src="screens/yunasoft.png" 
         alt="YunaSoft MP3 Encoder 0.7" align=right height=310></a>
         Yunasoft is an application coming from Japan, but it is not really an MP3
-        encoder - actually, it is a frontend to the FhG ACM MP3 codec.<br><br>
+        encoder - actually, it is a frontend to the <a href=mp3enc.php>FhG MP3</a> 
+        ACM codec.<br><br>
         
         It offers several features related to tagging and whether to save output
         as WAV-wrapped MP3 streams or standard MP3 files.<br><br>
