@@ -54,9 +54,9 @@
     
     
       </table>
-    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=4300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=6500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -126,10 +126,174 @@
         Download: <a href="files/foobar2000/foobar2000_v1.2.3.exe">foobar2000_v1.2.3.exe</a> - 3.627kB<br>
         <i>Kindly contributed by mezenga</i><br>
         <br>
+        Version: 1.2.2<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.2.2.exe">foobar2000_v1.2.2.exe</a> - 3.638kB<br>
+        <br>
+        Version: 1.2.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.2.1.exe">foobar2000_v1.2.1.exe</a> - 3.637kB<br>
+        <br>
+        Version: 1.2<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.2.exe">foobar2000_v1.2.exe</a> - 3.631kB<br>
+        <br>
         <hr>
         Version: 1.1.18<br>
         Download: <a href="files/foobar2000/foobar2000_v1.1.18.exe">foobar2000_v1.1.18.exe</a> - 3.318kB<br>
         <i>Kindly contributed by mezenga</i><br>
+        <br>
+        Version: 1.1.17<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.17.exe">foobar2000_v1.1.17.exe</a> - 3.319kB<br>
+        <br>
+        Version: 1.1.16<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.16.exe">foobar2000_v1.1.16.exe</a> - 3.309kB<br>
+        <br>
+        Version: 1.1.15<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.15.exe">foobar2000_v1.1.15.exe</a> - 3.307kB<br>
+        <br>
+        Version: 1.1.14a<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.14a.exe">foobar2000_v1.1.14a.exe</a> - 3.283kB<br>
+        <br>
+        Version: 1.1.14<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.14.exe">foobar2000_v1.1.14.exe</a> - 3.282kB<br>
+        <br>
+        Version: 1.1.12a<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.12a.exe">foobar2000_v1.1.12a.exe</a> - 3.168kB<br>
+        <br>
+        Version: 1.1.12<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.12.exe">foobar2000_v1.1.12.exe</a> - 3.168kB<br>
+        <br>
+        Version: 1.1.11<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.11.exe">foobar2000_v1.1.11.exe</a> - 3.157kB<br>
+        <br>
+        Version: 1.1.10<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.10.exe">foobar2000_v1.1.10.exe</a> - 3.239kB<br>
+        <br>
+        Version: 1.1.9<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.9.exe">foobar2000_v1.1.9.exe</a> - 3.207kB<br>
+        <br>
+        Version: 1.1.8<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.8.exe">foobar2000_v1.1.8.exe</a> - 3.201kB<br>
+        <br>
+        Version: 1.1.7<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.7.exe">foobar2000_v1.1.7.exe</a> - 3.182kB<br>
+        <br>
+        Version: 1.1.6<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.6.exe">foobar2000_v1.1.6.exe</a> - 3.164kB<br>
+        <br>
+        Version: 1.1.5<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.5.exe">foobar2000_v1.1.5.exe</a> - 3.175kB<br>
+        <br>
+        Version: 1.1.4<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.4.exe">foobar2000_v1.1.4.exe</a> - 3.174kB<br>
+        <br>
+        Version: 1.1.3<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.3.exe">foobar2000_v1.1.3.exe</a> - 3.174kB<br>
+        <br>
+        Version: 1.1.2<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.2.exe">foobar2000_v1.1.2.exe</a> - 3.179kB<br>
+        <br>
+        Version: 1.1.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.1.exe">foobar2000_v1.1.1.exe</a> - 3.139kB<br>
+        <br>
+        Version: 1.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.1.exe">foobar2000_v1.1.exe</a> - 3.169kB<br>
+        <br>
+        <hr>
+        Version: 1.0.3<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.0.3.exe">foobar2000_v1.0.3.exe</a> - 3.065kB<br>
+        <br>
+        Version: 1.0.2.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.0.2.1.exe">foobar2000_v1.0.2.1.exe</a> - 3.064kB<br>
+        <br>
+        Version: 1.0.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.0.1.exe">foobar2000_v1.0.1.exe</a> - 3.065kB<br>
+        <br>
+        Version: 1.0<br>
+        Download: <a href="files/foobar2000/foobar2000_v1.0.exe">foobar2000_v1.0.exe</a> - 3.060kB<br>
+        <br>
+        <hr>
+        Version: 0.9.6.9<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.9.exe">foobar2000_0.9.6.9.exe</a> - 2.985kB<br>        
+        <br>
+        Version: 0.9.6.8<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.8.exe">foobar2000_0.9.6.8.exe</a> - 3.010kB<br>        
+        <br>
+        Version: 0.9.6.7<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.7.exe">foobar2000_0.9.6.7.exe</a> - 3.010kB<br>        
+        <br>
+        Version: 0.9.6.6<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.6.exe">foobar2000_0.9.6.6.exe</a> - 3.010kB<br>        
+        <br>
+        Version: 0.9.6.5<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.5.exe">foobar2000_0.9.6.5.exe</a> - 3.006kB<br>        
+        <br>
+        Version: 0.9.6.4<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.4.exe">foobar2000_0.9.6.4.exe</a> - 2.939kB<br>        
+        <br>
+        Version: 0.9.6.3<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.3.exe">foobar2000_0.9.6.3.exe</a> - 2.929kB<br>        
+        <br>
+        Version: 0.9.6.2<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.2.exe">foobar2000_0.9.6.2.exe</a> - 2.926kB<br>
+        <br>
+        Version: 0.9.6.1<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.1.exe">foobar2000_0.9.6.1.exe</a> - 2.929kB<br>
+        <br>
+        Version: 0.9.6<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.6.exe">foobar2000_0.9.6.exe</a> - 2.915kB<br>
+        <br>
+        Version: 0.9.5.6<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.6.exe">foobar2000_0.9.5.6.exe</a> - 2.787kB<br>
+        <br>
+        Version: 0.9.5.5<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.5.exe">foobar2000_0.9.5.5.exe</a> - 2.787kB<br>
+        <br>
+        Version: 0.9.5.4<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.4.exe">foobar2000_0.9.5.4.exe</a> - 2.786kB<br>
+        <br>
+        Version: 0.9.5.3<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.3.exe">foobar2000_0.9.5.3.exe</a> - 2.750kB<br>
+        <br>
+        Version: 0.9.5.2<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.2.exe">foobar2000_0.9.5.2.exe</a> - 2.747kB<br>
+        <br>
+        Version: 0.9.5.1<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.1.exe">foobar2000_0.9.5.1.exe</a> - 2.748kB<br>
+        <br>
+        Version: 0.9.5<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.5.exe">foobar2000_0.9.5.exe</a> - 2.711kB<br>
+        <br>
+        Version: 0.9.4.5<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.4.5.exe">foobar2000_0.9.4.5.exe</a> - 1.651kB<br>
+        <br>
+        Version: 0.9.4.4<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.4.4.exe">foobar2000_0.9.4.4.exe</a> - 1.566kB<br>
+        <br>
+        Version: 0.9.4.3<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.4.3.exe">foobar2000_v0.9.4.3.exe</a> - 1.646kB<br>
+        <br>
+        Version: 0.9.4.2<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.4.2.exe">foobar2000_v0.9.4.2.exe</a> - 1.648kB<br>        
+        <br>
+        Version: 0.9.4.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.4.1.exe">foobar2000_v0.9.4.1.exe</a> - 1.648kB<br>        
+        <br>
+        Version: 0.9.4<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.4.exe">foobar2000_v0.9.4.exe</a> - 1.643kB<br>
+        <br>
+        Version: 0.9.3.1<br>
+        Download: <a href="files/foobar2000/foobar2000_0.9.3.1.exe">foobar2000_0.9.3.1.exe</a> - 1.566kB<br>
+        <br>
+        Version: 0.9.3<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.3.exe">foobar2000_v0.9.3.exe</a> - 1.566kB<br>
+        <br>
+        Version: 0.9.2<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.2.exe">foobar2000_v0.9.2.exe</a> - 1.512kB<br>
+        <br>
+        Version: 0.9.1<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.1.exe">foobar2000_v0.9.1.exe</a> - 1.591kB<br>
+        <br>
+        Version: 0.9<br>
+        Download: <a href="files/foobar2000/foobar2000_v0.9.exe">foobar2000_v0.9.exe</a> - 1.575kB<br>
         <br>
         <hr>
         Version: 0.8.3<br>

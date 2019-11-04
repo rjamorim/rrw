@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1500 src="dot.gif">
+<img width=1 height=1600 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2018-07-06 <br><br>
+<br><br><br>Last update: 2019-11-04 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,19 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2019-11-04: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>foobar2000</b></font><p>
+                  This time around I uploaded dozens and dozens of foobar2000 versions, from
+                  the 0.9, 1.0, 1.1, and 1.2 series.<br><br>
+                  
+                  Hopefully soon I'll find time to upload stuff that was released in the 1.3 
+                  and 1.4 series.
+             </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2018-07-06: </b></div><p>
