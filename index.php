@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1600 src="dot.gif">
+<img width=1 height=1700 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
@@ -143,13 +143,19 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <br><div align="justify"><b> 2019-11-04: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>foobar2000</b></font><p>
+              <font face="Tahoma" size=2 color="black"><b>foobar2000 and HTTPS</b></font><p>
                   This time around I uploaded dozens and dozens of foobar2000 versions, from
                   the 0.9, 1.0, 1.1, and part of 1.2 series.<br><br>
                   
                   Hopefully soon I'll find time to upload stuff that was released in the 1.3 
                   and 1.4 series, as well as the rest of 1.2 (but considering I took more than 
-                  one year to come up with this update... ¯\_(ツ)_/¯ )
+                  one year to come up with this update... ¯\_(ツ)_/¯ )<br><br>
+                  
+                  Additionally, ReallyRareWares pages are now securely served through SSL/TLS 
+                  thanks to a brand new cryptographic certificate, courtesy of the fine people 
+                  at <a href="https://letsencrypt.org/" target=outside>Let's Encrypt</a>. You 
+                  can rest calm in the knowledge that your downloads are not being tampered by 
+                  evil hackers while in transit to your computer.
              </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
