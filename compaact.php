@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -100,7 +101,7 @@
         interesting features. There are three different quality levels (from faster 
         encoding to high quality), support for LC and Main profiles, ability to enable 
         or disable tools like TNS or PNS, multichannel encoding support, several 
-        preprocessing routines, and a very interesting preview feature, that allows 
+        preprocessing routines, and a very interesting preview feature that allows 
         users to preview in real time how their tracks will sound after encoded.<br><br>
         
         For some reason, it was discontinued in early 2005. The zPlane web site can 
