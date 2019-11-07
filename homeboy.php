@@ -95,9 +95,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         HomeBoy was a group of programers that created the first ISO compliant 
         publicly available AAC encoder for Windows back in 1998. At that time, the 
-        "competition" was K+K's MP01 - a vaporware - and <a href="astrid.php">
-        Astrid/Quartex AAC</a> - actualy a stolen encoder that did not have anything 
-        to do with AAC.<br><br>
+        "competition" was <a href=tac.php>K+K</a>'s MP01 - a vaporware - and <a 
+        href="astrid.php">Astrid/Quartex AAC</a> - actualy a stolen encoder that 
+        did not have anything to do with AAC.<br><br>
         
         Also, they were reportedly creators of the first third party plugin for
         Winamp (their AAC input plugin), as well as the first ISO-compliant AAC 
