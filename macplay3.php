@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -100,15 +101,15 @@
         The alpha 0.99 version works on the M68K platform, but it is only useful for 
         decoding, since the 68k CPU is not powerful enough to playback MP3 in real time. 
         Besides, it is a demo version with no interface (all commands are done through
-        the menu bar, similar to Winamp 0.2) and playback (but not decoding) is limited 
-        to 20 seconds.<br><br>
+        the menu bar, similar to Winamp 0.2) and playback is limited to 20 seconds
+        (but not decoding).<br><br>
         
         Version 1.4b2 was the last version released by FhG and only works on 
         PowerPC machines, but it has an actual interface and no limitations.<br><br>
         
-        A mirror of the MacPlay3 website is available at the Internet Archive, <a 
+        A mirror of the MacPlay3 website is available at the <a 
         href="https://web.archive.org/web/19980204231239/http://iis.fhg.de:80/departs/amm/layer3/macplay3/index.html"
-        target=outside>here</a>. <br><br>
+        target=outside>Internet Archive</a>. <br><br>
         
         At least, version 0.99 had a great installation blurb...<br>
         
@@ -125,7 +126,7 @@
         Date: 1996-03-28<br>
         Version: 0.99 alpha<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic 68K/PPC<br>
+        Platform: MacOS Classic 68K<br>
         Download: <a href="files/players/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168kB<br>
         
 
