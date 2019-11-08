@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -102,8 +103,8 @@
         being developed, is much more advanced that Encspot ever was).<br><br>
         
         The main feature is trying to guess which encoder was used to encode an 
-        MP3 file. To do that, it analyzes tags and usage of MP3 features that tend 
-        to be typical of one encoder or another.<br><br>
+        MP3 file. To do that, it analyzes tags, flags and usage of MP3 features 
+        that tend to be typical of one encoder or another.<br><br>
         
         Besides that, it offers advanced analysis features such as bitrate distribution
         graphs, frame statistics, bit reservoir usage and other detailed information
