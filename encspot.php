@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,8 +99,8 @@
         
         It has a graphical interface built around an improved version of <a
         href="http://mp3guessenc.sourceforge.net" target=outside>mp3guessenc</a>
-        (improved at the time - the current version of mp3guessenc, that is still
-        being developed, is much more advanced that Encspot ever was).<br><br>
+        (improved at the time - the current version of mp3guessenc, which is still
+        being developed, is much more advanced than Encspot ever was).<br><br>
         
         The main feature is trying to guess which encoder was used to encode an 
         MP3 file. To do that, it analyzes tags, flags and usage of MP3 features 
