@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -111,7 +112,11 @@
         alt="RecordIt - encoder interface" align=right height=209></a>
         It is worth mentioning the program is not really an encoder, but a recorder - 
         which means, it will not accept .wav files for input. It will only encode 
-        from an audio CD, line-in or a microphone.<br>
+        from an audio CD, line-in or a microphone.<br><br>
+        
+        The RecordIt web page at Iomega can still be reached at <a
+        href="https://web.archive.org/web/20000304155316/http://www.iomega.com/software/featured/recordit.html"
+        target=outside>archive.org</a>.<br>
         
         <br>
         <br>
