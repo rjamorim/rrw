@@ -126,6 +126,27 @@
                 <a href=xing.php>Xing/Helix MP3 encoder</a><br>
                 <a href=yunasoft.php>YunaSoft MP3 encoder</a><br>
             </blockquote>
+            
+        <font face="Verdana" size=2 color="669900">
+          <br><div align="justify"><b>Weird &amp; rare &amp; old formats:</b></div>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+                <a href=alf2cd.php>ALF2 CD codec</a><br>
+                <a href=astrid.php>Astrid/Quartex AAC</a><br>
+                <a href=audiolib.php>AudioLib (PAC)</a><br>
+                <a href=audioveda.php>AudioVeda (ePAC)</a><br>
+                <a href=aupec.php>AUPECg2</a><br>
+                <a href=lbpack.php>LBpack</a><br>
+                <a href=qdmc.php>QDesign Music Codec</a><br>
+                <a href=mafuka.php>Mafuka encoder and decoder</a><br>
+                <a href=mio.php>Entis Lab MIO</a><br>
+                <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
+                <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
+                <a href=soundvq.php>Yamaha SoundVQ</a><br>
+                <a href=softencode.php>SoftEncode AC3 encoder</a><br>
+                <a href=tac.php>K+K Research TAC</a><br>
+                <a href=wavsquiq.php>Arminio Grgic's WavSquiq</a><br>
+            </blockquote>
 
         <font face="Verdana" size=2 color="669900">
           <br><div align="justify"><b>Old lossless audio compressors:</b></div>
@@ -146,27 +167,6 @@
                 <a href=wavpack.php>WavPack</a><br>
                 <a href=wavezip.php>WaveZip/MUSICompress</a><br>
                 <a href=zap.php>Emagic Zap</a><br>
-            </blockquote>
-
-        <font face="Verdana" size=2 color="669900">
-          <br><div align="justify"><b>Weird &amp; rare &amp; old formats:</b></div>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-                <a href=alf2cd.php>ALF2 CD codec</a><br>
-                <a href=astrid.php>Astrid/Quartex AAC</a><br>
-                <a href=audiolib.php>PAC - AudioLib</a><br>
-                <a href=audioveda.php>ePAC - AudioVeda</a><br>
-                <a href=aupec.php>AUPECg2</a><br>
-                <a href=lbpack.php>LBpack</a><br>
-                <a href=qdmc.php>QDesign Music Codec</a><br>
-                <a href=mafuka.php>Mafuka encoder and decoder</a><br>
-                <a href=mio.php>Entis Lab MIO</a><br>
-                <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
-                <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
-                <a href=soundvq.php>Yamaha SoundVQ</a><br>
-                <a href=softencode.php>SoftEncode AC3 encoder</a><br>
-                <a href=tac.php>K+K Research TAC</a><br>
-                <a href=wavsquiq.php>Arminio Grgic's WavSquiq</a><br>
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
