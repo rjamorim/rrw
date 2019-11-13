@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -74,7 +75,7 @@
     </table></td></tr>
       <tr><td>
         <table border="0" cellpadding="10" cellspacing="0" width="100%">
-      <tr><td width="450"></td>
+      <tr><td width="550"></td>
         <td width="20%"></td></tr>
       <tr><td>
         <font face="Geneva,Verdana,Helvetica,Arial">
@@ -94,7 +95,12 @@
         EchoSpeech is an obsure voice compression codec. Very little is known about 
         the format. The default bitrate is 9600bps, at 11025Hz.<br><br>
         
-        Surprisingly the web site is still available, <a href="http://www.echospeech.com/"
+        The codec consists of a command line encoder and a decoder for DOS. The only
+        way to play back the streams is by creating a web page (!) that loads the 
+        appropriate plugin (!!) on Netscape or a compatible browser (!!!). That
+        probably explains why the format never became popular.<br><br>
+        
+        Surprisingly the web site is still active, <a href="http://www.echospeech.com/"
         target=outside>here</a>.<br>
         
         <br>
