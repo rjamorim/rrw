@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -99,6 +99,12 @@
         way to play back the streams is by creating a web page (!) that loads the 
         appropriate plugin (!!) on Netscape or a compatible browser (!!!). That
         probably explains why the format never became popular.<br><br>
+        
+        Despite these hurdles, I installed the plugin (on Netscape Communicator 4.51!)
+        to try it out. The interface is so minimal, it is not even worth uploading a 
+        screenshot. Just a yellow box displaying the text "EchoSpeech 1.5 - Voice 
+        of the Web&trade;". A left click with the mouse pauses/unpauses playback, a 
+        right click goes to the EchoSpeech web site. And that's it.<br><br>
         
         Surprisingly the web site is still active, <a href="http://www.echospeech.com/"
         target=outside>here</a>.<br>
