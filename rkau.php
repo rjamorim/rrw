@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,9 +97,9 @@
         together with RK (a general purpose data compressor) and RKim (a lossless 
         image compressor).<br><br>
         
-        It is an assymetrical compressor - meaning, it takes much more resources to 
-        compress a file than to decompress. Similar compressors are Monkey's Audio 
-        and FLAC.<br><br>
+        It is an assymetrical compressor - meaning, it takes more resources to 
+        compress a file than to decompress it. Compressors that operate in a similar 
+        fashion are Monkey's Audio and FLAC.<br><br>
         
         Later, Malcolm created MSoftware to sell an improved version of RK and RKau 
         called WinRK; striving to provide the best compression performance among 
