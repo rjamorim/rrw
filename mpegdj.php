@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,11 +98,11 @@
         developers.<br><br>
         
         According to the credits tab at the about window, the encoder engine is based on 
-        <a href="xing.php">Xing Tech</a>'s, so you can expect reasonable quality and blazing 
+        <a href="xing.php">Xing Tech</a>'s, so you can expect good quality and blazing 
         fast speeds.<br><br>
         
         The version available here is an unregistered demo that will not encode WAV files
-        and will only rip the first track of each CD. Registration cost 29 Euro.<br>
+        and will only rip the first track of each CD. Registration cost &euro;29.<br>
 
         <br>
         <br>
