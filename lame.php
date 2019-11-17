@@ -116,8 +116,8 @@
         Takehiro Tominaga, Naoki Shibata, Gabriel Bouvigne, Robert Hegemann, etc. And 
         development is still going on...<br><br>
         
-        The LAME home page is located <a href="http://lame.sourceforge.net/" target=outside>
-        here</a>.<br>
+        The LAME home page is located <a href="https://lame.sourceforge.net/" 
+        target=outside>here</a>.<br>
         
         <br>
         <br>
