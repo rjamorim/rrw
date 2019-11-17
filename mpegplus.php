@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -111,7 +112,7 @@
         competition was quite unremarkable: Ogg Vorbis was still at the beta stage, 
         the only serious AAC implementation was <a href="aacenc.php">Psytel AAC</a>, 
         a quite slow encoder, and <a href="lame.php">LAME</a> was far from being the 
-        amazingly fast and high quality encoder it is today.<br><br>
+        fast and high quality encoder it is today.<br><br>
         
         Ever since then, Vorbis reached 1.0 release status and beyond, counting on 
         aoyumi's great tuning work. There is also BlackSword's ASM optimization of 
@@ -120,13 +121,14 @@
         thought possible. And both Nero and iTunes AAC encoders were released, 
         featuring high quality and fast encoding for this format (at last!).<br><br>
         
-        So, while Musepack lagged behind, competition quickly catched up. In that
+        So, while Musepack lagged behind, competition quickly catch up. In that
         context, where Musepack is no longer the undisputed champion of quality and 
         speed, its downsides become more preeminent: near to nonexistant portable
-        player support, suboptimal seeking, no support for multichannel streams, 
-        no hability to cut and paste streams, and so on. That led former enthusiasts 
-        to abandon the format and move on to better supported options. Today, 
-        Musepack is little more than a curiosity.<br><br>
+        player support, suboptimal seeking, no support for multichannel streams,
+        no CBR support, no hability to cut and paste streams, and so on. That led
+        former enthusiasts to abandon the format and move on to better supported,
+        actively developed options. Today, Musepack is little more than a curiosity.
+        <br><br>
         
         The official page is available <a href="http://www.musepack.net" target=outside>
         here</a>.<br><br>
