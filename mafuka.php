@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -109,7 +110,7 @@
         together again. That is why a file encoded in one computer would not work 
         in another.<br><br>
         
-        An interesting detail is that "Mafuka" is believed to actually mean an 
+        An interesting detail is that "Mafuka" is believed to be a reference to an 
         american profanity, "mother f**ker".<br><br>
         
         I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
