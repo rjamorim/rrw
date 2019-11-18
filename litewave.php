@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,10 +95,10 @@
         LiteWave is a fast and unefficient lossless compressor - it is developed for 
         inclusion in AVI files as audio stream, and in this case it is better if most 
         of the processing power is left for the video codec (when doing real-time 
-        capture).<br><br>
+        capture) to avoid dropped frames.<br><br>
         
-        Also, it includes lots of ancilliary data used to avoid loss of synchrony.
-        That's another reason for the suboptimal compression.<br><br>
+        Also, it includes ancilliary data to avoid loss of synchrony. That is another 
+        reason for the suboptimal compression.<br><br>
         
         A lossy mode is also implemented.<br><br>
         
