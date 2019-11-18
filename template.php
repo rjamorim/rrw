@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,7 +93,7 @@
           <br><div align="justify"><b>  </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/TEMPLATE.png" target=outside><img src="screens/TEMPLATE.png" 
-        alt="SoundVQ Encoder" align=right height=XXX>
+        alt="TEMPLATE Encoder" align=right height=XXX>
         
 
         <br>
