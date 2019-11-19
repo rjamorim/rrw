@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -115,9 +116,10 @@
         Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42kB<br>
         <br><br>
         
-        After a while, he abandoned LTAC to focus on the development of LPAC - Lossless 
-        Predictive Audio Compression - based on linear prediction, increasing compression 
-        and making it faster compared to LTAC, which is based on transform coding.<br><br>
+        After a while, the developer abandoned LTAC to focus on the development of LPAC - 
+        Lossless Predictive Audio Compression - based on linear prediction, increasing 
+        compression and making it faster compared to LTAC, which is based on transform 
+        coding.<br><br>
         
         Finally, LPAC was selected as the basis of the MPEG4 lossless audio standardization
         effort. After further improvements submitted by Real Networks and NTT, the format 
