@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -105,7 +106,7 @@
         Some time later, the author started selling a commercial version of the encoder,
         M3SE Pro.<br><br>
         
-        Distribution of M3E ceased at 2000-01-21, due to patent issues. M3SE sales 
+        Distribution of M3E ceased on 2000-01-21, due to patent issues. M3SE sales 
         ceased some time later, probably because of commercial failure (better, free
         encoders available; price at &yen;3000 was quite expensive).<br><br>
         
