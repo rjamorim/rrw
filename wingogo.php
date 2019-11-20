@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,9 +95,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/gogo239.png" target=outside><img src="screens/gogo239.png" 
         alt="Gogo 2.39" align=right height=330></a>
-        Gogo is a fork from the Lame MP3 encoder, with the most CPU-intensive routines 
-        rewritten in assembler. That makes Gogo one of the fastest MP3 encoders with 
-        good quality.<br><br>
+        Gogo is a fork from the <a href=lame.php>Lame MP3 encoder</a>, with the most 
+        CPU-intensive routines rewritten in assembler. That makes Gogo one of the 
+        fastest MP3 encoders with good quality.<br><br>
         
         It was developed by a team of Japanese programmers, and the home page is
         available <a href="http://www.marinecat.net/free/windows/mct_free.htm"
