@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -95,7 +96,7 @@
         Shine is a minimalistic MP3 encoder developed by Gabriel Bouvigne, of <a 
         href="lame.php">LAME</a> development fame. His goal with it was not quality, 
         but simplifying the encoding algorithms as much as possible while retaining 
-        standard compatibility. For that reason, it's a good starting point for 
+        standard compatibility. For that reason, it is a good starting point for 
         people wanting to implement an encoder from scratch.<br><br>
         
         It is also the only open source MP3 encoder that runs on fixed point math
@@ -105,8 +106,8 @@
         target=outsode>Peter Everett</a> for ARM's RISCOS operating system.<br><br>
         
         The "official" Shine page is located at <a href="http://www.mp3-tech.org/" 
-        target=outside>MP3-Tech</a>. It is said that "Shine is really lame, but LAME 
-        really shines".<br>
+        target=outside>MP3-Tech</a>. It is said that <i>"Shine is really lame, but 
+        LAME really shines"</i>.<br>
         
         <br>
         <br>
