@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>LiteWave lossless compressor</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        LiteWave is a fast and unefficient lossless compressor - it is developed for 
+        LiteWave is a fast and inefficient lossless compressor - it is developed for 
         inclusion in AVI files as audio stream, and in this case it is better if most 
         of the processing power is left for the video codec (when doing real-time 
         capture) to avoid dropped frames.<br><br>
