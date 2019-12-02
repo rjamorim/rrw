@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,6 +99,13 @@
         it (actually, in the ID3v2 tag) the discarded data. That way, (most) normal 
         MP3 players can play the lossy track and special decoders can take into 
         consideration the extra data, enabling lossless playback.<br><br>
+        
+        Storing the discarded data in the ID3v2 tag poses problems by itself: some 
+        decoders do not understand this information and interpret that the file is
+        corrupt. Also, some tag editors do not recognize that kind of data and remove
+        it upon updating the tag. Finally, the ID3v2 specification limits the tag 
+        size to 256MB, therefore the discarded data can not exceed that size (most
+        full CDs, at 75-80 minutes, would easily do so).<br><br>
         
         This mode of operation - lossy stream + discarded data to achieve lossless
         compression - is the same idea employed by <a href="wavpack.php">WavPack</a>
