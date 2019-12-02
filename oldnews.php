@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=4000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=4700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,6 +91,60 @@
         </table>
         </a>
         
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-22: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>File dates and MP3 encoders</b></font><p>
+                  I did some serious research these last few weeks, trying to obtain information as
+                  accurate as possible for the dates displayed for each file (that information will
+                  come handy for some site improvements I have been planning).<br><br>
+
+                  I researched release notes, readmes, zip file timestamps, and even PE timestamps,
+                  and hopefully the pages now portray as accurately as possible what was released
+                  when.<br><br>
+
+                  Also, I decided to upload/update several MP3 encoders this time around:
+                  <ul>
+                    <li>Sound Limit MP3 encoder</li>
+                    <li>Audioactive Production Studio and Player</li>
+                    <li>YunaSoft MP3 Encoder (actually a FhG ACM codec frontend)</li>
+                    <li>Some Blade versions that I found lying around in my HDDs</li>
+                    <li>Also, an 8hz-mp3 version of the same origin</li>
+                    <li>Ditto for another SoloH version</li>
+                    <li>Several new versions of FhG MP3 Surround tools, and a Winamp plugin</li>
+                    <li>A new(er) version of SCMPX</li>
+                  </ul>
+                  If you have LAME versions not featured at the LAME page, please submit them!
+             </blockquote></font>
+
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-11-04: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>GitHub and players</b></font><p>
+                  This is the first update where ReallyRareWares development and changes are being versioned
+                  at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This will not make
+                  much of a difference to visitors, but should help streamline site maintenance.<br><br>
+
+                  Of course, feel free to submit pull requests... ;-)<br><br>
+
+                  And these are the updates, this time around focused on players:
+                  <ul>
+                    <li>iMPload complete MP3pro music player/ripper/manager</li>
+                    <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
+                    <li>More versions of Apollo contributed by [JAZ]</li>
+                    <li>NAD MP3 player v1.0 (thanks to Zachary Jelesoff)</li>
+                    <li>Two AMP-based MP3 players for Win32 (thanks to Zachary Jelesoff)</li>
+                    <li>MP3 to EXE, which converts MP3 files into standalone players</li>
+                  </ul>
+
+                  I am interested in filling up the Apollo page with more versions.  If you have them lying
+                  around, please get in touch! (check the About page)
+             </blockquote></font>
+
+             
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-21: </b></div><p>
             </font>
@@ -141,7 +196,7 @@
                   Here is the first real update since I decided to bring RRW back to life.
                   This is what has been added/updated:
                   <ul>
-                    <li>A page for CodingTechnologies MP3pro encoder</li>
+                    <li>A page for the CodingTechnologies MP3pro encoder</li>
                     <li>A page for Xing MP3 encoder, including an old version and a more recent Helix version</li>
                     <li>More recent versions of Gogo</li>
                     <li>Emuzed MP4 encoder</li>
@@ -205,16 +260,16 @@
               <br><div align="justify"><b> 2005-10-14: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-                  <font face="Tahoma" size=2 color="black"><b>Foobar2000 and a surprise</b></font><p>
+                  <font face="Tahoma" size=2 color="black"><b>foobar2000 and a surprise</b></font><p>
                   I was planning to only make an update near Christmas, but so many nice dudes
                   submitted old versions of foobar2000 that I decided to make a quick update and
                   add a foobar page to the site.<br><br>
 
                   The collection is still far from complete, therefore, if you happen to have an old
-                  version of this player not yet featured at the foobar page, please send it to
-                  my e-mail address (available at the About page)<br><br>
+                  version of this player not yet featured, please send it to my e-mail address 
+                  (available at the About page)<br><br>
 
-                  Also, I added a hidden surprise. Look around for it, and you'll eventually find...
+                  Also, I added a hidden surprise. Look around for it, and you will eventually find...
                   <br><br>
 
                   Until Christmas!
@@ -225,7 +280,7 @@
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Updates</b></font><p>
-                  Hello. Here is another update for the faithful visitors of ReallyRareWares.<br><br>
+                  Here is another update for the faithful visitors of ReallyRareWares.<br><br>
                   
                   This is what has just been added:
                   <ul>
@@ -237,7 +292,7 @@
                     <li>The famous K-J&ouml;fol music player - first to play VQF and only one to play Astrid AAC</li>
                   </ul>
                   That's it for now. I plan to run another update by the end of the year, as a
-                  christmas gift for you guys.<br><br>
+                  christmas gift for you people.<br><br>
                   
                   See you then!
             </blockquote></font>
@@ -246,8 +301,8 @@
               <br><div align="justify"><b> 2005-06-28: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
-                  <font face="Tahoma" size=2 color="black"><b>Wow! A new update at last!</b></font><p>
-                  Hello. This update is mainly focused on players. These are the players I'm bringing
+                  <font face="Tahoma" size=2 color="black"><b>A new update at last!</b></font><p>
+                  Hello. This update is mainly focused on players. These are the ones I am bringing
                   today for your nostalgic pleasure:
                   <ul>
                     <li>Musearc 4.4.97.3 beta</li>
@@ -267,14 +322,14 @@
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Christmas gifts</b></font> <p>
-                  Hello. I'm here bringing you some Christmas gifts taken out from obscure
+                  Hello. I am here bringing you some Christmas gifts taken out from obscure
                   and forgotten places in the web.<br><br>
                   
                   For starters, an unexpected development: Mr. Volodymyr Poltavets actually took
                   his time to adapt Split2000 to modern Linux versions. You can find his diff
                   files and precompiled binaries at the Split2000 page.<br><br>
                   
-                  Just for sake of completeness, I added several TruesSpeech players for different
+                  Just for sake of completeness, I added several TrueSpeech players for different
                   platforms: Win16, Mac68K and MacPPC.<br><br>
                   
                   Mr. Zack Jelesoff pointed me out to updates on the Mio encoder (Daru) and Winamp
@@ -294,7 +349,7 @@
                   Today I added to the lame page several very old versions, courtesy of 
                   384kbps. Included are some versions that seem to only work in OS/2.<br><br>
                   
-                  I'm also opening an exception and adding an audio editor to the collection:
+                  I am also opening an exception and adding an audio editor to the collection:
                   CoolEdit 1.3.1, a Win16 version of the famous editor dating from 1993!<br><br>
                   
                   Last but not least, I added some interesting programs submitted by the always
@@ -308,11 +363,11 @@
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Impressive response!</b></font> <p>
-                  It's been a few hours since I wrote my request for Mafuka, and it's already 
+                  It has been a few hours since I wrote my request for Mafuka, and it's already 
                   been taken care of! Very big thanks to Elohe from Spain for providing this 
                   hard-to-find encoder.<br><br>
                   
-                  I'm also taking the opportunity to upload Plugger 0.3, kindly provided by 
+                  I am also taking the opportunity to upload Plugger 0.3, kindly provided by 
                   384kbps, and mppenc 1.7.9c, the last version developed by Andree Buschmann.
             </blockquote></font>
         
@@ -329,11 +384,13 @@
                   
                   Today, I uploaded several new versions of l3enc, including a version even older
                   than 1.0 (0.99a!). According to l3enc's history.txt, this is the second version 
-                  released to the public - the first was 0.99, that I couldn't find anywhere.<br><br>
-                  Last but not least, I would like to ask visitors to check if they have the very
-                  infamous Mafuka encoder and decoder lying somewhere. I would love to feature it 
-                  here, and extensive web searches resulted in no leads. If you have it, please
-                  drop me a mail.
+                  released to the public - the first was 0.99, that I could not find anywhere.<br><br>
+                  
+                  
+                  Last, I would like to ask visitors to check if they have the very infamous Mafuka 
+                  encoder and decoder lying somewhere. I would love to feature it here, and 
+                  extensive web searches resulted in no leads. If you have it, please drop me an 
+                  e-mail.
             </blockquote></font>
 
           <font face="Verdana" size=2 color="6699CC">
@@ -346,9 +403,9 @@
                       <li>Nullsoft DOSamp MP3 player</li>
                       <li>Split2000 lossless codec</li>
                       <li>FhG's layer 3 FAQ and test bitstreams</li>
-                      <li>More old versions of Blade</li>
+                      <li>Some old versions of Blade</li>
                       <li>Shine fixed point MP3 encoder</li>
-                      <li>Mirror of Thor's page at DalnetVQF</li>
+                      <li>A mirror of Thor's page at DalnetVQF</li>
                   </ul>
             </blockquote></font>
 

@@ -61,15 +61,15 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1700 src="dot.gif">
+<img width=1 height=1300 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
 target=outside>
 <img alt="Creative Commons License" style="border-width:0"
-src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+src="img/88x31.png" /></a>
 <br />All text in this website is licensed under a <a style="color: white"
 rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
 target=outside>Creative Commons Attribution-ShareAlike 4.0 International License</a>
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2019-11-04 <br><br>
+<br><br><br>Last update: 2019-12-02 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -138,6 +138,20 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </table>
         </a>
         
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2019-12-02: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>foobar2000 again!</b></font><p>
+                  Celebrating the recent major release 1.5 of foobar2000 I uploaded the 
+                  official versions that were still missing, from the 1.2, 1.3 and 1.4
+                  series, as well as version 1.5 itself.<br><br>
+                  
+                  Next step: try to do the same to LAME, EAC and Apollo! Contributions 
+                  of versions not yet available would be <a href="about.php">extremely 
+                  welcome.</a>
+             </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2019-11-04: </b></div><p>
@@ -244,60 +258,6 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>A few extra PlusV tools</li>
                   </ul>
              </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-22: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>File dates and MP3 encoders</b></font><p>
-                  I did some serious research these last few weeks, trying to obtain information as
-                  accurate as possible for the dates displayed for each file (that information will
-                  come handy for some site improvements I've been planning).<br><br>
-
-                  I researched release notes, readmes, zip file timestamps, and even PE timestamps,
-                  and hopefully the pages now portray as accurately as possible what was released
-                  when.<br><br>
-
-                  Also, I decided to upload/update several MP3 encoders this time around:
-                  <ul>
-                    <li>Sound Limit MP3 encoder</li>
-                    <li>Audioactive Production Studio and Player</li>
-                    <li>YunaSoft MP3 Encoder (actually a FhG ACM codec frontend)</li>
-                    <li>Some Blade versions that I found lying around in my HDDs</li>
-                    <li>Also, an 8hz-mp3 version of the same origin</li>
-                    <li>Ditto for another SoloH version</li>
-                    <li>Several new versions of FhG MP3 Surround tools, and a Winamp plugin</li>
-                    <li>A new(er) version of SCMPX</li>
-                  </ul>
-                  If you have LAME versions not featured at the LAME page, please submit them!
-             </blockquote></font>
-
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2017-11-04: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>GitHub and players</b></font><p>
-                  This is the first update where ReallyRareWares development and changes are being versioned
-                  at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This won't make
-                  much of a difference to visitors, but should help streamline site maintenance.<br><br>
-
-                  Of course, feel free to submit pull requests... ;-)<br><br>
-
-                  And these are the updates, this time around focused on players:
-                  <ul>
-                    <li>iMPload complete MP3pro music player/ripper/manager</li>
-                    <li>Dice VQF player (thanks to Zachary Jelesoff)</li>
-                    <li>More versions of Apollo contributed by [JAZ]</li>
-                    <li>NAD MP3 player v1.0 (thanks to Zachary Jelesoff)</li>
-                    <li>Two AMP-based MP3 players for Win32 (thanks to Zachary Jelesoff)</li>
-                    <li>MP3 to EXE, which converts MP3 files into standalone players</li>
-                  </ul>
-
-                  I'm interested in filling up the Apollo page with more versions.  If you have them lying
-                  around, please get in touch! (check the About page)
-             </blockquote></font>
-
 
             <br><br>
             <center>Please check older news <a href=oldnews.php>here</a>.</center>
