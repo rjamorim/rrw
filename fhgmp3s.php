@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,29 +98,29 @@
         and <a href="fhgmp3hd.php">mp3HD</a>) to extend the lifespan of the MP3 format 
         (and by lifespan, I mean "the period of time we can continue extracting licensing 
         fees from users")<br><br>
-        
+
         It is worth stressing this is not the <a href="philipsmc.php">MPEG Multichannel</a> 
         extension defined in the MPEG2 standard. MP3 Surround is not standardized, it 
         is a proprietary extension created by FhG.<br><br>
-        
+
         The idea here is to generate a standard stereo MP3 file with an ancillary 
         track of surround information (which takes about 16kbps) bolted to it. In 
         other words, MP3pro for surround instead of high frequencies.<br><br>
-        
+
         That way special surround decoders can decode the extra information, and 
         normal decoders can decode the standard stereo track, providing backwards 
         compatibility.<br><br>
-        
+
         The GUI encoder only accepts 5.1 wav files. Also, it is worth mentioning v1.1.5 
-        expires on 2013-12-31 (version 1.1.4 expires on 2007-12-31), so set your PC 
+        expired on 2013-12-31 (version 1.1.4 expired on 2007-12-31), so set your PC 
         clock to before that date if you want to use it. You can also use the command 
         line encoders (for Windows, Linux and MacOS X) which, as far as I can tell, do 
         not expire (and accept six mono WAVs besides multichannel files).<br><br>
-        
+
         I am also hosting here the MP3 SX Converter, a tool that takes stereo MP3 files 
         and attempts to add surround sound information to them. Reviews around the 
         Internet say it is not really good.<br><br>
-        
+
         Just like MP3pro, MP3 Surround failed to get any traction anywhere (although,
         surprisingly, it was supported on the <a 
         href="http://manuals.playstation.net/document/en/ps3/current/music/filetypes.html"
@@ -130,7 +131,7 @@
         target=outside>here</a> and <a 
         href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de:80/amm/download/mp3surround/index.html"
         target=outside>here</a>.<br>
-        
+
         <br>
         <br>
         <a href="screens/fhgmp3s-enc.png" target=outside><img src="screens/fhgmp3s-enc.png" 
