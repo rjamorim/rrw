@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -103,7 +104,7 @@
         
         Unfortunately the addition of SBR to MP3 was never standardized. For this reason,
         there are few players supporting it and fewer encoders - basically, only players
-        and encoders based on official libraries from FhG / Thompson / CodingTechnologies.
+        and encoders based on official libraries from FhG / Thomson / CodingTechnologies.
         Particularly, no open source implementations of encoders or decoders exist, 
         hampering adoption of MP3pro in any operating system other than Windows (the MP3pro 
         files are compatible with all compliant MP3 decoders, but without the SBR part, 
