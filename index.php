@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1300 src="dot.gif">
+<img width=1 height=1200 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br>
 
