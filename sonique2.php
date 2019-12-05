@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -115,15 +116,14 @@
         
         Unfortunately for them, a copy landed in my hands. In yet another attempt to prove
         my theory that "once something appears on the Internet, no amount of effort can
-        take it down" (check the leakage and distribution of Windows 2000 source code 
-        through peer to peer networks), I hosted it, accompanied by a very crude page, at
-        my university server. And so <a href="http://www.rarewares.org" target=outside>
-        RareWares</a> was born.<br><br>
+        take it down", I hosted it, accompanied by a very crude page, at my university 
+        server. And so <a href="https://www.rarewares.org" target=outside>RareWares</a> 
+        was born.<br><br>
         
-        So, here it is for you. The rage-inducing Sonique 2 alpha in all its unfinished 
+        So here it is for you. The rage-inducing Sonique 2 alpha in all its unfinished 
         glory. The interface is quite bloated, matter of factly, and functionality is
         minimal. Maybe I am not really into eye-candy overkill... If this was the future 
-        of Sonique, it iss not a surprise it completely flunked.<br><br>
+        of Sonique, it is not a surprise it completely flunked.<br><br>
         
         Ah, yes. As it turns out, Lycos noticed they were just wasting money with their 
         Sonique division and decided to fire all developers. An outcry ensued, and they
