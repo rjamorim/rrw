@@ -97,8 +97,8 @@
         The Audioactive brand was created by audio hardware manufacturer Telos to market 
         their products dealing with MP3 technology.<br><br>
         
-        All the products are based on encoders and decoders developed by Fraunhofer,
-        so you know quality is going to be good. The encoder is based on <a 
+        All products are based on encoders and decoders developed by Fraunhofer, so 
+        you know quality is going to be good. The encoder is based on <a 
         href=mp3enc.php>FhG MP3enc</a>.<br><br>
         
         The problem with Audioactive Production Studio is that quality comes at a price. 
