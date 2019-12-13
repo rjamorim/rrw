@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,12 +97,12 @@
         WinPlay3 was developed by the creators of the MP3 standard - the Fraunhofer 
         Institute. It was the first real-time MP3 player.<br><br>
         
-        It had few features - no playlists, no equalizer, no tagging support - but it
-        did what it was meant to do. Among the options, you could set up CPU class - 
-        pentium or 486 - and output frequency. While it doesn't make much sense today, 
-        when it is hard to find computers with less than 1GHz of CPU clock, that was a 
-        very useful feature back in 1995 (when version 1.0 was released) since 486s
-        were still common.<br><br>
+        It had few features - no playlists, no equalizer, no tagging support - but did 
+        what it was meant to do. Among the options, you could set up CPU class - 
+        pentium or 486 - and output frequency. While these configurations do not make 
+        much sense today, when it is hard to find computers with less than 1GHz of CPU 
+        clock, that was a very useful feature back in 1995 (when version 1.0 was released) 
+        since 486s were still common.<br><br>
         
         The first versions (1.x series) were distributed as shareware and required a 
         registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions were made freeware.<br><br>
