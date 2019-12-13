@@ -94,8 +94,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundlimit.png" target=outside><img src="screens/soundlimit.png" 
         alt="Sound Limit 2.0" align=right height=214></a>
-        Sound Limit is a shareware MP1/2/3 encoder and decoder created in Romania by 
-        Eastern Digital.<br><br>
+        Sound Limit is a shareware MP1/2/3 encoder, decoder and CD ripper created in 
+        Romania by Eastern Digital.<br><br>
         
         Considering its age, speed and user comments about bad quality, it seems to 
         be little more than a dist10 compile with a <a href="screens/soundlimit1.png"
