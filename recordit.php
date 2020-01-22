@@ -95,8 +95,8 @@
         <a href="screens/recordit-ply.png" target=outside><img src="screens/recordit-ply.png" 
         alt="RecordIt - player interface" align=right height=107></a>
         RecordIt is a recording app created by Iomega. Its main goal was to enable 
-        customers of their Zip drives to rip their CDs and make the tracks fit inside 
-        one Zip disk (100MB).<br><br>
+        customers of their Zip drives to rip CDs and make the tracks fit inside one 
+        Zip disk (100MB).<br><br>
         
         That is achieved encoding the tracks to MP2 files. The compression technology
         was licensed from QDesign (of <a href="qdmc.php">QDMC</a> fame) and it is, 
@@ -112,7 +112,7 @@
         alt="RecordIt - encoder interface" align=right height=209></a>
         It is worth mentioning the program is not really an encoder, but a recorder - 
         which means, it will not accept .wav files for input. It will only encode 
-        from an audio CD, line-in or a microphone.<br><br>
+        from an audio CD, line-in, or a microphone.<br><br>
         
         The RecordIt web page at Iomega can still be reached at <a
         href="https://web.archive.org/web/20000304155316/http://www.iomega.com/software/featured/recordit.html"
