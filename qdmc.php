@@ -106,8 +106,9 @@
         known - meaning it compresses quite well at very low bitrates, but its 
         aggressiveness introduces too many artifacts at higher bitrates.<br><br>
         
-        The personal version comes with QuickTime Pro and allows encoding at bitrates up 
-        to 48kbps. The professional version allows bitrates up to 128kbps.<br><br>
+        The personal version comes with QuickTime Pro and allows encoding at bitrates 
+        up to 48kbps. The professional version allows bitrates up to 128kbps and fine
+        tuning some encoding parameters.<br><br>
         
         Hosted here are a Demo professional plugin for QuickTime Pro that works for 15
         days, and MVP - QDesign's attempt to enter the audio library manager market - 
