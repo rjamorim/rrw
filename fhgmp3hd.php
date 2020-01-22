@@ -100,11 +100,11 @@
         MP3 players can play the lossy track and special decoders can take into 
         consideration the extra data, enabling lossless playback.<br><br>
         
-        Storing the discarded data in the ID3v2 tag poses problems by itself: some 
+        Storing the lossless data in the ID3v2 tag poses problems by itself: some 
         decoders do not understand this information and interpret that the file is
         corrupt. Also, some tag editors do not recognize that kind of data and remove
         it upon updating the tag. Finally, the ID3v2 specification limits the tag 
-        size to 256MB, therefore the discarded data can not exceed that size (most
+        size to 256MB, therefore the lossless data can not exceed that size (most
         full CDs, at 75-80 minutes, would easily do so).<br><br>
         
         This mode of operation - lossy stream + discarded data to achieve lossless
