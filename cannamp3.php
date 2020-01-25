@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,11 +98,11 @@
         It comes with a GUI, and is able to encode directly from CDs through 
         digital audio extraction. <br><br>
         
-        Another novelty is that it can use several algorithms for encoding
-        (as it seems, the author did some tuning on his code) besides the
-        "ISO mode" (dist10). These extra modes can be reached at the settings
-        tab, "Encoding Mode (built in encoder)" drop-down box. It remains to be 
-        seen if there is a noticeable difference between encoding modes.<br><br>
+        Another novelty is that it can use several algorithms for encoding (as it 
+        seems, the author did some tuning on his code) besides the "ISO mode" 
+        (dist10). These extra tunings can be reached at the settings tab, 
+        "Encoding Mode (built in encoder)" drop-down box. It remains to be seen 
+        if there is a noticeable difference between encoding modes.<br><br>
         
         A mirror of the website is available at <a 
         href="https://web.archive.org/web/19990209105037/http://www.angelfire.com:80/ga/cannamp3/" 
