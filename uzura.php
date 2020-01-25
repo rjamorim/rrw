@@ -95,7 +95,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         Uzura is an open source MP1/3 encoder coming from Japan with a 
         characteristic that makes it stand apart from the rest: it is completely
-        written in the Fortran programming language (probably all other MP3 
+        written in the <a href="https://en.wikipedia.org/wiki/Fortran" 
+        target=outside>Fortran</a> programming language (probably all other MP3 
         encoders are written in C and ASM).<br><br>
         
         You can see a mirror of its web site <a 
