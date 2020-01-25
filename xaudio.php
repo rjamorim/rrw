@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,16 +97,17 @@
         alt="XAudio" align=right></a>
         Who distributes audio players with time limit? The XAudio guys, that's who.<br><br>
         
-        This player here will not work if your computer clock is set to after October 1997. It
-        works without issues if you set the date before that.<br><br>
+        This player here will not work if your computer clock is set to after October 
+        1997. It works without issues if you set the date before that.<br><br>
         
-        But trust me, you do not want to install this player. Interface sucks, bad VBR support,
-        and it has that extremely annoying behaviour of stealing the .mp3 extension whenever
-        it is run.<br><br>
+        But trust me, you do not want to install this player. Interface sucks, bad 
+        VBR support, minimal features, and it has that extremely annoying behaviour 
+        of stealing the .mp3 extension whenever it is run.<br><br>
         
-        At some point, XAudio was sold to InterTrust technologies. They gave up the player 
-        market and decided to focus on licensing their MP3 decoding library to developers.
-        The web page is available <a href="http://www.xaudio.com/" target=outside>here</a>.<br>      
+        At some point, XAudio was sold to InterTrust technologies. They gave up the 
+        player market and decided to focus on licensing their MP3 decoding library 
+        to developers. The web page is available <a href="http://www.xaudio.com/" 
+        target=outside>here</a>.<br>      
         
         <br>
         <br>
