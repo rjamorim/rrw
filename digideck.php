@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,20 +94,20 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/digideck.png" target=outside><img src="screens/digideck.png" 
         alt="Digideck" align=right></a>
-        During the early days of MP3, Digideck was the player of choice for users with 
+        During the early days of MP3 Digideck was the player of choice for users with 
         slow computers. It often featured best speeds on decoding benchmarks.<br><br>
         
-        As one would expect, it avoids some calculations to increase decoder performance, 
-        so decoding quality is not on par with accurate decoders.<br><br>
+        As one would expect it avoids some calculations to increase decoder performance, 
+        so audio quality is not on par with accurate decoders.<br><br>
         
         The decoder is very limited. It only supports 44.1kHz stereo MP3 files (and
         complains that 48kHz files are "low quality").<br><br>
         
-        It does not have a native interface. So, whenever the program is closed, the user 
-        is asked if he wants to change the skin the next time the player is loaded. I included
-        two skins with the file offered here.<br><br>
+        It does not have a native interface. Whenever the program is closed, the user 
+        is asked whether to change the skin the next time the player is executed. I 
+        included two skins with the file offered here.<br><br>
         
-        It is also poor on features. No playlists, no equalizer, no tagging, no WAV file
+        It is also light on features. No playlists, no equalizer, no tagging, no WAV file
         playback...<br><br>
         
         Development stopped in mid-1998.<br>
