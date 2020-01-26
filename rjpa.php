@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,16 +97,12 @@
         alt="rJPa playlist builder" align=right height=232></a>
         <a href="screens/rjpa-enc.png" target=outside><img src="screens/rjpa-enc.png" 
         alt="rJPa encoder" align=right height=232></a>
-        rJPa is actually not an encoder, but a frontend for the tompg (Xing) MP1/2/3 
-        encoder, which is illegally distributed with the installation (tompg.exe 
-        mysteriously appears in \Windows\System32 after you install rJPa).<br><br>
+        rJPa is actually not an encoder, but a frontend for the tompg (<a 
+        href="xing.php">Xing</a>) MP1/2/3 encoder, which is illegally distributed 
+        with the installation (tompg.exe mysteriously appears in \Windows\System32 
+        after you install rJPa).<br><br>
         
-        Also included is a playlist builder.<br><br>
-        
-        <a href="xing.php">Xing</a> is an old MP3 encoder (development dates back to 
-        1995) and, different from other implementations, its focus is primarily 
-        on speed with quality taking second place. It is one of the fastest MP3 
-        encoders, if not the fastest.<br>
+        Also included is a playlist builder.<br>
       
         <br>
         <br>
