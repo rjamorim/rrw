@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -169,6 +169,11 @@
         Version: 37zl<br>
         Download: <a href="files/apollo/Apollo37zl.exe">Apollo37zl.exe</a> - 673kB<br>
         <i>Kindly contributed by Thundik81</i><br>
+        <br>
+        Date: 2004-04-01<br>
+        Version: 37zf<br>
+        Download: <a href="files/apollo/Apollo37zf.exe">Apollo37zf.exe</a> - 652kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
         <br>
         Date: 2003-10-30<br>
         Version: 37zc<br>
