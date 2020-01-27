@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Pegasus/Krishna Soft SPS</TITLE>
+<TITLE>ReallyRareWares - Pegasus/KrishnaSoft SPS</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -90,22 +90,24 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Pegasus/Krishna Soft SPS</b></div> <p>
+          <br><div align="justify"> <b>Pegasus/KrishnaSoft SPS</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
         alt="Pegasus SPS" align=right height=275></a>
         Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as a general
         purpose audio editor. It features a lossless mode based on Pegasus' ELS (<a 
-        href="https://web.archive.org/web/20010418053334/http://jpg.com:80/imagetech_els.htm"
+        href="https://web.archive.org/web/20000817085733/http://www.jpg.com/imagetech_els.htm"
         target=outside>Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
         
-        The editor itself has very few features. But, from the looks of it, it is free - 
-        only lossless compression is limited to 10 uses, and after that you need to buy 
-        a license.<br><br>
+        The editor itself has very few features and a quite weird interface. But, from 
+        the looks of it, it is free - only lossless compression is limited to 10 uses,
+        and after that you need to buy a license.<br><br>
         
-        The page about SPS at Pegasus is now gone and it is not being marketed by them
-        anymore. But you can still find it (and buy it) at 
+        The page about SPS at Pegasus is now gone (but still mirrored at the <a 
+        href="https://web.archive.org/web/20000616134738/http://jpg.com/products/sound.html"
+        target=outside>Internet Archive</a>) and it is not being marketed by them
+        anymore. But you can still find it and buy it at 
         <a href="http://www.krishnasoft.com/sps.htm#SPSLink" target=outside>Krishna
         Software</a>.<br>
         
