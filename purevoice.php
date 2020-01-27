@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -95,14 +96,14 @@
         <a href="screens/purevoice.png" target=outside><img src="screens/purevoice.png" 
         alt="PureVoice" align=right></a>
         PureVoice is a voice codec developed by Qualcomm, famous cell phone chipset 
-        manufacturer and also the developers of the Eudora e-mail client.<br><br>
+        manufacturer and developers of the Eudora e-mail client.<br><br>
         
         It offers two compression settings: PureVoice (high quality) and SmartRate
-        (low quality). The encoding technology is based on CDMA (that was also
+        (low quality). The encoding technology is based on CDMA (which was also
         developed by Qualcomm).<br><br>
         
-        Besides being available as the standalone apps featured here, PureVoice encoding
-        technology was also available as a QuickTime component and Eudora plugin.<br>
+        Besides the standalone apps featured here, PureVoice encoding technology 
+        was available as a QuickTime component and Eudora plugin.<br>
         
         <br>
         <br>
