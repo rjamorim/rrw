@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,14 +95,14 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soloh.png" target=outside><img src="screens/soloh.png" alt="SoloH" 
         align=right height=284></a>
-        SoloH is another dist10 compile that encodes MP1/2/3 files, only this time with a 
-        fancy GUI instead of just a command line interface. Also, it works as a CD ripper. 
-        For that reason, it became pretty popular in its time.<br><br>
+        SoloH is another dist10 compile that encodes MP1/2/3 files featuring a fancy GUI. 
+        Also, it works as a CD ripper. For that reason it became pretty popular in its 
+        time.<br><br>
         
         But popularity comes at a price. This is another encoder that felt the wrath of 
         Fraunhofer and the developer had to remove binaries from his server.<br><br>
         
-        Besides outputting bad quality MP3s, it is very slow and buggy. Do not open the 
+        Besides outputting bad quality MP3s it is very slow and buggy. Do not open the 
         about box, it will hang the program.<br><br>
         
         The web site and version history can be viewed at the Internet Archive, <a 
