@@ -101,14 +101,14 @@
         compress a file than to decompress it. Compressors that operate in a similar 
         fashion are Monkey's Audio and FLAC.<br><br>
         
-        Later, Malcolm created MSoftware to sell an improved version of RK and RKau 
-        called WinRK; striving to provide the best compression performance among 
-        archivers, without regard for speed or memory consumption. It probably was 
-        not successful, as it disappeared after few years.<br><br>
+        Later Malcolm created MSoftware to sell an improved version of RK and RKau 
+        called WinRK, striving to provide the best compression performance among 
+        archivers, without regard for speed or memory consumption. The endeavour 
+        probably was not successful as it disappeared after few years.<br><br>
         
-        A mirror of the RKau web page is avaliable <a 
+        A mirror of the RKau web page is avaliable at the<a 
         href="https://web.archive.org/web/20020124045327/http://rksoft.virtualave.net/rkau.html"
-        target=outside>here</a>.<br>      
+        target=outside>Internet Archive</a>.<br>     
         
         <br>
         <br>
