@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -108,8 +109,8 @@
         industries...<br><br>
         
         He also announced an AAC encoder (MP01) that supposedly had better quality
-        than Fraunhofer's reference implementation. Still, no one has ever seen 
-        it in action.<br><br>
+        than Fraunhofer's reference implementation. Yet, no one has ever seen it 
+        in action.<br><br>
         
         Eventually KM lost credibility at several forums and disappeared from the 
         scene. Soon afterwards KA (who was the real programmer) gave up developing 
