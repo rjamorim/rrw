@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,8 +95,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/yamp.png" target=outside><img src="screens/yamp.png" 
         alt="I TOLD YOU IT WAS HORRIBLE" align=right height=222></a>
-        Yet another MP3 player for Windows. I think the only remarkable thing about this one
-        is that all skins I tried are horrendous. Let's move on.<br>   
+        Yet Another MP3 Player for Windows. I think the only remarkable thing about 
+        this one is that all skins I tried are horrendous. Let's move on.<br>   
         
         <br>
         <br>

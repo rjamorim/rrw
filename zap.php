@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,7 +94,7 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/zap.png" target=outside><img src="screens/zap.png" 
         alt="Zap demo. So ugly!" align=right height=146></a>
-        Zap, "Zero-loss Audio Packer", is a lossless compressor created by famous 
+        Zap "Zero-loss Audio Packer" is a lossless compressor created by famous 
         German music software and hardware company Emagic, makers of the Logic 
         sequencer.<br><br>
         
