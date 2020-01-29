@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -95,7 +96,7 @@
         <a href="screens/scmpx.png" target=outside><img src="screens/scmpx.png" 
         alt="SCMPX" align=right></a>
         SCMPX is another MP3 encoder developed in Japan (together with <a href="uzura.php">
-        Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a href="m3e.php">M3E</a>), by 
+        Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a href="m3e.php">M3E</a>); by 
         Shinji Chiba.<br><br>
         
         It is a dist10 encoder with several tweaks. It supports encoding, decoding and

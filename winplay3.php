@@ -98,7 +98,7 @@
         Institute. It was the first real-time MP3 player.<br><br>
         
         It had few features - no playlists, no equalizer, no tagging support - but did 
-        what it was meant to do. Among the options, you could set up CPU class - 
+        what it was meant to do. Among the options, you could define CPU class - 
         pentium or 486 - and output frequency. While these configurations do not make 
         much sense today, when it is hard to find computers with less than 1GHz of CPU 
         clock, that was a very useful feature back in 1995 (when version 1.0 was released) 

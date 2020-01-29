@@ -96,7 +96,7 @@
         <a href="screens/m3e.png" target=outside><img src="screens/m3e.png" 
         alt="M3E encoder translated by Harashin" align=right height=260></a>
         M3E is an encoder that was only popular in Japan. It started being developed 
-        in 1999 by Wata-Ken. It implemented an unique VBR method (at that time only 
+        in 1999 by Wata-Ken implementing an unique VBR method (at that time only 
         <a href="xing.php">Xing</a> and <a href="lame.php">LAME</a> also offered VBR), 
         and became quite popular.<br><br>
         
@@ -106,7 +106,7 @@
         Some time later, the author started selling a commercial version of the encoder,
         M3SE Pro.<br><br>
         
-        Distribution of M3E ceased on 2000-01-21, due to patent issues. M3SE sales 
+        Distribution of M3E ceased on early 2000 due to patent issues. M3SE sales 
         ceased some time later, probably because of commercial failure (better, free
         encoders available; price at &yen;3000 was quite expensive).<br><br>
         
