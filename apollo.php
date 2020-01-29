@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,7 +99,7 @@
         accurate ones, if not the most accurate.<br><br>
         
         Like with <a href="foobar2000.php">Foobar2000</a>, this focus on quality above all
-        reflects on a spartan but fast and uncluttered interface. Also, a much beloved 
+        reflects on a spartan but fast and uncluttered interface. Also a much beloved 
         feature of Apollo was its minibar mode, shown below.<br><br>
         
         Apollo development ended in 2007 but the web page can still be reached at <a
@@ -170,6 +170,11 @@
         Download: <a href="files/apollo/Apollo37zl.exe">Apollo37zl.exe</a> - 673kB<br>
         <i>Kindly contributed by Thundik81</i><br>
         <br>
+        Date: 2005-01-02<br>
+        Version: 37zi<br>
+        Download: <a href="files/apollo/Apollo37zi.exe">Apollo37zi.exe</a> - 613kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
         Date: 2004-04-01<br>
         Version: 37zf<br>
         Download: <a href="files/apollo/Apollo37zf.exe">Apollo37zf.exe</a> - 652kB<br>
@@ -190,10 +195,25 @@
         Download: <a href="files/apollo/Apollo37ud.exe">Apollo37ud.exe</a> - 632kB<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
+        Date: 2003-01-03<br>
+        Version: 37q<br>
+        Download: <a href="files/apollo/Apollo37q.exe">Apollo37q.exe</a> - 684kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
         Date: 2002-06-12<br>
         Version: 37k<br>
         Download: <a href="files/apollo/Apollo37k.exe">Apollo37k.exe</a> - 584kB<br>
         <i>Kindly contributed by [Jaz]</i><br>
+        <br>
+        Date: 2001-02-20<br>
+        Version: 37g<br>
+        Download: <a href="files/apollo/Apollo37g.exe">Apollo37g.exe</a> - 582kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
+        Date: 1999-11-21<br>
+        Version: 37<br>
+        Download: <a href="files/apollo/Apollo37.exe">Apollo37.exe</a> - 581kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
         <br>
         <hr>
         Apollo Plug-In Package<br>
