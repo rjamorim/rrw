@@ -102,17 +102,17 @@
         as WAV-wrapped MP3 streams or standard MP3 files.<br><br>
         
         The main differences between versions 0.4.3e and 0.7 hosted here are that 0.7
-        supports batch encoding and stripping the RIFF headers from WAV files. But 
-        starting with 0.7, YunaSoft required that users register for free at their 
-        web site to obtain a registration key. Without that key, the program encodes 
-        no more than 30 seconds of audio for each file.<br><br>
+        supports batch operations (encoding and stripping the RIFF headers from WAV 
+        files). But starting with 0.7 YunaSoft required that users register for 
+        free at their web site to obtain a registration key. Without that key, the 
+        program encodes no more than 30 seconds of audio for each file.<br><br>
         
         The registration form and the website have been gone for decades, so I am
         providing here a key found at a "serial numbers" page:<br>
         <b>Mail address:</b> UCF@UCF.com<br>
         <b>Registration key:</b> EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh<br>
         <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br>
-        The registration window can be reached in File menu.<br><br>
+        The registration dialog can be reached in the File menu.<br><br>
         
         A mirror of the YunaSoft webpage can be seen <a 
         href="https://web.archive.org/web/19981212034259/http://www.yunasoft.gr.jp/"
