@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,10 +93,10 @@
           <br><div align="justify"> <b>MP2enc</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        MP2enc is an open source MPEG layer 2 encoder developed by Albert Faber (of
-        CDex fame) as a fork from the tooLame MP2 encoder. It is available bundled
-        with the <a href="http://cdex.n3.net" target=outside>CDex</a> CD ripper as
-        a DLL, and the version here is a stand-alone command line encoder.<br>
+        MP2enc is an open source MPEG layer 2 encoder developed by Albert Faber 
+        (creator of CDex) as a fork from the tooLame MP2 encoder. It is available 
+        bundled with the CDex CD ripper as a DLL, and the version here is a 
+        stand-alone command line encoder.<br>
         
         <br>
         <br>
