@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,17 +95,22 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/scmpx.png" target=outside><img src="screens/scmpx.png" 
         alt="SCMPX" align=right></a>
-        SCMPX is another MP3 encoder developed in Japan (together with <a href="uzura.php">
-        Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a href="m3e.php">M3E</a>); by 
-        Shinji Chiba.<br><br>
+        SCMPX is another MP3 encoder developed in Japan (same origin of <a 
+        href="uzura.php">Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a 
+        href="m3e.php">M3E</a>), by Shinji Chiba.<br><br>
         
-        It is a dist10 encoder with several tweaks. It supports encoding, decoding and
-        playback of MP1, MP2 and MP3 files (including VBR), as well as splitting MP2 
-        files from MPEG streams. It also does resampling (all operations have batch
-        modes).<br><br>
+        It is a dist10 encoder with several quality and speed improvements. It 
+        supports encoding, decoding and playback of MP1, MP2 and MP3 files 
+        (including VBR), as well as splitting MP2 files from MPEG streams. It also 
+        does resampling (all operations have batch modes).<br><br>
         
-        The official home page is available <a href="http://www.din.or.jp/~ch3/index_e.html"
-        target=outside>here</a> (isn't that Pikachu just cute?)<br>
+        The player includes a playlist editor, ID3 tag editor and an equalizer.
+        It features a minibar mode, called "window shade". All in all, it is a very
+        featureful app for such a small size. If only the interface was not so ugly
+        and confusing...<br><br>
+        
+        The official web page is available <a href="http://www.din.or.jp/~ch3/index_e.html"
+        target=outside>here</a> (isn't that Pikachu just cute?).<br>
         
         <br>
         <br>
