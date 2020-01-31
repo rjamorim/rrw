@@ -95,8 +95,9 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/xing-enc.png" target=outside><img src="screens/xing-enc.png" 
         alt="Xing Encoder" align=right height=290></a>
-        The Xing MP3 encoder was created, seemingly from scratch, by the Xing Technology 
-        Corporation with a primary goal in mind: creating a very fast encoder.<br><br>
+        The Xing MP3 encoder was created around 1995, seemingly from scratch, by 
+        the Xing Technology Corporation with a primary goal in mind: creating a 
+        very fast encoder.<br><br>
         
         And it delivers! It is much faster than other encoders in <a href=
         "http://web.archive.org/web/20071222223437/http://nyaochi.sakura.ne.jp:80/encoder-benchmark/result-20061103.html"
