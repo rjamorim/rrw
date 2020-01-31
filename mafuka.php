@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -110,12 +110,12 @@
         together again. That is why a file encoded in one computer would not work 
         in another.<br><br>
         
-        An interesting detail is that "Mafuka" is believed to be a reference to an 
-        american profanity, "mother f**ker".<br><br>
+        An amusing detail is that "Mafuka" is believed to be a reference to a 
+        profanity, "mother f**ker".<br><br>
         
         I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
         
-        <i>Big thanks to Elohe for providing this "encoder"</i><br>
+        <i>Big thanks to Elohe for providing this "encoder".</i><br>
         
         <br>
         <br>
