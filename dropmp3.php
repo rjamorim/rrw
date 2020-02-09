@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - DropMP3 encoder for MacOS</TITLE>
+<TITLE>ReallyRareWares - DropMP3 encoder for Mac OS</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -90,10 +90,10 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b> DropMP3 encoder for MacOS </b></div><p></font>
+          <br><div align="justify"><b> DropMP3 encoder for Mac OS </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/DropMP3.png" target=outside><img src="screens/DropMP3.png" 
-        alt="DropMP3 Encoder for MacOS" align=right height=250></a>
+        alt="DropMP3 Encoder for Mac OS" align=right height=250></a>
         DropMP3 is, to the best of my knowledge, the only MP3 encoder for Mac OS
         Classic using <a href=lame.php>LAME</a>. Since Mac OS Classic never featured
         a command line interface, native command line applications had to work 
@@ -119,13 +119,13 @@
         Version: 1.0.6<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic PPC<br>
-        Download: <a href="files/mpeg/DropMP3_1.0.6.sea.hqx">DropMP3_1.0.6.sea.hqx</a> - 212kB<br>
+        Download: <a href="files/lame/DropMP3_1.0.6.sea.hqx">DropMP3_1.0.6.sea.hqx</a> - 212kB<br>
         <br>
         Date: 2000-04-19<br>
         Version: 3.70<br>
         Interface: Library<br>
         Platform: Mac OS Classic PPC<br>
-        Download: <a href="files/mpeg/Lame_SharedLib_ALTIVEC.sea.hqx">Lame_SharedLib_ALTIVEC.sea.hqx</a> - 190kB<br>
+        Download: <a href="files/lame/Lame_SharedLib_ALTIVEC.sea.hqx">Lame_SharedLib_ALTIVEC.sea.hqx</a> - 190kB<br>
 
         </blockquote></font>
 
