@@ -108,7 +108,7 @@
         registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions were made freeware.<br><br>
         
         There are versions available for Win16 (Windows 3.x) and Win32. Fraunhofer 
-        also released a MacOS Classic version called <a href="macplay3.php">MacPlay3</a>.
+        also released a Mac OS Classic version called <a href="macplay3.php">MacPlay3</a>.
         <br><br>
         
         After version 2.3b5 FhG stopped developing WinPlay3. The web page can still 

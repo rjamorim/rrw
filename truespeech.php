@@ -138,13 +138,13 @@
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic 68K<br>
+        Platform: Mac OS Classic 68K<br>
         Download: <a href="files/vocodecs/tspmac68.hqx">tspmac68.hqx</a> - 353kB<br>
         <br>
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic PPC<br>
+        Platform: Mac OS Classic PPC<br>
         Download: <a href="files/vocodecs/tsppwrmc.hqx">tsppwrmc.hqx</a> - 386kB<br>
         <br>
         <hr>

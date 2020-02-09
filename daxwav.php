@@ -93,12 +93,13 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/daxwav.png" target=outside><img src="screens/daxwav.png" 
         alt="Daxwav" align=right height=175></a>
-        Dakx started as a Mac68k lossless audio compressor (Dakx Aif) that later got 
-        ported to Windows. Compression ratio is not good but it offers some interesting 
-        features, like the one that allows users to truncate the bit depth of a 
-        Wav file in real time, while it is being played.<br><br>
+        Dakx started as a Mac OS Classic lossless audio compressor (Dakx Aif) 
+        that later got ported to Windows. Compression ratio is not good but it 
+        offers some interesting features, like the one that allows users to 
+        truncate the bit depth of a WAV file in real time, while it is being 
+        played.<br><br>
         
-        Try as I might, I could not get the MacOS version to work.<br><br>
+        Try as I might, I could not get the Mac OS version to work.<br><br>
         
         The Dakx LLC web site can still be visited at the Internet Archive, <a 
         href="https://web.archive.org/web/20010204020400/http://www.dakx.com/" 
@@ -115,7 +116,7 @@
         Date: 1999-08-21<br>
         Version: 1.1<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic 68K/PPC<br>
+        Platform: Mac OS Classic (fat binary)<br>
         Download: <a href="files/lossless/daxaif1.1.sit">daxaif1.1.sit</a> - 141kB<br>
         <br>
         <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
@@ -123,7 +124,7 @@
         Date: 1999-02-23<br>
         Version: 1.0<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic 68K<br>
+        Platform: Mac OS Classic 68K<br>
         Download: <a href="files/lossless/daxaif1.0.sit">daxaif1.0.sit</a> - 89kB<br>
         
         </blockquote></font>

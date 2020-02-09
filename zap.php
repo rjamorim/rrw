@@ -120,7 +120,7 @@
         Date: 1999-06-03<br>
         Version: 1.5<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic<br>
+        Platform: Mac OS Classic<br>
         Download: <a href="files/lossless/zap15dem.sit">zap15dem.sit</a> - 717kB<br>
         <br>
         Date: 1997-03-13<br>
@@ -132,7 +132,7 @@
         Date: 1997-05-07<br>
         Version: 1.1.4<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic<br>
+        Platform: Mac OS Classic<br>
         Download: <a href="files/lossless/dezap.sit">dezap.sit</a> - 146kB<br>
 
         </blockquote></font>

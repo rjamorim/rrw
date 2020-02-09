@@ -114,8 +114,8 @@
         The GUI encoder only accepts 5.1 wav files. Also, it is worth mentioning v1.1.5 
         expired on 2013-12-31 (version 1.1.4 expired on 2007-12-31), so set your PC 
         clock to before that date if you want to use it. You can also use the command 
-        line encoders (for Windows, Linux and MacOS X) which, as far as I can tell, do 
-        not expire (and accept six mono WAVs besides multichannel files).<br><br>
+        line encoders (for Windows, Linux and Mac OS X) which, as far as I can tell, 
+        do not expire (and accept six mono WAVs besides multichannel files).<br><br>
 
         I am also hosting here the MP3 SX Converter, a tool that takes stereo MP3 files 
         and attempts to add surround sound information to them. Reviews around the 
@@ -145,7 +145,7 @@
         Date: 2008-01-17<br>
         Version: 1.1.5 (encoder)<br>
         Interface: Graphical<br>
-        Platform: MacOS X (universal)<br>
+        Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3sGuiEnc_v1.1.5.dmg">MP3sGuiEnc_v1.1.5.dmg</a> - 5.874kB<br>
         <br>
         Date: 2007-05-25<br>
@@ -158,7 +158,7 @@
         Date: 2007-05-25<br>
         Version: 1.1.4 (encoder)<br>
         Interface: Graphical<br>
-        Platform: MacOS X (universal)<br>
+        Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.dmg">MP3sGuiEnc_v1.1.4.dmg</a> - 6.481kB<br>
         <br>
         <hr>
@@ -172,7 +172,7 @@
         Date: 2009-01-20<br>
         Version: 3.0.2 (player)<br>
         Interface: Graphical<br>
-        Platform: MacOS X (universal)<br>
+        Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3sPlayer3.0.2.dmg">MP3sPlayer3.0.2.dmg</a> - 7.360kB<br>
         <br>
         <hr>
@@ -187,7 +187,7 @@
         Date: 2006-04-28<br>
         Version: 1.1.0<br>
         Interface: Graphical<br>
-        Platform: MacOS X (universal)<br>
+        Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3SXConverter1.1.0uni.dmg">MP3SXConverter1.1.0uni.dmg</a> - 6.101kB<br>
         <br>
         Date: 2006-04-13<br>
@@ -200,14 +200,14 @@
         Date: 2008-05-30<br>
         Version: 1.5<br>
         Interface: Command line<br>
-        Platform: Win32/Linux/MacOS X<br>
+        Platform: Win32/Linux/Mac OS X<br>
         Download: <a href="files/fhg/mp3sconsv15.zip">mp3sconsv15.zip</a> - 2.427kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>
         Date: 2008-05-30<br>
         Version: 1.4<br>
         Interface: Command line<br>
-        Platform: Win32/Linux/MacOS X<br>
+        Platform: Win32/Linux/Mac OS X<br>
         Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
         <br>

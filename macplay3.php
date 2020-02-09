@@ -119,13 +119,13 @@
         Date: 1997-04-08<br>
         Version: 1.4b2<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic PPC<br>
+        Platform: Mac OS Classic PPC<br>
         Download: <a href="files/players/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519kB<br>
         <br>
         Date: 1996-03-28<br>
         Version: 0.99 alpha<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic 68K<br>
+        Platform: Mac OS Classic 68K<br>
         Download: <a href="files/players/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168kB<br>
         
 

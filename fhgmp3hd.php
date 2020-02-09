@@ -125,7 +125,7 @@
         Date: 2010-02-02<br>
         Version: 1.5.0<br>
         Interface: Command line + Winamp plugin<br>
-        Platform: Win32/Linux/MacOS X<br>
+        Platform: Win32/Linux/Mac OS X<br>
         Download: <a href="files/fhg/mp3hdtl.zip">mp3hdtl.zip</a> - 1.932kB<br>
 
         </blockquote></font>

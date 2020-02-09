@@ -150,7 +150,7 @@
         Date: 2001-01-22<br>
         Version: 0.92.6 (GUI v1.4)<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic (PPC)<br>
+        Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/blade/blademac.sit">blademac.sit</a> - 529kB<br>
 
         </blockquote></font>

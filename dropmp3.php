@@ -95,7 +95,7 @@
         <a href="screens/DropMP3.png" target=outside><img src="screens/DropMP3.png" 
         alt="DropMP3 Encoder for MacOS" align=right height=250></a>
         DropMP3 is, to the best of my knowledge, the only MP3 encoder for Mac OS
-        Classic using <a href=lame.php>LAME</a>. Since MacOS Classic never featured
+        Classic using <a href=lame.php>LAME</a>. Since Mac OS Classic never featured
         a command line interface, native command line applications had to work 
         around this limitation - either by placing the command line interface 
         inside a special window (as in <a href=blade.php>BladeMac</a>), or by using
@@ -118,13 +118,13 @@
         Date: 2000-04-15<br>
         Version: 1.0.6<br>
         Interface: Graphical<br>
-        Platform: MacOS Classic PPC<br>
+        Platform: Mac OS Classic PPC<br>
         Download: <a href="files/mpeg/DropMP3_1.0.6.sea.hqx">DropMP3_1.0.6.sea.hqx</a> - 212kB<br>
         <br>
         Date: 2000-04-19<br>
         Version: 3.70<br>
         Interface: Library<br>
-        Platform: MacOS Classic PPC<br>
+        Platform: Mac OS Classic PPC<br>
         Download: <a href="files/mpeg/Lame_SharedLib_ALTIVEC.sea.hqx">Lame_SharedLib_ALTIVEC.sea.hqx</a> - 190kB<br>
 
         </blockquote></font>
