@@ -144,8 +144,8 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Nero AAC encoder and Apollo</b></font><p>
-                  After way too many years, I added a new page to the AAC section: Nero
-                  AAC Encoder and Decoder. Go check out its history and download the few 
+                  After many years, I added a new page to the AAC section: Nero AAC 
+                  Encoder and Decoder. Go check out its history and download the three 
                   versions I managed to find (if you have other versions, please <a 
                   href="about.php">send them in!</a>)<br><br>
                   
