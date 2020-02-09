@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1200 src="dot.gif">
+<img width=1 height=1300 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2019-12-02 <br><br>
+<br><br><br>Last update: 2020-02-08 <br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,21 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-02-08: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Nero AAC encoder and Apollo</b></font><p>
+                  After way too many years, I added a new page to the AAC section: Nero
+                  AAC Encoder and Decoder. Go check out its history and download the two 
+                  versions I managed to find (if you have other versions, please <a 
+                  href="about.php">send them in!</a>)<br><br>
+                  
+                  Also, I added a handful of Apollo versions to the respective page, 
+                  courtesy of the always helpful Zachary Jelesoff.</a>
+             </blockquote></font>
         
         
             <font face="Verdana" size=2 color="6699CC">

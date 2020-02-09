@@ -190,6 +190,7 @@
                 <a href=homeboy.php>Homeboy AAC encoder, decoder and Winamp plugin</a><br>
                 <a href=mbsoft.php>MBsoft AAC encoder and Winamp plugin</a><br>
                 <a href=aacenc.php>Psytel AACenc and Fastenc</a><br>
+                <a href=neroaac.php>Nero AAC encoder and decoder</a><br>
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">

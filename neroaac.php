@@ -1,8 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - MBsoft AAC</TITLE>
+<TITLE>ReallyRareWares - Nero AAC Encoder and Decoder</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,44 +90,48 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>MBsoft AAC</b></div> <p>
-        </font>
+          <br><div align="justify"><b>Nero AAC Encoder and Decoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mbsoft.png" target=outside><img src="screens/mbsoft.png" 
-        alt="MBSoft Encoder" align=right height=183></a>
-        MBsoft started around 1998 from Menno Bakker's work on the AAC reference 
-        sources.<br><br>
+        <a href="screens/neroaac.png" target=outside><img src="screens/neroaac.png" 
+        alt="Nero AAC Encoder (GUI version)" align=right height=185></a>
+        The Nero AAC encoder was once the <a href=aacenc.php>Psytel AAC encoder</a>.
+        Its main developer, Ivan Dimkovic, sold all assets of Psytel Research to
+        Ahead Software AG (later Nero AG) and started working there, tuning and 
+        improving the encoder, adding features such as SBR and parametric stereo,
+        and overall turning it into one of the best AAC encoders of the time.<br><br>
         
-        The encoder, mbaacenc, was more or less a compile of the ISO sources with a
-        nice frontend. A Winamp input plugin was also available.<br><br>
+        It started as a format choice in Nero's tools dealing with audio encoding 
+        and CD ripping, but demands from the public (and a few unofficial tools 
+        that used the encoder DLLs) led the developers to release a command line 
+        version of the encoder that could be used with any ripper, and even on 
+        Linux!<br><br>
         
-        At the end of 1999 Menno opened the sources of his apps and started the <a 
-        href="http://www.audiocoding.com" target=outside>FAAC</a> (Freeware Advanced 
-        Audio Coder) project. The project is still alive, and its decoder (FAAD2) is 
-        nowadays considered one of the best and fastest AAC decoders - so much so,
-        it was bought by Nero AG to become the <a href=neroaac.php>Nero AAC decoder</a>
-        (but the free software version is still available). FAAC is also under constant
-        (if slow) development.<br>
+        The decoder, on the other hand, was developed by Menno Bakker of <a
+        href=mbsoft.php>MBsoft</a>. Ahead bought the rights to the decoder, but
+        it countinued being developed under a free software license, under the 
+        old name <a href="http://www.audiocoding.com" target=outside>FAAD2</a>. 
+        It is a high quality, accurate and fast decoder.</br><br>
         
+        Nero still offers the AAC encoding option on their tools, but the standalone
+        AAC encoder and decoder are no longer available for download. You can check
+        a mirror of the old download page at the <a 
+        href="https://web.archive.org/web/20160310025758/http://www.nero.com:80/enu/company/about-nero/nero-aac-codec.php"
+        target=outside>Internet Archive</a>.<br>
+        
+
         <br>
         <br>
-        Date: 1999-05-19<br>
-        Version: 0.3 (includes Audiograbber plugin)<br>
-        Interface: Graphical or command line<br>
-        Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbaacenc03.zip">mbaacenc03.zip</a> - 202kB<br>
+        Date: 2010-02-18<br>
+        Version: 1.5.4<br>
+        Interface: Command line<br>
+        Platform: Win32/Linux<br>
+        Download: <a href="files/aac/NeroAACCodec-1.5.4.zip">NeroAACCodec-1.5.4.zip</a> - 2.003kB<br>
         <br>
-        Date: 1999-04-16<br>
-        Version: 0.2<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbaacenc02.zip">mbaacenc02.zip</a> - 78kB<br>
-        <br>
-        Date: 1999-05-19<br>
-        Version: 0.1<br>
-        Interface: Winamp plugin<br>
-        Platform: Win32<br>
-        Download: <a href="files/aac/mbsoft/mbsoft_in_aac.zip">mbsoft_in_aac.zip</a> - 64kB<br>
+        Date: 2008-09-17<br>
+        Version: 1.3.3<br>
+        Interface: Command line<br>
+        Platform: Win32/Linux<br>
+        Download: <a href="files/aac/NeroAACCodec-1.3.3.zip">NeroAACCodec-1.3.3.zip</a> - 1.775kB<br>
 
         </blockquote></font>
 
