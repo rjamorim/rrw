@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -112,7 +112,7 @@
         old name <a href="http://www.audiocoding.com" target=outside>FAAD2</a>. 
         It is a high quality, accurate and fast decoder.</br><br>
         
-        Nero still offers the AAC encoding option on their tools, but the standalone
+        Nero still offers the AAC encoding option in their tools, but the standalone
         AAC encoder and decoder are no longer available for download. You can check
         a mirror of the old download page at the <a 
         href="https://web.archive.org/web/20160310025758/http://www.nero.com:80/enu/company/about-nero/nero-aac-codec.php"
@@ -126,6 +126,12 @@
         Interface: Command line<br>
         Platform: Win32/Linux<br>
         Download: <a href="files/aac/NeroAACCodec-1.5.4.zip">NeroAACCodec-1.5.4.zip</a> - 2.003kB<br>
+        <br>
+        Date: 2009-12-17<br>
+        Version: 1.5.1<br>
+        Interface: Command line<br>
+        Platform: Win32/Linux<br>
+        Download: <a href="files/aac/NeroAACCodec-1.5.1.zip">NeroAACCodec-1.5.1.zip</a> - 2.011kB<br>
         <br>
         Date: 2008-09-17<br>
         Version: 1.3.3<br>
