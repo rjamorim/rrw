@@ -93,7 +93,7 @@
           <br><div align="justify"><b>  </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/TEMPLATE.png" target=outside><img src="screens/TEMPLATE.png" 
-        alt="TEMPLATE Encoder" align=right height=XXX>
+        alt="TEMPLATE Encoder" align=right height=XXX></a>
         
 
         <br>
