@@ -100,7 +100,7 @@
         Manager) codec for the Windows platform, enabling MP3 encoding on most 
         applications able to process WAV files.<br><br>
         
-        Development stopped in late 1998 to favour development of a parallel branch FhG
+        Development stopped in late 1998 to favor development of a parallel branch FhG
         had been developing for some time, called <a href="fastencc.php">Fastenc</a>. While 
         being much faster than MP3enc (slowenc), it offered similar quality and had unique 
         features such as VBR coding. The MP3enc web page can still be seen at the Internet
@@ -112,7 +112,7 @@
         target=outside>here</a>.<br><br>
         
         The MP3enc versions available here are for demonstration, and encoding is 
-        limited to 30 seconds.<br>
+        limited to 30 seconds of audio data.<br>
         
         <br>
         <br>
