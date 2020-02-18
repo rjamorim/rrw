@@ -108,7 +108,10 @@
         
         Distribution of M3E ceased on early 2000 due to patent issues. M3SE sales 
         ceased some time later, probably because of commercial failure (better, free
-        encoders available; price at &yen;3000 was quite expensive).<br><br>
+        encoders available; price at &yen;3000 was quite expensive). Some parts of
+        the web page can still be seen at the <a 
+        href="https://web.archive.org/web/20000303020042/http://homepage1.nifty.com/wata-ken/m3e.htm"
+        target=outside>Internet Archive</a>.<br><br>
         
         <i>Lots of thanks to Shingo Harada (a.k.a harashin) for providing the encoder, 
         translating it and enlightening me on its story.</i><br>

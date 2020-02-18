@@ -94,9 +94,9 @@
         <a href="screens/metis.png" target=outside><img src="screens/metis.png" 
         alt="Metis MP3 player" align=right height=212></a>
         M&eacute;tis is a very obscure MP3 player created by <a 
-        href="http://www.audionetworks.com" target=outside>AudioNetworks</a>
-        to showcase their DASE technology, meant to improve sound quality of 
-        files that passed through compression.<br><br>
+        href="https://web.archive.org/web/20001014010338/http://www.audionetworks.com/" 
+        target=outside>AudioNetworks</a> to showcase their DASE technology, meant 
+        to improve sound quality of files that passed through compression.<br><br>
         
         If this technology provides any actual improvements to MP3 files' sound
         quality, that remains to be seen (the player itself uses the XAudio 
