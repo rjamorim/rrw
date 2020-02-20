@@ -103,9 +103,9 @@
         using the AAC format, instead of the more common MP3). Of course, the
         tracks on sale were heavily protected with DRM schemes.<br><br>
         
-        To add insult to injury, the software requires that you install RealPlayer
-        to enable streaming (to see my lenghty rant about Real crapware, read the
-        <a href="realjuke.php">RealJukebox</a> entry).<br><br>
+        To add insult to injury, version 2.0 requires that the user installs 
+        RealPlayer to enable streaming (to see my lenghty rant about Real crapware, 
+        read the <a href="realjuke.php">RealJukebox</a> entry).<br><br>
         
         a2b folded rather spectaculously before even becoming relevant, when the 
         majority of its employees decided to walk out <a 
@@ -130,6 +130,12 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/setup_a2b_200.exe">setup_a2b_200.exe</a> - 2.559kB<br>
+        <br>
+        Date: 1998-06-13<br>
+        Version: 1.02<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/players/setup_a2b_102.exe">setup_a2b_102.exe</a> - 2.008kB<br>
 
         </blockquote></font>
 

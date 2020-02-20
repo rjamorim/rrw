@@ -3,7 +3,8 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Yamaha SoundVQ</TITLE>
+<TITLE>ReallyRareWares - AudioCatalyst</TITLE>
+
 </HEAD>
 <BODY bgcolor="#FFFFFF">
 
@@ -55,7 +56,7 @@
       </table>
 <br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -89,67 +90,52 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Yamaha SoundVQ</b></div> <p>
-        </font>
+          <br><div align="justify"><b> AudioCatalyst </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
-        alt="SoundVQ Encoder" align=right height=228></a>
-        At some point during the late nineties Yamaha licensed the <a href="nttvqf.php">VQF</a>
-        technology from NTT and created their own encoder and player, for both Windows
-        and Mac OS, under the name SoundVQ.<br><br>
+        <a href="screens/audiocatalyst.png" target=outside><img src="screens/audiocatalyst.png" 
+        alt="AudioCatalyst Win32" align=right height=220></a>
+        AudioCatalyst was born as a partnership between <a href="https://www.audiograbber.org/"
+        target=outside>AudioGrabber</a> - probably the most popular CD ripper at the 
+        time - and Xing, the fastest <a href=xing.php>MP3 encoder</a>.<br><br>
         
-        It has features like batch encoding and recording from line-in. Quality in high 
-        quality mode is good, but encoding is very slow. Also, it only works for 90 days 
-        then expires.<br><br>
+        It features a pleasing interface and the usual features of a CD ripper: CDDB 
+        lookups, tagging, volume normalizing... Versions were available for both 
+        Windows and Mac OS Classic, and the Windows version available here (courtesy 
+        of the always reliable FOSI guys) includes the <a href=xingsound.php>XingMP3
+        player</a>.<br><br>
         
-        Yamaha discontinued offering their SoundVQ software line after the obvious
-        failure of the format in becoming popular.<br><br>
-                
-        A mirror of the official page can be found at the <a 
-        href="https://web.archive.org/web/20011211125041/http://www.yamaha-xg.com/soundvq/index.html"
+        It is worth pointing out that the Mac version is not based on AudioGrabber, 
+        but on Oliver Dreer's MPEG Audio Creator - an old CD ripper for Mac OS Classic
+        that created MP2 files, but not MP3. Therefore, the feature set is different 
+        from the Windows version (for instance, the Mac version can record and
+        encode from line-in).<br><br>
+        
+        After Xing Technology got bought by Real Networks the product was discontinued. 
+        You can still check the AudioCatalyst web page at the <a
+        href="https://web.archive.org/web/20000408132729/http://www.xingtech.com/mp3/audiocatalyst/"
         target=outside>Internet Archive</a>.<br>
-        
+
         <br>
         <br>
-        Date: 2002-06-24<br>
-        Version: 2.60b9 (encoder)<br>
+        Date: 1999-07-23<br>
+        Version: 2.1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b9e.exe">vqe260b9e.exe</a> - 1.874kB<br>
+        Download: <a href="files/xing/fo-acat21.exe">fo-acat21.exe</a> - 3.045kB<br>
         <br>
-        Date: 2000-10-30<br>
-        Version: 2.60b3 (encoder)<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870kB<br>
-        <br>
-        Date: 2000-05-07<br>
-        Version: 2.60b1 (encoder)<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/vqf/vqe260b1e.exe">vqe260b1e.exe</a> - 1.871kB<br>
-        <i>Kindly contributed by Sebastian Knop.</i><br>
-        <a href="screens/soundvq-ply.png" target=outside><img src="screens/soundvq-ply.png" 
-        alt="SoundVQ Player" align=right></a>
-        <br>
-        Date: 2000-12-19<br>
-        Version: 2.52b7 (encoder)<br>
+        <a href="screens/audiocatalyst-mac.png" target=outside><img 
+        src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=120></a>
+        Date: 2000-04-01<br>
+        Version: 2.1 (updater)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
-        Download: <a href="files/vqf/vqencoder-252b7e.sit">vqencoder-252b7e.sit</a> - 1.003kB<br>
+        Download: <a href="files/xing/audiocatalyst-updater.hqx">audiocatalyst-updater.hqx</a> - 747kB<br>
         <br>
-        <hr>
-        Date: 2000-03-20<br>
-        Version: 2.52b1 (player)<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/vqf/vqp252b1e.exe">vqp252b1e.exe</a> - 1.458kB<br>
-        <br>
-        Date: 2000-12-19<br>
-        Version: 2.50b2 (player)<br>
+        Date: 1999-07-07<br>
+        Version: 2.0.1<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
-        Download: <a href="files/vqf/vqplayer-250b2e.sit">vqplayer-250b2e.sit</a> - 1.775kB<br>
+        Download: <a href="files/xing/AudioCatalyst_MP3_Encoder.sit">AudioCatalyst_MP3_Encoder.sit</a> - 988kB<br>
 
         </blockquote></font>
 

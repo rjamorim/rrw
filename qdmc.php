@@ -52,11 +52,10 @@
     <tr></tr>
     <tr><td></td></tr>
     
-    
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=200 src="dot.gif"></td></tr>
+    <tr><td height=850><img width=1 height=200 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,7 +93,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/qdesign-mvp.png" target=outside><img src="screens/qdesign-mvp.png" 
-        alt="QDesign MVP" align=right height=292></a>
+        alt="QDesign MVP" align=right height=320></a>
         The QDesign Music Codec was originally <a href="lbpack.php">LBpack</a>, by 
         Dmitry Shmunk. QDesign corporation bought the codec and hired the developer 
         to create what would become the official audio compression in Apple's 
@@ -110,10 +109,11 @@
         up to 48kbps. The professional version allows bitrates up to 128kbps and fine
         tuning some encoding parameters.<br><br>
         
-        Hosted here are a Demo professional plugin for QuickTime Pro that works for 15
-        days, and MVP - QDesign's attempt to enter the audio library manager market - 
+        Hosted here are professional plugins for QuickTime Pro with serial number
+        and MVP - QDesign's attempt to enter the audio library manager market - 
         that has unlimited encoding of QDMC up to 128kbps. It can also encode MP3
-        but the encoder quality is terrible.<br>
+        but the encoder quality is terrible. All of these are available for both 
+        Windows and Mac OS Classic.<br><br>
         
         I am also hosting here an analysis document created by Benjamin Larsson, 
         describing the first steps in reverse engineering the codec.<br><br>
@@ -135,12 +135,32 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/others/mvppc12.exe">mvppc12.exe</a> - 2.083kB<br>
+        <a href="screens/qdesign-mac.png" target=outside><img src="screens/qdesign-mac.png" 
+        alt="QDesign QT component" align=right height=350></a>
+        <br>
+        Date: 1999-22-10<br>
+        Version: 1.2.32<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/others/QDesignMVP1.2.32.sit.bin">QDesignMVP1.2.32.sit.bin</a> - 1.985kB<br>
         <br>
         Date: 1999-05-13<br>
         Version: 2.0<br>
         Interface: Graphical (QuickTime component)<br>
         Platform: Win32<br>
-        Download: <a href="files/others/QDMC2_Pro_Demo.exe">QDMC2_Pro_Demo.exe</a> - 1.327kB<br>
+        Download: <a href="files/others/QDesign_2_Pro.zip">QDesign_2_Pro.zip</a> - 707kB<br>
+        <br>
+        Date: 2000-04-06<br>
+        Version: 2.1<br>
+        Interface: Graphical (QuickTime component)<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/others/QDesign_Music_2.1.sit">QDesign_Music_2.1.sit</a> - 698kB<br>
+        <br>
+        Date: 1999-07-15<br>
+        Version: 2.0.1<br>
+        Interface: Graphical (QuickTime component)<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/others/QDesign_Music_2.0.1.sit">QDesign_Music_2.0.1.sit</a> - 708kB<br>
         <br>
         Date: 2004-01-14<br>
         Version: 1.2<br>

@@ -54,7 +54,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1950><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=2050><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -101,6 +101,7 @@
                 <a href=blade.php>Blade MP3 encoder</a><br>
                 <a href=cannamp3.php>CannaMP3 MP3 encoder</a><br>
                 <a href=ctmp3pro.php>Coding Technologies MP3pro encoder</a><br>
+                <a href=dropmp3.php>DropMP3 encoder for Mac</a><br>
                 <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
@@ -109,6 +110,7 @@
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
                 <a href=m3e.php>M3E MP3 encoder</a><br>
                 <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
+                <a href=mp3comp.php>MP3 Compressor</a><br>
                 <a href=mpegdj.php>MpegDJ encoder</a><br>
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
@@ -227,6 +229,7 @@
           <br><div align="justify"><b>Misc. rarities:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
+                <a href=audiocat.php>AudioCatalyst CD ripper</a><br>
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>

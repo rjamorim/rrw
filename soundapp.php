@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,8 +95,9 @@
         alt="SoundApp 2.50" align=right></a>
         SoundApp is an audio player and converter for Mac OS Classic (System 7 to Mac OS 9)
         developed by Norman Franke that supports a wide variety of formats for reading 
-        (including MP1/2/3, but only in the PowerPC version) and writing. It also 
-        features a playlist editor.<br><br>
+        (including MP1/2/3, but only in the PowerPC version) and writing.<br><br>
+        
+        It also features a playlist editor and can be scriptable using AppleScript.<br><br>
         
         The web site is available <a href="http://www-cs-students.stanford.edu/~franke/SoundApp/"
         target=outside>here</a>.<br>
@@ -107,7 +108,13 @@
         Version: 2.7.3<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic PPC<br>
-        Download: <a href="files/players/SoundApp_PPC273.sit">SoundApp_PPC273.sit</a> - 593kB<br>
+        Download: <a href="files/players/SoundAppPPC273.sit.bin">SoundAppPPC273.sit.bin</a> - 594kB<br>
+        <br>
+        Date: 2000-11-13<br>
+        Version: 2.7.3<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic 68K<br>
+        Download: <a href="files/players/SoundApp68K273.sit.bin">SoundApp68K273.sit.bin</a> - 585kB<br>
         <br>
         Date: 1998-04-16<br>
         Version: 2.5<br>
@@ -115,11 +122,19 @@
         Platform: Mac OS Classic (fat binary)<br>
         Download: <a href="files/players/Soundapp_fat25.sit.bin">Soundapp_fat25.sit.bin</a> - 877kB<br>
         <br>
+        <a href="screens/soundapp151.png" target=outside><img src="screens/soundapp151.png" 
+        alt="SoundApp 1.51" align=right></a>
         Date: 1997-12-15<br>
         Version: 2.4.3<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (fat binary)<br>
         Download: <a href="files/players/SoundApp_Fat243.sit.hqx">SoundApp_Fat243.sit.hqx</a> - 1106kB<br>
+        <br>
+        Date: 1995-04-02<br>
+        Version: 1.5.1<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic 68K<br>
+        Download: <a href="files/players/SoundApp_1.5.1.sea.hqx">SoundApp_1.5.1.sea.hqx</a> - 212kB<br>
 
         </blockquote></font>
 

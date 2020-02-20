@@ -107,22 +107,26 @@
         
         <br>
         <br>
-        Date: 2001-03-07<br>
-        Version: 0.94.0<br>
+        Date: 2001-05-08<br>
+        Version: 0.94.2<br>
         Interface: Command line<br>
         Platform: Win32<br>
+        Download: <a href="files/blade/blade0942.zip">blade0942.zip</a> - 140kB<br>
+        <br>
+        Date: 2001-03-07<br>
+        Version: 0.94.0<br>
         Download: <a href="files/blade/blade094.zip">blade094.zip</a> - 93kB<br>
         <br>
         Date: 2001-01-19<br>
         Version: 0.92.7<br>
         Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178kB<br>
         <br>
+        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
+        alt="BladeEnc for Mac" align=right height=244></a>
         Date: 1999-12-31<br>
         Version: 0.91<br>
         Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160kB<br>
         <br>
-        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
-        alt="BladeEnc for Mac" align=right height=244></a>
         Date: 1999-07-22<br>
         Version: 0.82<br>
         Download: <a href="files/blade/blade082.zip">blade082.zip</a> - 118kB<br>

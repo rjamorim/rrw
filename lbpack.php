@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -112,22 +112,32 @@
         so nowadays the only information about this codec is available at the 
         readme and FAQ inside the download package.<br><br>
         
+        Versions 1.53 and 1.57 below are demos, they do not encode stereo files 
+        and are limited to a certain number of samples. Version 1.60 is registered
+        and has no such limitations.<br><br>
+        
         <i>Lots of thanks to Geert from Belgium for providing this codec and 
         enlightening me on its history and its relation to QDesign.</i><br>
         
         <br>
         <br>
         Date: 1997<br>
-        Version: 1.60 (registered)<br>
+        Version: 1.60<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
         Download: <a href="files/others/lb.zip">lb.zip</a> - 154kB<br>
         <br>
-        Date: 1997<br>
-        Version: 1.57 (demo)<br>
+        Date: 1997-05-19<br>
+        Version: 1.57<br>
         Interface: Command line + graphical player<br>
         Platform: DOS/Win32<br>
         Download: <a href="files/others/lbit157.zip">lbit157.zip</a> - 215kB<br>
+        <br>
+        Date: 1996-12-20<br>
+        Version: 1.53<br>
+        Interface: Command line + graphical player<br>
+        Platform: DOS/Win32<br>
+        Download: <a href="files/others/lbit153.zip">lbit153.zip</a> - 129kB<br>
         
         </blockquote></font>
 

@@ -95,22 +95,26 @@
         <a href="screens/DropMP3.png" target=outside><img src="screens/DropMP3.png" 
         alt="DropMP3 Encoder for Mac OS" align=right height=250></a>
         DropMP3 is, to the best of my knowledge, the only MP3 encoder for Mac OS
-        Classic using <a href=lame.php>LAME</a>. Since Mac OS Classic never featured
+        Classic using <a href=lame.php>LAME</a>. Since Classic never featured
         a command line interface, native command line applications had to work 
         around this limitation - either by placing the command line interface 
         inside a special window (as in <a href=blade.php>BladeMac</a>), or by using
         a GUI to interface with the encoding library, as is the case here.<br><br>
         
-        It was created around 2000 by Philippe Laval. It has all the oprions you 
+        It was created around 2000 by Philippe Laval. It has all the settings you 
         would expect from a LAME frontend: choice of bitrate (CBR and VBR), stereo
-        encoding mode, lowpass flters, resampling, tagging...<br><br>
+        coding mode, lowpass flters, resampling, tagging... Besides, encoding
+        can be scriptable using AppleScript.<br><br>
         
         The LAME library is distributed separately from the GUI, both files are 
         available below. Unfortunately the latest version I could find was 3.70,
-        it seems the author never compiled a newer version.<br><br>
+        it seems the author never compiled a newer version (if you feel like 
+        firing up CodeWarrior and having a try at the <a
+        href="files/lame/Lame_SharedLib_src_3.70.sea.hqx">sources</a> and some 
+        newer LAME version, please get <a href=about.php>in touch</a>!).<br><br>
         
-        The web site is surprisingly still available, <a 
-        href="http://philippe.laval.free.fr/DropMP3/US/index.php" 
+        The web site is surprisingly still available more than two decades later,
+        <a href="http://philippe.laval.free.fr/DropMP3/US/index.php" 
         target=outside>here</a>.<br>
 
         <br>

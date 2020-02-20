@@ -34,7 +34,7 @@
       <td bgcolor="#999999" width=119 align="center" nowrap>
       <font size="1" face="Tahoma">
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    
+
     </td>
       </table>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
@@ -51,16 +51,16 @@
     <tr><td></td></tr>
     <tr></tr>
     <tr><td></td></tr>
-    
-    
+
+
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=4600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=5500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
-     
+
       </tr>
     </table></td>
     <!-- Corpo principal -->
@@ -81,7 +81,7 @@
         <font face="Geneva,Verdana,Helvetica,Arial">
 
         <!-- Corpo agora -->
-        
+
         <a name="news">
         <table border="0" cellpadding="2" cellspacing="0" width="20">
           <tr bgcolor="669999"><td width="20"><img width=20 height=1 src="dot.gif"></td>
@@ -90,8 +90,72 @@
 
         </table>
         </a>
-        
+
+             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-06-22: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Finally another update</b></font><p>
+                  More than four months since the last update, here comes another
+                  one.<br><br>
+
+                  I would like to remind RRW visitors that I depend on your
+                  contributions to keep adding obscure software to this website -
+                  my personal collection of oddities is all but already featured
+                  in its entirety here.<br><br>
+
+                  So, if you have something you believe might be of interest to
+                  be preserved here, please don't hesitate to get <a href="about.php">
+                  in touch</a>.<br><br>
+
+                  And these are the updates:
+                  <ul>
+                    <li>M&eacute;tis MP3 player (thanks to Zachary Jelesoff)</li>
+                    <li>Another MP3 to EXE converter (thanks to Zachary Jelesoff)</li>
+                    <li>WWV - Women, Whisky and VQF! (thanks to Zachary Jelesoff)</li>
+                    <li>Apollo plugins for several formats</li>
+                    <li>Another version of Yamaha SoundVQ Encoder (thanks to Sebastian Knop)</li>
+                  </ul>
+             </blockquote></font>
+
             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-02-07: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The first update in 2018</b></font><p>
+                  Time to get things rolling in this new year!<br><br>
+
+                  This time around I updated:
+                  <ul>
+                    <li>RealJukebox music player/manager</li>
+                    <li>MpegDJ Encoder</li>
+                    <li>Ultimate [MP1/2/3] Encoder</li>
+                    <li>EncSpot Pro MP3 analyzer</li>
+                    <li>AT&amp;T a2b music (thanks to Zachary Jelesoff)</li>
+                    <li>A few more WavPack versions (thanks to David Bryant)</li>
+                  </ul>
+             </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2017-12-11: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Happy holidays!</b></font><p>
+                  This time around, just a simple update to wrap up 2017. Have some lovely
+                  holidays! See you all again in 2018!<br><br>
+
+                  These are the updates:
+                  <ul>
+                    <li>Sonic Foundry SoftEncode AC3 encoder</li>
+                    <li>RKau lossless compressor</li>
+                    <li>Emagic Zap lossless compressor</li>
+                    <li>Iomega RecordIt MP2 recorder</li>
+                    <li>Several versions of Apollo (thanks to Thundik81)</li>
+                    <li>A few extra PlusV tools</li>
+                  </ul>
+             </blockquote></font>
+
+             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-11-22: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
@@ -118,7 +182,6 @@
                   If you have LAME versions not featured at the LAME page, please submit them!
              </blockquote></font>
 
-
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-11-04: </b></div><p>
             </font>
@@ -144,7 +207,6 @@
                   around, please get in touch! (check the About page)
              </blockquote></font>
 
-             
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-21: </b></div><p>
             </font>
@@ -163,7 +225,6 @@
                     <li>LTAC/LPAC lossless compressors</li>
                   </ul>
              </blockquote></font>
-
 
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-10-01: </b></div><p>
@@ -187,7 +248,6 @@
                   Enjoy!
             </blockquote></font>
 
-
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-09-10: </b></div><p>
             </font>
@@ -205,7 +265,6 @@
                   </ul>
                   Hope you enjoy the updates, and please keep those rare pieces of software coming!
             </blockquote></font>
-
 
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2017-09-03: </b></div><p>
@@ -242,7 +301,6 @@
 
                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Roberto
             </blockquote></font>
-            
 
              <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2006-04-23: </b></div><p>
@@ -266,7 +324,7 @@
                   add a foobar page to the site.<br><br>
 
                   The collection is still far from complete, therefore, if you happen to have an old
-                  version of this player not yet featured, please send it to my e-mail address 
+                  version of this player not yet featured, please send it to my e-mail address
                   (available at the About page)<br><br>
 
                   Also, I added a hidden surprise. Look around for it, and you will eventually find...
@@ -274,14 +332,14 @@
 
                   Until Christmas!
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2005-10-08: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Updates</b></font><p>
                   Here is another update for the faithful visitors of ReallyRareWares.<br><br>
-                  
+
                   This is what has just been added:
                   <ul>
                     <li>Countless versions of the NAD music player contributed by Mitiok</li>
@@ -293,10 +351,10 @@
                   </ul>
                   That's it for now. I plan to run another update by the end of the year, as a
                   christmas gift for you people.<br><br>
-                  
+
                   See you then!
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2005-06-28: </b></div><p>
             </font>
@@ -311,12 +369,12 @@
                     <li>XAudio MP3 player 0.9a</li>
                     <li>Yamp player 3.3</li>
                   </ul>
-                  Also, I added the Macintosh versions of Daxwav - appropriately called Daxaif - 
+                  Also, I added the Macintosh versions of Daxwav - appropriately called Daxaif -
                   and an older version of WinGOGO.<br><br>
-                  
+
                   Enjoy!
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2005-01-06: </b></div><p>
             </font>
@@ -324,53 +382,53 @@
                   <font face="Tahoma" size=2 color="black"><b>Christmas gifts</b></font> <p>
                   Hello. I am here bringing you some Christmas gifts taken out from obscure
                   and forgotten places in the web.<br><br>
-                  
+
                   For starters, an unexpected development: Mr. Volodymyr Poltavets actually took
                   his time to adapt Split2000 to modern Linux versions. You can find his diff
                   files and precompiled binaries at the Split2000 page.<br><br>
-                  
+
                   Just for sake of completeness, I added several TrueSpeech players for different
                   platforms: Win16, Mac68K and MacPPC.<br><br>
-                  
+
                   Mr. Zack Jelesoff pointed me out to updates on the Mio encoder (Daru) and Winamp
                   plugin, so they have been updated at the Mio page.<br><br>
-                  
+
                   I also added browser plugins for Echospeech playback, for Win32 and Win16.<br><br>
-                  
+
                   Finally, I added a page for rare or deprecated CoolEdit/Audition import/
                   export filters.
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2004-10-07: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>New additions</b></font> <p>
-                  Today I added to the lame page several very old versions, courtesy of 
+                  Today I added to the lame page several very old versions, courtesy of
                   384kbps. Included are some versions that seem to only work in OS/2.<br><br>
-                  
+
                   I am also opening an exception and adding an audio editor to the collection:
                   CoolEdit 1.3.1, a Win16 version of the famous editor dating from 1993!<br><br>
-                  
+
                   Last but not least, I added some interesting programs submitted by the always
                   helpful <a href="http://mark0.net/" target=outside>Marco Pontello</a>. They
                   are VocPack - an extremely old lossless compressor - and wav2mp, an MP1/MP2
                   encoder.
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2004-08-21: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Impressive response!</b></font> <p>
-                  It has been a few hours since I wrote my request for Mafuka, and it's already 
-                  been taken care of! Very big thanks to Elohe from Spain for providing this 
+                  It has been a few hours since I wrote my request for Mafuka, and it's already
+                  been taken care of! Very big thanks to Elohe from Spain for providing this
                   hard-to-find encoder.<br><br>
-                  
-                  I am also taking the opportunity to upload Plugger 0.3, kindly provided by 
+
+                  I am also taking the opportunity to upload Plugger 0.3, kindly provided by
                   384kbps, and mppenc 1.7.9c, the last version developed by Andree Buschmann.
             </blockquote></font>
-        
+
           <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2004-08-21: </b></div><p>
             </font>
@@ -381,15 +439,15 @@
                   RRW will be updated very seldomly from now on, since I already uploaded pretty
                   much my entire collection of rarities and you don't find rare audio-related
                   programs everyday.<br><br>
-                  
+
                   Today, I uploaded several new versions of l3enc, including a version even older
-                  than 1.0 (0.99a!). According to l3enc's history.txt, this is the second version 
+                  than 1.0 (0.99a!). According to l3enc's history.txt, this is the second version
                   released to the public - the first was 0.99, that I could not find anywhere.<br><br>
-                  
-                  
-                  Last, I would like to ask visitors to check if they have the very infamous Mafuka 
-                  encoder and decoder lying somewhere. I would love to feature it here, and 
-                  extensive web searches resulted in no leads. If you have it, please drop me an 
+
+
+                  Last, I would like to ask visitors to check if they have the very infamous Mafuka
+                  encoder and decoder lying somewhere. I would love to feature it here, and
+                  extensive web searches resulted in no leads. If you have it, please drop me an
                   e-mail.
             </blockquote></font>
 
@@ -424,7 +482,7 @@
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>Players and WavPack</b></font> <p>
-                  In this update, I added old versions of the popular WavPack lossless audio 
+                  In this update, I added old versions of the popular WavPack lossless audio
                   encoder, and a Players section featuring several old audio players.
             </blockquote></font>
 
@@ -450,7 +508,7 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
                   <font face="Tahoma" size=2 color="black"><b>First ever MP3 encoder:</b></font> <p>
                   I just added to the MP3 section a real rarity: l3enc 1.00 for DOS.<br><br>
-                  
+
                   This was the first publicly available MP3 (back then called MPEG layer 3)
                   software encoder, released on June 1994. And it still works, creating
                   perfectly compliant (at least on my limited tests) MP3 streams!
@@ -464,19 +522,19 @@
                   Hello, and welcome to ReallyRareWares, a site for researchers
                   (or nostalgic people like me) that miss the old days of multimedia
                   encoding. <br><br>
-                  
-                  Here you'll find reviews and history of old software (encoders and 
+
+                  Here you'll find reviews and history of old software (encoders and
                   decoders), deceased codecs (VQF, ePAC), oddities (AUPECg2, Astrid
                   AAC), and so on, as well as downloads. <br><br>
-                  
+
                   Also, I count on your help to make this collection more complete.
-                  If you have some very rare and old audio encoder or decoder which 
+                  If you have some very rare and old audio encoder or decoder which
                   isn't featured here, please drop me a <a href="about.php">mail</a>.
-                  Information on historical facts and corrections to the articles 
+                  Information on historical facts and corrections to the articles
                   featured here are also very welcome.<br><br>
-                  
+
                   Enjoy!<br><br>
-                  
+
                   Roberto Amorim.
             </blockquote></font>
 
@@ -491,8 +549,8 @@
     </tr>
   </table></td>
   </tr>
-</table> 
- 
+</table>
+
 <?php include("footer.htm") ?>
 
 </body>
