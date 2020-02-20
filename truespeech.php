@@ -104,7 +104,7 @@
         from Windows 95 to Windows XP as an ACM codec. The encoder featured here 
         encodes to this version.<br><br>
         
-        At the bottom of the page, you can also find an installer that adds the 
+        At the bottom of the page you can also find an installer that adds the 
         codec to Windows Vista and newer versions.<br><br>
         
         The TrueSpeech web site can be visited at the Internet Archive, <a
@@ -116,7 +116,7 @@
         Date: 1995-08-24<br>
         Version: 1.0 (Encoder)<br>
         Interface: Minimalistic (and buggy) graphical<br>
-        Platform: Win16/Win32<br>
+        Platform: Win16<br>
         Download: <a href="files/vocodecs/tscnvrt1.exe">tscnvrt1.exe</a> - 81kB<br>
         <br>
         <a href="screens/truespeech-ply.png" target=outside><img src="screens/truespeech-ply.png" 

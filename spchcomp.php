@@ -95,11 +95,12 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/spchcomp.png" target=outside><img src="screens/spchcomp.png" 
         alt="SpchComp" align=right></a>
-        SpchComp is another obsure voice compression codec. The encoder and decoder come 
-        in the same program, so plugins and standalone decoders are not available.<br><br>
+        SpchComp is another obsure voice compression codec. The encoder and decoder 
+        come in the same program, so plugins and standalone decoders are not 
+        available.<br><br>
         
-        It allows choosing different speed/quality settings. Being a demo version, it only
-        allows encoding up to 1 minute of voice data in each stream.<br>
+        It allows choosing different speed/quality settings. Being a demo version, 
+        it only allows encoding up to one minute of voice data in each stream.<br>
         
         <br>
         <br>
@@ -109,8 +110,8 @@
         Platform: Win16<br>
         Download: <a href="files/vocodecs/scutl222.zip">scutl222.zip</a> - 233kB<br>
         <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        codec.</i>
+        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for introducing 
+        me to this codec.</i>
 
         </blockquote></font>
 

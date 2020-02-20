@@ -95,7 +95,7 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/gogo239.png" target=outside><img src="screens/gogo239.png" 
         alt="Gogo 2.39" align=right height=330></a>
-        Gogo is a fork from the <a href=lame.php>Lame MP3 encoder</a>, with the most 
+        Gogo is a fork from the <a href=lame.php>Lame MP3 encoder</a> with the most 
         CPU-intensive routines rewritten in assembler. That makes Gogo one of the 
         fastest MP3 encoders with good quality.<br><br>
         
