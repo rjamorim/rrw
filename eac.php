@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,7 +98,9 @@
         Exact Audio Copy is a CD ripper created by Andre Wiethoff. It is considered by 
         many the most secure and reliable Audio CD ripper.<br><br>
         
-        Besides ripping CDs, EAC can work as an audio CD burner and audio editor.<br><br>
+        Besides ripping CDs (and the features that come with it: CDDB, tagging, 
+        audio normalizing...), EAC can work as an audio CD writer and audio 
+        editor.<br><br>
         
         Development is still going on, and the official web page can be reached 
         <a href="http://www.exactaudiocopy.org" target=outside>here</a>.<br>

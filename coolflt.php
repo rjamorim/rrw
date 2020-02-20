@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -91,16 +92,19 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>CoolEdit/Adobe Audition filters</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        These are import/export filters for the popular Adobe Audition audio editing program
-        (that was called <a href="cooledit.php">CoolEdit</a> before Adobe bought it).<br><br>
+        These are import/export filters for the popular Adobe Audition audio editing 
+        program (that was called <a href="cooledit.php">CoolEdit</a> before Adobe 
+        bought it).<br><br>
         
-        First, the very rare Syntrillium open source MP2/3 decoders, that were based on MAplay.
-        Accuracy is not really good, but still they have the merit of being the first MPEG audio
-        decoders for CoolEdit. Also included is an ACM plugin that can save MP3 without
-        WAV headers, if you have an MP3 ACM codec installed.<br><br>
+        First, the very rare Syntrillium open source MP2/3 decoders, that were 
+        based on MAplay. Accuracy is not really good, but still they have the merit 
+        of being the first MPEG audio input filters for CoolEdit. Also included is 
+        an ACM plugin that can save to MP3 without WAV headers if you have an MP3 
+        ACM codec installed.<br><br>
         
-        Then, several plugins created by Peter Pawlovski, of Winamp and Foobar2000 fame, 
-        for importing/exporting of Ogg Vorbis, MP3 using Lame, VQF, WMA and AUD formats.<br>
+        Then, several plugins created by Peter Pawlovski, of Winamp and Foobar2000 
+        fame, for importing/exporting Ogg Vorbis, MP3 using Lame, VQF, WMA, and 
+        AUD formats.<br>
         
         <br>
         <br>

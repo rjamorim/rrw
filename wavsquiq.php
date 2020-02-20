@@ -104,8 +104,7 @@
         and there was nothing there but noise.<br><br>
         
         Maybe I am doing something wrong? If you know how to get this program to
-        work as it is supposed to, please e-mail me (address available at the <a 
-        href=about.php>About</a> page).<br>
+        work as it is supposed to, please <a href=about.php>e-mail me</a>).<br>
         
         <br>
         <br>
@@ -114,8 +113,9 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9kB<br>
+        <br>
         <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
-        submitting this codec.</i>
+        introducing me to this codec.</i>
 
         <br><br>
         <ul>

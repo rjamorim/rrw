@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,15 +93,16 @@
           <br><div align="justify"><b> VocPack lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        VocPack is a very old lossless audio compressor. It was developed by Nicola Ferioli
-        in 1993, and its main purpose is compressing 8-bit voice recordings. Version 1 will not
-        work with 16-bit streams, that limitation was addressed in version 2.<br><br>
+        VocPack is a very old lossless audio compressor. It was developed by Nicola 
+        Ferioli in 1993, and its main purpose is compressing 8-bit voice recordings. 
+        Version 1 will not work with 16-bit streams, that limitation was addressed 
+        in version 2.<br><br>
         
-        Version 2 has other improvements, but pay attention! - it is shareware, and as a 
-        limitation it will not allow you to decompress the compressed files. So, it is
-        recommended that you keep the uncompressed files, as the compressed ones will not be 
-        decompressable (unless you manage to find the author and pay him the registration 
-        fee...)<br>
+        Version 2 has other improvements, but pay attention! - it is shareware, and 
+        as a limitation it will not allow you to decompress the compressed files. So,
+        it is recommended that you keep the original files, as the compressed ones 
+        will not be decompressable (unless you manage to find the author and pay 
+        him the registration fee...)<br>
         
         <br>
         <br>
@@ -115,8 +117,9 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/lossless/vocpak10.zip">vocpak10.zip</a> - 15kB<br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        codec.</i>
+        <br>
+        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
+        introducing me to this codec.</i>
 
         </blockquote></font>
 

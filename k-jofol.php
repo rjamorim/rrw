@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,20 +94,22 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/k-jofol.png" target=outside><img src="screens/k-jofol.png" 
         alt="K-Jofol 2000" align=right height=167></a>
-        K-J&ouml;fol was a pretty popular audio player in its heyday, around 1999-2000.<br><br>
+        K-J&ouml;fol was a pretty popular audio player in its heyday, around 
+        1999-2000.<br><br>
         
-        One reason it became so popular is that it was the first real player supporting 
-        VQF - the players offered by <a href="soundvq.php">Yamaha</a> and <a 
-        href="nttvqf.php">NTT</a> were pretty useless, lacking a decent interface and 
-        basic features like playlists and equalizer.<br><br>
+        One reason it became so popular is that it was the first real player 
+        supporting VQF - the players offered by <a href="soundvq.php">Yamaha</a> 
+        and <a href="nttvqf.php">NTT</a> were not very useful, lacking a decent 
+        interface and basic features like playlists and equalizer.<br><br>
         
-        It was also the only player that supported the infamous <a href="astrid.php">Astrid
-        AAC</a> codec through a plugin provided by the author. This time, it isn't encrypted
-        with PElock - but with ASpack instead...<br><br>
+        It was also the only player that supported the infamous <a 
+        href="astrid.php">Astrid AAC</a> codec through a plugin provided by the 
+        author. This time, it isn't encrypted with PElock - but with ASpack 
+        instead...<br><br>
         
-        It was developed by the programmer Christophe Thibault up to version 0.51. He was 
-        working on version 2000 when he was hired to work for Nullsoft - makers of Winamp -, 
-        putting development permanently on hold.<br>
+        It was developed by the programmer Christophe Thibault up to version 
+        0.51. He was working on version 2000 when he got hired to work for 
+        Nullsoft - makers of Winamp -, putting development permanently on hold.<br>
         
         <br>
         <br>

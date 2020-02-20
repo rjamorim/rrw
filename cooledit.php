@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -97,15 +98,17 @@
         CoolEdit is an audio editor that has always enjoyed high popularity among 
         digital audio enthusiasts, thanks to its powerful features, easy to use 
         interface, and reasonable price. The versions featured here are among the 
-        first released.<br><br>
+        earliest released.<br><br>
         
-        Back then it already featured interesting DSP effects and supported a nice list of
-        audio formats: WAV, VOC, ADPCM, AIFF... CoolEdit kept envolving, and several versions 
-        were released: CoolEdit 96, CoolEdit 2000, CoolEdit Pro, Pro 2.<br><br>
+        Back then it already featured interesting DSP effects and supported a 
+        growing list of audio formats: WAV, VOC, ADPCM, AIFF... CoolEdit kept 
+        envolving, and several versions were released: CoolEdit 96, CoolEdit 
+        2000, CoolEdit Pro, Pro 2.<br><br>
         
-        In early 2003, Adobe bought the assets of Syntrillium (makers of CoolEdit) and started
-        selling the software renamed as <a href="http://www.adobe.com/products/audition.html" 
-        target=outside>Adobe Audition</a>.<br>
+        In early 2003, Adobe bought the assets of Syntrillium (makers of CoolEdit) 
+        and started selling the software renamed as <a 
+        href="http://www.adobe.com/products/audition.html" target=outside>Adobe 
+        Audition</a>.<br>
         
         <br>
         <br>
