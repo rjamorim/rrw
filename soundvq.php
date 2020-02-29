@@ -98,14 +98,19 @@
         technology from NTT and created their own encoder and player, for both Windows
         and Mac OS, under the name SoundVQ.<br><br>
         
-        It has features like batch encoding and recording from line-in. Quality in high 
-        quality mode is good, but encoding is very slow. Also, it only works for 90 days 
-        then expires.<br><br>
+        It has features like batch encoding and recording from line-in and microphone. 
+        An unusual feature is a "Web Page Wizard" that creates a web page from a 
+        template and embeds in it a VQF file to be played with the browser plugin
+        (which is distributed with the VQF player, available below). I generated a
+        web page with the wizard using a public domain song and placed it <a 
+        href="mirrors/soundvq/">here</a>.<br><br>
+        
+        Quality in high quality mode is good, but encoding is very slow. Also, it only 
+        works for 90 days then expires.<br><br>
         
         Yamaha discontinued offering their SoundVQ software line after the obvious
-        failure of the format in becoming popular.<br><br>
-                
-        A mirror of the official page can be found at the <a 
+        failure of the format in becoming popular. A mirror of the official page 
+        can be found at the <a 
         href="https://web.archive.org/web/20011211125041/http://www.yamaha-xg.com/soundvq/index.html"
         target=outside>Internet Archive</a>.<br>
         
