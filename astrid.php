@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -106,7 +107,7 @@
         
         The binaries available here have been decrypted by me, if only because they
         can now be better compressed with Zip. They were encrypted with PELOCKnt, and
-        I used peunlock to decrypt them.<br>
+        I used peunlock to reverse the process.<br>
         
         <br>
         <br>

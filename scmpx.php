@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,8 +99,8 @@
         href="uzura.php">Uzura</a>, <a href="wingogo.php">Gogo</a>, and <a 
         href="m3e.php">M3E</a>), by Shinji Chiba.<br><br>
         
-        It is a dist10 encoder with several quality and speed improvements. It 
-        supports encoding, decoding and playback of MP1, MP2 and MP3 files 
+        The encoder is based on dist10 with several quality and speed improvements. 
+        It supports encoding, decoding and playback of MP1, MP2 and MP3 files 
         (including VBR), as well as splitting MP2 files from MPEG streams. It also 
         does resampling (all operations have batch modes).<br><br>
         
@@ -109,8 +109,9 @@
         featureful app for such a small size. If only the interface was not so ugly
         and confusing...<br><br>
         
-        The official web page is available <a href="http://www.din.or.jp/~ch3/index_e.html"
-        target=outside>here</a> (isn't that Pikachu just cute?).<br>
+        The official web page is still available <a 
+        href="http://www.din.or.jp/~ch3/index_e.html" target=outside>here</a> 
+        (isn't that Pikachu just cute?).<br>
         
         <br>
         <br>
@@ -119,6 +120,8 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/scmpx16e.zip">scmpx16e.zip</a> - 271kB<br>
+        <a href="screens/scmpx-shade.png" target=outside><img src="screens/scmpx-shade.png" 
+        alt="SCMPX Shade" align=right></a>
         <br>
         Date: 1999-08-30<br>
         Version: 1.51<br>

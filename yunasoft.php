@@ -101,8 +101,8 @@
         It offers several features related to tagging and whether to save output
         as WAV-wrapped MP3 streams or standard MP3 files.<br><br>
         
-        The main differences between versions 0.4.3e and 0.7 hosted here are that 0.7
-        supports batch operations (encoding and stripping the RIFF headers from WAV 
+        The main difference between versions 0.4.3e and 0.7 hosted here is that 0.7
+        supports batch operations (encoding, and stripping the RIFF headers from WAV 
         files). But starting with 0.7 YunaSoft required that users register for 
         free at their web site to obtain a registration key. Without that key, the 
         program encodes no more than 30 seconds of audio for each file.<br><br>

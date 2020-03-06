@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,9 +94,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/8hz-mp3.png" target=outside><img src="screens/8hz-mp3.png" 
         alt="8hz-mp3 v0.1.1b" align=right height=224></a>
-        8hz-MP3 is more or less a compile of the dist10 reference sources, with a 
-        focus on speeding up that code. It was put together by a duo of Danish 
-        programmers working at 8hz Productions, a game developer.<br><br>
+        8hz-MP3 is more or less a compile of the dist10 reference sources with a 
+        focus on speeding up that code and an easy to use interface. It was put 
+        together by a duo of Danish programmers working at 8hz Productions, a 
+        game and screensaver developer.<br><br>
         
         They were among the first to feel the wrath of Fraunhofer. They received a
         cease-and-desist letter claiming patent violation, and immediately afterwards 

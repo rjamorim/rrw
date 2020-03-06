@@ -93,7 +93,7 @@
           <br><div align="justify"><b>Audioactive Production Studio and Player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/aaps.png" target=outside><img src="screens/aaps.png" 
-        alt="Audioactive Encoder" align=right height=213></a>
+        alt="Audioactive Encoder" align=right height=180></a>
         The Audioactive brand was created by audio hardware manufacturer Telos to market 
         their products dealing with MP3 technology.<br><br>
         
@@ -136,7 +136,7 @@
         <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
         alt="Audioactive Player" align=right></a>
         Audioactive also created a freeware MP3 player. It has a playlist editor and
-        not much more than that - not even equalizer or tag editor - but decoding 
+        not much more than that - not even an equalizer or tag editor - but decoding 
         quality is very good since it uses the FhG decoder.<br>
         
         <br>   

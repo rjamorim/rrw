@@ -94,14 +94,15 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/macplay3v14.png" target=outside><img src="screens/macplay3v14.png" 
         alt="MacPlay3 v1.4" align=right></a>
-        MacPlay3 was Fraunhofer's port of the <a href="winplay3.php">WinPlay3</a> MP3 player 
-        for Mac OS Classic. It has the same (few) features of its Windows counterpart.<br><br>
+        MacPlay3 was Fraunhofer's port of the <a href="winplay3.php">WinPlay3</a> 
+        MP3 player for Mac OS Classic. It has the same (few) features of its Windows 
+        counterpart.<br><br>
         
-        The alpha 0.99 version works on the M68K platform, but it is only useful for 
-        decoding, since the 68k CPU is not powerful enough to playback MP3 in real time. 
-        Besides, it is a demo version with no interface (all commands are done through
-        the menu bar, similar to Winamp 0.2) and playback is limited to 20 seconds
-        (decoding to AIFF is not limited).<br><br>
+        The alpha 0.99 version works on the M68K platform, but it is only useful 
+        for decoding, since the 68k CPU is not powerful enough to playback MP3 in 
+        real time. Besides, it is a demo version with no interface (all commands 
+        are done through the menu bar, similar to Winamp 0.2) and playback is 
+        limited to 20 seconds (decoding to AIFF is not limited).<br><br>
         
         Version 1.4b2 was the last version released by FhG and only works on 
         PowerPC machines, but it has an actual interface and no limitations.<br><br>
@@ -110,7 +111,7 @@
         href="https://web.archive.org/web/19980204231239/http://iis.fhg.de:80/departs/amm/layer3/macplay3/index.html"
         target=outside>Internet Archive</a>. <br><br>
         
-        At least, version 0.99 had a great installation blurb...<br>
+        At least, version 0.99 had the very best installation blurb...<br>
         
         <br>
         <br>
