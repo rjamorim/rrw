@@ -121,9 +121,15 @@
         
         <br>
         <br>
+        Date: 2006-09-24<br>
+        Version: 3.97<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lame/lame397d.zip">lame397d.zip</a> - 238kB<br>
+        <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
         Date: 2002-12-01<br>
         Version: 3.93.1<br>
-        Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/lame/lame3.93.1.zip">lame3.93.1.zip</a> - 190kB<br>
         <i>Kindly contributed by getID3()</i><br>

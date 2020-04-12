@@ -53,7 +53,7 @@
     
     
       </table>
-<br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -94,23 +94,28 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
         alt="SoundVQ Encoder" align=right height=228></a>
-        At some point during the late nineties Yamaha licensed the <a href="nttvqf.php">VQF</a>
+        At some point in the late nineties Yamaha licensed the <a href="nttvqf.php">VQF</a>
         technology from NTT and created their own encoder and player, for both Windows
         and Mac OS, under the name SoundVQ.<br><br>
         
-        It has features like batch encoding and recording from line-in and microphone. 
-        An unusual feature is a "Web Page Wizard" that creates a web page from a 
-        template and embeds in it a VQF file to be played with the browser plugin
-        (which is distributed with the VQF player, available below). I generated a
-        web page with the wizard using a public domain song and placed it <a 
-        href="mirrors/soundvq/">here</a>.<br><br>
+        The encoder has features like batch encoding and recording from line-in and 
+        microphone. An unusual feature is a "Web Page Wizard" that creates a web page 
+        from a template and embeds in it a VQF file to be played with the SoundVQ 
+        browser plugin, which is distributed with the SoundVQ player, available 
+        below.<br><br>
         
-        Quality in high quality mode is good, but encoding is very slow. Also, it only 
-        works for 90 days then expires.<br><br>
+        I generated a web page with the wizard using a public domain song and 
+        placed it <a href="mirrors/soundvq/">here</a> (keeping the template texts
+        and ugly design intact). But you will have to find a browser that a) loads 
+        the plugin and b) supports modern HTTPS.<br><br>
+        
+        Quality in high quality mode is good, but encoding is very slow. Also, it 
+        only works for 90 days then expires.<br><br>
         
         Yamaha discontinued offering their SoundVQ software line after the obvious
-        failure of the format in becoming popular. A mirror of the official page 
-        can be found at the <a 
+        failure of the format in becoming popular (in no small part thanks to Yamaha
+        behaving like <a href=mirrors/Letter.txt>asshats</a> - <i>file provided by 
+        Zachary Jelesoff</i>). A mirror of the official page can be found at the <a 
         href="https://web.archive.org/web/20011211125041/http://www.yamaha-xg.com/soundvq/index.html"
         target=outside>Internet Archive</a>.<br>
         

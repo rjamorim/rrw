@@ -210,6 +210,7 @@
                 <a href=impload.php>iMPload complete MP3pro</a><br>
                 <a href=k-jofol.php>K-J&ouml;fol player</a><br>
                 <a href=metis.php>M&eacute;tis MP3 player</a><br>
+                <a href=mhmp3.php>MicroHof MP3 Player</a><br>
                 <a href=mp3toexe.php>MP3 to EXE</a><br>
                 <a href=mp3toexe2.php>MP3 to EXE (another one)</a><br>
                 <a href=musearc.php>Musearc player</a><br>
