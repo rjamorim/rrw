@@ -1,0 +1,741 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Author" content="Tord Jansson">
+   <meta name="GENERATOR" content="Mozilla/4.72 [en] (X11; U; Linux 2.2.14-5.0 i586) [Netscape]">
+   <title>BladeEnc Download Page</title>
+</head>
+<body>
+
+<center><i><font size=+3>BladeEnc ChangeLog</font></i></center>
+
+<hr WIDTH="100%">
+<center><i>This changelog only cover changes between the stable releases.</i>
+<br><i>For changes in the unstable branch, check the ChangeLog in</i>
+<br><i>the source archive.</i>
+<br>&nbsp;
+<br>&nbsp;</center>
+
+<center><table BORDER NOSAVE >
+<tr NOSAVE>
+<td NOSAVE>
+<center><b>Version</b></center>
+</td>
+
+<td>
+<center><b>Release Date</b></center>
+</td>
+
+<td WIDTH="70%">
+<center><b>Changes</b></center>
+</td>
+</tr>
+
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.94.2</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20010508</td>
+
+<td>
+<ul>
+<li>
+Bugfix: The very uncommon crash on certain WAV files has now been fixed again has been verified to work properly (Andre).</li>
+<li>
+Modified FFT calculations. Produces the same output and should be slightly faster. However it seems to
+produce a slight speed decrease (about 1%) on Tord's computer so any comparisons would be appreciated (Andre).
+</ul>
+</td>
+</tr>
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.94.1</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20010424</td>
+
+<td>
+<ul>
+<li>
+Bugfix: The very uncommon crash on certain WAV files should now be fixed (Andre).</li>
+<li>
+Bugfix: Source should now compile nicely on Solaris and any
+other UNIX that had problems with 0.94.0 (Tord).</li>
+<li>
+Bugfix: Fixed a cosmetic error that caused "Press ENTER to exit..." being displayed
+even on systems where we don't wait for a keypress.</li>
+</ul>
+</td>
+</tr>
+
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.94.0</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20010307</td>
+
+<td>
+<ul>
+<li>
+Numerous quality improving changes (Andre).</li>
+<li>
+Fixed a number of compiler warnings (Andre).</li>
+<li>
+Included a pre-generated huffman table instead of generating it from
+incuded meta-data at initialization. This removed the last memory leaks
+and need for the NO_ZERO_CALLOC switch, decreased memory usage and made
+the executable about 40 kb smaller (Tord).</li>
+<li>
+Improved compiler & OS compatibility thanks to a lot of testing, bug
+reports and small patches contributed by Chris Rempel, Brad, Jeff Squyres,
+Trevor Taylor and Stephen from Minnesota.</li>
+<li>
+Amiga Warp/OS support added (Andrea Vallinotto).</li>
+<li>
+Some extra files added to the source distribution,
+including makefiles/projectfiles for a lot of environments and an RPM Specfile
+(contributed by Jean Robertson, Andrea Vallinotto, Michael Langner and Tord).</li>
+<li>
+Some minor bugfixes and changes that are too small to mention here.</li>
+<li>
+
+</ul>
+</td>
+</tr>
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.92.7</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20010119</td>
+
+<td>
+<ul>
+<li>
+Fixed a bug that would cause a crash if BladeEnc was given an 8 bit sample.
+(found by Stephen from Minnesota).</li>
+
+<li>
+Now compiles properly with the Borland family of C/C++ compilers (thanks to Stephen from Minnesota).</li>
+
+</ul>
+</td>
+</tr>
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.92.6</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20010110</td>
+
+<td>
+<ul>
+<li>
+Some more safe optimizations backported from the 0.93.x branch, resulting in a
+speed increase of around 30% on an AMD K6-2 350.(made by Andr&eacute;)</li>
+
+<li>
+The config-file can now take filenames, directories, etc with spaces by
+enclosing the switch/filename in quotation marks (") (Andr&eacute; & Tord)</li>
+
+<li>
+MacOS autodetection added. (Andr&eacute;)</li>
+
+<li>
+A lot of compiler warnings etc fixed(Andr&eacute;)</li>
+
+<li>
+Some defines for Borland C added (thanks to Stephen from Minnesota), might still not compile without
+some more changes though.</li>
+
+</ul>
+</td>
+</tr>
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.92.5</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20001127</td>
+
+<td>
+<ul>
+<li>
+Safe optimizations backported from the 0.93.x branch, resulting in a speed
+increase of between 2.5 and 14% on my machine, depending on the bitrate. Can
+cause slightly different output (a few bytes being different), but is safe.
+(made by Andr&eacute;)</li>
+
+<li>
+Changes for gapless encoding backported from the 0.93.x branch, including
+the -nogap and -sort switch, making gapless encoding of multiple tracks
+possible. (Tord)</li>
+
+<li>
+-concat switch added for generating one mp3 file from multiple sources. (Tord and Andr&eacute;)</li>
+
+<li>
+Autoconf system rewritten. It's now cleaner, faster etc. (Tord with some help by Jeff Squyres)</li>
+
+<li>
+System.h can now autodetect Windows, BeOS and (hopefully) all UNIX systems, making it unnecessary
+to set the SYSTEM-define on these systems when compiling. (Tord)</li>
+
+<li>
+The manual added to the source distribution and updated some textfiles like AUTHORS and INSTALL. (Tord)</li>
+
+<li>
+Changed the way the progress indicator works. Now only updates once a second, speeding up
+the process slightly. Disabled the now unnecessary -refresh switch. (Tord)</li>
+
+<li>
+OS/2 specific code updates (contributed by Ruediger Ihle).</li>
+
+</ul>
+</td>
+</tr>
+
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.92</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>20000223</td>
+
+<td>
+<ul>
+<li>
+Code cleanup and optimisations, resulting in a 34% speed increase! (contributed
+by Andr&eacute;)</li>
+
+<li>
+Encoding a stereo sample to a mono mp3 now works correctly without crashing
+the computer (thanks all of you who reported this, sorry for taking this
+long to fix it).</li>
+
+<li>
+Fixed a lot of small cosmetic bugs having to do with alternative progress
+indicators. (thanks to Jeremy Prior for finding one of them).</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.91</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>991231</td>
+
+<td>
+<ul>
+<li>
+Bugfix: Mono MP3 files now sound as they should again, instead of the seriously
+screwed up sound that 0.88 - 0.90 produced.</li>
+
+<li>
+Bugfix: Found and fixed a bug that could give you wrong default bitrate
+if you combined mono and stereo samples in the same batch.</li>
+
+<li>
+Bugfix: Found that locally specified bad bitrates could slip through my
+error check and fixed it.</li>
+
+<li>
+Improved BeOS support by adding compiler settings for BeOS x86 and code
+for reading bladeenc.cfg under BeOS (from the same directory as Bladeenc).</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.90</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>991208</td>
+
+<td>
+<ul>
+<li>
+Fixed the windows specific crash bug that appeared on certain machines.</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.89</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>991207</td>
+
+<td>
+<ul>
+<li>
+-rawbyteorder=[] switch now works properly (thanks to Frans E. van Dorsselaer).</li>
+
+<li>
+Windows version of BladeEnc 0.88 crashed on some machines. This version
+should work perfectly.</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.88</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>991203</td>
+
+<td>
+<ul>
+<li>
+Speed improved with aproximately 10% (mainly thanks to Roger Fujii).</li>
+
+<li>
+Added support for a configuration file (only Windows, OS/2 and UNIX systems
+so far) where you can change the default settings of BladeEnc. Especially
+useful for Windows users who wants to drag-n-drop to encode with higher
+bitrates than 128 kBit. :)</li>
+
+<li>
+Added support for RAW samples, along with a lot of switches for defining
+the format of them.</li>
+
+<li>
+Added support for priority settings on UNIX-systems (can be specified in
+the range of -20 to +20 as well as the Windows defines).</li>
+
+<li>
+Changed the URL for BladeEnc to http://bladeenc.mp3.no.</li>
+
+<li>
+Bugfix: Fixed broken last frame in MP3-file (Reported by Robert Schlabbach).</li>
+
+<li>
+Bugfix: Long filenames in Windows are no longer truncated (Thanks to Robert
+Schlabbach for some help).</li>
+
+<li>
+Bugfix: GCC compilation bug finally found and patched (Thanks to Marco
+Amrein and Vitor Sessak for some help).</li>
+
+<li>
+Bugfix: Found and fixed a bug that could add some noise to the last frame
+(few milliseconds) of an MP3 and under certain circumstances also crashed
+the DLL.</li>
+
+<li>
+Bugfix: A bug in the commandline routines which could confuse BladeEnc
+if one or more of the samples had ".mp3" in their body or specified path
+was found and fixed by Serg 'Ice' Tsyganenko.</li>
+
+<li>
+Support for Linux PPC added (by Rich West).</li>
+
+<li>
+Support for Linux Alpha added (by Ben Slusky).</li>
+
+<li>
+Support for Ultrix added (by Simon Burge).</li>
+
+<li>
+Support for NetBSD added (by Simon Burge).</li>
+
+<li>
+Support for OpenBSD added (by Brad).</li>
+
+<li>
+Support for BeOS PowerPC added (by Matt Craven).</li>
+
+<li>
+Support for MS-DOS added (by Paul Cantrell).</li>
+
+<li>
+Support for HP/UX added (by Petter Reinholdtsen).</li>
+
+<li>
+Added switch -progress=[] for changing look of statusbar.</li>
+
+<li>
+Added switch -refresh=[] for changing the refresh rate of the progress
+indicator.</li>
+
+<li>
+Added switch -nocfg to let BladeEnc skip the configuration file.</li>
+
+<li>
+Source code is now distributed with UNIX autoconf support (configure, make
+and make install scripts) thanks to KDevelop.</li>
+
+<li>
+A lot of restructuring and tidying up in the source code.</li>
+
+<li>
+Added code provided by Petteri Kamppuri for his upcoming MAC OS port (to
+be released soon, needs some extra source code).</li>
+
+<li>
+Added a pause to the info screen after 25 lines on Windows and OS/2 systems.</li>
+
+<li>
+Also thanks to the following people for reporting problems with and fixing
+bugs in my unstable source releases since 0.82 and that way preventing
+them from affecting you:</li>
+
+<br>Paul Martin, Vitor Sessak, Robert Schlabbach, Troy Engel, Chris DeLise
+and Sadruddin Rejeb (sorry if I forgotten someone).</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.82</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>990722</td>
+
+<td>
+<ul>
+<li>
+Bugfix: Skipping header bug from 0.80 and 0.81 finally fixed.</li>
+
+<li>
+Bugfix: Input files without extension are now handled correctly (fixed
+by Marc Schefer).</li>
+
+<li>
+Bugfix: The -swap switch now works properly (fixed by Olaf Pueschel).</li>
+
+<li>
+Fixed incorrect defines for WIN32_ALPHA (reported by Lennart B&ouml;rjeson).</li>
+
+<li>
+Minor compilation fixes and defines for SCO OpenServer (provided by John
+DuBois).</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.81</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>990630</td>
+
+<td>
+<ul>
+<li>
+Bugfix: 8 bit samples no longer crash the program (fixed by Kevin Doherty).</li>
+
+<li>
+Now compiles correctly under egcs (thanks to Milan Hodoscek).</li>
+
+<li>
+Linux Sparc defines added (by Wesley Hosking).</li>
+
+<li>
+Bugfix: AIFF-samples can now be loaded (fixed by Jon Watte).</li>
+
+<li>
+Bugfix: BitHolder Overflow (Dmitri Kalintsev).</li>
+
+<li>
+Bugfix: Batch processing in 0.80 generated broken MP3's for all files except
+the first (reported by Simon Burge, fixed by Tord).</li>
+
+<li>
+Makefile added to source distribution (provided by William Thompson).</li>
+</ul>
+</td>
+</tr>
+
+<tr NOSAVE>
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>0.80</td>
+
+<td ALIGN=CENTER VALIGN=TOP NOSAVE>990628</td>
+
+<td>
+<ul>
+<li>
+License changed from simply being "free binaries" to the Lesser General
+Public License (LGPL). Sourcecode now available.</li>
+
+<li>
+Removed last fragments of copyrighted code and took the opportunity to
+tidy up and optimize the affected routines. Removed potential bug and a
+minor memory leak as well.</li>
+
+<li>
+Ripped out the entire key handling since it never worked quite the way
+it should. Encoding is now interrupted with CTRL-C and not Escape under
+all UNIX-systems and CTRL-G works as supposed to.</li>
+
+<li>
+Added support for STDOUT. All normal text output is done through STDERR
+if one or more files use STDOUT for output.</li>
+
+<li>
+Fixed the ETA so it won't show negative values when encoding large files.</li>
+
+<li>
+Added switch for left/right channel swap: -SWAP.</li>
+
+<li>
+Added switch to disable output: -QUIET</li>
+
+<li>
+Added switch for only encoding left channel: -LEFTMONO.</li>
+
+<li>
+Added switch for only encoding right channel: -RIGHTMONO.</li>
+
+<li>
+Changed homepage to http://www.bladeenc.cjb.net.</li>
+
+<li>
+Added support for STDIN.</li>
+
+<li>
+Got rid of a lot of compilation warnings and got the code compatible with
+g++.</li>
+
+<li>
+Added displaying of encoding rate for each encoded file.</li>
+
+<li>
+Added abbreviations for some switches.</li>
+
+<li>
+Fixed broken checksum (CRC) generation. The -CRC switch now generates correct
+checksums instead of zeroes.</li>
+
+<li>
+Only waiting for key press before quiting on systems where this is considered
+as a good thing (Windows and OS/2).</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=TOP>0.76</td>
+
+<td ALIGN=CENTER VALIGN=TOP>981217</td>
+
+<td>
+<ul>
+<li>
+-OUTDIR switch added for specifying output directory.</li>
+
+<li>
+URL changed back to the old working one :(</li>
+
+<li>
+Internal changes to make the code cleaner and easier to port.</li>
+
+<li>
+One or two minor bugs fixed.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=TOP>0.75</td>
+
+<td ALIGN=CENTER VALIGN=TOP>981127</td>
+
+<td>
+<ul>
+<li>
+Speed increased with 8%.</li>
+
+<li>
+Internal changes to allow for the DLL.</li>
+
+<li>
+Minor bug fixed: A totally harmless additional byte seems to have been
+appended to most MP3 files in all previous versions, probably inherited
+from the original ISO source.</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>
+<center>0.72</center>
+</td>
+
+<td ALIGN=CENTER>980920</td>
+
+<td>
+<ul>
+<li>
+Speed increased with 14%.</li>
+
+<li>
+URL to homepage in program changed to http://bladeenc.home.ml.org</li>
+
+<li>
+Two minor (and then I really mean minor) bugs removed</li>
+
+<li>
+All Asserts commented out so we no longer get any "assertion failure" errors
+on certain ports when encoding certain samples.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=TOP>0.70</td>
+
+<td ALIGN=CENTER VALIGN=TOP>980830</td>
+
+<td>
+<ul>
+<li>
+Speed increased with 40%.</li>
+
+<li>
+Major internal changes to make it even easier to port BladeEnc to other
+systems.</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td VALIGN=TOP>
+<center>0.63</center>
+</td>
+
+<td>
+<center>980802</center>
+</td>
+
+<td>
+<ul>
+<li>
+The -PRIO switch now works as it was supposed to.</li>
+
+<li>
+The MP3 is now saved under the specified name and path when running in
+L3Enc emulation mode.</li>
+
+<li>
+The error message "ERROR: Sample '[sample]' is not in 32, 44.1 or 48 kHz!"
+is now displayed with the correct sample name instead of some garbage.</li>
+
+<li>
+Improved wildcard support. BladeEnc no longer believes it shall encode
+a folder ending with ".WAV" when entering "*.WAV".</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td>
+<center>0.60</center>
+</td>
+
+<td>
+<center>980706</center>
+</td>
+
+<td>
+<ul>
+<li>
+Speed increased with more than 60% !</li>
+
+<li>
+-PRIO switch added to the commandline switches, so you easily can select
+any task priority you want for BladeEnc.</li>
+
+<li>
+Priority is now by default set to LOWEST so that BladeEnc doesn't affect
+the performance of other simultaneously running programs more than necessary.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=TOP>
+<center>0.54</center>
+</td>
+
+<td ALIGN=CENTER VALIGN=TOP>
+<center>980623</center>
+</td>
+
+<td>
+<ul>
+<li>
+AIFF-support added.</li>
+
+<li>
+Bug that prevented files bigger than 256 MB to be encoded removed.</li>
+
+<li>
+Some internal changes to make BladeEnc easier to compile for other operating
+systems than Windows.</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>0.51</td>
+
+<td ALIGN=CENTER>980614</td>
+
+<td>
+<ul>
+<li>
+Removed bug in v0.50 that could make BladeEnc crash if you entered the
+name of a WAV that didn't exist.</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td>
+<center>0.50</center>
+</td>
+
+<td>
+<center>980613</center>
+</td>
+
+<td>
+<ul>
+<li>
+L3Enc Emulation mode added! Now you can use L3Enc frontends with BladeEnc!</li>
+
+<li>
+The MP3's original-flag is now set by default. -COPY switch added in case
+someone wants to clear the original-flag.</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td ALIGN=CENTER VALIGN=TOP>0.42</td>
+
+<td ALIGN=CENTER VALIGN=TOP>980606</td>
+
+<td>
+<ul>
+<li>
+Fixed serious bug that affected the sound quality of the output.</li>
+
+<li>
+Speed increased by 18 %.</li>
+
+<li>
+-QUIT switch added.</li>
+</ul>
+</td>
+</tr>
+
+<tr VALIGN=TOP>
+<td ALIGN=CENTER>0.40</td>
+
+<td ALIGN=CENTER>980531</td>
+
+<td>First released version.</td>
+</tr>
+</table></center>
+
+<hr WIDTH="100%">
+</body>
+</html>

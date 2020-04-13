@@ -1,0 +1,129 @@
+Dear Mr.Christophe Thibault
+
+On receiving your reply we felt grateful for the understanding shown 
+by you, but we have been disappointed in your subsequent actions.
+I have laid out below Yamaha's thinking on this issue; I hope that you 
+will tackle on the problem immediately and do all you can to ensure that 
+VQF is diffused in its proper form.
+
+SoundVQ was developed on the basis of NTT's Twin VQ technology, with an 
+immense investment by Yamaha.
+At the present time Yamaha has no intention of releasing the program source.
+We hope that you will understand the import of this mail and put the 
+following measures into effect voluntarily.
+
+*Cessation of the distribution of all related software,and the destruction 
+ of all data.
+*Announcement on your home page of the reasons for the cessation of
+ distribution.
+*Cessation hereafter of all software development which appropriates program
+ sources to which Yamaha holds the rights and titles.
+
+
+Reasons
+1.<Distribution of Kjofol 0.401 packaged with decode32.dll on www.vqf.com>
+<Kjofol 0.401> is inappropriate software completely identical to the content 
+of kjofol_032.zip, as already pointed out by Yamaha.
+This software does not reflect at all any of the points addressed by Yamaha,
+and we cannot help but doubt that your reply is an indication of your true 
+intentions.
+It is not that Yamaha is making a problem out of kjofol_032.zip alone.
+
+2.<winamp plugin for VQF> and <Distribution of K-jofol v0.401 on www.vqf.de>
+These items of software cannot be used without violating content banned by
+Yamaha.
+We have actually been receiving inquiries from your users, asking "whether 
+the execution in the Readme file attached to this software is not right ?".
+
+
+We at Yamaha do not wish to think that it is your intention that VQF be 
+diffused in this kind of inappropriate form.
+
+Sincerely yours,
+
+Yamaha Corporation
+XG Division
+Genichi Ito
+
+************************************************************************
+
+At 23:41 98/10/07 +0200, you wrote:
+> > Today, we Yamaha Corporation would like to give warning against your
+> > illegal use of YAMAHA SoundVQ Encoder/Player beta version that YAMAHA
+> > developed and is now distributing on the YAMAHA Web site.
+> > 
+> > 1. Breach of License Agreement
+> > You are distributing kjofol player(kjofol_032.zip) on your Web site.
+> > Your kjofol player(kjofol_032.zip) includes a program decode32.dll(YAMAHA
+> > SoundVQ Decoder DLL Ver2.00b1) that was developed by Yamaha Corporation.
+> > Yamaha Corporation does not grant you any right and license to copy,
+> > use and to distribute the decode32.dll(YAMAHA SoundVQ Decoder DLL
+Ver2.00b1).
+> > You should have agreed with our License Agreement (described on "YAMAHA
+> > SoundVQ Encoder/Player beta version License Agreement and "License.txt" )
+> > when you downloaded  and installed our SoundVQ Encoder/Player beta
+version.
+> > So, you have breached the Section 2 and Section 6 of the said Agreement.
+> > (See.  extracts below )
+> >  ----------------------------------------------------------------
+> > "2.YAMAHA grants to you a non-exclusive, non-sublicensable, license
+> >     to use this Beta version of the Software, in binary executable form
+> >     for evaluation and trial use purposes only.
+> > 
+> >  6.Title, ownership rights, and intellectual property rights in and
+> >    to the Software shall remain in YAMAHA. You agree to abide by the
+> >    copyright law and all other applicable laws of Japan including,but
+> >    not limited to, export control laws. You acknowledge that the Software
+> >    in source code form remains a confidential trade secret of YAMAHA and
+> >    therefore you agree not to modify the Software or attempt to decipher,
+> >    decompile, disassemble or reverse engineer the Software, except to
+> >    the extent applicable laws specifically prohibit such restriction."
+> >  ----------------------------------------------------------------
+> > We have the right to terminate the said Agreement.
+> > 
+> > 2.  Infringement of YAMAHA's  proprietary rights
+> > You use the decode32.dll in your kjofol player(kjofol_032.zip).
+> > This means that you apparently do infringe YAMAHA's copyright.
+> > You have no right, now and in future, to copy, use and distribute the
+> > YAMAHA's computer program without YAMAHA's license or permission.
+> > 
+> > 3.  We request you that you should do the following act.
+> > To stop immediately distribution of kjofol player(kjofol_032.zip) and
+> > to destroy data of kjofol player(kjofol_032.zip).
+> > 
+> > Sincerely yours,
+> > 
+> > Yamaha Corporation
+> > XG Division
+> > Genichi ITO
+> 
+> Dear sirs,
+> 
+> I've removed the kjofol_032.zip package from my site and will ask that
+> the persons that distribute it stops. 
+> 
+> I'm sincerely sorry about these infringments of your copyrights. 
+> 
+> But anyway, i just want to explain you some things: Kjofol is a player
+> distributed for free and i was never making any money from it. I've used
+> your DLL because this is the only one I found and i thought that the VQF
+> format was leaking of a good player and so started mine. In the last
+> times, the K-Jofol player contributed to the large deployment of this
+> format, so I don't really see your point of view of asking kjofol to
+> don't use the decode32.dll, because it don't makes any bad things to
+> Yamaha. Tell me if there is no way so I could use the decode32.dll in my
+> program but not distribute it/or include a link into kjofol to the
+> yamaha's 
+> player package instead.
+> 
+> Anyway, you asked me to remove it, so that's what I've just done.
+> 
+> I'm waiting for your answer.
+> 
+> Sincerely yours,
+> -- 
+> Christophe Thibault a.k.a rOn/aEGiS (ron@aegis-corp.org)
+> 
+> 
+
+
