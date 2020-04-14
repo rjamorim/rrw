@@ -108,7 +108,7 @@
         
         But enough nostalgia! Only many years later I figured out that MP3
         Compressor is not really an encoder, but a frontend to the <a 
-        href=mp3enc.php>FhG Professional</a> ACM codec, which is illegally 
+        href=mp3enc.php>FhG Advanced</a> ACM codec, which is illegally 
         distributed with the installation.<br><br>
         
         The interface is quite minimal, you can select the tracks from the input
