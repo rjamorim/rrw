@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,18 +100,20 @@
         encoding.<br><br>
         
         The format using the TwinVQ technology is called VQF. There are several 
-        limitations in this format: 2 channels at most, no VBR, very slow encoding, 
-        little support, no public specifications or open source implementation. It 
-        can pretty safely be considered dead these days.<br><br>
+        limitations in this format: 2 channels at most, no VBR, limited bitrate 
+        choice (only 80 and 96kbps for 44.1kHz stereo tracks), very slow encoding,
+        little support, no public specifications or open source implementation.<br><br>
+        
+        Despite these limitations, Yamaha bought the technology from NTT and launched
+        the <a href=soundvq.php>SoundVQ</a> suite. But it did not work out and VQF 
+        can safely be considered dead these days.<br><br>
         
         TwinVQ, on the other hand, is still alive as part of the MPEG4 audio standard,
         being used for very small bitrates (8-16kbps).<br><br>
         
-        A mirror of the NTT TwinVQ page is available <a 
+        A mirror of the NTT TwinVQ page is available at the <a 
         href="https://web.archive.org/web/20041012071040/http://www.twinvq.org/english/index_en.html" 
-        target=outside>here</a>.<br><br>
-        <a href="screens/nttvqf-enc.png" target=outside><img src="screens/nttvqf-enc.png" 
-        alt="TwinVQ Encoder" align=right height=238></a>
+        target=outside>Internet Archive</a>.<br><br>
         
         I am also mirroring Thor's <a href="mirrors/vqf/index.html">page</a> from 
         dalnetvqf, featuring VQF plugins for Winamp. Thanks to Thor for providing 
@@ -118,6 +121,8 @@
         
         <br>
         <br>
+        <a href="screens/nttvqf-enc.png" target=outside><img src="screens/nttvqf-enc.png" 
+        alt="TwinVQ Encoder" align=right height=238></a>
         Date: 1998-03-11<br>
         Version: 2.1.1 (encoder)<br>
         Interface: Graphical<br>
