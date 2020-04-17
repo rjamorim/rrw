@@ -117,13 +117,13 @@
         Version: 2.7.3<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic PPC<br>
-        Download: <a href="files/players/SoundAppPPC273.sit.bin">SoundAppPPC273.sit.bin</a> - 594kB<br>
+        Download: <a href="files/macos/SoundAppPPC273.sit.bin">SoundAppPPC273.sit.bin</a> - 594kB<br>
         <br>
         Date: 2000-11-13<br>
         Version: 2.7.3<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic 68K<br>
-        Download: <a href="files/players/SoundApp68K273.sit.bin">SoundApp68K273.sit.bin</a> - 585kB<br>
+        Download: <a href="files/macos/SoundApp68K273.sit.bin">SoundApp68K273.sit.bin</a> - 585kB<br>
         <br>
         <a href="screens/soundapp151.png" target=outside><img src="screens/soundapp151.png" 
         alt="SoundApp 1.51" align=right></a>
@@ -131,19 +131,19 @@
         Version: 2.5<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (fat binary)<br>
-        Download: <a href="files/players/SoundApp_Fat25.sit.bin">SoundApp_Fat25.sit.bin</a> - 877kB<br>
+        Download: <a href="files/macos/SoundApp_Fat25.sit.bin">SoundApp_Fat25.sit.bin</a> - 877kB<br>
         <br>
         Date: 1997-12-15<br>
         Version: 2.4.3<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (fat binary)<br>
-        Download: <a href="files/players/SoundApp_Fat243.sit.hqx">SoundApp_Fat243.sit.hqx</a> - 1106kB<br>
+        Download: <a href="files/macos/SoundApp_Fat243.sit.hqx">SoundApp_Fat243.sit.hqx</a> - 1106kB<br>
         <br>
         Date: 1995-04-02<br>
         Version: 1.5.1<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic 68K<br>
-        Download: <a href="files/players/SoundApp_1.5.1.sea.hqx">SoundApp_1.5.1.sea.hqx</a> - 212kB<br>
+        Download: <a href="files/macos/SoundApp_1.5.1.sea.hqx">SoundApp_1.5.1.sea.hqx</a> - 212kB<br>
 
         </blockquote></font>
 
