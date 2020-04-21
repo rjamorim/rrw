@@ -102,18 +102,19 @@
         The codec's official name is "RaveSound", according to <a
         href="mirrors/qdesign/01_06_98.htm" target=outside>this</a> press release, 
         but is commonly called QDesign Codec. It is one of the most agressive encoders 
-        known - meaning it compresses quite well at very low bitrates, but its 
-        aggressiveness introduces too many artifacts at higher bitrates.<br><br>
+        known - meaning it compresses quite well at very low bitrates, but its
+        intense processing of the audio signal introduces too many artifacts at 
+        higher bitrates.<br><br>
         
         The personal version comes with QuickTime Pro and allows encoding at bitrates 
         up to 48kbps. The professional version allows bitrates up to 128kbps and fine
         tuning some encoding parameters.<br><br>
         
-        Hosted here are professional plugins for QuickTime Pro with serial number
-        and MVP - QDesign's attempt to enter the audio library manager market - 
-        that has unlimited encoding of QDMC up to 128kbps. It can also encode MP3
-        but the encoder quality is terrible. All of these are available for both 
-        Windows and Mac OS Classic.<br><br>
+        Hosted here are professional plugins for QuickTime Pro and MVP - QDesign's 
+        attempt to enter the audio library manager market - that has unlimited 
+        encoding of QDMC up to 128kbps. It can also encode MP3 but the encoder 
+        quality is terrible. All of these are available for both Windows and Mac 
+        OS Classic.<br><br>
         
         I am also hosting here an analysis document created by Benjamin Larsson, 
         describing the first steps in reverse engineering the codec.<br><br>
