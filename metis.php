@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -98,12 +99,12 @@
         target=outside>AudioNetworks</a> to showcase their DASE technology, meant 
         to improve sound quality of files that passed through compression.<br><br>
         
-        If this technology provides any actual improvements to MP3 files' sound
-        quality, that remains to be seen (the player itself uses the XAudio 
-        playback engine).<br><br>
+        It remains to be seen if this technology provides any actual improvements 
+        to MP3 files' sound quality (the player itself uses the XAudio playback 
+        engine).<br><br>
         
         The player sports a quite minimalistic and ugly interface. Nothing is
-        configurable other than appearance. At least playlists are supported...
+        configurable other than appearance. At least it features playlists...
         <br><br>
         
         As far as I know, only version 1.0 was released and the player never saw
