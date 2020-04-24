@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -55,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,10 +93,12 @@
           <br><div align="justify"><b>NAD audio player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
+        <a href="screens/nad.png" target=outside><img src="screens/nad.png" 
+        alt="Nac 0.93" align=right></a>
         Yet another MP3 player. NAD had the usual features: playlists, equalizer, 
         tag editor (only in v1.0), a fancy interface.<br><br>
         
-        If you are looking for screenshots of NAD, look at <a 
+        If you are looking for multiple screenshots of NAD, look at <a 
         href="http://www.glop.org/nad/" target=outside>The Museum of NAD</a>.<br><br>
         
         All files here (except NAD 1.0) were kindly contributed by Mitiok. Big 
@@ -206,8 +209,6 @@
         <br>
         Date: 1997-09-05<br>
         Version: 0.1<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
         Download: <a href="files/nad/nad01.zip">nad01.zip</a> - 167kB<br>
 
         </blockquote></font>
