@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,13 +93,14 @@
           <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Split2000 is an obscure lossless compressor for Linux. It seems it was never ported
-        to other operating systems. Actually, neither the sources not the precompiled binary
-        available here seem to work, at least on recent Linux versions. So, unless someone
-        takes the time to modernize it, this codec can be considered completely dead.<br><br>
+        Split2000 is an obscure lossless compressor for Linux. As far as I can 
+        tell it was never ported to other operating systems. Actually, neither 
+        the sources not the precompiled binary available here seem to work, at 
+        least on recent Linux versions. So, unless someone takes the time to 
+        update the code, this codec can be considered completely dead.<br><br>
         
-        The encoder web page is gone, so I'm mirroring it <a href="mirrors/split2000/split2000.html">
-        here</a>.<br>
+        The encoder web page is gone, so I'm mirroring it <a 
+        href="mirrors/split2000/split2000.html">here</a>.<br>
         
         <br>
         <br>
@@ -109,13 +111,14 @@
         Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
         Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
         - 110kB<br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        codec.</i> <br>
+        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
+        submitting this codec.</i><br>
+        
         <br>        
         <b>Update:</b> <br>
-        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent linux versions.
-        He was kind enough to provide diff files and precompiled binaries that were compiled
-        on Debian/unstable.<br>
+        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent 
+        linux versions. He was kind enough to provide diff files and binaries 
+        that were compiled on Debian/unstable.<br>
         Very big thanks!<br>
         Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
 
