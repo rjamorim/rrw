@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -94,18 +95,34 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/musearc.png" target=outside><img src="screens/musearc.png" 
         alt="Musearc" align=right height=247></a>
-        Musearc was yet another MPEG Audio (layers 2 and 3) player. It was a quite featureful 
-        one, supporting playlists and displaying detailed information about the stream
-        being played.<br><br>
+        Musearc was one of the earliest MPEG Audio (layers 2 and 3) players. Its
+        only remarkable features were playlist support and displaying detailed 
+        information about the tracks being played. Besides, it can play tracks 
+        directly from the Internet through HTTP streaming.<br><br>
         
-        It does not support tags. Interestingly, it can read ancillary data about the tracks
-        stored in 4DOS/4NT descript.ion files.<br><br>
+        Tags are not supported. Interestingly, it can read ancillary data about 
+        the tracks stored in 4DOS/4NT descript.ion files.<br><br>
         
-        It did not meet success, probably because it was a quite expensive player (registration
-        cost 30 dollars) competing against alternatives that were free, more featureful and 
-        prettier.<br>
+        It did not meet much success, probably because it was a quite expensive 
+        player (registration cost 30 dollars) competing against alternatives that 
+        were free, featureful and prettier. Then again, considering its age 
+        (appearing before even <a href=dosamp.php>DOSamp</a>) and with competition 
+        only from <a href=winplay3.php>WinPlay3</a> - which was not freeware at 
+        the time either -, that could explain the price tag and lack of 
+        features.<br><br>
+        
+        Development stopped in early 2000. A mirror of the web page can be seen 
+        at the <a 
+        href="https://web.archive.org/web/19990427180814/http://www.codearts.com/products/musearc.htm" 
+        target=outside>Internet Archive</a>.<br>
         
         <br>
+        <br>
+        Date: 2000-02-02<br>
+        Version: 4.9.99.3 beta<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/players/musearc499.zip">musearc499.zip</a> - 300kB<br>
         <br>
         Date: 1997-04-01<br>
         Version: 4.4.97.3 beta<br>

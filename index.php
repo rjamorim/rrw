@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1000 src="dot.gif">
+<img width=1 height=1300 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-04-12 <br><br>
+<br><br><br>Last update: 2020-04-25<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,27 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-04-25: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The quarantine update</b></font><p>
+                  Time for another update, to entertain the RRW fans during these
+                  hard quarantine days. This is what I got for you:
+                  
+                  <ul>
+                    <li>A whole new page dedicated to FhG codecs - for ACM and QT</li>
+                    <li>nyaochi's ACMENC ACM codec frontend</li>
+                    <li>Another version of Nero AAC Encoder, contributed by Michael Leimer</li>
+                    <li>Better text and another Musearc version for its page</li>
+                    <li>Super old Apollo 9, contributed by Daniel Kozar</li>
+                    <li>K-J&ouml;fol 0.5, also contributed by Daniel Kozar</li>
+                  </ul>
+                  
+                  I also updated several screenshots, trying to show how the programs 
+                  looked in real-world usage and not just "out of the box".
+            </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-04-12: </b></div><p>

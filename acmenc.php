@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - K-J&ouml;fol Audio Player</TITLE>
+<TITLE>ReallyRareWares - nyaochi's ACMENC</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,55 +90,33 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>K-J&ouml;fol Audio Player</b></div> <p></font>
+          <br><div align="justify"><b>nyaochi's ACMENC</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/k-jofol.png" target=outside><img src="screens/k-jofol.png" 
-        alt="K-Jofol 2000" align=right height=167></a>
-        K-J&ouml;fol was a pretty popular audio player in its heyday, around 
-        1999-2000.<br><br>
+        ACMENC is a command line frontend for ACM codecs created by the programmer
+        nyaochi.<br><br>
         
-        One reason it became so popular is that it was the first real player 
-        supporting VQF - the players offered by <a href="soundvq.php">Yamaha</a> 
-        and <a href="nttvqf.php">NTT</a> were not very useful, lacking a decent 
-        interface and basic features like playlists and equalizer.<br><br>
+        The main goal is to automate audio encoding using MP3 ACM codecs such as
+        <a href=fhgcodecs.php>Fraunhofer's</a>, but in theory it can work with any
+        format with an ACM codec, such as WMA, Vorbis, the countless ADPCM flavors 
+        and even <a href=alf2cd.php>alf2cd</a>.<br><br>
         
-        It was also the only player that supported the infamous <a 
-        href="astrid.php">Astrid AAC</a> codec through a plugin provided by the 
-        author. This time, it isn't encrypted with PElock - but with ASpack 
-        instead...<br><br>
-        
-        It was developed by Christophe Thibault up to version 0.51. He was 
-        working on version 2000 when he got hired to work for Nullsoft - makers 
-        of Winamp -, putting development permanently on hold.<br>
-        
+        There was no real web site for this tool, but this is the <a
+        href="https://hydrogenaud.io/index.php?topic=26956.msg239454#msg239454"
+        target=outside>forum post</a> where nyaochi announced ACMENC.<br>
+
         <br>
         <br>
-        Date: 2000-01-24<br>
-        Version: 2000beta2<br>
-        Interface: Graphical<br>
+        Date: 2004-12-24<br>
+        Version: 0.6<br>
+        Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/players/kjofol2000b2.exe">kjofol2000b2.exe</a> - 1.774kB<br>
+        Download: <a href="files/others/acmenc-0.6.zip">acmenc-0.6.zip</a> - 368 kB<br>
         <br>
-        Date: 1999-01-18<br>
-        Version: 0.51<br>
-        Interface: Graphical<br>
+        Date: 2004-09-05<br>
+        Version: 0.4<br>
+        Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/players/kjofol051.exe">kjofol051.exe</a> - 1.391kB<br>
-        <i>Kindly contributed by Mitiok</i><br>
-        <br>
-        Date: 1999-01-10<br>
-        Version: 0.5<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/players/kjofol05.exe">kjofol05.exe</a> - 1.472kB<br>
-        <i>Kindly contributed by Daniel Kozar</i><br>
-        <br>
-        Date: 1998-11-01<br>
-        Version: 0.42<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/players/kjofol042.exe">kjofol042.exe</a> - 763kB<br>
-        <i>Kindly contributed by Lars Viklund</i>
+        Download: <a href="files/others/acmenc-0.4.zip">acmenc-0.4.zip</a> - 430 kB<br>
 
         </blockquote></font>
 

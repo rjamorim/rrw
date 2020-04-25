@@ -96,9 +96,9 @@
         codebase of its sucessful predecessor, it offers higher quality and faster encoding.
         <br><br>
         
-        This encoder also existed as a famous, much pirated ACM (Audio Compression 
-        Manager) codec for the Windows platform, enabling MP3 encoding on most 
-        applications able to process WAV files.<br><br>
+        This encoder also existed as a famous, much pirated <a href=fhgcodecs.php>ACM 
+        codec</a> for the Windows platform, enabling MP3 encoding on most applications 
+        able to process WAV files.<br><br>
         
         Development stopped in late 1998 to favor development of a parallel branch FhG
         had been developing for some time, called <a href="fastencc.php">Fastenc</a>. While 

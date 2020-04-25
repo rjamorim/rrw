@@ -105,6 +105,7 @@
                 <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
+                <a href=fhgcodecs.php>FhG ACM and QT codecs</a><br>
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
                 <a href=fhgmp3hd.php>FhG mp3HD lossless encoder</a><br>
                 <a href=wingogo.php>Gogo-No-Coda MP3 encoder</a><br>
@@ -112,6 +113,7 @@
                 <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
                 <a href=mp3comp.php>MP3 Compressor</a><br>
                 <a href=mpegdj.php>MpegDJ encoder</a><br>
+                <!--<a href=n2mp3.php>MPecker/MPegger/N2MP3 encoders</a><br>-->
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
@@ -230,11 +232,13 @@
           <br><div align="justify"><b>Misc. rarities:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
+                <a href=acmenc.php>nyaochi's ACMENC</a><br>
                 <a href=audiocat.php>AudioCatalyst CD ripper</a><br>
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
                 <a href=encspot.php>EncSpot MP3 analyzer</a><br>
+                <!--<a href=mpegac.php>MPEG Audio Creator CD ripper</a><br>-->
             </blockquote>
 
         </blockquote></font>

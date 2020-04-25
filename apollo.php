@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=3000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,20 +94,25 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/apollo.png" target=outside><img src="screens/apollo.png" 
         alt="Apollo 37zz" align=right height=208></a>
-        With the slogan "Sound quality is not skinnable", Apollo is an audio player with 
-        strong focus on quality - its MP3 decoder is famously one of the most mathematically
-        accurate ones, if not the most accurate.<br><br>
+        With the slogan "Sound quality is not skinnable", Apollo is an audio player 
+        with strong focus on quality - its MP3 decoder is famously one of the most 
+        mathematically accurate ones, if not the most accurate.<br><br>
         
-        Like with <a href="foobar2000.php">Foobar2000</a>, this focus on quality above all
-        reflects on a spartan but fast and uncluttered interface. Also a much beloved 
-        feature of Apollo was its minibar mode, shown below.<br><br>
+        Like with <a href="foobar2000.php">Foobar2000</a>, this focus on quality 
+        above all reflects on a spartan but fast and uncluttered interface. Also 
+        a much beloved feature of Apollo was its minibar mode, shown below.<br><br>
+        
+        The functionalities are what one would expect from a well featured player: 
+        spectrum analyzers, visualizations, input plugins that add support to a
+        variety of formats, and the interface itself is a playlist. It can also
+        read ID3 tags, but can not edit them.<br><br>
         
         Apollo development ended in 2007 but the web page can still be reached at <a
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
-        target=outside>archive.org</a>.<br><br>
+        target=outside>Internet Archive</a>.<br><br>
         
-        If you have other versions of Apollo lying around, please contribute them to the 
-        collection!<br>
+        If you have other versions of Apollo lying around, please contribute them 
+        to the collection!<br>
 
         <br>
         <br>
@@ -214,6 +219,8 @@
         Version: 37z<br>
         Download: <a href="files/apollo/Apollo37z.exe">Apollo37z.exe</a> - 637kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <a href="screens/apollo9.png" target=outside><img src="screens/apollo9.png" 
+        alt="Apollo 9" align=right height=150></a>
         <br>
         Date: 2003-10-01<br>
         Version: 37y<br>
@@ -279,6 +286,11 @@
         Version: 37<br>
         Download: <a href="files/apollo/Apollo37.exe">Apollo37.exe</a> - 581kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
+        Date: 1998-09-02<br>
+        Version: 9<br>
+        Download: <a href="files/apollo/Apollo9.exe">Apollo9.exe</a> - 858kB<br>
+        <i>Kindly contributed by Daniel Kozar</i><br>
         <br>
         <hr>
         Apollo Plug-In Package<br>

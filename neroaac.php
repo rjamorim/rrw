@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -138,6 +138,13 @@
         Interface: Command line<br>
         Platform: Win32/Linux<br>
         Download: <a href="files/aac/NeroAACCodec-1.3.3.zip">NeroAACCodec-1.3.3.zip</a> - 1.775kB<br>
+        <br>
+        Date: 2007-08-06<br>
+        Version: 1.1.34.2<br>
+        Interface: Command line<br>
+        Platform: Win32/Linux<br>
+        Download: <a href="files/aac/NeroDigitalAudio-1.1.34.2 .zip">NeroDigitalAudio-1.1.34.2 .zip</a> - 2.605kB<br>
+        <i>Kindly contributed by Michael Leimer</i><br>
 
         </blockquote></font>
 
