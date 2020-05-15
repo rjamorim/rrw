@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,7 +95,9 @@
         <a href="screens/mpegplayer1.png" target=outside><img src="screens/mpegplayer1.png" 
         alt="Philips MPEG Audio Player" align=right height=140></a>
         This is a very minimalistic audio player created by Philips. It only plays back
-        MP2 (a standard mostly developed by Philips) and WAV. It does not play MP3.<br>
+        MP2 (a standard mostly developed by Philips) and WAV. It does not play MP3. Also,
+        no playlists, tagging, equalizer, etc. But quality is pretty good, since it was 
+        developed by the format creators.<br>
         
         <br>
         <br>
@@ -104,10 +107,10 @@
         Platform: Win32<br>
         Download: <a href="files/players/mpegplayer11.zip">mpegplayer11.zip</a> - 34kB<br>
         <br>
-        <a href="screens/mpegplayer2.png" target=outside><img src="screens/mpegplayer2.png" 
-        alt="Philips MPEG Audio Player" align=right height=219></a>
         Date: 1996-04-19<br>
         Version: 2.0 beta<br>
+        <a href="screens/mpegplayer2.png" target=outside><img src="screens/mpegplayer2.png" 
+        alt="Philips MPEG Audio Player" align=right height=219></a>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/mpegplayer2.zip">mpegplayer2.zip</a> - 34kB<br>
