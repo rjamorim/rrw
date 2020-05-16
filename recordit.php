@@ -93,23 +93,23 @@
           <br><div align="justify"><b> Iomega RecordIt </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/recordit-ply.png" target=outside><img src="screens/recordit-ply.png" 
-        alt="RecordIt - player interface" align=right height=107></a>
-        RecordIt is a recording app created by Iomega. Its main goal was to enable 
-        customers of their Zip drives to rip CDs and make the tracks fit inside one 
-        Zip disk (100MB).<br><br>
+        alt="RecordIt - player on Mac" align=right height=107></a>
+        RecordIt is a recording app for Windows and Mac OS Classic created by Iomega. 
+        Its main goal was enabling customers of their Zip drives to rip CDs and make 
+        the tracks fit inside one Zip disk (100MB).<br><br>
         
         That is achieved encoding the tracks to MP2 files. The compression technology
         was licensed from QDesign (of <a href="qdmc.php">QDMC</a> fame) and it is, 
         indeed, a quite decent MP2 encoder (unlike their MP3 encoder, which is just
         horrible).<br><br>
         
-        I could only get the program to install on Win9x - it will not work at all
-        on WinNT and variants. The interface is quite garish. In case you must know,
-        the stars for quality mean: 4 stars = 256kbps, 3 stars = 192kbps, 2 stars = 
-        112kbps, and 1 star = 24kbps/22kHz.<br><br>
+        I could only get the Windows version to install on Win9x - it will not work 
+        at all on WinNT and variants. The interface is quite garish. In case you must 
+        know, the stars for quality mean: 4 stars = 256kbps, 3 stars = 192kbps, 2 
+        stars = 112kbps, and 1 star = 24kbps/22kHz.<br><br>
         
         <a href="screens/recordit-enc.png" target=outside><img src="screens/recordit-enc.png" 
-        alt="RecordIt - encoder interface" align=right height=209></a>
+        alt="RecordIt - encoder on Windows" align=right height=209></a>
         It is worth mentioning the program is not really an encoder, but a recorder - 
         which means, it will not accept .wav files for input. It will only encode 
         from an audio CD, line-in, or a microphone.<br><br>
@@ -124,7 +124,13 @@
         Version: 1.1<br>
         Interface: Graphical<br>
         Platform: Win32 (Win9x only)<br>
-        Download: <a href="files/mpeg/RecordIt.zip">RecordIt.zip</a> - 2838kB<br>
+        Download: <a href="files/mpeg/RecordIt.zip">RecordIt.zip</a> - 2.838kB<br>
+        <br>
+        Date: 1998-07-01<br>
+        Version: 1.3<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/macos/RecordIt_Install_PPC.sit">RecordIt_Install_PPC.sit</a> - 1.659kB<br>
 
         </blockquote></font>
 

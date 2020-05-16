@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,17 +93,16 @@
           <br><div align="justify"><b>Emagic Zap</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/zap.png" target=outside><img src="screens/zap.png" 
-        alt="Zap demo. So ugly!" align=right height=146></a>
+        alt="Zap 1.5 demo. So ugly!" align=right height=146></a>
         Zap "Zero-loss Audio Packer" is a lossless compressor created by famous 
         German music software and hardware company Emagic, makers of the Logic 
         sequencer.<br><br>
         
-        The compressor is a demo version and is only available for the Mac OS 
-        platform, but there are freeware decompressors for Windows and Mac OS
-        - actually, adware because they continuously scroll adverts for Emagic 
-        products. To use the Windows decompressor (it should <i>really</i> be
-        drag-n-drop), you need to call it from the command line "unzapwin.exe 
-        file.zap".<br><br>
+        The compressor is only available for the Mac OS platform, but there are 
+        freeware decompressors for Windows and Mac OS - actually, adware because
+        they continuously scroll adverts for Emagic products. To use the Windows
+        decompressor (it should <i>really</i> be drag-n-drop), you need to call 
+        it from the command line "unzapwin.exe file.zap".<br><br>
         
         One interesting feature of Zap is that it can create self extracting 
         archives. Alas, that functionality is not available in the demo version 
@@ -118,10 +117,24 @@
         <br>
         <br>
         Date: 1999-06-03<br>
-        Version: 1.5<br>
+        Version: 1.5 (demo)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic<br>
         Download: <a href="files/lossless/zap15dem.sit">zap15dem.sit</a> - 717kB<br>
+        <br>
+        <a href="screens/zap114.png" target=outside><img src="screens/zap114.png" 
+        alt="Zap 1.1.4. Also ugly" align=right height=146></a>
+        Date: 1997-09-06<br>
+        Version: 1.1.4 (full)<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic<br>
+        Download: <a href="files/lossless/zap114.sit">zap114.sit</a> - 407kB<br>
+        <br>
+        Date: 1997-01-28<br>
+        Version: 1.1.2 (full)<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic<br>
+        Download: <a href="files/lossless/zap112.sit">zap112.sit</a> - 356kB<br>
         <br>
         Date: 1997-03-13<br>
         Version: 1.0.1<br>

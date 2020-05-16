@@ -54,7 +54,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2050><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=2100><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -113,7 +113,7 @@
                 <a href=mp2enc.php>CDex mp2enc MP2 encoder</a><br>
                 <a href=mp3comp.php>MP3 Compressor</a><br>
                 <a href=mpegdj.php>MpegDJ encoder</a><br>
-                <!--<a href=n2mp3.php>MPecker/MPegger/N2MP3 encoders</a><br>-->
+                <a href=n2mp3.php>MPecker/MPegger/N2MP3 encoders</a><br>
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
@@ -238,7 +238,7 @@
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
                 <a href=encspot.php>EncSpot MP3 analyzer</a><br>
-                <!--<a href=mpegac.php>MPEG Audio Creator CD ripper</a><br>-->
+                <a href=mpegac.php>MPEG Audio Creator CD ripper</a><br>
             </blockquote>
 
         </blockquote></font>

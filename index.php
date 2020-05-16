@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1300 src="dot.gif">
+<img width=1 height=1500 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-04-25<br><br>
+<br><br><br>Last update: 2020-05-16<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,25 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-05-16: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Special Mac OS Classic update</b></font><p>
+                  I came across an impressive cache of vintage Mac OS audio 
+                  software, so I decided to dedicate this update to the early 
+                  days of audio encoding on the Macintosh. Check these out:
+                  
+                  <ul>
+                    <li>MPecker/MPegger/N2MP3 encoders</li>
+                    <li>MPEGAudioCreator - the CD ripper that became AudioCatalyst</li>
+                    <li>AudioActive player</li>
+                    <li>Older versions of AudioCatalyst</li>
+                    <li>Iomega RecordIt</li>
+                    <li>Two full versions of Emagic Zap lossless compressor</li> 
+                  </ul>
+            </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-04-25: </b></div><p>
@@ -197,7 +216,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   I used extensively: MP3 Compressor.<br><br>
 
                   And the third page is for DropMP3. To the best of my knowledge,
-                  the only implementation of LAME in the Mac OS Classic.<br><br>
+                  the only free implementation of LAME in the Mac OS Classic.<br><br>
 
                   Talking about Mac OS Classic, I added several programs for this
                   platform: Mac versions of SoundVQ, QDesign encoder and SoundAPP.

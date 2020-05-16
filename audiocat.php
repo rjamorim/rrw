@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -105,13 +105,13 @@
         player</a>.<br><br>
         
         It is worth pointing out that the Mac version is not based on AudioGrabber, 
-        but on Oliver Dreer's MPEG Audio Creator - an old CD ripper for Mac OS Classic
-        that created MP2 files, but not MP3. Therefore, the feature set is different 
-        from the Windows version (for instance, the Mac version can record and
-        encode from line-in).<br><br>
+        but on Oliver Dreer's <a href=mpegac.php>MPEG Audio Creator</a> - an old CD 
+        ripper for Mac OS Classic that created MP2 files, but not MP3. Therefore, 
+        the feature set is different from the Windows version (for instance, the 
+        Mac version can record and encode from line-in).<br><br>
         
-        After Xing Technology got bought by Real Networks the product was discontinued. 
-        You can still check the AudioCatalyst web page at the <a
+        After Xing Technology got bought by Real Networks the product was 
+        discontinued. You can still check the AudioCatalyst web page at the <a
         href="https://web.archive.org/web/20000408132729/http://www.xingtech.com/mp3/audiocatalyst/"
         target=outside>Internet Archive</a>.<br>
 
@@ -123,19 +123,31 @@
         Platform: Win32<br>
         Download: <a href="files/xing/fo-acat21.exe">fo-acat21.exe</a> - 3.045kB<br>
         <br>
-        <a href="screens/audiocatalyst-mac.png" target=outside><img 
-        src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=120></a>
         Date: 2000-04-01<br>
         Version: 2.1 (updater)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/xing/audiocatalyst-updater.hqx">audiocatalyst-updater.hqx</a> - 747kB<br>
         <br>
+        <a href="screens/audiocatalyst-mac.png" target=outside><img 
+        src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=120></a>
         Date: 1999-07-07<br>
         Version: 2.0.1<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/xing/AudioCatalyst_MP3_Encoder.sit">AudioCatalyst_MP3_Encoder.sit</a> - 988kB<br>
+        <br>
+        Date: 1999-02-10<br>
+        Version: 1.0.1<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/xing/AudioCatalyst1.0.1.sit">AudioCatalyst1.0.1.sit</a> - 356kB<br>
+        <br>
+        Date: 1999-01-28<br>
+        Version: 1.0<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/xing/AudioCatalyst1.0.sit">AudioCatalyst1.0.sit</a> - 330kB<br>
 
         </blockquote></font>
 

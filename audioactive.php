@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,28 +94,29 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/aaps.png" target=outside><img src="screens/aaps.png" 
         alt="Audioactive Encoder" align=right height=180></a>
-        The Audioactive brand was created by audio hardware manufacturer Telos to market 
-        their products dealing with MP3 technology.<br><br>
+        The Audioactive brand was created by audio hardware manufacturer Telos 
+        to market their products dealing with MP3 technology.<br><br>
         
-        All products are based on encoders and decoders developed by Fraunhofer, so 
-        you know quality is going to be good. The encoder is based on <a 
+        All products are based on encoders and decoders developed by Fraunhofer, 
+        so you know quality is going to be good. The encoder is based on <a 
         href=mp3enc.php>FhG MP3enc</a>.<br><br>
         
-        The problem with Audioactive Production Studio is that quality comes at a price. 
-        A very hefty price. You see, it was offered in two versions: Lite, which allowed 
-        encoding at bitrates up to 56kbps and then, sitting alone in the mid-high 
-        bitrates, 128kbps. Also it did not allow the user to select the high quality 
-        encoding mode - only the fast mode is available. It cost US$34,95 plus shipping, 
-        which was a pretty big deal, specially way back in the late nineties.<br><br>
+        The problem with Audioactive Production Studio is that quality comes at 
+        a price. A very hefty price. You see, it was offered in two versions: 
+        Lite, which allowed encoding at bitrates up to 56kbps and then, sitting 
+        alone in the mid-high bitrates, 128kbps. Also it did not allow the user 
+        to select the high quality encoding mode - only fast mode is available. 
+        It cost US$34,95 plus shipping, which was a pretty big deal, specially 
+        way back in the late nineties.<br><br>
         
-        And then there was the pro version, wich allowed bitrates all the way up to 
-        256kbps (but not 320 and 224, for some reason) and the high quality encoding
-        mode (which is very slow), but it cost a whopping 149,95 dollars plus 
-        shipping!<br><br>
+        And then there was the pro version, wich allowed bitrates all the way up 
+        to 256kbps (but not 320 and 224, for some reason) and the high quality 
+        encoding mode (which is very slow), but it cost a whopping 149,95 dollars
+        plus shipping!<br><br>
 
-        Telos stopped marketing their Audioactive products, but you can still peek 
-        at a mirror of the original web site at the Internet Archive, <a
-        href="https://web.archive.org/web/20020331053439/http://www.audioactive.com:80/"
+        Telos stopped marketing their Audioactive products, but you can still 
+        peek at a mirror of the original web site at the Internet Archive, <a
+        href="https://web.archive.org/web/20020331053439/http://www.audioactive.com/"
         target=outside>here</a>.<br>
 
         <br>
@@ -135,16 +136,22 @@
         
         <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
         alt="Audioactive Player" align=right></a>
-        Audioactive also created a freeware MP3 player. It has a playlist editor and
-        not much more than that - not even an equalizer or tag editor - but decoding 
-        quality is very good since it uses the FhG decoder.<br>
+        Audioactive also created a freeware MP3 player. It has a playlist editor, 
+        a tag editor and not much more than that - not even an equalizer - but 
+        decoding quality is very good since it uses the FhG decoder.<br>
         
         <br>   
         Date: 2000-07-07<br>
-        Version: 2.06c (player)<br>
+        Version: 2.06c<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/aaplay206c.exe">aaplay206c.exe</a> - 1.485kB<br>
+        <br>   
+        Date: 1997-02-24<br>
+        Version: 1.2d1<br>
+        Interface: Graphical<br>
+        Platform: Mac OS Classic (PPC)<br>
+        Download: <a href="files/macos/AudioActive1.2a.sit">AudioActive1.2a.sit</a> - 642kB<br>
 
         </blockquote></font>
 
