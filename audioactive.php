@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -132,13 +132,19 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/aaps105e.exe">aaps105e.exe</a> - 1.865kB<br>
-        <br><br>
+        <br>
         
+        <hr>
         <a href="screens/aaplayer.png" target=outside><img src="screens/aaplayer.png" 
         alt="Audioactive Player" align=right></a>
         Audioactive also created a freeware MP3 player. It has a playlist editor, 
         a tag editor and not much more than that - not even an equalizer - but 
-        decoding quality is very good since it uses the FhG decoder.<br>
+        decoding quality is very good since it uses the FhG decoder.<br><br>
+        
+        The Mac player is just a clone of the FhG <a href=macplay3.php>MacPlay3</a>
+        down to the same preferences screen. But it refused to play every single
+        MP3 file I threw at it claiming they were "copyright protected". MacPlay3
+        played them without issues, so I suggest you use that player instead.<br>
         
         <br>   
         Date: 2000-07-07<br>
