@@ -143,7 +143,9 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>Special Mac OS Classic update</b></font><p>
-                  I came across an impressive cache of vintage Mac OS audio 
+                  I came across an <a 
+                  href="https://macintoshgarden.org/apps/ppc-audio-software-os7-osx58-some-68k-apps"
+                  target=outside>impressive cache</a> of vintage Mac OS audio 
                   software, so I decided to dedicate this update to the early 
                   days of audio encoding on the Macintosh. Check these out:
                   
