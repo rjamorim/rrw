@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=850><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,17 +93,21 @@
           <br><div align="justify"> <b>Blade MP3 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Blade was developed by Tord Jansson. It started as a compile of the dist10 
-        sources but soon Jansson started tweaking speed and quality, mostly at high 
-        bitrates (around 192 and 256kbps)<br><br>
+        Blade was an open source MP3 encoder developed by Tord Jansson. It started 
+        as a compile of the dist10 sources but soon Jansson started tweaking speed 
+        and quality, mostly at high bitrates (around 192 and 256kbps)<br><br>
+        
+        It never supported more advanced features - such as variable bitrates, 
+        tagging, and free format - that can be found in <a href=lame.php>LAME</a>.
+        <br><br>
         
         Development officially ceased on 2002-08-11, although by then an year had 
-        already passed since the last update. The developer recommended users switch 
-        to Ogg Vorbis.<br><br>
+        already passed since the last update. The developer recommended users 
+        switch to Ogg Vorbis.<br><br>
         
-        A mirror of the official page is available at <a 
-        href="https://web.archive.org/web/20060810025048/http://bladeenc.mp3.no:80/" 
-        target=outside>archive.org</a>. And you can check the entire changelog
+        A mirror of the official page is available at the <a 
+        href="https://web.archive.org/web/20030807182121/http://bladeenc.mp3.no/" 
+        target=outside>Internet Archive</a>. And you can check the entire changelog
         <a href="files/blade/blade-changelog.html" target=outside>here</a>.<br>
         
         <br>
