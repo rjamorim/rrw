@@ -160,7 +160,8 @@
         Version: 0.92.6 (GUI v1.4)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
-        Download: <a href="files/blade/blademac.sit">blademac.sit</a> - 529kB<br>
+        Download: <a href="files/blade/blademac14.sit">blademac14.sit</a> - 529kB<br>
+
 
         </blockquote></font>
 
