@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,24 +93,41 @@
           <br><div align="justify"> <b>Dakx Wav</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/daxwav.png" target=outside><img src="screens/daxwav.png" 
-        alt="Daxwav" align=right height=175></a>
+        alt="Daxwav" align=right height=200></a>
         Dakx started as a Mac OS Classic lossless audio compressor (Dakx Aif) 
-        that later got ported to Windows. Compression ratio is not good but it 
-        offers some interesting features, like the one that allows users to 
-        truncate the bit depth of a WAV file in real time, while it is being 
-        played.<br><br>
+        developed by David A. Kopf that later got ported to Windows.<br><br>
         
-        Try as I might, I could not get the Mac OS version to work.<br><br>
+        The Mac application is very strange. As soon as you load a WAV file (I 
+        could not get it to load an AIFF file) it starts being converted to DAX.
+        And as soon as you load a DAX file, the waveform is displayed and it 
+        starts being played - you can otherwise only start and stop playback at 
+        the "Display" (!?) menu.<br><br>
         
-        The Dakx LLC web site can still be visited at the Internet Archive, <a 
-        href="https://web.archive.org/web/20010204020400/http://www.dakx.com/" 
-        target=outside>here</a>.<br>
+        The Mac version offers a high quality equalizer. For some reason, the 
+        volume slider is also located in the equalizer (and since version 1.0
+        does not feature the equalizer, it does not have volume control either).
+        Other features are CD audio (no CDDB) and line-in import, and the ability
+        to change the color of most screen elements.<br><br>
+        
+        The Windows version, despite being much less featureful than the Mac 
+        one, has a highlight of its own: the "Q" slider allows users to truncate
+        the bit depth of the file being played in real time. Besides that, the 
+        "V" slider is the volume control, and the "M" slider is meant to adjust 
+        compression ratio vs. speed (but even the best compression mode does not
+        offer a decent ratio compared to other lossless compressors). And it too
+        features a baffling interface.<br><br>
+        
+        The Dakx LLC web site can still be visited at the <a target=outside
+        href="https://web.archive.org/web/20010204020400/http://www.dakx.com/">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
         Date: 1999-12-13<br>
         Version: 1.0<br>
         Interface: Graphical<br>
+        <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
+        alt="Daxaif" align=right height=165></a>
         Platform: Win32<br>
         Download: <a href="files/lossless/daxwav32.zip">daxwav32.zip</a> - 71kB<br>
         <br>
@@ -119,8 +137,6 @@
         Platform: Mac OS Classic (fat binary)<br>
         Download: <a href="files/lossless/daxaif1.1.sit">daxaif1.1.sit</a> - 141kB<br>
         <br>
-        <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
-        alt="Daxaif" align=right height=87></a>
         Date: 1999-02-23<br>
         Version: 1.0<br>
         Interface: Graphical<br>
