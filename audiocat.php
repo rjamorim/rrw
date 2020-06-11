@@ -127,7 +127,7 @@
         Version: 2.1 (updater)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
-        Download: <a href="files/xing/audiocatalyst-updater.hqx">audiocatalyst-updater.hqx</a> - 747kB<br>
+        Download: <a href="files/xing/AudioCatalysttm_2.1.0.sit">AudioCatalysttm_2.1.0.sit</a> - 268kB<br>
         <br>
         <a href="screens/audiocatalyst-mac.png" target=outside><img 
         src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=120></a>
