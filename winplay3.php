@@ -95,26 +95,29 @@
         <a href="screens/winplay3v23.png" target=outside><img src="screens/winplay3v23.png" 
         alt="WinPlay3 2.3" align=right></a>
         WinPlay3 was developed by the creators of the MP3 standard - the Fraunhofer 
-        Institute. It was the first real-time MP3 player.<br><br>
+        Institute. It was the first real-time MP3 player, before MP3 was, well, 
+        <b>MP3</b>.<br><br>
         
-        It had few features - no playlists, no equalizer, no tagging support - but did 
-        what it was meant to do. Among the options, you could define CPU class - 
-        pentium or 486 - and output frequency. While these configurations do not make 
-        much sense today, when it is hard to find computers with less than 1GHz of CPU 
-        clock, that was a very useful feature back in 1995 (when version 1.0 was released) 
-        since 486s were still common.<br><br>
+        It had few features - no playlists, no equalizer, no tagging support - 
+        but it did what it was meant to do. Among the options, you could define 
+        CPU class - pentium or 486 - and output frequency. While these 
+        configurations do not make much sense today, when it is hard to find 
+        computers with less than 1GHz of CPU clock, that was a very useful 
+        feature back in 1995 (when version 1.0 was released) since 486s were 
+        still common.<br><br>
         
-        The first versions (1.x series) were distributed as shareware and required a 
-        registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions were made freeware.<br><br>
+        The first versions (1.x series) were distributed as shareware and 
+        required a registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions 
+        were made freeware.<br><br>
         
-        There are versions available for Win16 (Windows 3.x) and Win32. Fraunhofer 
-        also released a Mac OS Classic version called <a href="macplay3.php">MacPlay3</a>.
-        <br><br>
+        There are versions available for Win16 (Windows 3.x) and Win32. 
+        Fraunhofer also released a Mac OS Classic version called <a 
+        href=macplay3.php>MacPlay3</a>.<br><br>
         
-        After version 2.3b5 FhG stopped developing WinPlay3. The web page can still 
-        be accessed at the Internet Archive, <a
-        href="https://web.archive.org/web/19970606171426/http://www.iis.fhg.de:80/departs/amm/layer3/winplay3/" 
-        target=outside>here</a>.<br>
+        After version 2.3b5 FhG stopped developing WinPlay3. The web page can 
+        still be accessed at the Internet Archive, <a target=outside
+        href="https://web.archive.org/web/19970606171426/http://www.iis.fhg.de:80/departs/amm/layer3/winplay3/">
+        here</a>.<br>
         
         <br>
         <br>
@@ -133,28 +136,28 @@
         Date: 1996-10-28<br>
         Version: 2.0<br>
         Interface: Graphical<br>
-        Platform: Win16/Win32<br>
-        Download: <a href="files/players/wp200.exe">wp200.exe</a> - 1.221kB<br>
+        Platform: Win16<br>
+        Download: <a href="files/players/wp200.zip">wp200.zip</a> - 1.214kB<br>
         <a href="screens/winplay3v1.png" target=outside><img src="screens/winplay3v1.png" 
         alt="WinPlay3 1" align=right></a>
         <br>
         Date: 1996-03-05<br>
         Version: 1.40<br>
         Interface: Graphical<br>
-        Platform: Win16/Win32<br>
-        Download: <a href="files/players/wpv140.exe">wpv140.exe</a> - 1.171kB<br>
+        Platform: Win16<br>
+        Download: <a href="files/players/wpv140.zip">wpv140.zip</a> - 1.167kB<br>
         <br>
         Date: 1995-12-22<br>
         Version: 1.30<br>
         Interface: Graphical<br>
-        Platform: Win16/Win32<br>
+        Platform: Win16<br>
         Download: <a href="files/players/wpv130.exe">wpv130.exe</a> - 202kB<br>
         <br>
         Date: 1995-09-07<br>
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/players/wpv10.exe">wpv10.exe</a> - 154kB<br>
+        Download: <a href="files/players/wpv10.zip">wpv10.zip</a> - 146kB<br>
 
 
         </blockquote></font>
