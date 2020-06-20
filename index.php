@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1500 src="dot.gif">
+<img width=1 height=1000 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-05-16<br><br>
+<br><br><br>Last update: 2020-06-19<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,7 +137,26 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
-        
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-06-19: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Just another update</b></font><p>
+                  An update with an assortment of new goodies, most of them 
+                  contributed by the lovely RRW visitors:
+
+                  <ul>
+                    <li>Shorten lossless compressor and mkwACT (thanks to Marco Pontello)</li>
+                    <li>MP3 Jukebox - a featureful player for Win3.1 (thanks to Arthurro Ludvicco)</li>
+                    <li>MixMP3 line-in recorder (thanks to Zachary Jelesoff)</li>
+                    <li>Real Jukebox Plus (thanks (?) to Richard Birch)</li>
+                    <li>More versions of Nero AAC Encoder (thanks to Martin Wagner)</li>
+                    <li>YAMP 3.2 (thanks to Daniel Kozar)</li>
+                    <li>Other versions of Blade for Mac OS Classic</li> 
+                  </ul>
+            </blockquote></font>
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-05-16: </b></div><p>
             </font>
@@ -158,7 +177,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Two full versions of Emagic Zap lossless compressor</li> 
                   </ul>
             </blockquote></font>
-        
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-04-25: </b></div><p>
             </font>
@@ -166,7 +185,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <font face="Tahoma" size=2 color="black"><b>The quarantine update</b></font><p>
                   Time for another update, to entertain the RRW fans during these
                   hard quarantine days. This is what I got for you:
-                  
+
                   <ul>
                     <li>A whole new page dedicated to FhG codecs - for ACM and QT</li>
                     <li>nyaochi's ACMENC ACM codec frontend</li>
@@ -175,11 +194,11 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>Super old Apollo 9, contributed by Daniel Kozar</li>
                     <li>K-J&ouml;fol 0.5, also contributed by Daniel Kozar</li>
                   </ul>
-                  
+
                   I also updated several screenshots, trying to show how the programs 
                   looked in real-world usage and not just "out of the box".
             </blockquote></font>
-        
+
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-04-12: </b></div><p>
             </font>
@@ -227,82 +246,9 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   an option in Mac OS!<br><br>
 
                   Finally, I added another version of LBpack and same for Blade. And
-                  Zachary sent and even older version of AT&amp;T a2b music player,
+                  Zachary sent an even older version of AT&amp;T a2b music player,
                   God only knows why...
             </blockquote></font>
-
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2020-02-08: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Nero AAC encoder and Apollo</b></font><p>
-                  After many years, I added a new page to the AAC section: Nero AAC
-                  Encoder and Decoder. Go check out its history and download the three
-                  versions I managed to find (if you have other versions, please <a
-                  href="about.php">send them in!</a>)<br><br>
-
-                  Also, I added a handful of Apollo versions to the respective page,
-                  courtesy of the always helpful Zachary Jelesoff.
-            </blockquote></font>
-
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2019-12-02: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>foobar2000 again!</b></font><p>
-                  Celebrating the recent major release 1.5 of foobar2000 I uploaded the
-                  official versions that were still missing, from the 1.2, 1.3 and 1.4
-                  series, as well as version 1.5 itself.<br><br>
-
-                  Next step: try to do the same to LAME, EAC and Apollo! Contributions
-                  of versions not yet available would be <a href="about.php">extremely
-                  welcome.</a>
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2019-11-04: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>foobar2000 and HTTPS</b></font><p>
-                  This time around I uploaded dozens and dozens of foobar2000 versions, from
-                  the 0.9, 1.0, 1.1, and part of 1.2 series.<br><br>
-
-                  Hopefully soon I'll find time to upload stuff that was released in the 1.3
-                  and 1.4 series, as well as the rest of 1.2 (but considering I took more than
-                  one year to come up with this update... ¯\_(ツ)_/¯ )<br><br>
-
-                  Additionally, ReallyRareWares pages are now securely served through SSL/TLS
-                  thanks to a brand new cryptographic certificate, courtesy of the fine people
-                  at <a href="https://letsencrypt.org/" target=outside>Let's Encrypt</a>. You
-                  can rest calm in the knowledge that your downloads are not being tampered by
-                  evil hackers while in transit to your computer.
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2018-07-06: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Site fixes and a few updates</b></font><p>
-                  This update focuses on fixing several parts of the website, namely:<br>
-                  <ul>
-                    <li>The screenshot thumbnails (they used to only get resized in
-                        Chrome, now they also work on Firefox, Edge, etc)</li>
-                    <li>Units are correctly named (kB instead of Kb)</li>
-                    <li>Consistency improvements all over the site</li>
-                    <li>Several small bugs and grammar errors</li>
-                  </ul>
-
-                  And these are the software updates:
-                  <ul>
-                    <li>Several versions of l3enc that were missing. Have fun if you are still using Irix!</li>
-                    <li>A few more recent versions of foobar2000 (thanks to mezenga)</li>
-                    <li>CoolEdit version 1.5.2</li>
-                    <li>An even older version of DOSamp - 0.4</li>
-                  <ul>
-             </blockquote></font>
-
 
             <br><br>
             <center>Please check older news <a href=oldnews.php>here</a>.</center>

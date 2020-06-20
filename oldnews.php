@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=5500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=6300><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,6 +90,75 @@
 
         </table>
         </a>
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-02-08: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Nero AAC encoder and Apollo</b></font><p>
+                  After many years, I added a new page to the AAC section: Nero AAC
+                  Encoder and Decoder. Go check out its history and download the three
+                  versions I managed to find (if you have other versions, please <a
+                  href="about.php">send them in!</a>)<br><br>
+
+                  Also, I added a handful of Apollo versions to the respective page,
+                  courtesy of the always helpful Zachary Jelesoff.
+            </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2019-12-02: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>foobar2000 again!</b></font><p>
+                  Celebrating the recent major release 1.5 of foobar2000 I uploaded the
+                  official versions that were still missing, from the 1.2, 1.3 and 1.4
+                  series, as well as version 1.5 itself.<br><br>
+
+                  Next step: try to do the same to LAME, EAC and Apollo! Contributions
+                  of versions not yet available would be <a href="about.php">extremely
+                  welcome.</a>
+            </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2019-11-04: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>foobar2000 and HTTPS</b></font><p>
+                  This time around I uploaded dozens and dozens of foobar2000 versions, from
+                  the 0.9, 1.0, 1.1, and part of 1.2 series.<br><br>
+
+                  Hopefully soon I'll find time to upload stuff that was released in the 1.3
+                  and 1.4 series, as well as the rest of 1.2 (but considering I took more than
+                  one year to come up with this update... ¯\_(ツ)_/¯ )<br><br>
+
+                  Additionally, ReallyRareWares pages are now securely served through SSL/TLS
+                  thanks to a brand new cryptographic certificate, courtesy of the fine people
+                  at <a href="https://letsencrypt.org/" target=outside>Let's Encrypt</a>. You
+                  can rest calm in the knowledge that your downloads are not being tampered by
+                  evil hackers while in transit to your computer.
+            </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2018-07-06: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Site fixes and a few updates</b></font><p>
+                  This update focuses on fixing several parts of the website, namely:<br>
+                  <ul>
+                    <li>The screenshot thumbnails (they used to only get resized in
+                        Chrome, now they also work on Firefox, Edge, etc)</li>
+                    <li>Units are correctly named (kB instead of Kb)</li>
+                    <li>Consistency improvements all over the site</li>
+                    <li>Several small bugs and grammar errors</li>
+                  </ul>
+
+                  And these are the software updates:
+                  <ul>
+                    <li>Several versions of l3enc that were missing. Have fun if you are still using Irix!</li>
+                    <li>A few more recent versions of foobar2000 (thanks to mezenga)</li>
+                    <li>CoolEdit version 1.5.2</li>
+                    <li>An even older version of DOSamp - 0.4</li>
+                  <ul>
+             </blockquote></font>
 
              <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2018-06-22: </b></div><p>

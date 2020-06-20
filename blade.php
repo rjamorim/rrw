@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=850><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -97,18 +97,21 @@
         as a compile of the dist10 sources but soon Jansson started tweaking speed 
         and quality, mostly at high bitrates (around 192 and 256kbps)<br><br>
         
-        It never supported more advanced features - such as variable bitrates, 
-        tagging, and free format - that can be found in <a href=lame.php>LAME</a>.
-        <br><br>
+        It never supported the more advanced features - such as variable bitrates, 
+        tagging, and free format - that can be found in <a href=lame.php>LAME</a>
+        and other encoders.<br><br>
         
         Development officially ceased on 2002-08-11, although by then an year had 
         already passed since the last update. The developer recommended users 
         switch to Ogg Vorbis.<br><br>
-        
-        A mirror of the official page is available at the <a 
-        href="https://web.archive.org/web/20030807182121/http://bladeenc.mp3.no/" 
-        target=outside>Internet Archive</a>. And you can check the entire changelog
-        <a href="files/blade/blade-changelog.html" target=outside>here</a>.<br>
+
+        A mirror of the official page is available at the <a target=outside
+        href="https://web.archive.org/web/20030807182121/http://bladeenc.mp3.no/">
+        Internet Archive</a>. You can check the entire changelog <a
+        href="files/blade/blade-changelog.html" target=outside>here</a>. And you
+        can also find pre-compiled versions of Blade for an insane amount of
+        platforms at the <a href="http://www2.arnes.si/~mmilut/BladeEnc.html"
+        target=outside>Binary Distribution Point</a>.<br>
         
         <br>
         <br>
@@ -126,8 +129,6 @@
         Version: 0.92.7<br>
         Download: <a href="files/blade/blade0927.zip">blade0927.zip</a> - 178kB<br>
         <br>
-        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
-        alt="BladeEnc for Mac" align=right height=244></a>
         Date: 1999-12-31<br>
         Version: 0.91<br>
         Download: <a href="files/blade/blade091.zip">blade091.zip</a> - 160kB<br>
@@ -149,6 +150,8 @@
         <br>
         Date: 1998-09-14<br>
         Version: 0.72<br>
+        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
+        alt="BladeEnc for Mac" align=right height=244></a>
         Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107kB<br>
         <br>
         Date: 1998-07-06<br>
@@ -156,12 +159,29 @@
         Download: <a href="files/blade/blade060.zip">blade060.zip</a> - 108kB<br>
         <br>
         <hr>
+        Petteri Kamppuri created a Mac OS Classic version of the encoder. Since
+        this operating system does not have a native command line interface, 
+        Petteri managed to place Blade's command line output inside a window of
+        its own. Input is done through the open dialog (File -> Open).<br><br>
+        
+        The web site can still be visited at the <a target=outside
+        href="https://web.archive.org/web/20010813045819/http://www.helsinki.fi/~pkamppur/bladeencmac.html">
+        Internet Archive</a>.<br>
+
+        <br>
         Date: 2001-01-22<br>
-        Version: 0.92.6 (GUI v1.4)<br>
+        Version: 1.4 (Blade 0.92.6)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/blade/blademac14.sit">blademac14.sit</a> - 529kB<br>
-
+        <br>
+        Date: 2000-10-25<br>
+        Version: 1.3 (Blade 0.92)<br>
+        Download: <a href="files/blade/blademac13.sit">blademac13.sit</a> - 596kB<br>
+        <br>
+        Date: 2000-04-07<br>
+        Version: 1.2 (Blade 0.92)<br>
+        Download: <a href="files/blade/blademac12.sit">blademac12.sit</a> - 587kB<br>
 
         </blockquote></font>
 

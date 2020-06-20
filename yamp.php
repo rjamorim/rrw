@@ -95,9 +95,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/yamp.png" target=outside><img src="screens/yamp.png" 
         alt="I TOLD YOU IT WAS HORRIBLE" align=right height=222></a>
-        Yet Another MP3 Player for Windows. It uses the Bugsy Wabbit MP3 decoder.
-        I think the only remarkable thing about this one is that all skins I 
-        tried are horrendous. Let's move on.<br>   
+        Yet Another MP3 Player for Windows by Andr&eacute; Karwath. It uses the 
+        Bugsy Wabbit MP3 decoder and offers the usual fare: playlists, tags (read 
+        only), supports a bunch of formats. I think the only remarkable thing 
+        about this one is that all skins I tried are horrid. Let's move on.<br>   
         
         <br>
         <br>
@@ -106,6 +107,13 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/players/yamp33.zip">yamp33.zip</a> - 2.122kB<br>
+        <br>
+        Date: 1998-07-09<br>
+        Version: 3.2<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/players/yamp32.exe">yamp32.exe</a> - 2.092kB<br>
+        <i>Kindly contributed by Daniel Kozar</i><br>
 
         </blockquote></font>
 

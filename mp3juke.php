@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - FhG IIS MacPlay3</TITLE>
+<TITLE>ReallyRareWares - MP3 Jukebox</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,45 +90,32 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>FhG IIS MacPlay3</b></div> <p> </font>
+          <br><div align="justify"><b> MP3 Jukebox </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/macplay3v14.png" target=outside><img src="screens/macplay3v14.png" 
-        alt="MacPlay3 v1.4" align=right></a>
-        MacPlay3 was Fraunhofer's port of the <a href="winplay3.php">WinPlay3</a> 
-        MP3 player for Mac OS Classic. It has the same (few) features of its Windows 
-        counterpart.<br><br>
+        <a href="screens/MP3jukebox.png" target=outside><img src="screens/MP3jukebox.png" 
+        alt="MP3 Jukebox" align=right height=300></a>
+        MP3 Jukebox is an impressively featureful MP3 player considering its age
+        and target audience: it is probably the most complete MP3 player for 
+        Windows 3.1!<br><br>
         
-        The alpha 0.99 version works on the M68K platform, but it is only useful 
-        for decoding, since the 68k CPU is not powerful enough to playback MP3 in 
-        real time. Besides, it is a demo version with no interface (all commands 
-        are done through the menu bar, similar to Winamp 0.2) and playback is 
-        limited to 20 seconds (decoding to AIFF is not limited).<br><br>
-        
-        Version 1.4b2 was the last version released by FhG and only works on 
-        PowerPC machines, but it has an actual interface and no limitations.<br><br>
-        
-        A mirror of the MacPlay3 website is available at the <a 
-        href="https://web.archive.org/web/19980204231239/http://iis.fhg.de:80/departs/amm/layer3/macplay3/index.html"
-        target=outside>Internet Archive</a>. <br><br>
-        
-        At least, version 0.99 had the very best installation blurb...<br>
-        
+        But I am getting ahead of myself. Actually, it is not really a player,
+        but a frontend to Fraunhofer's <a href=winplay3.php>WinPlay3</a>. So 
+        besides getting some very nice features such as ID3 tagging and a 
+        surprisingly complete playlists (here called "Collections") manager, 
+        your songs are decoded with one of the best MP3 decoders. I tested MP3 
+        Jukebox with versions 1.3 and 2.3b5 for Win16 and it worked without 
+        issues.<br><br> 
+          
+        <i>Big thanks to Arthurro Ludvicco for introducing me to MP3 Jukebox.
+        </i><br>
+
         <br>
         <br>
-        <a href="screens/macplay3v099-inst.png" target=outside><img src="screens/macplay3v099-inst.png" 
-        alt="MacPlay3 v0.99 installation" align=right height=180></a>
-        Date: 1997-05-27<br>
-        Version: 1.4b2<br>
+        Date: 1997-02-27<br>
+        Version: 2.3<br>
         Interface: Graphical<br>
-        Platform: Mac OS Classic PPC<br>
-        Download: <a href="files/macos/mpl3_14b2.hqx">mpl3_14b2.hqx</a> - 519kB<br>
-        <br>
-        Date: 1996-03-28<br>
-        Version: 0.99 alpha<br>
-        Interface: Graphical<br>
-        Platform: Mac OS Classic 68K<br>
-        Download: <a href="files/macos/MacPlay3_Installer.hqx">MacPlay3_Installer.hqx</a> - 168kB<br>
-        
+        Platform: Win16 (requires Win32s)<br>
+        Download: <a href="files/players/JUKBOX23.zip">JUKBOX23.zip</a> - 191kB<br>
 
         </blockquote></font>
 

@@ -52,7 +52,7 @@
     <tr><td></td></tr>
 
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=2100><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
@@ -165,6 +165,7 @@
                 <a href=pegasussps.php>Pegasus SPS</a><br>
                 <a href=rkau.php>RKau</a><br>
                 <a href=sonarc.php>Sonarc</a><br>
+                <a href=shorten.php>Shorten/mkwACT</a><br>
                 <a href=split2000.php>Split2000</a><br>
                 <a href=vocpack.php>VocPack</a><br>
                 <a href=wavarc.php>Wavarc</a><br>
@@ -213,6 +214,7 @@
                 <a href=k-jofol.php>K-J&ouml;fol player</a><br>
                 <a href=metis.php>M&eacute;tis MP3 player</a><br>
                 <a href=mhmp3.php>MicroHof MP3 Player</a><br>
+                <a href=mp3juke.php>MP3 Jukebox for Win3.1</a><br>
                 <a href=mp3toexe.php>MP3 to EXE</a><br>
                 <a href=mp3toexe2.php>MP3 to EXE (another one)</a><br>
                 <a href=musearc.php>Musearc player</a><br>
@@ -238,6 +240,7 @@
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
                 <a href=encspot.php>EncSpot MP3 analyzer</a><br>
+                <a href=mixmp3.php>MixMP3 line-in recorder</a><br>
                 <a href=mpegac.php>MPEG Audio Creator CD ripper</a><br>
             </blockquote>
 

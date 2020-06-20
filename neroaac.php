@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -143,8 +143,22 @@
         Version: 1.1.34.2<br>
         Interface: Command line<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/aac/NeroDigitalAudio-1.1.34.2 .zip">NeroDigitalAudio-1.1.34.2 .zip</a> - 2.605kB<br>
+        Download: <a href="files/aac/NeroDigitalAudio-1.1.34.2.zip">NeroDigitalAudio-1.1.34.2.zip</a> - 2.605kB<br>
         <i>Kindly contributed by Michael Leimer</i><br>
+        <br>
+        Date: 2007-02-13<br>
+        Version: 1.0.7.0<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/aac/NeroAACCodec-1.0.7.0.zip">NeroAACCodec-1.0.7.0.zip</a> - 1.046kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
+        <br>
+        Date: 2006-05-18<br>
+        Version: 1.0.0.2<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/aac/NeroAACCodec-1.0.0.2.zip">NeroAACCodec-1.0.0.2.zip</a> - 1.026kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
 
         </blockquote></font>
 

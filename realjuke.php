@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,8 +94,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/realjuke.png" target=outside><img src="screens/realjuke.png" 
         alt="Make it stop!" align=right height=330></a>
-        RealJukebox is an audio playback, management and CD ripping application created 
-        by RealNetworks in the late nineties.<br><br>
+        RealJukebox is an audio playback, management and CD ripping application 
+        created by RealNetworks in the late nineties.<br><br>
         
         Also, it is a complete piece of garbage.<br><br>
         
@@ -110,8 +110,8 @@
         Now, the encoder... RN had just purchased <a href="xing.php">Xing Tech</a>,
         so they had a pretty decent MP3 encoder in their hands. Unfortunately, they
         decided to cripple it to drive sales of the paid version, RealJukebox Plus
-        (US$ 29.99). Therefore, the MP3 encoder only works at 56, 64 and 96kbps. 
-        Other bitrates require Plus.<br><br>
+        (US$ 29.99, also available here). Therefore, the MP3 encoder only works at 
+        56, 64 and 96kbps. Other bitrates require Plus.<br><br>
         
         But do not despair, lad! You can rip "CD quality" files with RealJukebox,
         you only need to accept RN's useless RealAudio format for that. You can 
@@ -119,22 +119,31 @@
         anywhere besides RealJukebox itself.<br><br>
         
         Anyway, there is more to be said about the application. It is incredibly 
-        intrusive: it installs Real Player - without asking first - and plasters 
-        your desktop, start menu and even the IE favorites with offers for AOL and 
-        similar crap. It tries to steal your file associations and installs TWO 
-        resident programs in your system tray that exist only to keep the file 
-        associations stolen and send you notifications (I can only imagine how 
-        awesome these were) and steal system resources and make your life miserable.<br><br>
+        intrusive: the free version installs Real Player - without asking first - 
+        and plasters your desktop, start menu and even the Internet Explorer 
+        favorites with offers for AOL and similar crap. It tries to steal your 
+        file associations and installs TWO resident programs in your system tray 
+        that exist only to keep the file associations stolen and send you 
+        notifications (I can only imagine how awesome these were) and steal 
+        system resources and make your life miserable.<br><br>
         
-        Last, it would not be RN if they were not genuflexing to corporate interests.
-        RealJukebox offers (nah, insists) to "protect" (that is, encrypt) the songs it
-        rips from CDs so that you can not share them with your friends. When you try
-        to disable this great feature, an ominous sounding message pops up asking if 
-        you are really sure you want to be seen as a criminal.<br><br>
+        Last, it would not be RN if they were not kowtowing to corporate interests.
+        RealJukebox offers (nah, insists) to "protect" (that is, encrypt) the 
+        songs it rips from CDs so that you can not share them with your friends. 
+        When you try to disable this great feature, an ominous sounding message 
+        pops up asking if you are really sure you want to be seen as a criminal.
+        <br><br>
         
         Please do not install RealJukebox or any software from RealNetworks.<br>
 
         <br>
+        <br>
+        Date: 2000-11-09<br>
+        Version: 2 Plus<br>
+        Interface: Bloated<br>
+        Platform: Win32<br>
+        Download: <a href="files/players/realjukeboxplus_v2.zip">realjukeboxplus_v2.zip</a> - 3.896kB<br>
+        <i>Kindly contributed by Richard Birch</i><br>
         <br>
         Date: 2000-11-09<br>
         Version: 2<br>
