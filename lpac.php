@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -94,12 +94,13 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/lpac.png" target=outside><img src="screens/lpac.png" 
         alt="LPAC archiver" align=right height=255></a>
-        LTAC - Lossless Transform Audio Compression - was the first lossless codec developed
-        by Tilman Liebchen while studying at Technische Universit&auml;t Berlin.<br><br>
+        LTAC - Lossless Transform Audio Compression - was the first lossless codec 
+        developed by Tilman Liebchen while studying at Technische Universit&auml;t 
+        Berlin.<br><br>
         
-        The LTAC webpage is mirrored at the Internet Archive, <a
-        href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html"
-        target=outside>here</a>.<br>
+        The LTAC webpage is mirrored at the <a target=outside
+        href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -114,21 +115,21 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/lossless/ltac.zip">ltac.zip</a> - 42kB<br>
-        <br><br>
+        <br>
+        <hr>
+        After a while, the developer abandoned LTAC to focus on the development 
+        of LPAC - Lossless Predictive Audio Compression - based on linear 
+        prediction, increasing compression and making it faster compared to LTAC, 
+        which is based on transform coding.<br><br>
         
-        After a while, the developer abandoned LTAC to focus on the development of LPAC - 
-        Lossless Predictive Audio Compression - based on linear prediction, increasing 
-        compression and making it faster compared to LTAC, which is based on transform 
-        coding.<br><br>
+        Finally, LPAC was selected as the basis of the MPEG4 lossless audio 
+        standardization effort. After further improvements submitted by Real 
+        Networks and NTT, the format was standardized as MPEG4 ALS and at that 
+        time LPAC too was frozen, with no further development planned.<br><br>
         
-        Finally, LPAC was selected as the basis of the MPEG4 lossless audio standardization
-        effort. After further improvements submitted by Real Networks and NTT, the format 
-        was standardized as MPEG4 ALS and at that time LPAC too was frozen, with no further 
-        development planned.<br><br>
-        
-        The LPAC webpage is mirrored at the Internet Archive, available <a
-        href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html"
-        target=outside>here</a>.<br>        
+        The LPAC webpage is also mirrored at the <a target=outside
+        href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html">
+        Internet Archive</a>.<br>        
 
         <br>
         <br>
