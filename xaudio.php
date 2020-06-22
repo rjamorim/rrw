@@ -95,19 +95,22 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/xaudio.png" target=outside><img src="screens/xaudio.png" 
         alt="XAudio" align=right></a>
-        Who distributes audio players with time limit? The XAudio guys, that's who.<br><br>
+        Who distributes audio players with time limit? The XAudio guys, that's 
+        who.<br><br>
         
-        This player here will not work if your computer clock is set to after October 
-        1997. It works without issues if you set the date before that.<br><br>
+        This player here will not work if your computer clock is set to after 
+        October 1997. It works without issues if you set the date before that.
+        <br><br>
         
-        But trust me, you do not want to install this player. Interface sucks, bad 
-        VBR support, minimal features, and it has that extremely annoying behaviour 
-        of stealing the .mp3 extension whenever it is run.<br><br>
+        But trust me, you do not want to install this player. Interface is very 
+        poor, bad VBR support, minimal features, and it has that extremely annoying 
+        behaviour of stealing the .mp3 association whenever it is run.<br><br>
         
         At some point, XAudio was sold to InterTrust technologies. They gave up the 
         player market and decided to focus on licensing their MP3 decoding library 
-        to developers. The web page is available <a href="http://www.xaudio.com/" 
-        target=outside>here</a>.<br>      
+        to developers. A mirror of the web page is available at the <a target=outside
+        href="https://web.archive.org/web/20050208095339/http://www.xaudio.com/">
+        Internet Archive</a>.<br>      
         
         <br>
         <br>
