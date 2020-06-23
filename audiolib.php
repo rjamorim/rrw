@@ -107,8 +107,8 @@
         announced for the next version. The interface is so obtuse and unfriendly, 
         it can be considered spiteful.<br><br>
         
-        The program works for 20 days and then expires - unless you can find the
-        required patch to make it "registered"...<br><br>
+        The program works for 20 days and then expires - but you can use the 
+        included patch to make it "registered".<br><br>
 
         At some point CelestialTech became VedaLabs (check <a href="audioveda.php">
         AudioVeda</a>) and later disappeared, along with their web site - that can 
@@ -122,7 +122,7 @@
         Version: 1.0.005<br>
         Interface: Graphical<br>
         Platform: Win32<br>
-        Download: <a href="files/others/audiolib-1_0.exe">audiolib-1_0.exe</a> - 2.710kB<br>
+        Download: <a href="files/others/AudioLib-1.0.zip">AudioLib-1.0.zip</a> - 2.630kB<br>
 
         </blockquote></font>
 
