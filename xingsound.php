@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=650><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -122,8 +122,8 @@
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107kB<br>
-        <br><br>
-        
+        <br>
+        <hr>
         <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
         alt="XingMP3 Player" align=right></a>
         Years later, Xing created the XingMP3 player, a companion for their <a 
