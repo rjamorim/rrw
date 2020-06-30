@@ -94,7 +94,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/cooledit.png" target=outside><img src="screens/cooledit.png" 
-        alt="CoolEdit 1.3.1" align=right height=222></a>
+        alt="CoolEdit 1.5.3" align=right height=280></a>
         CoolEdit is an audio editor that has always enjoyed high popularity among 
         digital audio enthusiasts, thanks to its powerful features, easy to use 
         interface, and reasonable price. The versions featured here are among the 
