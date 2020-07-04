@@ -107,9 +107,8 @@
         The page about SPS at Pegasus is now gone (but still mirrored at the <a 
         href="https://web.archive.org/web/20000616134738/http://jpg.com/products/sound.html"
         target=outside>Internet Archive</a>) and it is not being marketed by them
-        anymore. But you can still find it and buy it at 
-        <a href="http://www.krishnasoft.com/sps.htm#SPSLink" target=outside>Krishna
-        Software</a>.<br>
+        anymore. But you can still find it - and buy it! - at <a target=outside
+        href="http://www.krishnasoft.com/sps.htm#SPSLink">Krishna Software</a>.<br>
         
         <br>
         <br>
@@ -117,7 +116,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 560kB<br>
+        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 495kB<br>
 
         </blockquote></font>
 
