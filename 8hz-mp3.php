@@ -114,8 +114,8 @@
         Download: <a href="files/mpeg/8hz-mp3_011b.zip">8hz-mp3_011b.zip</a> - 83kB<br>
         <br><br>
         
-        Version 0.2b is a further development by <a 
-        href="http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html" target=outside>
+        Version 0.2b is a further development by <a target=outside
+        href="https://web.archive.org/web/20050212164433/http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html">
         Jun Somekawa</a>.<br>
         
         <br>
