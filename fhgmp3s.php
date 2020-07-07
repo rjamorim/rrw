@@ -180,19 +180,19 @@
         alt="MP3SX Converter" align=right></a>
         Date: 2006-04-10<br>
         Version: 1.1.0<br>
-        Interface: Graphical<br>
+        Interface: Graphical/Command line<br>
         Platform: Win32<br>
         Download: <a href="files/fhg/MP3SXConverterv1.1.0.exe">MP3SXConverterv1.1.0.exe</a> - 2.103kB<br>
         <br>
         Date: 2006-04-28<br>
         Version: 1.1.0<br>
-        Interface: Graphical<br>
+        Interface: Graphical/Command line<br>
         Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3SXConverter1.1.0uni.dmg">MP3SXConverter1.1.0uni.dmg</a> - 6.101kB<br>
         <br>
         Date: 2006-04-13<br>
         Version: 1.1.0<br>
-        Interface: Graphical<br>
+        Interface: Graphical/Command line<br>
         Platform: Linux<br>
         Download: <a href="files/fhg/MP3SXConverterV1.1.0.tar">MP3SXConverterV1.1.0.tar</a> - 2.660kB<br>
         <br>
