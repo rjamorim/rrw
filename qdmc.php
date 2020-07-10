@@ -121,7 +121,8 @@
         
         Apple has steered away from proprietary codecs like Sorenson Video and 
         QDesign, and focused on standards (MPEG4). The QDesign codec lost relevance,
-        and the company was bought by DTS in 2004.<br><br>
+        and the company was bought by DTS in 2004. It formed the basis of DTS LBR 
+        (also known as DTS Express).<br><br>
         
         A mirror of the QDesign website can still be checked at <a 
         href="https://web.archive.org/web/20080514210739/http://www.qdesign.com/index.htm" 
