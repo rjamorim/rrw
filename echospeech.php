@@ -95,10 +95,10 @@
         EchoSpeech is an obsure voice compression codec. Very little is known about 
         the format. The default bitrate is 9600bps, at 11025Hz.<br><br>
         
-        The codec consists of a command line encoder and a decoder for DOS. The only
+        The codec consists of a command line encoder and decoder for DOS. The only
         way to play back the streams is by creating a web page (!) that loads the 
-        appropriate plugin (!!) on Netscape or a compatible browser (!!!). That
-        probably explains why the format never became popular.<br><br>
+        appropriate plugin (!!) on Netscape or another compatible browser (!!!). 
+        That probably explains why the format never became popular.<br><br>
         
         Despite these hurdles, I installed the plugin (on Netscape Communicator 4.51!)
         to try it out. The interface is so minimal, it is not even worth uploading a 
@@ -106,8 +106,9 @@
         of the Web&trade;". A left click with the mouse pauses/unpauses playback, a 
         right click goes to the EchoSpeech web site. And that's it.<br><br>
         
-        Surprisingly the web site is still active, <a href="http://www.echospeech.com/"
-        target=outside>here</a>.<br>
+        A mirror of the web site is available at the <a target=outside
+        href="https://web.archive.org/web/20040211062527/http://www.echospeech.com/">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
