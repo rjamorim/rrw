@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -98,9 +99,9 @@
         Its focus is in being fast (quoting the author: "an extra 10% compression 
         ratio just isn't worth a 20x wait").<br><br>
         
-        The original web page is mirrored <a 
-        href="https://web.archive.org/web/20050207063755/http://members.aol.com:80/sndspace/"
-        target=outside>here</a>. You can also check the <a href="files/lossless/musi_txt.txt"
+        The original web page is mirrored <a target=outside
+        href="https://web.archive.org/web/20050207063755/http://members.aol.com/sndspace/">
+        here</a>. You can also check the <a href="files/lossless/musi_txt.txt"
         target=outside>data sheet</a>.<br>
         
         <a href="https://groups.google.com/forum/?fromgroups=#!topic/comp.music.research/uCu3xAi2k7o" 
@@ -113,17 +114,17 @@
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/lossless/mcapp.zip">mcapp.zip</a> - 39kB<br>
-        <br><br>
-        
+        <br>
+        <hr>
         WaveZip is a GUI lossless encoder that uses MUSICompress' libraries for
         encoding and decoding. It was sold as shareware by GadgetLabs. The 
         shareware version was unable to encode 24bit streams, this feature 
         required registration.<br><br>
         
         Gadget Labs has gone out of business in 2000, so registration is no longer 
-        possible. A mirror of the web site can be seen <a 
-        href="https://web.archive.org/web/19990417182323/http://www.gadgetlabs.com:80/wavezip.htm"
-        target=outside>here<a/> though.<br>
+        possible. A mirror of the web site can be seen <a target=outside
+        href="https://web.archive.org/web/19990417182323/http://www.gadgetlabs.com/wavezip.htm">
+        here<a/> though.<br>
         
         <br>
         <br>
