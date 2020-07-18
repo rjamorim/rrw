@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,17 +94,19 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/aupec.png" target=outside><img src="screens/aupec.png" 
-        alt="AUPECg2" align=right height=268></a>
+        alt="AUPECg2" align=right height=280></a>
         AUPEC stands for Auckland University Perceptual Entropy Coder (g2 is for
-        generation 2). It was developed by Mark Vinton as his undergraduate
-        research project. <br><br>
+        generation 2), a very obscure lossy audio format that was developed by 
+        Mark Vinton as his undergraduate research project.<br><br>
         
         Quality is not good, partially because no stereo redundancy coding is used - 
-        the channels are coded independently.<br><br>
+        the channels are coded independently. Other limitations of the format are
+        only CBR encoding, no multichannel support, and it is not documented at
+        all.<br><br>
         
         The web page at Washington University is gone, but you can still find it 
-        using <a href="http://web.archive.org/web/20020311020059/http://students.washington.edu/mvinton/index.html" 
-        target=outside>archive.org</a>.<br>
+        at the <a href="http://web.archive.org/web/20020311020059/http://students.washington.edu/mvinton/index.html" 
+        target=outside>Internet Archive</a>.<br>
 
         <br>
         <br>
