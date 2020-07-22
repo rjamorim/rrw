@@ -103,12 +103,11 @@
         Winamp (their AAC input plugin), as well as the first ISO-compliant AAC 
         decoder publicly available.<br><br>
         
-        The encoder is just a compile of the original ISO reference sources, 
-        therefore quality is bad. But, interestingly, streams created by it can
-        still be played in modern decoders.<br><br>
+        The encoder is just a compile of the original ISO reference sources with
+        a few bug fixes, therefore it is buggy, slow and quality is bad.<br><br>
         
-        After some time, the team disbanded to work at different places and also
-        probably because of Dolby threats, and dropped from the scene.<br>
+        After some time the team disbanded to work at different places and also
+        probably because of Dolby licensing threats, and dropped from the scene.<br>
         
         <br>
         <br>
