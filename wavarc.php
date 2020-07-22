@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,15 +93,14 @@
           <br><div align="justify"> <b>WavArc lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        WavArc is another abandoned lossless compressor. It was developed up to 1997
-        by Dennis Lee.<br><br>
+        WavArc is another abandoned lossless compressor. It was developed from 
+        1994 to 1997 by Dennis Lee.<br><br>
         
-        One of the unique features of this compressor is that it can store several
-        tracks in one file, which potentially leads to slightly improved 
-        compression.<br><br>
+        One unique feature of this compressor is that it can store several tracks 
+        in one file, which can lead to slightly improved compression.<br><br>
         
-        There are both 16-bit and 32-bit versions available in the package offered 
-        here.<br>
+        There are both 16-bit (runs on an 8086) and 32-bit (requires a 80386) 
+        versions available in the package offered here.<br>
         
         <br>
         <br>
