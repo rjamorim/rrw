@@ -116,7 +116,7 @@
         Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 495kB<br>
+        Download: <a href="files/lossless/psps.exe">psps.exe</a> - 432kB<br>
 
         </blockquote></font>
 
