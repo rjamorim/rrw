@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -96,15 +96,20 @@
         program (that was called <a href="cooledit.php">CoolEdit</a> before Adobe 
         bought it).<br><br>
         
-        First, the very rare Syntrillium open source MP2/3 decoders, that were 
-        based on MAplay. Accuracy is not really good, but still they have the merit 
-        of being the first MPEG audio input filters for CoolEdit. Also included is 
-        an ACM plugin that can save to MP3 without WAV headers if you have an MP3 
-        ACM codec installed.<br><br>
+        The first download is the rare Syntrillium open source MP1/2 encoder and
+        decoder that were based on MAplay. Accuracy is not really good and speed 
+        is terrible, but they have the merit of being the first MPEG Audio input 
+        and output filters for CoolEdit.<br><br>
         
-        Then, several plugins created by Peter Pawlovski, of Winamp and Foobar2000 
-        fame, for importing/exporting Ogg Vorbis, MP3 using Lame, VQF, WMA, and 
-        AUD formats.<br>
+        The second download is a much faster and more accurate decoder based on 
+        an improved version of MAplay that adds MP3 support. Also included is an
+        updated ACM filter that can save to MP3 without WAV headers if you have 
+        an <a href=fhgcodecs.php>MP3 ACM codec</a> installed.<br><br>
+        
+        Finally, several plugins created by Peter Pawlovski, of Winamp and 
+        <a href=foobar2000.php>Foobar2000</a> fame, for importing/exporting Ogg 
+        Vorbis, MP3 using <a href=lame.php>Lame</a>, <a href=nttvqf.php>VQF</a>,
+        WMA, and AUD formats.<br>
         
         <br>
         <br>
@@ -114,7 +119,7 @@
         Platform: Win32<br>
         Download: <a href="files/others/coolmp32.zip">coolmp32.zip</a> - 97kB<br>
         <br>
-        Date: 1998<br>
+        Date: 1998-05-18<br>
         Version: ?<br>
         Interface: CoolEdit filter<br>
         Platform: Win32<br>
