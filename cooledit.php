@@ -105,10 +105,12 @@
         envolving, and several versions were released: CoolEdit 96, CoolEdit 
         2000, CoolEdit Pro, Pro 2.<br><br>
         
-        In early 2003, Adobe bought the assets of Syntrillium (makers of CoolEdit) 
-        and started selling the software renamed as <a 
-        href="http://www.adobe.com/products/audition.html" target=outside>Adobe 
-        Audition</a>.<br>
+        In early 2003 Adobe bought the assets of Syntrillium (makers of CoolEdit) 
+        and started selling the software renamed to <a target=outside
+        href="http://www.adobe.com/products/audition.html">Adobe Audition</a>. 
+        You can still visit the old Syntrillium web site at the <a target=outside
+        href="http://web.archive.org/web/19990125092226/http://syntrillium.com/">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -116,20 +118,20 @@
         Version: 1.5.3<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/others/cool153.zip">cool153.zip</a> - 801kB<br>
+        Download: <a href="files/others/cool153.exe">cool153.exe</a> - 613kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
         <br>
         Date: 1995-12-04<br>
         Version: 1.5.2<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/others/cool152.zip">cool152.zip</a> - 818kB<br>
+        Download: <a href="files/others/cool152.exe">cool152.exe</a> - 613kB<br>
         <br>
         Date: 1993-12-11<br>
         Version: 1.3.1<br>
         Interface: Graphical<br>
         Platform: Win16<br>
-        Download: <a href="files/others/cool131.zip">cool131.zip</a> - 366kB<br>
+        Download: <a href="files/others/cool131.exe">cool131.exe</a> - 318kB<br>
 
         </blockquote></font>
 
