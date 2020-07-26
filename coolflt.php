@@ -97,9 +97,9 @@
         bought it).<br><br>
         
         The first download is the rare Syntrillium open source MP1/2 encoder and
-        decoder that were based on MAplay. Accuracy is not really good and speed 
-        is terrible, but they have the merit of being the first MPEG Audio input 
-        and output filters for CoolEdit.<br><br>
+        decoder that were based on MAenc and MAplay. Accuracy is not really good
+        and speed is terrible, but they have the merit of being the first MPEG
+        Audio input and output filters for CoolEdit.<br><br>
         
         The second download is a much faster and more accurate decoder based on 
         an improved version of MAplay that adds MP3 support. Also included is an
