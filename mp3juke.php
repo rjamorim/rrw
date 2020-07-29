@@ -115,7 +115,7 @@
         Version: 2.3<br>
         Interface: Graphical<br>
         Platform: Win16 (requires Win32s)<br>
-        Download: <a href="files/players/JUKBOX23.zip">JUKBOX23.zip</a> - 191kB<br>
+        Download: <a href="files/players/JUKBOX23.EXE">JUKBOX23.EXE</a> - 191kB<br>
 
         </blockquote></font>
 
