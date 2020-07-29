@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,32 +94,35 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/impload.png" target=outside><img src="screens/impload.png" 
         alt="iMPload MP3pro" align=right height=279></a>
-        iMPload was a partnership between famous German companies Steinberg, makers of
-        audio editors and workstations; and Mayah, makers of audio encoding, transmission,
-        and broadcasting hardware.<br><br>
+        iMPload was a partnership between famous German companies Steinberg, 
+        makers of audio editors and workstations; and Mayah, makers of audio 
+        encoding, transmission, and broadcasting hardware.<br><br>
         
-        iMPload complete MP3pro is meant to be an all-in-one solution for audio playback 
-        and management, with its biggest selling point being support for the <a 
-        href="ctmp3pro.php">MP3pro</a> format.<br><br>
+        iMPload complete MP3pro is meant to be an all-in-one solution for audio 
+        playback and management, with its biggest selling point being support for 
+        the <a href="ctmp3pro.php">MP3pro</a> format.<br><br>
         
-        Interestingly, <a href="lame.php">LAME</a> (version 3.88) is a choice besides 
-        the FhG MP3pro encoder for MP3 recording and ripping. It supports Ogg Vorbis,
-        WMA, and WAV in addition to MP3.<br><br>
+        Interestingly, <a href="lame.php">LAME</a> (version 3.88) is a choice 
+        besides the Coding Technologies MP3pro encoder for MP3 recording and 
+        ripping. It supports Ogg Vorbis, WMA, and WAV in addition to MP3.<br><br>
         
-        The features are vast and varied. It includes playlists/media library, advanced
-        equalizer, trippy visualization plugins, CD ripping, CD writing, recording from 
-        line-in and microphone, volume normalization using a technology similar to <a 
-        href="https://en.wikipedia.org/wiki/ReplayGain" target=outside>ReplayGain</a>, 
-        CD cover maker, FTP client to play music from a server, DSP effects using VST 
-        plugins, and even <a href="screens/imploadEdit.png" target=outside>an MP3 stream 
-        editor!</a> (which can cut, paste and change volume of MP3 streams directly,
-        without recompressing them)<br><br>
+        The features are vast and varied. It includes playlists/media library, 
+        advanced equalizer, trippy visualization plugins, CD ripping, CD writing, 
+        recording from line-in and microphone, volume normalization using a 
+        technology similar to <a href="https://en.wikipedia.org/wiki/ReplayGain"
+        target=outside>ReplayGain</a>, CD cover maker, FTP client to play music 
+        from FTP servers, DSP effects using VST plugins, and even <a target=outside
+        href="screens/imploadEdit.png">an MP3 stream editor!</a> (which can cut, 
+        paste and change volume of MP3 streams directly, without recompressing 
+        them)<br><br>
         
-        All these features came at a price tag of US$ 24,95. Which seemingly was too
-        steep, because it never became popular and the creators gave up marketing it
-        after a few years. Still, you can check a mirror of its webpage at the <a 
-        href="https://web.archive.org/web/20040824123836/http://www.impload.com/"
-        target=outside>Internet Archive</a>.<br>
+        All these features came at a price tag of US$ 24,95. Which seemingly was
+        too expensive, because iMPload never became popular and the creators gave 
+        up marketing it after a few years - as far as I could see, there were no
+        updates or even suggestions of a 2.0 version. Still, you can check a 
+        mirror of its webpage at the <a target=outside
+        href="https://web.archive.org/web/20040824123836/http://www.impload.com/">
+        Internet Archive</a>.<br>
 
         <br>
         <br>
