@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,12 +94,12 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         This is the only available (to the author's knowledge) multichannel MP2
-        encoder. It was developed by Philips, and is used mostly for creation of SVCDs
-        (since some DVD players can play multichannel MP2 in SVCD).<br><br>
+        encoder. It was developed by Philips, and is used mostly for creation of 
+        SVCDs (since some DVD players can play multichannel MP2 in SVCD).<br><br>
         
         <i>Edit: I recently learned about <a href="http://mctoolame.sourceforge.net/"
-        target=outside>mctooLAME</a>, a multichannel MP2 encoder forked from Mike
-        Cheng's tooLame</i><br><br>
+        target=outside>mctooLAME</a>, a multichannel MP2 encoder forked from 
+        tooLame by its author, Mike Cheng.</i><br><br>
         
         There is no known multichannel MP2 software player. Most players can handle
         streams created by Philips' encoder, but only in stereo mode. The pub_dec 
