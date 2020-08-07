@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -104,7 +105,7 @@
         and there was nothing there but noise.<br><br>
         
         Maybe I am doing something wrong? If you know how to get this program to
-        work as it is supposed to, please <a href=about.php>e-mail me</a>).<br>
+        work as it is supposed to, please <a href=about.php>e-mail me</a>.<br>
         
         <br>
         <br>
@@ -135,7 +136,7 @@
         the file, leaving the rest unharmed. This actually makes the compressed 
         files shorter, and thus smaller. Pretty imaginative, eh?</p>
         
-        <p>Thinking about it, that might be the reason, why 16-bit files don't 
+        <p>Thinking about it, that might be the reason why 16-bit files don't 
         work... it probably just cuts out random bytes, so if it cuts a 2-byte 
         sample "in half", this will destroy the data.</i></p>
 
