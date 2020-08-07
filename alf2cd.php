@@ -93,7 +93,7 @@
           <br><div align="justify"><b>ALF2 CD codec</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/alf2cd.png" target=outside><img src="screens/alf2cd.png" 
-        alt="ALF2 CD" align=right height=245></a>
+        alt="ALF2 CD" align=right height=275></a>
         ALF2 CD is a very obscure format created by developers Lev Bannov and 
         Aleksei Myasnikov at Russian company NCT Soft in the early 2000s.<br><br>
         
@@ -105,8 +105,8 @@
         Besides the ACM codec, it was distributed with its own CD ripper and GUI
         encoder. Only high bitrates are available, from 256 to 512kbps.<br><br>
         
-        It never met much success, and was hosted on their web page for only one or
-        two years. You can still find a mirror of it at the <a 
+        It never met much success, and was hosted on the developers' web page for 
+        only one or two years. You can still find a mirror of it at the <a 
         href="https://web.archive.org/web/20020816083147/http://www.nctsoft.com/products/NCTALFCD/"
         target=outside>Internet Archive</a> though.<br><br>
         
