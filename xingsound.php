@@ -126,7 +126,7 @@
         <hr>
         <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
         alt="XingMP3 Player" align=right></a>
-        Years later, Xing created the XingMP3 player, a companion for their <a 
+        Years later Xing created the XingMP3 player, a companion for their <a 
         href="xing.php">MP3 encoder</a> and CD ripper (<a href=audiocat.php>AudioCatalyst</a>). 
         It is way more featureful and better looking than its predecessor.<br>
         
