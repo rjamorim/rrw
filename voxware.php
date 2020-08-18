@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -96,7 +97,6 @@
         alt="Toolvox encoder" align=right height=314></a>
         <a href="screens/televox.png" target=outside><img src="screens/televox.png" 
         alt="Televox" align=right height=314></a>
-
         All VoxWare voice compression products are based on a proprietary technology
         that seems to be quite unique in the compression world: MetaVoice. Instead of 
         compressing the voice samples like all other compression methods, MetaVoice
