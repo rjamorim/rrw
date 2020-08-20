@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1000 src="dot.gif">
+<img width=1 height=1200 src="dot.gif">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-06-19<br><br>
+<br><br><br>Last update: 2020-08-20<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,24 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+                
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-08-20: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Another quarantine update</b></font><p>
+                  It seems the quarantines here in Brazil will never end (5th month
+                  already), so here are a few updates to try and keep spirits high:
+
+                  <ul>
+                    <li>Sony SonicStage</li>
+                    <li>ACM Station ACM codec frontend</li>
+                    <li>EncSpot 0.9 (thanks to includemeout)</li>
+                    <li>A handful of very early Apollo versions</li>
+                    <li>Nullsoft DOSamp 0.7 + DOSamp Extender</li>
+                    <li>CoolEdit 1.30A</li>
+                  </ul>
+            </blockquote></font>
 
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-06-19: </b></div><p>

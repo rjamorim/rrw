@@ -141,6 +141,13 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/others/encspot-2.1-pro.zip">encspot-2.1-pro.zip</a> - 589kB<br>
+        <br>
+        Date: 2001-03-12<br>
+        Version: 0.9<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/encspot0.9.zip">encspot0.9.zip</a> - 177kB<br>
+        <i>Kindly contributed by includemeout</i><br>
 
         </blockquote></font>
 

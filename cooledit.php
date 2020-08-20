@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -132,6 +132,12 @@
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/others/cool131.exe">cool131.exe</a> - 318kB<br>
+        <br>
+        Date: 1993-09-12<br>
+        Version: 1.3.0a<br>
+        Interface: Graphical<br>
+        Platform: Win16<br>
+        Download: <a href="files/others/cool130a.exe">cool130a.exe</a> - 274kB<br>
 
         </blockquote></font>
 

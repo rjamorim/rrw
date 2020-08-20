@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=900><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -107,12 +107,12 @@
         meanwhile in Mac OS they were associated with QuickTime. The ACM codecs 
         became so popular (mostly obtained from, eh... "alternative" sources) that 
         <a href=yunasoft.php>several</a> <a href=mp3comp.php>frontend</a> <a 
-        href=acmenc.php>programs</a> were developed.<br><br>
+        href=acmenc.php>programs</a> were <a href=acmstation.php>developed</a>.
+        <br><br>
         
         A great resource to obtain information about differences between various 
-        ACM codec versions is located at Gabriel Bouvigne's <a
-        href="http://mp3decoders.mp3-tech.org/decoders_acm.html" target=outside>
-        website</a>.<br>
+        ACM codec versions is located at Gabriel Bouvigne's <a target=outside
+        href="http://mp3decoders.mp3-tech.org/decoders_acm.html">website</a>.<br>
 
         <br>
         <br>
@@ -128,6 +128,8 @@
         Version: 1.2.63 (Radium)<br>
         Interface: ACM codec<br>
         Platform: Win32<br>
+        <a href="screens/fhgcodec-acm16.png" target=outside><img src="screens/fhgcodec-acm16.png" 
+        alt="FhG ACM MP3 decoder for Win16" align=right height=130></a>
         Bitrate range: 8-320kbps<br>
         Download: <a href="files/fhg/l3codecp-radium.exe">l3codecp-radium.exe</a> - 207kB<br>
         <br>
@@ -144,6 +146,13 @@
         Platform: Win32<br>
         Bitrate range: decode only<br>
         Download: <a href="files/fhg/l3codecx.exe">l3codecx.exe</a> - 228kB<br>
+        <br>
+        Date: 1998-04-06<br>
+        Version: 1.0.0.64 (decoder)<br>
+        Interface: ACM codec<br>
+        Platform: Win16<br>
+        Bitrate range: decode only<br>
+        Download: <a href="files/fhg/l3dec16.zip">l3dec16.zip</a> - 81kB<br>
         <br>
         <a href="screens/fhgcodec-qt.png" target=outside><img src="screens/fhgcodec-qt.png" 
         alt="FhG QT MP3 encoder" align=right height=180></a>

@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=3000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=3200><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -107,7 +107,7 @@
         variety of formats, and the interface itself is a playlist. It can also
         read ID3 tags, but can not edit them.<br><br>
         
-        Apollo development ended in 2007 but the web page can still be reached at <a
+        Development ended in 2007 but the web page can still be reached at the <a
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
         target=outside>Internet Archive</a>.<br><br>
         
@@ -286,6 +286,18 @@
         Version: 37<br>
         Download: <a href="files/apollo/Apollo37.exe">Apollo37.exe</a> - 581kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
+        <br>
+        Date: 1999-09-29<br>
+        Version: 35<br>
+        Download: <a href="files/apollo/Apollo35.exe">Apollo35.exe</a> - 642kB<br>
+        <br>
+        Date: 1999-03-12<br>
+        Version: 30<br>
+        Download: <a href="files/apollo/Apollo30.exe">Apollo30.exe</a> - 1.043kB<br>
+        <br>
+        Date: 1998-09-06<br>
+        Version: 10<br>
+        Download: <a href="files/apollo/Apollo10.exe">Apollo10.exe</a> - 890kB<br>
         <br>
         Date: 1998-09-02<br>
         Version: 9<br>

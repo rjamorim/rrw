@@ -52,9 +52,9 @@
     <tr><td></td></tr>
 
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2100><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=2150><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -146,6 +146,7 @@
                 <a href=mio.php>Entis Lab MIO</a><br>
                 <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
                 <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
+                <a href=sonicstage.php>Sony SonicStage (ATRAC)</a><br>
                 <a href=soundvq.php>Yamaha SoundVQ</a><br>
                 <a href=softencode.php>SoftEncode AC3 encoder</a><br>
                 <a href=tac.php>K+K Research TAC</a><br>
@@ -224,6 +225,7 @@
                 <a href=realjuke.php>RealJukebox</a><br>
                 <a href=sonique2.php>Sonique2 alpha MP3 player</a><br>
                 <a href=soundapp.php>SoundApp Mac OS Player</a><br>
+                <!--<a href=winmusic.php>WinMusic for Win3.1</a><br>-->
                 <a href=wwv.php>WWV VQF player</a><br>
                 <a href=xaudio.php>XAudio player</a><br>
                 <a href=xingsound.php>XingSound MP2/XingMP3 player</a><br>
@@ -235,6 +237,7 @@
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=acmenc.php>nyaochi's ACMENC</a><br>
+                <a href=acmstation.php>ACM Station</a><br>
                 <a href=audiocat.php>AudioCatalyst CD ripper</a><br>
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>

@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Nullsoft DOSamp</TITLE>
+<TITLE>ReallyRareWares - ACM Station</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,51 +90,33 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Nullsoft DOSamp</b></div> <p></font>
+          <br><div align="justify"><b>ACM Station</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/dosamp.png" target=outside><img src="screens/dosamp.png" alt="DOSamp" 
-        align=right height=270></a>
-        DOSamp was probably the first MP3 player for DOS (l3dec was only a decoder). 
-        It was created by Justin Frankel, the same developer that later created 
-        the hugely popular <a href="http://www.winamp.com" target=outside>Winamp</a>
-        player.<br><br>
+        <a href="screens/acmstation.png" target=outside><img src="screens/acmstation.png" 
+        alt="ACM Station 2.1" align=right height=250></a>
+        Yet another ACM codec frontend, developed by Andreas Leeb. This one probably
+        was also inspired by the then-ubiquitous <a href=fhgcodecs.php>FhG MP3 ACM
+        codecs</a>.<br><br>
         
-        There is not much functionality. The program is called from the command 
-        line with the file name passed as parameter. At most the user can select 
-        downmixing and sampling rate output, and playback can be paused and 
-            resumed.<br><br>
+        Unlike nyaochi's <a href=acmenc.php>ACMENC</a>, ACM Station has a fully 
+        featured graphical user interface, centered around encoding projects. You 
+        first create a project and add WAV files to that project. Then you select
+        the destination format: MP3 only allows selection of the MP3 ACM codec 
+        and creates MP3 files without WAV headers. WAV format allows selection 
+        of any ACM codec with encoding capabilities, including MP3 and PCM 
+        (uncompressed audio), and it creates files with WAV headers.<br><br>
         
-        It uses PlayMedia's <a href="amp.php">AMP</a> decoding engine, therefore 
-        quality is not on par with accurate decoders (FhG, mpg123, MAD)<br><br>
-        
-        I also included at the bottom a DOSamp extender created by Henrich Fukna 
-        that adds playlists support to the player.<br>
-        
+        It also has an useful feature where compression statistics are stored 
+        after each encoding process, so that you can compare which formats take 
+        longer to encode.<br>        
+
         <br>
         <br>
-        Date: 1998-01-10<br>
-        Version: 0.8<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/players/dosamp08.exe">dosamp08.exe</a> - 110kB<br>
-        <br>
-        Date: 1997-08-17<br>
-        Version: 0.7<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/players/dosamp07.zip">dosamp07.zip</a> - 108kB<br>
-        <br>
-        Date: 1997-04-08<br>
-        Version: 0.4<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/players/dosamp04.exe">dosamp04.zip</a> - 96kB<br>
-        <br>
-        Date: 2003-03-25<br>
-        Version: 0.95<br>
-        Interface: Command line<br>
-        Platform: DOS<br>
-        Download: <a href="files/players/dax095.zip">dax095.zip</a> - 171kB<br>
+        Date: 1999-06-18<br>
+        Version: 2.1<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/acmst210.zip">acmst210.zip</a> - 355kB<br>
 
         </blockquote></font>
 
