@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=900><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -135,7 +135,7 @@
         backwards-incompatible improvements. It offered bitrates ranging from 48
         to 352kbps and was only compatible with Hi-MD MiniDisc devices (but also
         compatible with several other Sony devices such as VAIO cell phones, PS3
-        and PSP consoles, and Sony Xplod car players).<br><br>
+        and PSP consoles, and Xplod car players).<br><br>
         
         A parallel iteration of the format is ATRAC Advanced Lossless, in which 
         an audio stream is encoded in ATRAC3 or ATRAC3plus and the "discarded"
