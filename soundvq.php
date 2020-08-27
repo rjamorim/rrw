@@ -93,15 +93,15 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
-        alt="SoundVQ Encoder" align=right height=228></a>
-        At some point in the late nineties Yamaha licensed the <a href="nttvqf.php">VQF</a>
-        technology from NTT and created their own encoder and player, for both Windows
-        and Mac OS, under the name SoundVQ.<br><br>
+        alt="SoundVQ Encoder" align=right height=278></a>
+        At some point in the late nineties Yamaha licensed the <a href="nttvqf.php">
+        VQF</a> technology from NTT and created their own encoder and player, for 
+        both Windows and Mac OS, under the name SoundVQ.<br><br>
         
-        The encoder has features like batch encoding and recording from line-in and 
-        microphone. An unusual feature is a "Web Page Wizard" that creates a web page 
-        from a template and embeds in it a VQF file to be played with the SoundVQ 
-        browser plugin, which is distributed with the SoundVQ player, available 
+        The encoder has features like batch encoding and recording from line-in 
+        and microphone. An unusual feature is a "Web Page Wizard" that creates a 
+        web page from a template, with an embedded VQF file to be played with the 
+        SoundVQ browser plugin - distributed with the SoundVQ player, available 
         below.<br><br>
         
         I generated a web page with the wizard using a public domain song and 
@@ -110,7 +110,7 @@
         the plugin and b) supports modern HTTPS.<br><br>
         
         Quality in high quality mode is good, but encoding is very slow. Also, it 
-        only works for 90 days then expires.<br><br>
+        only works for 90 days and then expires.<br><br>
         
         Yamaha discontinued offering their SoundVQ software line after the obvious
         failure of the format in becoming popular (in no small part thanks to Yamaha
