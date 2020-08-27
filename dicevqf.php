@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,12 +94,20 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/dicevqf.png" target=outside><img src="screens/dicevqf.png" 
         alt="Dice VQF Player" align=right height=274></a>
-        This is a small player 100% focused on <a href="nttvqf.php">VQF</a> playback. 
-        It does not support MP3 or even WAV files.<br><br>
+        This is a small player developed by Softuarium, 100% focused on <a 
+        href="nttvqf.php">VQF</a> playback. It does not support MP3 or even WAV 
+        files.<br><br>
         
-        It sports a simple, pleasing interface. But not many features other than 
-        VQL playlists. Also, there seems to be a 5th button in the interface that
-        you can barely click and can not see what it is supposed to do...<br><br>
+        It sports a simple, pleasing interface, but not many features other than 
+        VQL playlists. The options screen only allows tou to select colors for 
+        various interface components. Also, there seems to be a 5th button in the
+        interface that you can barely click and can not see what it is supposed 
+        to do... (in fact, it is the command to jump to the next track in the
+        playlist)<br><br>
+        
+        You can still check a mirror of the Dice VQF web site at the <a 
+        href="http://web.archive.org/web/20010210173840/http://www.softuarium.com/dicevqf.htm"
+        target=outside>Internet Archive</a>.<br><br>
         
         <i>Thanks to Zachary Jelesoff for sending this player.</i><br>  
 
