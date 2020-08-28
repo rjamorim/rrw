@@ -1,8 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - AudioZip lossless encoder</TITLE>
+<TITLE>ReallyRareWares - AudioZip lossless compressor</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -89,25 +90,35 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>AudioZip lossless encoder</b></div> <p>
+          <br><div align="justify"> <b>AudioZip lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiozip.png" target=outside><img src="screens/audiozip.png" 
         alt="AudioZip" align=right height=125></a>
-        AudioZip has been developed at the Centre for Signal Processing - Nanyang 
-        Technological University, in Singapore, by professor Lin Xiao. The compression
-        ratio is good, but the compressor is quite slow.<br><br>
+        AudioZip is a lossless audio compressor that has been developed at the 
+        Centre for Signal Processing - Nanyang Technological University, in 
+        Singapore, by professor Lin Xiao. The compression ratio is good, but the 
+        compressor is quite slow.<br><br>
         
-        One interesting feature of AudioZip is that there is a choice to use a password
-        at compression time to "protect" the compressed file. Decompression fails
-        without the password. I put "protect" surrounded by quotation marks because 
-        the password is stored in <a href="screens/audiozip-srsly.png" target=outside>
-        plain text</a> at offset 0x06 of the compressed file... <br>
+        The interface is quite unfriendly. Despite looking like it, there is no 
+        way to batch compress files. You have to click "Compress", select the 
+        .wav track, type the name of the compressed file (it does not just 
+        append the compressed extension), click "New" and then click again
+        "Compress" after selecting compression level. For each and every file. 
+        Sometimes it crashes after clicking the second "Compress". All in all,
+        it is a quite buggy program.<br><br>
+        
+        One unique feature of AudioZip among audio codecs is that there is an 
+        option to use a password at compression time to "protect" the compressed 
+        file. Decompression fails without the password. I put "protect" surrounded
+        by quotation marks because the password is stored in <a target=outside 
+        href="screens/audiozip-srsly.png">plain text</a> at offset 0x06 of the 
+        compressed file... <br>
         Certainly the work of seasoned cryptographers!<br><br>
         
-        The AudioZip webpage has been mirrored by the Internet Archive <a
-        href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm"
-        target=outside>here</a>.<br>
+        You can access a mirror of the AudioZip webpage at the <a target=outside
+        href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
