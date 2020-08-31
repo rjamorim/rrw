@@ -165,11 +165,13 @@
         Sony world. There is no VBR encoding at all and no multichannel 
         implementation other than the completely proprietary SDDS. But the FFMPEG
         project reverse engineered and provides decoders for all iterations of 
-        ATRAC, with the apparent exception of Advanced Lossless, in their 
-        libavcodec library.<br><br>
+        ATRAC in their libavcodec library.<br><br>
         
         The official ATRAC home page at Sony's web site is available <a 
-        target=outside href="https://www.sony.net/Products/ATRAC3/">here</a>.<br>
+        target=outside href="https://www.sony.net/Products/ATRAC3/">here</a> and
+        you can see a mirror of the SDDS website at the <a target=outside 
+        href="https://web.archive.org/web/20130701055758/http://www.sdds.com/">
+        Internet Archive</a>.<br>
 
         <br>
         <br>
