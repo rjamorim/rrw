@@ -121,9 +121,6 @@
         Download: <a href="files/foobar2000/foobar2000_v1.5.exe">foobar2000_v1.5.exe</a> - 4.322kB<br>
         <br>
         <hr>
-        Version: 1.4.9<br>
-        Download: <a href="files/foobar2000/foobar2000_v1.4.9.exe">foobar2000_v1.4.9.exe</a> - 4.3kB<br>
-        <br>
         Version: 1.4.8<br>
         Download: <a href="files/foobar2000/foobar2000_v1.4.8.exe">foobar2000_v1.4.8.exe</a> - 4.354kB<br>
         <br>
