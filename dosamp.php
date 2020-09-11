@@ -102,7 +102,7 @@
         There is not much functionality. The program is called from the command 
         line with the file name passed as parameter. At most the user can select 
         downmixing and sampling rate output, and playback can be paused and 
-            resumed.<br><br>
+        resumed.<br><br>
         
         It uses PlayMedia's <a href="amp.php">AMP</a> decoding engine, therefore 
         quality is not on par with accurate decoders (FhG, mpg123, MAD)<br><br>
@@ -122,19 +122,19 @@
         Version: 0.7<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/players/dosamp07.zip">dosamp07.zip</a> - 108kB<br>
+        Download: <a href="files/players/dosamp07.exe">dosamp07.exe</a> - 108kB<br>
         <br>
         Date: 1997-04-08<br>
         Version: 0.4<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/players/dosamp04.exe">dosamp04.zip</a> - 96kB<br>
+        Download: <a href="files/players/dosamp04.exe">dosamp04.exe</a> - 97kB<br>
         <br>
         Date: 2003-03-25<br>
         Version: 0.95<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/players/dax095.zip">dax095.zip</a> - 171kB<br>
+        Download: <a href="files/players/dax095.exe">dax095.exe</a> - 171kB<br>
 
         </blockquote></font>
 
