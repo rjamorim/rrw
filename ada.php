@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -93,8 +94,9 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Advanced Digital Audio (ADA) was developed by Heiko Volk. Besides a (not 
-        very efficient) lossless compression mode, it features a lossy mode that is 
-        probably just using quantization (like WavPack lossy and OptimFrog Dual Stream).<br>
+        very efficient) lossless compression mode, it features a lossy mode that 
+        is probably just using quantization (like <a href=wavpack.php>WavPack</a>
+        lossy, OptimFrog Dual Stream and all the countless ADPCM flavors).<br>
    
         <br>
         <br>
