@@ -98,15 +98,21 @@
         released in late 2003.<br><br>
         
         It met good acceptance as soon as it was released. It was packed with 
-        interesting features: there are three different quality levels (from faster 
-        encoding to high quality), support for LC and Main profiles, ability to enable 
-        or disable tools like TNS or PNS, multichannel encoding support, several 
-        preprocessing routines, and a very interesting preview feature that allows 
-        users to preview in real time how their tracks will sound after encoded. All
-        of this in a very pleasing and easy to use interface.<br><br>
+        interesting features: VBR and CBR mores, are four different quality levels
+        (from faster encoding to high quality), support for LC and Main profiles, 
+        ability to select tools such as TNS or PNS, multichannel encoding support,
+        several preprocessing routines, and a very interesting preview feature 
+        that allows users to preview in real time how their tracks will sound 
+        after encoded. All of this in a very pleasing and easy to use interface.
+        <br><br>
         
-        For some reason, it was discontinued in early 2005. The zPlane web site can 
-        be reached <a href="http://www.zplane.de/" target=outside>here</a>.<br>
+        There is also a batch encoder called [mass encoder] that can be launched
+        from the File menu.<br><br>
+        
+        For some reason, it was discontinued in early 2005. You can see a mirror
+        of the original Compaact! page at the <a target=outside
+        href="http://web.archive.org/web/20040413044112/http://compaact.com/aacPage.php?SPRACHE=UK&PAGE=compaact">
+        Internet Archive</a>.<br>
         
         <br>
         <br>
