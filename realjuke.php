@@ -93,7 +93,7 @@
           <br><div align="justify"><b> RealJukebox </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/realjuke.png" target=outside><img src="screens/realjuke.png" 
-        alt="Make it stop!" align=right height=330></a>
+        alt="Make it stop!" align=right height=333></a>
         RealJukebox is an audio playback, management and CD ripping application 
         created by RealNetworks in the late nineties.<br><br>
         
@@ -139,10 +139,10 @@
         <br>
         <br>
         Date: 2000-11-09<br>
-        Version: 2 Plus<br>
+        Version: 2 Plus (Includes Real Player 8 Plus)<br>
         Interface: Bloated<br>
         Platform: Win32<br>
-        Download: <a href="files/players/realjukeboxplus_v2.zip">realjukeboxplus_v2.zip</a> - 3.896kB<br>
+        Download: <a href="files/players/realjukeboxplus_v2.zip">realjukeboxplus_v2.zip</a> - 8.526kB<br>
         <i>Kindly contributed by Richard Birch</i><br>
         <br>
         Date: 2000-11-09<br>
