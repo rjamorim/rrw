@@ -103,7 +103,8 @@
         Back then it already featured interesting DSP effects and supported a 
         growing list of audio formats: WAV, VOC, ADPCM, AIFF... CoolEdit kept 
         envolving, and several versions were released: CoolEdit 96, CoolEdit 
-        2000, CoolEdit Pro, Pro 2.<br><br>
+        2000, CoolEdit Pro (when it turned into a multitrack digital audio 
+        workstation), Pro 2.<br><br>
         
         In early 2003 Adobe bought the assets of Syntrillium (makers of CoolEdit) 
         and started selling the software renamed to <a target=outside
