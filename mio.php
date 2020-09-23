@@ -103,17 +103,20 @@
         party encoder here called <a href="http://hp.vector.co.jp/authors/VA027311/"
         target=outside>Daru</a> that supports MIO.<br><br>
         
-        The codec also features a lossless mode.<br><br>
+        The codec also features a lossless mode, but performance is really bad. 
+        Closer to WinRAR with multimedia compression enabled than to any good 
+        compressor such as <a href=wavpack.php>WavPack</a> or FLAC.<br><br>
         
         I am also hosting a Winamp input plugin for MIO files. The file info 
-        interface is in japanese, but you can easily detect information about frequency, 
-        bit depth and channel count.<br><br>
+        interface is in japanese, but you can easily detect information about 
+        frequency, bit depth and channel count.<br><br>
         
-        The official home page of Entis Lab can be found <a href="http://www.entis.jp/eri/"
-        target=outside>here</a>. Visitor comments on codec audio quality would be 
-        very welcome.<br><br>
+        The official home page of Entis Lab can be found <a target=outside
+        href="http://www.entis.jp/eri/">here</a>. Visitor comments on codec audio 
+        quality would be very welcome.<br><br>
 
-        <i>Lots of thanks to Stefan Gr&uuml;nwald for introducing me to this codec</i><br>
+        <i>Lots of thanks to Stefan Gr&uuml;nwald for introducing me to this 
+        codec.</i><br>
         
         <br>
         <br>
