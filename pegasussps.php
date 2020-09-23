@@ -95,14 +95,24 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
         alt="Pegasus SPS" align=right height=275></a>
-        Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as a general
-        purpose audio editor. It features a lossless mode based on Pegasus' ELS (<a 
+        Pegasus Sound Processing Software (SPS) was developed by KrishnaSoft as 
+        a general purpose audio editor. It features a lossless compresion mode 
+        based on Pegasus' ELS (<a target=outside 
         href="https://web.archive.org/web/20000817085733/http://www.jpg.com/imagetech_els.htm"
-        target=outside>Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
+        >Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
         
-        The editor itself has very few features and a quite weird interface. But, from 
-        the looks of it, it is free - only lossless compression is limited to 10 uses,
-        and after that you need to buy a license.<br><br>
+        The editor itself has very few features and a quite weird interface. It
+        features a <a href="screens/sdbplay.png" target=outside>minimalistic and 
+        weird player</a> to play compressed .SDB (sound database, their lossless
+        format) files, and a batch compression/decompression tool. Being a Win3.1
+        program, it has no support whatsoever for long file names.<br><br>
+        
+        The lossless compression is nothing to get too excited about, it is quite 
+        slow (maybe in part because it is 16-bit code?) and performs worse than 
+        <a href=wavpack.php>WavPack</a> or FLAC.<br><br>
+        
+        But, from the looks of it, it is free - only the lossless compression is
+        limited to 10 uses, and after that you should buy a license.<br><br>
         
         The page about SPS at Pegasus is now gone (but still mirrored at the <a 
         href="https://web.archive.org/web/20000616134738/http://jpg.com/products/sound.html"
