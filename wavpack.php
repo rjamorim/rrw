@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,30 +93,31 @@
           <br><div align="justify"> <b>WavPack hybrid audio compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        David Bryant started developing WavPack in mid-1998, with the release of version
-        1.0. This first version compressed and decompressed audio losslessly, nothing else,
-        but by then it already featured one of the best efficiency vs. speed ratios among
-        lossless encoders.<br><br>
+        David Bryant started developing WavPack in mid-1998, with the release of 
+        version 1.0. This first version compressed and decompressed audio 
+        losslessly, nothing else, but by then it already featured one of the best
+        efficiency vs. speed ratios among lossless formats.<br><br>
         
-        Very soon after the release of version 1.0, Bryant released v. 2.0, which featured
-        lossy encoding (using only quantization for data reduction - no psychoacoustic 
-        process was applied to the stream).<br><br>
+        Very soon after the release of version 1.0, Bryant released v. 2.0, which
+        featured lossy encoding (using only quantization for data reduction - no
+        psychoacoustic process is applied to the stream).<br><br>
         
-        In 1999 version 3.0 was released, which featured novelties such as a fast mode 
-        (with reduced compression ratio), compression of RAW files and error detection.
-        <br><br>
+        In 1999 version 3.0 was released, which featured novelties such as a fast
+        mode (with reduced compression ratio), compression of RAW files and error
+        detection.<br><br>
         
-        WavPack development is still going on, and a major feature added in late 3.x versions
-        is the hybrid mode, where the encoder generates a lossy file + a correction file, so 
-        that both can be decompressed back to the original PCM stream, or the lossy file can be 
-        decompressed alone with slight quality losses.<br><br>
+        WavPack development is still going on, and a major feature added in late
+        3.x versions is the hybrid mode, where the encoder generates a lossy file
+        and a correction file so that both can be decompressed back to the
+        original PCM stream, or the lossy file can be decompressed alone with
+        slight quality losses.<br><br>
         
-        With version 3.97, the sources were released under a BSD license. Before that, WavPack
-        was closed source freeware.<br><br>
+        With version 3.97, the sources were released under a BSD license. Before
+        that, WavPack was closed source freeware.<br><br>
         
-        WavPack 4 has been later released. It adds important features such as fast seeking, 
-        improved error robustness, multichannel and high resolution audio support, among 
-        others.<br><br>
+        WavPack 4 has been released soon afterwards. It adds important features
+        such as fast seeking, improved error robustness, multichannel and high
+        resolution audio support, among others.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
         target=outside>here</a>.<br><br>
