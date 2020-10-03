@@ -98,7 +98,7 @@
         The main goal is to automate audio encoding using MP3 ACM codecs such as
         <a href=fhgcodecs.php>Fraunhofer's</a>, but in theory it can work with any
         format with an ACM encoder, such as WMA, Vorbis, MP2, the countless ADPCM 
-        flavors, voice codecs and even <a href=alf2cd.php>alf2cd</a>.<br><br>
+        flavors, voice codecs, and even <a href=alf2cd.php>alf2cd</a>.<br><br>
         
         If you do not like command lines and would rather use a graphical interface, 
         check out <a href=acmstation.php>ACM Station</a>.<br><br>
