@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,19 +93,20 @@
           <br><div align="justify"> <b>X-Codec MP3 encoder</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/x-codec.png" target=outside><img src="screens/x-codec.png" 
-        alt="X-Codec" align=right height=236></a>
-        Very little is known about this encoder. The author claims he developed the 
-        encoding routines alone (hmmm...), the decoding routines are based on Bugsy
-        Wabbit's decoder library (very popular among Delphi programmers a long time 
-        ago), and it only supports bitrates of 112, 128 and 256kbps (the author says 
-        the engine can only support that).<br><br>
+        alt="X-Codec" align=right height=266></a>
+        Very little is known about this encoder. The author claims he developed 
+        the encoding engine alone (hmmm...), the decoding routines are based on 
+        Bugsy Wabbit's decoder library (very popular among Delphi programmers a 
+        long time ago), and it only supports bitrates of 112, 128 and 256kbps 
+        (the author says the engine can only support that).<br><br>
         
-        <i>Update:</i> Upon further investigation, and after Benjamin's feedback below,
-        it turns out that X-Codec is indeed illegally using the <a href="xing.php">Xing</a> 
-        tompg encoder. Whenever a file is encoded, the encoder is extracted to the file 
-        NETSUB32.EXE in the \Windows folder and executed. As soon as encoding finishes, 
-        it is deleted. NETSUB32.EXE is exactly the tompg.exe program, but with the 
-        incriminating strings linking it to Xing Tech removed.<br>
+        <i>Update:</i> Upon further investigation, and after Benjamin's feedback 
+        below, it turns out that X-Codec is indeed illegally using the <a 
+        href="xing.php">Xing</a> tompg encoder. Whenever a file is encoded, the 
+        encoder is extracted to the file NETSUB32.EXE in the \Windows folder and 
+        executed. As soon as encoding finishes, it is deleted. NETSUB32.EXE is 
+        exactly the tompg.exe program, but with the incriminating strings linking 
+        it to Xing Tech removed.<br>
         
         <br>
         <br>
@@ -117,12 +119,14 @@
         <ul>
         <li><p>Feedback from Benjamin Derge:</p></li>
         </ul>
-        <p><i>It's my opinion that "X-Codec" uses the same engine as Xing's "TOMPG" 
-        encoder, as the programs produce identical bitstreams. I checked in EncSpot 
-        (same bit resevoir graph, no short blocks for either), and compared the 
-        decoded WAVs using EAC, and by all accounts, they are spot on.</p> 
+        <p><i>It's my opinion that "X-Codec" uses the same engine as Xing's 
+        "TOMPG" encoder, as the programs produce identical bitstreams. I checked
+        in EncSpot (same bit resevoir graph, no short blocks for either), and 
+        compared the decoded WAVs using EAC, and by all accounts, they are spot 
+        on.</p> 
         
-        <p>Also, the name X-Codec is at BEST a weakly veiled allusion to 'Xing'.</i></p>
+        <p>Also, the name X-Codec is at BEST a weakly veiled allusion to 'Xing'.
+        </i></p>
 
         </blockquote></font>
 
