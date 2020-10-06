@@ -93,7 +93,7 @@
           <br><div align="justify"><b> AudioCatalyst </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiocatalyst.png" target=outside><img src="screens/audiocatalyst.png" 
-        alt="AudioCatalyst Win32" align=right height=220></a>
+        alt="AudioCatalyst Win32" align=right height=260></a>
         AudioCatalyst was born as a partnership between <a href="https://www.audiograbber.org/"
         target=outside>AudioGrabber</a> - probably the most popular CD ripper at the 
         time - and Xing, the fastest <a href=xing.php>MP3 encoder</a>.<br><br>
@@ -130,7 +130,7 @@
         Download: <a href="files/xing/AudioCatalysttm_2.1.0.sit">AudioCatalysttm_2.1.0.sit</a> - 268kB<br>
         <br>
         <a href="screens/audiocatalyst-mac.png" target=outside><img 
-        src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=120></a>
+        src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=160></a>
         Date: 1999-07-07<br>
         Version: 2.0.1<br>
         Interface: Graphical<br>
