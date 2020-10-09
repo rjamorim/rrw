@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -92,9 +93,9 @@
           <br><div align="justify"><b> Wav2mp MP1/2 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Wav2mp is an MPEG audio layers 1 and 2 encoder that was created as an accompanying 
-        tool to avi2vcd, a program that creates VCD-compatible MPEG1 streams out of AVI 
-        files.<br>
+        Wav2mp is an MPEG audio layers 1 and 2 encoder that was created as an 
+        accompanying tool to avi2vcd, a program that creates VCD-compatible MPEG1 
+        streams out of AVI files.<br>
         
         <br>
         <br>
@@ -110,8 +111,8 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/wav2mp11.zip">wav2mp11.zip</a> - 48kB<br>
         <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        encoder.</i>
+        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
+        submitting this encoder.</i>
         
         </blockquote></font>
 
