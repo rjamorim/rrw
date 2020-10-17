@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -104,6 +104,11 @@
         decompressor (it should <i>really</i> be drag-n-drop), you need to call 
         it from the command line "unzapwin.exe file.zap".<br><br>
         
+        Compression performance is very unsatisfactory. I can not comment on 
+        speed since I use an emulated Mac OS 9.1, but compression ratio is worse
+        than even <a href=daxwav.php>Dakx</a> and on par with <a href=litewave.php>
+        Litewave</a>.<br><br>
+        
         One interesting feature of Zap is that it can create self extracting 
         archives. Alas, that functionality is not available in the demo version 
         (also, the demo will not compress files larger than 500kB).<br><br>
@@ -112,7 +117,9 @@
         (maybe it lives on in <a href="https://en.wikipedia.org/wiki/Apple_Lossless"
         target=outside>ALAC</a>?). You can still see a mirror of the web page at the <a
         href="https://web.archive.org/web/20000420025145/http://www.emagic.de/english/products/software/zap.html"
-        target=outside>Internet Archive</a>.<br>
+        target=outside>Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 65,97%</i><br>
 
         <br>
         <br>

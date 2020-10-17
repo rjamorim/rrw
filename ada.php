@@ -93,10 +93,13 @@
           <br><div align="justify"> <b>Advanced Digital Audio</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Advanced Digital Audio (ADA) was developed by Heiko Volk. Besides a (not 
-        very efficient) lossless compression mode, it features a lossy mode that 
-        is probably just using quantization (like <a href=wavpack.php>WavPack</a>
-        lossy, OptimFrog Dual Stream and all the countless ADPCM flavors).<br>
+        Advanced Digital Audio (ADA) was developed by Heiko Volk. Besides a lossless
+        compression mode (so inefficient, it is the worst performing lossless
+        compressor in RRW), it features a lossy mode that is probably just using 
+        quantization (like <a href=wavpack.php>WavPack</a> lossy, OptimFrog Dual
+        Stream and all the countless ADPCM flavors).<br><br>
+        
+        <i>Compression performance in my limited test: 66,6%</i><br>
    
         <br>
         <br>

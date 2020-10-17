@@ -118,7 +118,11 @@
         href="https://web.archive.org/web/20000616134738/http://jpg.com/products/sound.html"
         target=outside>Internet Archive</a>) and it is not being marketed by them
         anymore. But you can still find it - and buy it! - at <a target=outside
-        href="http://www.krishnasoft.com/sps.htm#SPSLink">Krishna Software</a>.<br>
+        href="http://www.krishnasoft.com/sps.htm#SPSLink">Krishna Software</a>.
+        <br><br>
+        
+        <i>Compression performance in my limited test: 57,68% (setting ELS Ultra)
+        </i><br>
         
         <br>
         <br>

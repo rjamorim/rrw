@@ -97,10 +97,13 @@
         1994 to 1997 by Dennis Lee.<br><br>
         
         One unique feature of this compressor is that it can store several tracks 
-        in one file, which can lead to slightly improved compression.<br><br>
+        in one file, which can lead to slightly improved compression. And the
+        compression ratio is surprisingly good for such an old codec.<br><br>
         
         There are both 16-bit (runs on an 8086) and 32-bit (requires a 80386) 
-        versions available in the package offered here.<br>
+        versions available in the package offered here.<br><br>
+        
+        <i>Compression performance in my limited test: 58,26%</i><br>
         
         <br>
         <br>

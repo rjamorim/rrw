@@ -102,7 +102,13 @@
         as a limitation it will not allow you to decompress the compressed files. So,
         it is recommended that you keep the original files, as the compressed ones 
         will not be decompressable (unless you manage to find the author and pay 
-        him the registration fee...)<br>
+        him the registration fee...)<br><br>
+        
+        But no point even taking that risk: compression performance is quite bad
+        (no surprises considering the age of the compressor), so please just do
+        not use it.<nr><br>
+        
+        <i>Compression performance in my limited test: 64,6%</i><br>
         
         <br>
         <br>

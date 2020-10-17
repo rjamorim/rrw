@@ -108,7 +108,9 @@
         
         A mirror of the RKau web page is avaliable at the <a 
         href="https://web.archive.org/web/20020124045327/http://rksoft.virtualave.net/rkau.html"
-        target=outside>Internet Archive</a>.<br>
+        target=outside>Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 51,78% (-h setting)</i><br>
         
         <br>
         <br>

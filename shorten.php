@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -119,7 +119,9 @@
         with suboptimal seeking. And a mirror of the etree Shorten webpage is <a
         href="https://web.archive.org/web/20070606202748/http://etree.org/shnutils/shorten/"
         target=outside>available too</a>, featuring the improved version with 
-        seek tables.<br>
+        seek tables.<br><br>
+        
+        <i>Compression performance in my limited test: 60,21%</i><br>
         
         <br>
         <br>

@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -117,10 +117,14 @@
         
         WavPack 4 has been released soon afterwards. It adds important features
         such as fast seeking, improved error robustness, multichannel and high
-        resolution audio support, among others.<br><br>
+        resolution audio support, among others. All the while offering a very
+        good compression x speed ratio.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
         target=outside>here</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 52,73% (-h setting)</i><br><br>
+
         
         <i>All files here were kindly contributed by David Bryant himself.</i><br>
 

@@ -94,7 +94,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audiozip.png" target=outside><img src="screens/audiozip.png" 
-        alt="AudioZip" align=right height=125></a>
+        alt="AudioZip" align=right height=160></a>
         AudioZip is a lossless audio compressor that has been developed at the 
         Centre for Signal Processing - Nanyang Technological University, in 
         Singapore, by professor Lin Xiao. The compression ratio is good, but the 
@@ -118,7 +118,10 @@
         
         You can access a mirror of the AudioZip webpage at the <a target=outside
         href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm">
-        Internet Archive</a>.<br>
+        Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 54,96% (maximum setting)
+        </i><br>
         
         <br>
         <br>

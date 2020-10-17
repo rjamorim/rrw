@@ -95,15 +95,18 @@
         <a href="screens/apac.png" target=outside><img src="screens/apac.png" 
         alt="a-Pac" align=right height=237></a>
         The famous sound card manufacturer Marian created this little lossless 
-        audio app. Compression is not on par with modern compressors, yet, it 
-        works well and features a fine interface.<br><br>
+        audio app. Compression is not on par with modern formats, yet, it works
+        well and features a nice interface.<br><br>
         
         The program also performs decompression and playback. Alas, it is 16 bit, 
-        so it will not run on 64bit Windows systems.<br><br>
+        so it will not run on 64bit Windows systems. Also, as you would expect, 
+        there is no support for long filenames at all.<br><br>
                 
         You can still see Marian's description of the codec at the archived <a
-        href="https://web.archive.org/web/20080723013102/http://www.marian.de/en/downloads" 
-        target=outside>download page</a> (see bottom).<br>        
+        href="https://web.archive.org/web/20080723013102/http://www.marian.de/en/downloads"
+        target=outside>download page</a> (see bottom).<br><br>
+        
+        <i>Compression performance in my limited test: 61,87%</i><br>
         
         <br>
         <br>

@@ -98,13 +98,16 @@
         capture) to avoid dropped frames.<br><br>
         
         Also, it includes ancilliary data to avoid loss of synchrony. That is another 
-        reason for the suboptimal compression.<br><br>
+        reason for the suboptimal compression - in my limited tests, its performance
+        was on par with <a href=zap.php>Emagic Zap</a>.<br><br>
         
         A lossy mode is also implemented.<br><br>
         
         You can visit the LiteWave web site at the Internet Archive, <a
         href="https://web.archive.org/web/20031203035107/http://www.clearjump.com:80/products/LiteWave.html"
-        target=outside>here</a>.<br>
+        target=outside>here</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 65,24%</i><br>
         
         <br>
         <br>

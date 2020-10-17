@@ -98,7 +98,9 @@
         
         Officially, it is a shareware program, but to my knowledge there are no
         limitations. Registration is now impossible because the author, Richard 
-        P. Sprague, is unreachable.<br>
+        P. Sprague, is unreachable.<br><br>
+        
+        <i>Compression performance in my limited test: 58,08% (-X setting)</i><br>
         
         <br>
         <br>

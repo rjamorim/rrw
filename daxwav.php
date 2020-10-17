@@ -113,13 +113,15 @@
         one, has a highlight of its own: the "Q" slider allows users to truncate
         the bit depth of the file being played in real time. Besides that, the 
         "V" slider is the volume control, and the "M" slider is meant to adjust 
-        compression ratio vs. speed (but even the best compression mode does not
-        offer a decent ratio compared to other lossless compressors). And it too
+        compression ratio vs. speed (but even the best compression mode offers
+        terrible performance compared to other lossless compressors). And it too
         features a baffling interface.<br><br>
         
         The Dakx LLC web site can still be visited at the <a target=outside
         href="https://web.archive.org/web/20010204020400/http://www.dakx.com/">
-        Internet Archive</a>.<br>
+        Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 62,86% (S setting)</i><br>
         
         <br>
         <br>

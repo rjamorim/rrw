@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -100,7 +100,9 @@
         
         The LTAC webpage is mirrored at the <a target=outside
         href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html">
-        Internet Archive</a>.<br>
+        Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 56,2% (setting 4096)</i><br>
         
         <br>
         <br>
@@ -129,7 +131,9 @@
         
         The LPAC webpage is also mirrored at the <a target=outside
         href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html">
-        Internet Archive</a>.<br>        
+        Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 53,08% (setting 5)</i><br>
 
         <br>
         <br>

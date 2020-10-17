@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=300 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=300 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -105,7 +105,9 @@
         target=outside>data sheet</a>.<br>
         
         <a href="https://groups.google.com/forum/?fromgroups=#!topic/comp.music.research/uCu3xAi2k7o" 
-        target=outside>This</a> is an introductory message by the author.<br>
+        target=outside>This</a> is an introductory message by the author.<br><br>
+        
+        <i>Compression performance in my limited test: 61,78%</i><br>
         
         <br>
         <br>
