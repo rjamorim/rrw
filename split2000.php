@@ -109,7 +109,7 @@
         even then, it is among the worst performing lossless compressors in RRW, 
         coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
         
-        The encoder web page is gone, so I'm mirroring it <a 
+        The encoder web page is gone, so I am mirroring it <a 
         href="mirrors/split2000/split2000.html">here</a>.<br><br>
         
         <i>Compression performance in my limited test: 66,25%</i><br>
@@ -123,8 +123,8 @@
         Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
         Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
         - 110kB<br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
-        submitting this codec.</i><br>
+        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
+        this codec.</i><br>
         
         <br>        
         <b>Update:</b> <br>
