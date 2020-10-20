@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -123,7 +123,8 @@
         Platform: Linux<br>
         Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
         Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110kB<br>
+        - 110kB<br><br>
+        
         <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
         this codec.</i><br>
         
