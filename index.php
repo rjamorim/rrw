@@ -61,17 +61,17 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1200 src="dot.gif">
+<img width=1 height=1400 src="dot.gif">
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
 target=outside>
 <img alt="Creative Commons License" style="border-width:0"
 src="img/88x31.png" /></a>
 <br />All text in this website is licensed under a <a style="color: white"
-rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
 target=outside>Creative Commons Attribution-ShareAlike 4.0 International License</a>
 
 <!-- /Creative Commons License -->
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-08-20<br><br>
+<br><br><br>Last update: 2020-10-20<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,7 +137,30 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
-                
+            
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-10-20: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b> Another bunch of goodies </b></font><p>
+                  An update with several goodies provided by Martin Wagner and 
+                  other lovely visitors of ReallyRareWares!
+
+                  <ul>
+                    <li>Electronic Cosmo MP3 encoder (thanks to Stefan)</li>
+                    <li>EAQUAL objective audio quality measurement tool (thanks to Martin Wagner)</li>
+                    <li>WinMusic audio player for Win3.1</li>
+                    <li>Several Gogo versions (thanks to Martin Wagner)</li>
+                    <li>Tag and Wapet taggers (thanks to includemeout)</li>
+                    <li>Psytel AACenc Public Evaluation Versions (thanks to Martin Wagner)</li>
+                  </ul>
+                  
+                  Also, I added information about each lossless compressor's performance, 
+                  with plans to soon add several formats missing from the list. My so-called
+                  "limited tests" consist of compressing Bob Dylan's album <i>The Times They 
+                  Are A-Changin'</i> and comparing how each compressor performs.
+            </blockquote></font>        
+        
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-08-20: </b></div><p>
             </font>
@@ -166,7 +189,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
                   <ul>
                     <li>Shorten lossless compressor and mkwACT (thanks to Marco Pontello)</li>
-                    <li>MP3 Jukebox - a featureful player for Win3.1 (thanks to Arthurro Ludvicco)</li>
+                    <li>MP3 Jukebox - a featureful player for Win 3.1 (thanks to Arthurro Ludvicco)</li>
                     <li>MixMP3 line-in recorder (thanks to Zachary Jelesoff)</li>
                     <li>Real Jukebox Plus (thanks (?) to Richard Birch)</li>
                     <li>More versions of Nero AAC Encoder (thanks to Martin Wagner)</li>

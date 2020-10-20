@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Split2000 lossless compressor</TITLE>
+<TITLE>ReallyRareWares - Electronic Cosmo MP3 encoder</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -90,50 +90,33 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
-        </font>
+          <br><div align="justify"><b> Electronic Cosmo MP3 encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/split2000.png" target=outside><img src="screens/split2000.png" 
-        alt="Split2000" align=right height=275></a>
-        Split2000 is a very obscure lossless compressor for Linux. As far as I 
-        can tell it was never ported to other operating systems. Actually, 
-        neither the sources not the precompiled binary available here seem to 
-        work, at least on recent Linux versions. So, unless someone takes the 
-        time to update the code, this codec can be considered completely dead.
-        <br><br>
+        <a href="screens/ecosmo.png" target=outside><img src="screens/ecosmo.png" 
+        alt="Electronic Cosmo Encoder" align=right height=270></a>
+        Electronic Cosmo was a freeware MPEG layers 1/2/3 encoder created by two
+        Norwegian programmers.<br><br>
         
-        Anyway, from what I understood of the readme and playing around with it, 
-        it is not a true lossless audio compressor, but it preprocesses the audio 
-        data and then feeds this preprocessed data into a generic data compressor
-        - the default option is bzip2. This helps Split2000 achieve much better
-        compression that the generic data compressor would achieve by itself, but
-        even then, it is among the worst performing lossless compressors in RRW, 
-        coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
+        The encoder is distributed as part of a larger program called MPEG 
+        Suite. It is quite featureful, offering batch encoding, transcoding and
+        decoding. Besides their own encoder - which seems to be little more than
+        a dist10 compile -, you can choose to encode using <a href=blade.php>
+        Blade</a> (version 0.76) and <a href=plugger.php>Plugger</a> (version 0.4)
+        which are distributed in the same installation. The decoding routines 
+        are based on <a href=xaudio.php>XAudio</a>.<br><br>
         
-        The encoder web page is gone, so I am mirroring it <a 
-        href="mirrors/split2000/split2000.html">here</a>.<br><br>
+        The web site is surprisingly still availabe, <a target=outside 
+        href="http://ec2000.net/index.php">here</a>.<br><br>
         
-        <i>Compression performance in my limited test: 66,25%</i><br>
-        
+        <i>Thanks to Stefan for introducing me to this encoder.</i><br>        
+
         <br>
         <br>
-        Date: 1998<br>
-        Version: 1.0.0<br>
-        Interface: Graphical or command line<br>
-        Platform: Linux<br>
-        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
-        Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110kB<br>
-        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
-        this codec.</i><br>
-        
-        <br>        
-        <b>Update:</b> <br>
-        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent 
-        Linux versions. He was kind enough to provide diff files and binaries 
-        that were compiled on Debian/unstable.<br>
-        Very big thanks!<br>
-        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
+        Date: 2005-08-31<br>
+        Version: 1.5.5<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/mpeg/MPEGSuite.exe">MPEGSuite.exe</a> - 683kB<br>
 
         </blockquote></font>
 

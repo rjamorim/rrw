@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Split2000 lossless compressor</TITLE>
+<TITLE>ReallyRareWares - WinMusic</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,50 +90,57 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
-        </font>
+          <br><div align="justify"><b> WinMusic </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/split2000.png" target=outside><img src="screens/split2000.png" 
-        alt="Split2000" align=right height=275></a>
-        Split2000 is a very obscure lossless compressor for Linux. As far as I 
-        can tell it was never ported to other operating systems. Actually, 
-        neither the sources not the precompiled binary available here seem to 
-        work, at least on recent Linux versions. So, unless someone takes the 
-        time to update the code, this codec can be considered completely dead.
-        <br><br>
+        <a href="screens/WinMusic.png" target=outside><img src="screens/WinMusic.png" 
+        alt="WinMusic on Win 3.11" align=right height=260></a>
+        WinMusic is a jukebox software developed by LLERRAH - Harrell backwards,
+        as it was developed by Brenda Harrell. It is distributed with dozens of 
+        MIDI files of popular music as well as some original compositions by Margi 
+        Harrell (Brenda's sister, who also recorded all the songs).<br><br>
         
-        Anyway, from what I understood of the readme and playing around with it, 
-        it is not a true lossless audio compressor, but it preprocesses the audio 
-        data and then feeds this preprocessed data into a generic data compressor
-        - the default option is bzip2. This helps Split2000 achieve much better
-        compression that the generic data compressor would achieve by itself, but
-        even then, it is among the worst performing lossless compressors in RRW, 
-        coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
+        The interface is so whimsical and colorful, it passes right past garish 
+        and becomes endearing. Fortunately, it is possible to turn off the 
+        animations...<br><br>
         
-        The encoder web page is gone, so I am mirroring it <a 
-        href="mirrors/split2000/split2000.html">here</a>.<br><br>
+        It runs on 16-bit Windows besides 32-bit versions of the OS, but I could
+        not get it to work in 3.1 other than for a single MIDI file distributed 
+        with the program. It seems to run more smoothly on Windows 98 and XP.<br><br>
         
-        <i>Compression performance in my limited test: 66,25%</i><br>
+        Also, despite running on Win16, the program is distributed in an installer 
+        that requires Win32. To solve that problem, I repackaged the files into a
+        Win16 installer that is just a self extracting RAR archive. In this case
+        you will lose the long file names of the MIDI files, but they would have 
+        been lost in Win 3.1 anyway.<br><br>
+        
+        The program supports an impressive array of formats, including WAV, MIDI,
+        MP3, AVI, MPEG, MOV, CD-Audio, AIFF and a few more. However it seems it 
+        requires external programs for media decoding -  Windows Media Player 
+        and QuickTime - but I am not sure as documentation is quite scarce.<br><br>
+        
+        In any case, I managed to track down the last version of Windows Media 
+        Player for Win 3.11, version 5.2 beta, and made it available in this page.
+        Maybe you will be luckier than me getting WinMusic to work.<br><br>
+        
+        The program stopped being developed in 2005 and is no longer on sale, 
+        but despite being shareware, it seems there are no limitations. The <a 
+        href="https://llerrah.com/winmusic.htm" target=outside>web page</a> is
+        still available.<br>
         
         <br>
         <br>
-        Date: 1998<br>
-        Version: 1.0.0<br>
-        Interface: Graphical or command line<br>
-        Platform: Linux<br>
-        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
-        Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110kB<br>
-        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
-        this codec.</i><br>
-        
-        <br>        
-        <b>Update:</b> <br>
-        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent 
-        Linux versions. He was kind enough to provide diff files and binaries 
-        that were compiled on Debian/unstable.<br>
-        Very big thanks!<br>
-        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
+        Date: 2005-08-04<br>
+        Version: 4.8<br>
+        Interface: Graphical<br>
+        Platform: Win16<br>
+        Download: <a href="files/players/winmus48.exe">winmus48.exe</a> - 904kB<br>
+        Win16 installer: <a href="files/players/winmus.exe">winmus.exe</a> - 782kB<br>
+        <br>
+        Date: 1998-07-03<br>
+        Version: 5.2 beta<br>
+        Interface: Graphical<br>
+        Platform: Win16<br>
+        Download: <a href="files/players/mp52beta.exe">mp52beta.exe</a> - 5.553kB<br>
 
         </blockquote></font>
 

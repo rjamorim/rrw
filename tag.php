@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Split2000 lossless compressor</TITLE>
+<TITLE>ReallyRareWares - Tag &amp; Wapet</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,50 +90,51 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
-        </font>
+          <br><div align="justify"><b> Tag &amp; Wapet </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/split2000.png" target=outside><img src="screens/split2000.png" 
-        alt="Split2000" align=right height=275></a>
-        Split2000 is a very obscure lossless compressor for Linux. As far as I 
-        can tell it was never ported to other operating systems. Actually, 
-        neither the sources not the precompiled binary available here seem to 
-        work, at least on recent Linux versions. So, unless someone takes the 
-        time to update the code, this codec can be considered completely dead.
-        <br><br>
+        Tag and Wapet are two small command line utilities to perform tagging in
+        audio files. They were developed by Janne Hyv&auml;rinen (Case) with
+        further development by Neil Popham (Synthetic Soul)<br><br>
         
-        Anyway, from what I understood of the readme and playing around with it, 
-        it is not a true lossless audio compressor, but it preprocesses the audio 
-        data and then feeds this preprocessed data into a generic data compressor
-        - the default option is bzip2. This helps Split2000 achieve much better
-        compression that the generic data compressor would achieve by itself, but
-        even then, it is among the worst performing lossless compressors in RRW, 
-        coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
+        Tag is a file tagger that attempts to guess the tagging scheme from the
+        file name, based on dozens of presets - or you can write your own 
+        presets based on the way you name your media files and folders. It can 
+        also convert tags from one format to another (E.G, from ID3v1 to APEv2)
+        and remove tags altogether.<br><br>
         
-        The encoder web page is gone, so I am mirroring it <a 
-        href="mirrors/split2000/split2000.html">here</a>.<br><br>
+        The tag formats it supports are ID3v1, ID3v2, APEv1, APEv2, Vorbis and 
+        Flac (but ID3v2 is only supported for reading and removing - not adding 
+        -, because Case strongly disliked this tag format).<br><br>
         
-        <i>Compression performance in my limited test: 66,25%</i><br>
+        Wapet, on the other hand, is meant to be used as a wrapper for encoders
+        that do not have built-in tagging. For example, if you use a ripper that
+        does not support tagging and neither does the encoder, you can configure
+        your ripper to use Wapet, which by its turn will call the encoder, wait 
+        for the encoding process to finish and append the tag to the encoded
+        file. It only supports the APE formats.<br><br>
         
+        Case's page is long gone and I could not find a mirror of it, but 
+        Synthetic Soul's is stil available at the <a target=outside
+        href="https://web.archive.org/web/20090302024447/http://synthetic-soul.co.uk/"
+        >Internet Archive</a>.<br><br>
+        
+        <i>Big thanks to includemeout for reminding me of Tag and Wapet.</i><br>
+
         <br>
         <br>
-        Date: 1998<br>
-        Version: 1.0.0<br>
-        Interface: Graphical or command line<br>
-        Platform: Linux<br>
-        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
-        Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110kB<br>
-        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
-        this codec.</i><br>
-        
-        <br>        
-        <b>Update:</b> <br>
-        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent 
-        Linux versions. He was kind enough to provide diff files and binaries 
-        that were compiled on Debian/unstable.<br>
-        Very big thanks!<br>
-        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
+        Date: 2007-05-03<br>
+        Version: 2.0.52<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/tag_2.0.52.zip">tag_2.0.52.zip</a> - 196kB<br>
+        Sources: <a href="files/others/tag_2.0.52_source.zip">tag_2.0.52_source.zip</a> - 163kB<br>
+        <br>
+        Date: 2007-05-11<br>
+        Version: 0.6<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/wapet_0.6.zip">wapet_0.6.zip</a> - 6kB<br>
+        Sources: <a href="files/others/wapet_0.6_source.zip">wapet_0.6_source.zip</a> - 9kB<br>
 
         </blockquote></font>
 

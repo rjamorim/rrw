@@ -52,7 +52,7 @@
     <tr><td></td></tr>
 
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=2150><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
@@ -102,6 +102,7 @@
                 <a href=cannamp3.php>CannaMP3 MP3 encoder</a><br>
                 <a href=ctmp3pro.php>Coding Technologies MP3pro encoder</a><br>
                 <a href=dropmp3.php>DropMP3 encoder for Mac</a><br>
+                <a href=ecosmo.php>Electronic Cosmo MP3 encoder</a><br>
                 <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
@@ -195,7 +196,7 @@
                 <a href=emuzed.php>Emuzed MP4 encoder</a><br>
                 <a href=homeboy.php>Homeboy AAC encoder, decoder and Winamp plugin</a><br>
                 <a href=mbsoft.php>MBsoft AAC encoder and Winamp plugin</a><br>
-                <a href=aacenc.php>Psytel AACenc and Fastenc</a><br>
+                <a href=aacenc.php>PsyTEL AACenc and Fastenc</a><br>
                 <a href=neroaac.php>Nero AAC encoder and decoder</a><br>
             </blockquote>
 
@@ -225,7 +226,7 @@
                 <a href=realjuke.php>RealJukebox</a><br>
                 <a href=sonique2.php>Sonique2 alpha MP3 player</a><br>
                 <a href=soundapp.php>SoundApp Mac OS Player</a><br>
-                <!--<a href=winmusic.php>WinMusic for Win3.1</a><br>-->
+                <a href=winmusic.php>WinMusic for Win3.1</a><br>
                 <a href=wwv.php>WWV VQF player</a><br>
                 <a href=xaudio.php>XAudio player</a><br>
                 <a href=xingsound.php>XingSound MP2/XingMP3 player</a><br>
@@ -241,10 +242,12 @@
                 <a href=audiocat.php>AudioCatalyst CD ripper</a><br>
                 <a href=cooledit.php>CoolEdit audio editor</a><br>
                 <a href=coolflt.php>CoolEdit/Audition import/export filters</a><br>
+                <a href=eaqual.php>EAQUAL - Evaluation of Audio Quality</a><br>
                 <a href=eac.php>Exact Audio Copy CD ripper</a><br>
                 <a href=encspot.php>EncSpot MP3 analyzer</a><br>
                 <a href=mixmp3.php>MixMP3 line-in recorder</a><br>
                 <a href=mpegac.php>MPEG Audio Creator CD ripper</a><br>
+                <a href=tag.php>Tag and Wapet taggers</a><br>
             </blockquote>
 
         </blockquote></font>

@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Split2000 lossless compressor</TITLE>
+<TITLE>ReallyRareWares - EAQUAL</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,50 +90,45 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
-        </font>
+          <br><div align="justify"><b> EAQUAL </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/split2000.png" target=outside><img src="screens/split2000.png" 
-        alt="Split2000" align=right height=275></a>
-        Split2000 is a very obscure lossless compressor for Linux. As far as I 
-        can tell it was never ported to other operating systems. Actually, 
-        neither the sources not the precompiled binary available here seem to 
-        work, at least on recent Linux versions. So, unless someone takes the 
-        time to update the code, this codec can be considered completely dead.
-        <br><br>
+        EAQUAL (Evaluation of Audio Quality) is an ITU-R BS.1387 implementation
+        developed by the DSP engineer Alexander Lerch - the creator of the <a 
+        href=compaact.php>Compaact!</a> AAC encoder.<br><br>
         
-        Anyway, from what I understood of the readme and playing around with it, 
-        it is not a true lossless audio compressor, but it preprocesses the audio 
-        data and then feeds this preprocessed data into a generic data compressor
-        - the default option is bzip2. This helps Split2000 achieve much better
-        compression that the generic data compressor would achieve by itself, but
-        even then, it is among the worst performing lossless compressors in RRW, 
-        coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
+        The ITU-R BS.1387 standard aims to provide objective quality measurement
+        for compressed audio signals. Unlike subjective audio comparisons
+        (listening tests) that depend on each listener's auditory system, EAQUAL
+        mathematically models the same auditory system, therefore generating 
+        consistent results across a broad spectrum of samples. As the author once 
+        described, in the context of listening tests: "Perhaps you should think 
+        of EAQUAL as _one_ listener whose results are not depending on his mood
+        and his concentration, who never gets tired and whose results are
+        repeatable."<br><br>
         
-        The encoder web page is gone, so I am mirroring it <a 
-        href="mirrors/split2000/split2000.html">here</a>.<br><br>
+        The most relevant output of EAQUAL is the ODG (Objective Difference 
+        Grade), a numeric value. An ODG of -4 means a very annoying disturbance, 
+        while an ODG of 0 means that there is no perceptible difference between
+        the samples being evaluated. Wim Speekenbrink tested several samples on 
+        several encoders (of that time, early 2002) and published the EAQUAL 
+        results at his <a target=outside 
+        href="http://web.archive.org/web/20030225144341/http://home.wanadoo.nl/~w.speek/eaqual.htm">
+        web site</a>.<br><br>
         
-        <i>Compression performance in my limited test: 66,25%</i><br>
+        Alexander stopped developing EAQUAL on February 2002 because of threats 
+        from the patent owners, therefore version 0.1.3a, below, is the last
+        release.<br><br>
         
+        <i>Big thanks to Martin Wagner for reminding me of EAQUAL.</i><br>
+
         <br>
         <br>
-        Date: 1998<br>
-        Version: 1.0.0<br>
-        Interface: Graphical or command line<br>
-        Platform: Linux<br>
-        Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
-        Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
-        - 110kB<br>
-        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
-        this codec.</i><br>
-        
-        <br>        
-        <b>Update:</b> <br>
-        Mr. Volodymyr Poltavets managed to adapt Split2000 to compile on recent 
-        Linux versions. He was kind enough to provide diff files and binaries 
-        that were compiled on Debian/unstable.<br>
-        Very big thanks!<br>
-        Download: <a href="files/lossless/split2000mod.tar.gz">split2000mod.tar.gz</a> - 167kB.
+        Date: 2002-02-06<br>
+        Version: 0.1.3 alpha<br>
+        Interface: Command line<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/eaqual013.zip">eaqual013.zip</a> - 212kB<br>
+        Sources: <a href="files/others/eaqual013.tar.gz">eaqual013.tar.gz</a> - 384kB<br>
 
         </blockquote></font>
 

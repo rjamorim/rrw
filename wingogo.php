@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -103,8 +103,9 @@
         available <a href="http://www.marinecat.net/free/windows/mct_free.htm"
         target=outside>here</a>.<br><br>
         
-        The versions available here (except 3.09) are DLL builds, with a graphical 
-        frontend (WinGOGO.exe) and a command line frontend (GOGO_8HZ.exe). The main 
+        The 2.x and 3.13a versions available below are DLL builds, with a graphical
+        frontend (WinGOGO.exe) and a command line frontend (GOGO_8HZ.exe). The other
+        versions (3.07 - 3.12) contain a command line encoder and the DLL. The main 
         difference between versions 2.24 and 2.39 is that the latter offers VBR 
         encoding.<br><br>
         
@@ -120,26 +121,61 @@
         Version: 3.13a (based on LAME 3.88)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing313a.exe">wing313a.exe</a> - 3.756kB<br>
-        Package for non-Japanese Windows: <a href="files/mpeg/wing313a-pack.zip">wing313a-pack.zip</a> - 840kB<br>
+        Download: <a href="files/gogo/wing313a.exe">wing313a.exe</a> - 3.756kB<br>
+        Package for non-Japanese Windows: <a href="files/gogo/wing313a-pack.zip">wing313a-pack.zip</a> - 840kB<br>
+        <br>
+        Date: 2003-10-06<br>
+        Version: 3.12 (based on LAME 3.88)<br>
+        Interface: Command line + DLL<br>
+        Platform: Win32<br>
+        Download: <a href="files/gogo/gogo3.12.zip">gogo3.12.zip</a> - 290kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
+        <br>
+        Date: 2002-11-26<br>
+        Version: 3.11 (based on LAME 3.88)<br>
+        Interface: Command line + DLL<br>
+        Platform: Win32<br>
+        Download: <a href="files/gogo/gogo3.11.zip">gogo3.11.zip</a> - 436kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
+        <br>
+        Date: 2002-03-11<br>
+        Version: 3.10 (based on LAME 3.88)<br>
+        Interface: Command line + DLL<br>
+        Platform: Win32<br>
+        Download: <a href="files/gogo/gogo3.10.zip">gogo3.10.zip</a> - 210kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
         <br>
         Date: 2002-01-23<br>
         Version: 3.09 (based on LAME 3.88)<br>
-        Interface: Command line<br>
+        Interface: Command line + DLL<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/gogo3.09.zip">gogo3.09.zip</a> - 78kB<br>
+        Download: <a href="files/gogo/gogo3.09.zip">gogo3.09.zip</a> - 175kB<br>
+        <br>
+        Date: 2002-01-03<br>
+        Version: 3.08 (based on LAME 3.88)<br>
+        Interface: Command line + DLL<br>
+        Platform: Win32<br>
+        Download: <a href="files/gogo/gogo3.08.zip">gogo3.08.zip</a> - 155kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
+        <br>
+        Date: 2001-11-03<br>
+        Version: 3.07 (based on LAME 3.88)<br>
+        Interface: Command line + DLL<br>
+        Platform: Win32<br>
+        Download: <a href="files/gogo/gogo3.07.zip">gogo3.07.zip</a> - 202kB<br>
+        <i>Kindly contributed by Martin Wagner</i><br>
         <br>
         Date: 2000-12-31<br>
         Version: 2.39c (based on LAME 3.29 + parts of 3.5x)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing239c.exe">wing239c.exe</a> - 568kB<br>
+        Download: <a href="files/gogo/wing239c.exe">wing239c.exe</a> - 568kB<br>
         <br>
         Date: 2000-01-20<br>
         Version: 2.24d (based on LAME 3.23)<br>
         Interface: Graphical or command line<br>
         Platform: Win32<br>
-        Download: <a href="files/mpeg/wing224d.exe">wing224d.exe</a> - 408kB<br>
+        Download: <a href="files/gogo/wing224d.exe">wing224d.exe</a> - 408kB<br>
         </blockquote></font>
 
         <br><br>
