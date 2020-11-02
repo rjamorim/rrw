@@ -95,19 +95,20 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/soloh.png" target=outside><img src="screens/soloh.png" alt="SoloH" 
         align=right height=284></a>
-        SoloH is another dist10 compile that encodes MP1/2/3 files featuring a fancy GUI. 
-        Also, it works as a CD ripper. For that reason it became pretty popular in its 
-        time.<br><br>
+        SoloH is another dist10 compile featuring a fancy GUI that encodes MP1/2/3
+        files. Also, it works as a CD ripper and is freeware. For those reasons it 
+        became pretty popular in its time.<br><br>
         
-        But popularity comes at a price. This is another encoder that felt the wrath of 
-        Fraunhofer and the developer had to remove binaries from his server.<br><br>
+        But popularity comes at a price. This is another encoder that felt the 
+        wrath of Fraunhofer and the developer had to remove binaries from his 
+        server.<br><br>
         
-        Besides outputting bad quality MP3s it is very slow and buggy. Do not open the 
-        about box, it will hang the program.<br><br>
+        Besides outputting bad quality MP3s it is very slow and buggy. Do not open
+        the about box, it will hang the program.<br><br>
         
-        The web site and version history can be viewed at the Internet Archive, <a 
+        The web site and version history can be viewed at the <a target=outside
         href="https://web.archive.org/web/20170103170919/http://www.euronet.nl/~soloh/mpegEnc/" 
-        target=outside>here</a>.<br>
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
