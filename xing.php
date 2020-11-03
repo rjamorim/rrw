@@ -111,8 +111,8 @@
         on par with <a href=lame.php>LAME</a>, but if you are in a hurry, Xing can
         be a good choice as it is several times faster.<br><br>
         
-        Xing also created players, and they are available at the <a href="xingsound.php">
-        XingSound</a> page.
+        Xing also created <a href="xingsound.php">audio players</a> and a <a 
+        href=audiocatalyst.php>CD Ripper</a>.<br><br>
         
         Xing Technology was acquired by <a href="realjuke.php">RealNetworks</a> in the 
         early 2000s (but you can still check their web site at the Internet Archive, <a 
