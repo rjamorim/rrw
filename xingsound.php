@@ -107,7 +107,8 @@
         in MP3 players.<br><br>
         
         Decoding quality is reasonable. For MP2 playback, the <a 
-        href="mpegplayer.php">Philips MPEG player</a> offers higher accuracy.<br>
+        href="mpegplayer.php">Philips MPEG player</a> offers higher accuracy (but
+        sadly, does not work on Win 3.1).<br>
         
         <br>
         <br>
