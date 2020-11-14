@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=320><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,13 +95,13 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         This is an MP3 encoder based on encoding libraries stolen from Fraunhofer.
         According to rumours, a software developer broke his NDA and distributed
-        these libraries to some programmers. One of these programmers created a command
-        line frontend and called it fastencc.<br><br>
+        these libraries to some programmers. One of them created a command line
+        frontend and named it fastencc.<br><br>
         
-        This encoder has a famously nasty bug in stereo coding, so its usage is not
-        recommended. It is worth mentioning that even though three versions are available
-        here for download, all are based on the same libraries, therefore all of them 
-        have this bug.<br>
+        This encoder has a famously nasty bug in stereo coding, so its use is 
+        not recommended. It is worth mentioning that even though three versions 
+        are available here for download, all are based on the same libraries, 
+        therefore all of them have this bug.<br>
         
         <br>
         <br>
