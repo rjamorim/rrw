@@ -1,4 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 
 <HTML>
 <HEAD>
@@ -53,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,16 +93,18 @@
           <br><div align="justify"> <b>Emuzed MP4 AAC Encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        This AAC encoder was developed by an Indian company named Emuzed for embedded 
-        multimedia applications.<br><br>
+        This AAC encoder was developed by an Indian company named Emuzed for 
+        embedded multimedia applications.<br><br>
         
-        Eventually Emuzed was bought by Flextronics, and later sold to Aricent, a
-        communications company.<br><br>
+        Eventually Emuzed was bought by Flextronics, and later sold to Aricent, 
+        a communications company, that by its turn was bought by Altran, which
+        is part of Capgemini. Whew.<br><br>
         
-        I could not find any information about this encoder at Aricent's page, but 
-        a mirror of the former Emuzed page with some little information can be seen <a 
+        I could not find any information about this encoder at Altran's page, 
+        but a mirror of the former Emuzed page with a little bit of information
+        can be seen <a target=outside
         href="https://web.archive.org/web/20070104221608/http://www.emuzed.com/encoders.html"
-        target=outside>here</a>.<br>
+        >here</a>.<br>
 
         <br>
         <br>
