@@ -92,33 +92,35 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>FhG/Technicolor mp3HD</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        mp3HD was created by FhG and Technicolor (formerly Thomson) as a proprietary 
-        extension to the MP3 format allowing lossless encoding and playback.<br><br>
+        mp3HD was created by FhG and Technicolor (formerly Thomson) as a 
+        proprietary extension to the MP3 format allowing lossless encoding and 
+        playback.<br><br>
         
-        This trick is achieved by encoding a normal MP3 stream, and then grafting into
-        it (actually, in the ID3v2 tag) the discarded data. That way, (most) normal 
-        MP3 players can play the lossy track and special decoders can take into 
-        consideration the extra data, enabling lossless playback.<br><br>
+        This trick is achieved by encoding a normal MP3 stream, and then grafting
+        into it (actually, in the ID3v2 tag) the discarded data. That way, (most)
+        normal MP3 players can play the lossy track and special decoders can take
+        into consideration the extra data, enabling lossless playback.<br><br>
         
         Storing the lossless data in the ID3v2 tag poses problems by itself: some 
-        decoders do not understand this information and interpret that the file is
-        corrupt. Also, some tag editors do not recognize that kind of data and remove
-        it upon updating the tag. Finally, the ID3v2 specification limits the tag 
-        size to 256MB, therefore the lossless data can not exceed that size (most
-        full CDs, at 75-80 minutes, would easily do so).<br><br>
+        decoders do not understand this information and interpret that the file 
+        is corrupt. Also, some tag editors do not recognize that kind of data and
+        remove it upon updating the tag. Finally, the ID3v2 specification limits
+        the tag size to 256MB, therefore the lossless data can not exceed that
+        size (most full CDs, at 75-80 minutes, would easily do so).<br><br>
         
-        This mode of operation - lossy stream + discarded data to achieve lossless
-        compression - is the same idea employed by <a href="wavpack.php">WavPack</a>
-        hybrid mode and OptimFrog DualStream.<br><br>
+        This mode of operation - lossy stream plus discarded data to achieve
+        lossless compression - is the same idea employed by <a href="wavpack.php">
+        WavPack</a> hybrid mode and OptimFrog DualStream.<br><br>
         
         Just like <a href="ctmp3pro.php">MP3pro</a> and <a href="fhgmp3s.php">MP3
-        Surround</a>, mp3HD failed to become popular and was quickly abandoned by its
-        creators. Fortunately, Archive.org has a mirror of the original web page, <a
-        href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com:80/" 
-        target=outside>here</a>.<br><br>
+        Surround</a>, mp3HD failed to become popular and was quickly abandoned by
+        its creators. Fortunately, you can see a mirror of the original web page
+        at the <a target=outside
+        href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com/" 
+        >Internet Archive</a>.<br><br>
         
-        <i>Big thanks to Zachary Jelesoff for sending me this file and reminding me 
-        of the existence of mp3HD!</i><br>
+        <i>Thanks to Zachary Jelesoff for sending me this file and reminding
+        me of the existence of mp3HD!</i><br>
 
         <br>
         <br>
