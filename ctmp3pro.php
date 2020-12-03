@@ -95,30 +95,32 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mp3pro.png" target=outside><img src="screens/mp3pro.png" 
         alt="MP3pro Audio Player" align=right height=162></a>
-        MP3pro was a nice new addition to the MP3 format. It allows 64kbps files to 
-        have similar quality to files in the 96kbps-128kbps range.<br><br>
+        MP3pro was a nice new addition to the MP3 format. It allows 64kbps files
+        to have similar quality to files in the 96kbps-128kbps range.<br><br>
         
         What enabled this small miracle is a technology called SBR (Spectral Band 
-        Replication) developed by Coding Technologies. It regenerates the high frequency 
-        components normally lost when compressing music to such low bitrates.<br><br>
+        Replication) developed by Coding Technologies. It regenerates the high 
+        frequency components normally lost when compressing music to such low 
+        bitrates.<br><br>
         
-        Unfortunately the addition of SBR to MP3 was never standardized. For this reason,
-        there are few players supporting it and fewer encoders - basically, only players
-        and encoders based on official libraries from FhG / Thomson / CodingTechnologies.
-        Particularly, no open source implementations of encoders or decoders exist, 
-        hampering adoption of MP3pro in any operating system other than Windows (the MP3pro 
-        files are compatible with all compliant MP3 decoders, but without the SBR part, 
+        Unfortunately the addition of SBR to MP3 was never standardized. For 
+        this reason, there are few players supporting it and fewer encoders - 
+        basically, only players and encoders based on official libraries from 
+        FhG / Thomson / CodingTechnologies. Particularly, no open source 
+        implementations of encoders or decoders exist, hampering adoption of 
+        MP3pro in any operating system other than Windows (the MP3pro files are 
+        compatible with all compliant MP3 decoders, but without the SBR part, 
         greatly decreasing the audio quality).<br><br>
         
         SBR was later added to the AAC standard with the HE-AAC name.<br><br>
         
-        A mirror of the official MP3pro page can be visited <a
-        href="https://web.archive.org/web/20050712020233/http://www.mp3prozone.com:80/index.htm" 
-        target=outside>here</a>.<br><br>
+        A mirror of the official MP3pro page can be visited at the <a target=outside
+        href="https://web.archive.org/web/20050712020233/http://www.mp3prozone.com/index.htm" 
+        >Internet Archive</a>.<br><br>
         
-        The application available here for download is the Coding Technologies MP3pro 
-        demo. It can play MP3pro in all available bitrates, but encodes only to 64kbps.
-        There is also a playback plugin for XMMS.<br>
+        The application available here for download is the Coding Technologies 
+        MP3pro demo. It can play MP3pro in all available bitrates, but encodes 
+        only to 64kbps. There is also a playback plugin for XMMS.<br>
 
         <br>
         <br>
