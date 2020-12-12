@@ -94,14 +94,15 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/fhgmp3s-ply.png" target=outside><img src="screens/fhgmp3s-ply.png" 
         alt="MP3S Player" align=right></a>
-        MP3 Surround was yet another attempt by Fraunhofer (like <a href="ctmp3pro.php">MP3pro</a>
-        and <a href="fhgmp3hd.php">mp3HD</a>) to extend the lifespan of the MP3 format 
-        (and by lifespan, I mean "the period of time we can continue extracting licensing 
-        fees from users")<br><br>
+        MP3 Surround was yet another attempt by Fraunhofer and friends (like <a 
+        href="ctmp3pro.php">MP3pro</a> and <a href="fhgmp3hd.php">mp3HD</a>) to 
+        extend the lifespan of the MP3 format (and by lifespan, I mean "the 
+        period of time we can continue extracting licensing fees from users")
+        <br><br>
 
-        It is worth stressing this is not the <a href="philipsmc.php">MPEG Multichannel</a> 
-        extension defined in the MPEG2 standard. MP3 Surround is not standardized, it 
-        is a proprietary extension created by FhG.<br><br>
+        It is worth stressing this is not the <a href="philipsmc.php">MPEG 
+        Multichannel</a> extension defined in the MPEG2 standard. MP3 Surround 
+        is not standardized, it is a proprietary extension created by FhG.<br><br>
 
         The idea here is to generate a standard stereo MP3 file with an ancillary 
         track of surround information (which takes about 16kbps) bolted to it. In 
@@ -111,26 +112,27 @@
         normal decoders can decode the standard stereo track, providing backwards 
         compatibility.<br><br>
 
-        The GUI encoder only accepts 5.1 wav files. Also, it is worth mentioning v1.1.5 
-        expired on 2013-12-31 (version 1.1.4 expired on 2007-12-31), so set your PC 
-        clock to before that date if you want to use it. You can also use the command 
-        line encoders (for Windows, Linux and Mac OS X) which, as far as I can tell, 
-        do not expire (and accept six mono WAVs besides multichannel files).<br><br>
+        The GUI encoder only accepts 5.1 wav files. Also, it is worth mentioning 
+        v1.1.5 expired on 2013-12-31 (version 1.1.4 expired on 2007-12-31), so 
+        set your PC clock to before that date if you want to use it. You can also
+        use the command line encoders (for Windows, Linux and Mac OS X) which, 
+        as far as I can tell, do not expire (and accept six mono WAVs besides 
+        multichannel files).<br><br>
 
-        I am also hosting here the MP3 SX Converter, a tool that takes stereo MP3 files 
-        and attempts to add surround sound information to them. Reviews around the 
-        Internet say it is not really good.<br><br>
+        I am also hosting here the MP3 SX Converter, a tool that takes stereo 
+        MP3 files and attempts to add surround sound information to them. Reviews
+        around the Internet say it was not really good.<br><br>
 
-        Just like MP3pro, MP3 Surround failed to get any traction anywhere (although,
-        surprisingly, it was supported on the <a 
+        Just like MP3pro, MP3 Surround failed to get any traction anywhere 
+        (although, surprisingly, it was supported on the <a target=outside
         href="http://manuals.playstation.net/document/en/ps3/current/music/filetypes.html"
-        target=outside>PlayStation 3</a>) and was quietly abandoned by FhG. But as 
-        usual, Archive.org comes to the rescue and you can check their pages, with 
-        technical information and marketing blurbs, <a
-        href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com:80/" 
-        target=outside>here</a> and <a 
-        href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de:80/amm/download/mp3surround/index.html"
-        target=outside>here</a>.<br>
+        >PlayStation 3</a>) and was quietly abandoned by FhG. But as usual, the
+        Internet Archive comes to the rescue and you can check their pages, with 
+        technical information and marketing blurbs, <a target=outside
+        href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com/" 
+        >here</a> and <a target=outside
+        href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de/amm/download/mp3surround/index.html"
+        >here</a>.<br>
 
         <br>
         <br>
