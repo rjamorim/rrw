@@ -94,21 +94,22 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/qdesign-mvp.png" target=outside><img src="screens/qdesign-mvp.png" 
         alt="QDesign MVP" align=right height=320></a>
-        The QDesign Music Codec was originally <a href="lbpack.php">LBpack</a>, by 
-        Dmitry Shmunk. QDesign corporation bought the codec and hired the developer 
-        to create what would become the official audio compression in Apple's 
-        <a href="http://www.quicktime.com" target=outside>QuickTime</a> v3.<br><br>
+        The QDesign Music Codec was originally <a href="lbpack.php">LBpack</a>, 
+        by Dmitry Shmunk. QDesign corporation bought the codec and hired the 
+        developer to create what would become the official audio compression in 
+        Apple's <a href="http://www.quicktime.com" target=outside>QuickTime</a> 
+        v3.<br><br>
         
-        The codec's official name is "RaveSound", according to <a
-        href="mirrors/qdesign/01_06_98.htm" target=outside>this</a> press release, 
-        but is commonly called QDesign Codec. It is one of the most agressive encoders 
+        The codec's official name is "RaveSound", according to <a target=outside
+        href="mirrors/qdesign/01_06_98.htm">this</a> press release, but is 
+        commonly called QDesign Codec. It is one of the most agressive encoders 
         known - meaning it compresses quite well at very low bitrates, but its
         intense processing of the audio signal introduces too many artifacts at 
         higher bitrates.<br><br>
         
-        The personal version comes with QuickTime Pro and allows encoding at bitrates 
-        up to 48kbps. The professional version allows bitrates up to 128kbps and fine
-        tuning some encoding parameters.<br><br>
+        The personal version comes with QuickTime Pro and allows encoding at 
+        bitrates up to 48kbps. The professional version allows bitrates up to 
+        128kbps and finetuning some encoding parameters.<br><br>
         
         Hosted here are professional plugins for QuickTime Pro and MVP - QDesign's 
         attempt to enter the audio library manager market - that has unlimited 
@@ -121,13 +122,13 @@
         
         Apple has steered away from proprietary codecs like Sorenson Video and 
         QDesign, and focused on standards (MPEG4). The QDesign codec lost relevance,
-        and the company was bought by DTS in 2004. It formed the basis of DTS LBR 
-        (also known as DTS Express).<br><br>
+        and the company was bought by DTS in 2004. The codec became the basis of 
+        DTS LBR (also known as DTS Express).<br><br>
         
-        A mirror of the QDesign website can still be checked at <a 
+        A mirror of the QDesign website can still be visited at <a target=outside
         href="https://web.archive.org/web/20080514210739/http://www.qdesign.com/index.htm" 
-        target=outside>archive.org</a>. I also saved locally a mirror of the QDesign
-        Music Codec Professional Edition <a href="mirrors/qdesign/qdmc_OSX.htm" 
+        >archive.org</a>. I also saved locally a mirror of the QDesign Music 
+        Codec Professional Edition <a href="mirrors/qdesign/qdmc_OSX.htm" 
         target=outside>product page</a>.<br>
         
         <br>
