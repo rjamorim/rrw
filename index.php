@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1400 src="dot.gif">
+<img width=1 height=1500 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
@@ -99,7 +99,7 @@ target=outside>Creative Commons Attribution-ShareAlike 4.0 International License
 
 -->
 
-<br><br><br>Last update: 2020-10-20<br><br>
+<br><br><br>Last update: 2020-12-23<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,19 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-10-23: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The holidays update</b></font><p>
+                  To close this year, a nice little update to wrap up 2020 and hope
+                  for a better 2021: the Liquid Audio encoders and players, what we
+                  had to put up with to enjoy a little AAC in the late nineties.
+                  <br><br>
+                  
+                  Big thanks to Max Telkov for contributing these! See you all in 2021.
+            </blockquote></font>
             
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-10-20: </b></div><p>
