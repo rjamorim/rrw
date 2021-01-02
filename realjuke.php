@@ -114,9 +114,10 @@
         56, 64 and 96kbps. Other bitrates require Plus.<br><br>
         
         But do not despair, lad! You can rip "CD quality" files with RealJukebox,
-        you only need to accept RN's useless RealAudio format for that. You can 
-        actually go all the way to 352kbps then, but good luck playing these files
-        anywhere besides RealJukebox itself.<br><br>
+        you only need to accept RN's useless RealAudio format for that (actually,
+        that is <a href=sonicstage.php>Sony Atrac3</a> inside the Real Audio 
+        wrapper). You can actually go all the way to 352kbps then, but good luck 
+        playing these files anywhere besides RealJukebox itself.<br><br>
         
         Anyway, there is more to be said about the application. It is incredibly 
         intrusive: the free version installs Real Player - without asking first - 
@@ -124,8 +125,8 @@
         favorites with offers for AOL and similar crap. It tries to steal your 
         file associations and installs TWO resident programs in your system tray 
         that exist only to keep the file associations stolen and send you 
-        notifications (I can only imagine how awesome these were) and steal 
-        system resources and make your life miserable.<br><br>
+        notifications about RN products (I can only imagine how awesome these 
+        were) and steal system resources and make your life miserable.<br><br>
         
         Last, it would not be RN if they were not kowtowing to corporate interests.
         RealJukebox offers (nah, insists) to "protect" (that is, encrypt) the 
