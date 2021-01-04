@@ -106,7 +106,7 @@
         
         But no point even taking that risk: compression performance is quite bad
         (no surprises considering the age of the compressor), so please just do
-        not use it.<nr><br>
+        not use it.<br><br>
         
         <i>Compression performance in my limited test: 64,6%</i><br>
         
