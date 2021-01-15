@@ -95,13 +95,13 @@
         <a href="screens/mp32exe2-player.png" target=outside><img 
         src="screens/mp32exe2-player.png" alt="MP3 to EXE 2 player interface" 
         align=right></a>
-        This application is almost the complete opposite of the <a 
-        href=mp3toexe.php>other one</a> featured in this website. Whereas 
-        Oliver's program is highly customizable, this one is as minimal as can 
-        get. There are no options on the creator app other than output directory, 
-        and the player offers nothing but playback position information. There 
-        are no buttons, no volume control, nothing in the interface is clickable 
-        (other than a link to the program's web page, that is).<br><br>
+        This application is almost the complete opposite of <a href=mp3toexe.php>
+        the other MP3 to EXE</a> featured in this website. Whereas Oliver's 
+        program is highly customizable, this one is as minimal as can get. There
+        are no options on the creator app other than output directory, and the
+        player offers nothing but playback position information. There are no
+        buttons, no volume control, nothing in the interface is clickable (other
+        than a link to the program's web page, that is).<br><br>
         
         On the other hand, the player stub only adds 10kB to the MP3 file size.
         So it is the best choice if file size is of the utmost importance. 
@@ -111,9 +111,9 @@
         src="screens/mp32exe2-creator.png" alt="MP3 to EXE 2 converter interface" 
         align=right height=232></a>
         
-        The web page for the application can be located at the Internet
-        Archive, <a href="http://web.archive.org/web/20010806110947/www.cutess.com/mp3toexe.htm"
-        target=outside>here</a>.<br><br>
+        A mirror of the web page for the application can be seen at the <a 
+        href="http://web.archive.org/web/20010806110947/www.cutess.com/mp3toexe.htm"
+        target=outside>Internet Archive</a>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for introducing me to this alternative
         MP3 to EXE.</i><br>
