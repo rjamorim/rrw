@@ -101,8 +101,8 @@
         It features a pleasing interface and the usual features of a CD ripper: CDDB 
         lookups, tagging, volume normalizing... Versions were available for both 
         Windows and Mac OS Classic, and the Windows version available here (courtesy 
-        of the always reliable FOSI guys) includes the <a href=xingsound.php>XingMP3
-        player</a>.<br><br>
+        of the great FOSI guys) includes the <a href=xingsound.php>XingMP3 player
+        </a>.<br><br>
         
         It is worth pointing out that the Mac version is not based on AudioGrabber, 
         but on Oliver Dreer's <a href=mpegac.php>MPEG Audio Creator</a> - an old CD 
