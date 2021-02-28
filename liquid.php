@@ -103,7 +103,7 @@
         among recording studios and executives, and they were quick to place part 
         of the blame on MPEG in general and Fraunhofer in particular for coming 
         up with a technology that (in their misguided little minds) served for 
-        little more than aiding pirates distributing their precious IP.<br><br>
+        little more than assisting pirates distributing their precious IP.<br><br>
         
         Wanting to avoid a public relations headache, not to mention the threat 
         of court battles, FhG vowed that AAC files would never exist in the wild
@@ -145,18 +145,19 @@
         <a href="screens/LiquidPlayer.png" target=outside><img src="screens/LiquidPlayer.png" 
         alt="Liquid Player for Windows 5.0" align=right height=290></a>
         The encoders available in version 5.0 were AAC (FhG), MP3 (FhG), and
-        AC3 (Dolby), with bitrates as low as 8kbps for modem streaming and as
+        AC3 (Dolby); with bitrates as low as 8kbps for modem streaming and as
         high as 256kbps for "CD Quality". The player version 5.1 for Mac hints 
-        at the addition of <a href=sonicstage.php>Sony Atrac3</a> as a choice.
-        <br><br>
+        at the addition of <a href=sonicstage.php>Sony Atrac3</a> as a choice of
+        encoder.<br><br>
         
         Below you have the Liquifier 5.0 installer for Win32, and the cracked
         executable zipped together with a cracking instructions file. It is
         worth mentioning that the installer refuses to run on Windows XP, I
         suspected it is locked to only run on Windows 9x and Me (but I did not 
-        try it on Windows NT 4 or 2000). Also, a pre-cracked ZIP package that
-        you can just extract on whichever Windows version - even Windows 10, if
-        you provide the required DLL - and it will just run.<br><br>
+        try it on Windows NT 4 or 2000). Also, you can have a pre-cracked ZIP 
+        package that you can extract and run on whichever Windows version - even
+        Windows 10, if you provide the required DLL - and it will just work.
+        <br><br>
         
         The player was pretty but not very featureful. It seems more interested 
         in finding a way to display all the countless metadata that can come
