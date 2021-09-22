@@ -111,8 +111,8 @@
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
         target=outside>Internet Archive</a>.<br><br>
         
-        If you have other versions of Apollo lying around, please contribute them 
-        to the collection!<br>
+        If you have other versions of Apollo lying around, please <a href=about.php>
+        contribute them</a> to the collection!<br>
 
         <br>
         <br>

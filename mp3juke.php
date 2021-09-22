@@ -101,7 +101,7 @@
         But I am getting ahead of myself. Actually, it is not really a player,
         but a frontend to Fraunhofer's <a href=winplay3.php>WinPlay3</a>. So 
         besides getting some very nice features such as ID3 tagging and a 
-        surprisingly complete playlists (here called "Collections") manager, 
+        surprisingly featureful playlists (here called "Collections") manager, 
         your songs are decoded with one of the best MP3 decoders. I tested MP3 
         Jukebox with versions 1.3 and 2.3b5 for Win16 and it worked without 
         issues.<br><br> 

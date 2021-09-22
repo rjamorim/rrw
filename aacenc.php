@@ -102,12 +102,12 @@
         of the ISO reference sources, quality started progressing fast and, for
         some time, it was the only really optimized ISO AAC encoder publicly
         available (versions from FhG and Dolby were only available to developers
-        interested in implementing their technology). Liquifier was also available,
-        but streams created by it were encrypted.<br><br>
+        interested in implementing their technology). <a href=liquid.php>Liquifier</a>
+        was also available, but streams created by it were encrypted.<br><br>
         
         Two versions are available here, AACenc - slow and high quality, and 
         Fastenc - fast and lower quality. At the bottom you will find PsyTEL
-        MPEG-4 studio, the ISO reference sources compile with a frontend.<br><br>
+        MPEG-4 studio, an ISO reference sources compile with a frontend.<br><br>
         
         Around mid-2002 PsyTEL Research and all its assets were bought by Ahead 
         Software AG, makers of Nero Burning ROM, and AACenc became <a 

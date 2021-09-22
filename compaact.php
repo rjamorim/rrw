@@ -98,8 +98,8 @@
         released in late 2003.<br><br>
         
         It met good acceptance as soon as it was released. It was packed with 
-        interesting features: VBR and CBR mores, are four different quality levels
-        (from faster encoding to high quality), support for LC and Main profiles, 
+        interesting features: VBR and CBR modes, four different quality levels
+        (from faster encoding to higher quality), support for LC and Main profiles, 
         ability to select tools such as TNS or PNS, multichannel encoding support,
         several preprocessing routines, and a very interesting preview feature 
         that allows users to preview in real time how their tracks will sound 

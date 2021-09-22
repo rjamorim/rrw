@@ -110,8 +110,8 @@
         together again. That is why a file encoded in one computer would not work 
         in another.<br><br>
         
-        An amusing detail is that "Mafuka" is believed to be a reference to a 
-        profanity, "mother f**ker".<br><br>
+        One amusing detail is that "Mafuka" is believed to be a thinly veiled 
+        reference to a popular profanity, "mother f**ker".<br><br>
         
         I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
         

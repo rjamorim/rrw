@@ -94,8 +94,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/DropMP3.png" target=outside><img src="screens/DropMP3.png" 
         alt="DropMP3 Encoder for Mac OS" align=right height=250></a>
-        DropMP3 is, to the best of my knowledge, the only MP3 encoder for Mac OS
-        Classic using <a href=lame.php>LAME</a>. Since Classic never featured
+        DropMP3 is, to the best of my knowledge, the only free MP3 encoder for Mac 
+        OS Classic using <a href=lame.php>LAME</a>. Since Classic never featured
         a command line interface, native command line applications had to work 
         around this limitation - either by placing the command line interface 
         inside a special window (as in <a href=blade.php>BladeMac</a>), or by using
