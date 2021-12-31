@@ -149,9 +149,9 @@
         alt="mkwACT main screen" align=right height=198></a>
         In the late nineties Michael K. Weise created a tool called mkw Audio
         Compression Tool (mkwACT) that was much beloved among the aforementioned
-        audio trading community, since it batch-generated in one step the Shorten 
-        files and the respective .md5 files, often used back then to verify file 
-        integrity.<br><br>
+        etree audio trading community, since it batch-generated in one step the 
+        Shorten files and the respective .md5 files, often used back then to 
+        verify file integrity.<br><br>
         
         Besides compressing Shorten files, it can encode to MP3 (using Blade) and 
         to its own MKW lossless format (whose compression performance is even 

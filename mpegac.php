@@ -143,7 +143,7 @@
         of the playback speed.<br><br>
         
         It uses the MAplay decoder up to version 1.61, version 1.7b3 and later use
-        the Xing decoding engine. Development ended in version 1.74.<br>
+        the Xing decoding engine. Development ended with version 1.74.<br>
         
         <br>
         <br>

@@ -109,7 +109,7 @@
         
         Also, despite running on Win16, the program is distributed in an installer 
         that requires Win32. To solve that problem, I repackaged the files into a
-        Win16 installer that is just a self extracting RAR archive. In this case
+        Win16 installer that is just a self-extracting RAR archive. In this case
         you will lose the long file names of the MIDI files, but they would have 
         been lost in Win 3.1 anyway.<br><br>
         

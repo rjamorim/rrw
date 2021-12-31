@@ -96,8 +96,8 @@
         <a href="screens/nttvqf-ply.png" target=outside><img src="screens/nttvqf-ply.png" 
         alt="TwinVQ Player" align=right></a>
         TwinVQ is an audio encoding technology developed at NTT (Nippon Telephone and
-        Telegraph). It uses an unique technology called Vector Quantization (VQ) for
-        encoding.<br><br>
+        Telegraph). It uses an unique encoding technique called Vector Quantization 
+        (VQ).<br><br>
         
         The format using the TwinVQ technology is called VQF. There are several 
         limitations in this format: 2 channels at most, no VBR, limited bitrate 

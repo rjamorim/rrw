@@ -105,8 +105,8 @@
         system).<br><br>
         
         The converter allows a high customization level of the generated player,
-        from visuals to functionality, and also allows previewing how the player 
-        is going to look once created. There is even an option to split files to
+        from visuals to features, and also allows previewing how the player is 
+        going to look once created. There is even an option to split files to
         fit in floppy disks! By the way, it is worth mentioning the player stub
         adds about 200kB to the MP3 file size.<br><br>
 
@@ -114,7 +114,7 @@
         which by its turn is based on mpg123, therefore decoding accuracy should
         be high.<br><br>
         
-        For some reason, I could not get the player to work on Windows 10 or XP
+        For some reason I could not get the player to work on Windows 10 or XP
         (the converter works fine on these systems). The screenshot here was 
         taken on a Windows NT 4 virtual machine, and even then, I could not get
         the volume sliders to work.<br><br>

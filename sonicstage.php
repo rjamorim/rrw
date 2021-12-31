@@ -149,10 +149,11 @@
         video game audio for Sony consoles.<br><br>
         
         Besides being implemented in several hardware devices and software 
-        programs created by Sony, the format has been licensed for other MiniDisc
-        manufacturers such as Sharp and Panasonic (as mentioned above) and to 
-        Real Networks as the audio compression engine in <a href=realjuke.php>
-        Real Audio 8</a>.<br><br>
+        programs created by Sony, the format has been licensed to other MiniDisc
+        manufacturers such as Sharp and Panasonic (as mentioned above), to Real 
+        Networks as the audio compression engine in <a href=realjuke.php>Real 
+        Audio 8</a>, and to <a href=liquid.php>Liquid Audio<a/> as a format 
+        option in their platform</a>.<br><br>
         
         You can also try the Sony ATRAC3 ACM codec, available below. It integrates 
         with the Windows <a href=acmstation.php>Audio Compression Manager</a> and

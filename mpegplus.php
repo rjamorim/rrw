@@ -54,7 +54,7 @@
     
     
       </table>
-    <br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=2700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -110,16 +110,16 @@
         
         Now, Musepack was indeed a great format in the late 90s and early 2000s. The 
         competition was quite unremarkable: Ogg Vorbis was still at the beta stage, 
-        the only serious AAC implementation was <a href="aacenc.php">Psytel AAC</a>, 
-        a quite slow encoder, and <a href="lame.php">LAME</a> was far from being the 
-        fast and high quality encoder it is today.<br><br>
+        the only serious publicly available AAC encoder was <a href="aacenc.php">
+        Psytel AAC</a>, which was quite slow, and <a href="lame.php">LAME</a> was 
+        far from being the fast and high quality encoder it is today.<br><br>
         
         Ever since then, Vorbis reached 1.0 release status and beyond, counting on 
         aoyumi's great tuning work. There is also BlackSword's ASM optimization of 
         aoyumi's tune, turning it into a very fast encoder. LAME progressed by leaps 
         and bounds, extracting more quality out of the MP3 format than previously 
         thought possible. And both Nero and iTunes AAC encoders were released, 
-        featuring high quality and fast encoding for this format (at last!).<br><br>
+        bringing high quality and fast encoding for this format (at last!).<br><br>
         
         So, while Musepack lagged behind, competition quickly catch up. In that
         context, where Musepack is no longer the undisputed champion of quality and 
@@ -133,8 +133,8 @@
         The official page is available <a href="http://www.musepack.net" target=outside>
         here</a>.<br><br>
         
-        I would like to thank mister Francis Niechcial - Guruboolez - for contributing 
-        all the binaries here which are not credited to someone else.<br>
+        I would like to thank Francis Niechcial - Guruboolez - for contributing all
+        the binaries here which are not credited to someone else.<br>
         
         <br>
         <br>
