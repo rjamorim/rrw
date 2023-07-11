@@ -99,7 +99,7 @@
         Ivan Dimkovic, the lead programmer.<br><br>
         
         While the first release (the MPEG-4 Studio) was little more than a compile
-        of the ISO reference sources, quality started progressing fast and, for
+        of the ISO reference sources, quality started progressing quickly and, for
         some time, it was the only really optimized ISO AAC encoder publicly
         available (versions from FhG and Dolby were only available to developers
         interested in implementing their technology). <a href=liquid.php>Liquifier</a>

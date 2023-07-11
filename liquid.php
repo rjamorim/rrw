@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=1200><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -120,7 +120,7 @@
         for users to get access to unprotected AAC. They needed to be contented 
         with <a href=homeboy.php>slow and buggy encoders</a> <a href=mbsoft.php>
         based on reference sources</a> or know the right people (like me) that 
-        could fix them with a copy of the latest version of <a href=psytel.php>a
+        could fix them with a copy of the latest version of <a href=aacenc.php>a
         quite better encoder, but nothing amazing</a> (compared to what we were 
         promised when AAC was launched).<br><br>
         
@@ -140,7 +140,7 @@
         of the track (encoded at diferent bitrates and/or different encoders,
         each version with customizable rights: burn to CD, export to device, 
         export to MP3, expiry date... Also, the free versions can be created as 
-        only a clip, and not the entire track).<br><br>
+        only a short clip, not the entire track).<br><br>
         
         <a href="screens/LiquidPlayer.png" target=outside><img src="screens/LiquidPlayer.png" 
         alt="Liquid Player for Windows 5.0" align=right height=290></a>
@@ -169,15 +169,15 @@
         to their specifications and the necessary information, and then submit
         these masters to the Liquid Servers. These were in charge of processing 
         payments from customers and providing them LQTs derived from masters. Of 
-        course these Liquid Servers have gone offline more than a decade ago, so 
-        if you want to try Liquid Audio for yourself, you will need the little 
-        lqm2lqt tool that does exactly that - converts LQM to LQT tracks so they 
-        can be played on Liquid Player.<br><br>
+        course these servers have gone offline decades ago, so if you want to 
+        try Liquid Audio for yourself, you will need the little lqm2lqt tool 
+        that does exactly that - converts LQM to LQT tracks so they can be 
+        played on Liquid Player.<br><br>
         
         Liquid Audio enjoyed some success for a few years, but could not compete
         with better established competitors in the music distribution arena such
         as Real Networks with Real Audio and Microsoft with WMA. It disappeared
-        in the early 2000s, and you can still see a mirror of the web site at the <a
+        in the early 2000s, and you can still see a mirror of the site at the <a
         href="http://web.archive.org/web/20000301013659/http://www.liquidaudio.com/"
         target=outside>Internet Archive</a>.<br><br>
         

@@ -63,16 +63,16 @@
       </table>
 <img width=1 height=1500 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
 target=outside>
 <img alt="Creative Commons License" style="border-width:0"
 src="img/88x31.png" /></a>
-<br />All text in this website is licensed under a <a style="color: white"
+<br />All text in this website is<br>licensed under a <a style="color: white"
 rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
-target=outside>Creative Commons Attribution-ShareAlike 4.0 International License</a>
+target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0<br>International License</a>
 
 <!-- /Creative Commons License -->
 
