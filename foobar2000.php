@@ -93,8 +93,9 @@
           <br><div align="justify"><b>Foobar2000 audio player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/foobar2000-083.png" target=outside><img src="screens/foobar2000-083.png" 
-        alt="foobar2000 0.83" align=right height=225></a>        
+        <a href="screens/foobar2000-1617.png" target=outside><img 
+        src="screens/foobar2000-1617.png" alt="foobar2000 1.6.17" align=right 
+        height=225></a>        
         The Foobar2000 audio player is the brainchild of Peter Pawlowski, who rose 
         to fame when he became an official Winamp plugin developer.<br><br>
         
