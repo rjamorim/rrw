@@ -54,7 +54,7 @@
     
     
       </table>
-    <br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=5100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -447,6 +447,7 @@
         Date: 2012-06-07
         Version: 1.1.13<br>
         Download: <a href="files/foobar2000/foobar2000_v1.1.13.exe">foobar2000_v1.1.13.exe</a> - 3.168kB<br>
+        <i>Kindly contributed by Benjamin Pahlke</i><br>
         <br>
         Date: 2012-05-26
         Version: 1.1.12a<br>
@@ -516,6 +517,7 @@
         Date: 2010-04-10
         Version: 1.0.2<br>
         Download: <a href="files/foobar2000/foobar2000_v1.0.2.exe">foobar2000_v1.0.2.exe</a> - 3.065kB<br>
+        <i>Kindly contributed by Benjamin Pahlke</i><br>
         <br>
         Date: 2010-03-06
         Version: 1.0.1<br>
