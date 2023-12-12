@@ -63,7 +63,7 @@
       </table>
 <img width=1 height=1500 src="dot.gif">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -145,7 +145,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
               <font face="Tahoma" size=2 color="black"><b>The 20 years celebration!!</b></font><p>
                   SO you thought ReallyRareWares was dead? Not at all! I'm here 
                   again to provide you one of our traditional holidays update and,
-                  with a small delay, celebrate 20 years providing <i>really</i> 
+                  a little bit late, celebrate 20 years providing <i>really</i> 
                   hard to<br> find pieces of software!
                   <br><br>
                   The main attraction of this update is the super obscure NTT 

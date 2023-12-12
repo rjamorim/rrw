@@ -101,15 +101,15 @@
         
         The codec operates on mono 16bit 8kHz streams. It provides two choices
         of compression performance, Full Rate (4-7kbps, higher quality) and 
-        Hald Rate (3-4kbps, higher compression)<br><br>
+        Half Rate (3-4kbps, higher compression)<br><br>
         
-        The apps have a built-in expiration date because they were betas, so 
-        if you want to use them, you'll have to return your system clock to 
+        The apps have a built-in expiration date because they are beta releases, 
+        so if you want to use them, you'll have to return your system clock to 
         1996 or 1997.<br><br>
         
-        The files below each contain a DualSpeech encoder, a player, and a 
-        recorder that grabs audio directly from Line In and compresses it. The
-        Win32 package also contains a Netscape-compatible plugin to playback
+        The compressed files below each contain a DualSpeech encoder, a player, 
+        and a recorder that grabs audio directly from Line In and compresses it.
+        The Win32 package also contains a Netscape-compatible plugin to playback
         DualSpeech files. The Win16 player does not seem to be capable of 
         playing any DualSpeech stream, even the ones encoded by the Win16 
         encoder!<br><br>
