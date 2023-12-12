@@ -110,6 +110,10 @@
         href="https://web.archive.org/web/20020816083147/http://www.nctsoft.com/products/NCTALFCD/"
         target=outside>Internet Archive</a> though.<br><br>
         
+        Famous multimedia programmer Konstantin Shishkov (Kostya) did some <a 
+        href="https://codecs.multimedia.cx/2021/01/a-look-on-weird-audio-codec/">
+        analysis</a> on what makes ALF2CD work.<br><br>
+        
         <i>Big thanks to Zachary Jelesoff for introducing me to ALF2 CD and providing
         the binaries below.</i><br>
 

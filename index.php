@@ -63,7 +63,7 @@
       </table>
 <img width=1 height=1500 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -99,7 +99,7 @@ target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0<br>Internation
 
 -->
 
-<br><br><br>Last update: 2020-12-23<br><br>
+<br><br><br>Last update: 2023-12-12<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -137,6 +137,29 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2023-12-12: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The 20 years celebration!!</b></font><p>
+                  SO you thought ReallyRareWares was dead? Not at all! I'm here 
+                  again to provide you one of our traditional holidays update and,
+                  with a small delay, celebrate 20 years providing <i>really</i> 
+                  hard to<br> find pieces of software!
+                  <br><br>
+                  The main attraction of this update is the super obscure NTT 
+                  DualSpeech voice codec (thanks to William Hobbs).
+                  <br><br>
+                  Besides, I updated the Fobar2000 page with a few older versions 
+                  and each version's release dates, both thanks to Benjamin Pahlke. 
+                  Also, all new releases from version 1.5 up to 2.0.<br>
+                  Additionally, I moved all Foobar2000 v0 versions to another 
+                  page because the current one was becoming too unwieldy.
+                  <br><br>
+                  See you all in 2024. Or whenever I collect enough goodies to 
+                  justify another update...
+            </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-10-23: </b></div><p>
@@ -273,35 +296,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   Also, I added to the SoundVQ page a mail exchange (also provided 
                   by Zachary) between Yamaha and K-J&ouml;fol developer Christophe 
                   Thibault that demonstrates Yamaha's short-sightedness promoting 
-                  their own format.
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2020-02-22: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Special Carnival update!</b></font><p>
-                  In honor of the general chaos and debauchery of Carnival, which is
-                  starting in Brazil today, I added three new pages to RRW.<br><br>
-
-                  The first features AudioCatalyst, a very popular CD ripper/MP3
-                  encoder in the late nineties and early 2000s.<br><br>
-
-                  In a nostalgic twist, the second page is for the first MP3 encoder
-                  I used extensively: MP3 Compressor.<br><br>
-
-                  And the third page is for DropMP3. To the best of my knowledge,
-                  the only free implementation of LAME in the Mac OS Classic.<br><br>
-
-                  Talking about Mac OS Classic, I added several programs for this
-                  platform: Mac versions of SoundVQ, QDesign encoder and SoundAPP.
-                  The Mac edition of AudioCatalyst has also been uploaded. And of
-                  course, several new screenshots since command line was not even
-                  an option in Mac OS!<br><br>
-
-                  Finally, I added another version of LBpack and same for Blade. And
-                  Zachary sent an even older version of AT&amp;T a2b music player,
-                  God only knows why...
+                  their own format...
             </blockquote></font>
 
             <br><br>

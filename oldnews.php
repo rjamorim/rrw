@@ -91,6 +91,34 @@
         </table>
         </a>
             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-02-22: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Special Carnival update!</b></font><p>
+                  In honor of the general chaos and debauchery of Carnival, which is
+                  starting in Brazil today, I added three new pages to RRW.<br><br>
+
+                  The first features AudioCatalyst, a very popular CD ripper/MP3
+                  encoder in the late nineties and early 2000s.<br><br>
+
+                  In a nostalgic twist, the second page is for the first MP3 encoder
+                  I used extensively: MP3 Compressor.<br><br>
+
+                  And the third page is for DropMP3. To the best of my knowledge,
+                  the only free implementation of LAME in the Mac OS Classic.<br><br>
+
+                  Talking about Mac OS Classic, I added several programs for this
+                  platform: Mac versions of SoundVQ, QDesign encoder and SoundAPP.
+                  The Mac edition of AudioCatalyst has also been uploaded. And of
+                  course, several new screenshots since command line was not even
+                  an option in Mac OS!<br><br>
+
+                  Finally, I added another version of LBpack and same for Blade. 
+                  And Zachary sent an even older version of AT&amp;T a2b music 
+                  player, God only knows why...
+            </blockquote></font>
+        
+            <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-02-08: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>

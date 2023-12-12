@@ -52,7 +52,7 @@
     <tr><td></td></tr>
 
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=2200><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
@@ -180,6 +180,7 @@
           <br><div align="justify"><b>Old voice codecs:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
+                <a href=dualspeech.php>NTT DualSpeech vocodec</a><br>
                 <a href=echospeech.php>Echo Speech vocodec</a><br>
                 <a href=purevoice.php>QualComm PureVoice</a><br>
                 <a href=spchcomp.php>Voyce Tech SpchComp</a><br>

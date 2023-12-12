@@ -106,6 +106,12 @@
         href="https://web.archive.org/web/20080723013102/http://www.marian.de/en/downloads"
         target=outside>download page</a> (see bottom).<br><br>
         
+        Famous multimedia programmer Konstantin Shishkov (Kostya) did a little 
+        bit of <a href="https://codecs.multimedia.cx/2022/09/looking-at-a-pac/">
+        reverse engineering</a> and <a 
+        href="https://wiki.multimedia.cx/index.php/Marian%27s_A-pac">
+        documentation</a> regarding this format.<br><br>
+        
         <i>Compression performance in my limited test: 61,87%</i><br>
         
         <br>

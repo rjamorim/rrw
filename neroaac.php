@@ -115,7 +115,7 @@
         Nero still offers the AAC encoding option in their tools, but the standalone
         AAC encoder and decoder are no longer available for download. You can check
         a mirror of the old download page at the <a 
-        href="https://web.archive.org/web/20160310025758/http://www.nero.com:80/enu/company/about-nero/nero-aac-codec.php"
+        href="https://web.archive.org/web/20160310025758/http://www.nero.com/enu/company/about-nero/nero-aac-codec.php"
         target=outside>Internet Archive</a>.<br>
         
 
