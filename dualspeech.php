@@ -96,8 +96,9 @@
         src="screens/DualSpeech_enc_win16.png" alt="DUal Speech Encoder Win16" 
         align=right height=215></a>
         DualSpeech is a voice codec developed by NTT (Nippon Telephone and 
-        Telegraph) in the mid-nineties. Quality seems good, but I own too few 
-        voice-only samples to pass jusgement.<br><br>
+        Telegraph, the same developers of <a href=nttvqf.php>VQF</a>) in the 
+        mid-nineties. Quality seems good, but I own too few voice-only samples 
+        to pass jusgement.<br><br>
         
         The codec operates on mono 16bit 8kHz streams. It provides two choices
         of compression performance, Full Rate (4-7kbps, higher quality) and 
@@ -114,9 +115,10 @@
         playing any DualSpeech stream, even the ones encoded by the Win16 
         encoder!<br><br>
         
-        Considering how old and obscure this vocodec is, it is no surprice that 
-        all references to it disappeared from NTT's website decades ago. But
-        surprisingly, it is still possible to obtain <a target=outside
+        It seems development never went past these beta versions. Considering how 
+        old and obscure this vocodec is, it is no surprise that all references 
+        to it disappeared from NTT's website decades ago. But surprisingly, it 
+        is still possible to obtain <a target=outside
         href="https://web.archive.org/web/19970726144615/http://www.wnn.or.jp/wnn-sound/dspeech/"
         >archived</a> <a target=outside 
         href="https://web.archive.org/web/19970723193320/http://www.wnn.or.jp/wnn-sound/dspeech/jyoken.html"
@@ -127,8 +129,8 @@
         src="screens/DualSpeech_play_mac.png" alt="DUal Speech Player Mac" 
         align=right height=200></a>
         
-        Big thanks to William Hobbs for introducing me to this super obscure 
-        voice codec from NTT!<br>
+        Big thanks to William Hobbs for introducing me to this rare voice codec 
+        from NTT!<br>
         
 
         <br>
