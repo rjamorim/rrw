@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -101,7 +101,15 @@
         
         You can see a mirror of its web site <a 
         href="https://web.archive.org/web/20021204005320/http://members.tripod.co.jp/kitaurawa/index_e.html"
-        target=outside>here</a>.<br>
+        target=outside>here</a>.<br><br>
+        
+        Also, if you would like to compile the sources yourself - maybe even 
+        contribute to development and tune the encoder further? - you are 
+        actually in luck! A kind soul uploaded the Compaq Visual Fortran 6.5 
+        compiler (the specific compiler that can build Uzura) to <a target=outside 
+        href="https://archive.org/details/fortran66c">The Internet Archive</a>.
+        So now you have no excuses: download the compiler, install it (preferably
+        on Windows XP), and hack away!<br>
 
         <br>
         <br>
