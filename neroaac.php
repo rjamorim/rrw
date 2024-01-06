@@ -109,7 +109,7 @@
         The decoder, on the other hand, was developed by Menno Bakker of <a
         href=mbsoft.php>MBsoft</a>. Ahead bought the rights to the decoder, but
         it countinued being developed under a free software license, under the 
-        old name <a href="http://www.audiocoding.com" target=outside>FAAD2</a>. 
+        old name <a href="https://faac.sourceforge.net/" target=outside>FAAD2</a>. 
         It is a high quality, accurate and fast decoder.</br><br>
         
         Nero still offers the AAC encoding option in their tools, but the standalone
@@ -125,39 +125,39 @@
         Version: 1.5.4<br>
         Interface: Command line<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/aac/NeroAACCodec-1.5.4.zip">NeroAACCodec-1.5.4.zip</a> - 2.003kB<br>
+        Download: <a href="files/aac/nero/NeroAACCodec-1.5.4.zip">NeroAACCodec-1.5.4.zip</a> - 2.003kB<br>
         <br>
         Date: 2009-12-17<br>
         Version: 1.5.1<br>
         Interface: Command line<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/aac/NeroAACCodec-1.5.1.zip">NeroAACCodec-1.5.1.zip</a> - 2.011kB<br>
+        Download: <a href="files/aac/nero/NeroAACCodec-1.5.1.zip">NeroAACCodec-1.5.1.zip</a> - 2.011kB<br>
         <br>
         Date: 2008-09-17<br>
         Version: 1.3.3<br>
         Interface: Command line<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/aac/NeroAACCodec-1.3.3.zip">NeroAACCodec-1.3.3.zip</a> - 1.775kB<br>
+        Download: <a href="files/aac/nero/NeroAACCodec-1.3.3.zip">NeroAACCodec-1.3.3.zip</a> - 1.775kB<br>
         <br>
         Date: 2007-08-06<br>
         Version: 1.1.34.2<br>
         Interface: Command line<br>
         Platform: Win32/Linux<br>
-        Download: <a href="files/aac/NeroDigitalAudio-1.1.34.2.zip">NeroDigitalAudio-1.1.34.2.zip</a> - 2.605kB<br>
+        Download: <a href="files/aac/nero/NeroDigitalAudio-1.1.34.2.zip">NeroDigitalAudio-1.1.34.2.zip</a> - 2.605kB<br>
         <i>Kindly contributed by Michael Leimer</i><br>
         <br>
         Date: 2007-02-13<br>
         Version: 1.0.7.0<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/NeroAACCodec-1.0.7.0.zip">NeroAACCodec-1.0.7.0.zip</a> - 1.046kB<br>
+        Download: <a href="files/aac/nero/NeroAACCodec-1.0.7.0.zip">NeroAACCodec-1.0.7.0.zip</a> - 1.046kB<br>
         <i>Kindly contributed by Martin Wagner</i><br>
         <br>
         Date: 2006-05-18<br>
         Version: 1.0.0.2<br>
         Interface: Command line<br>
         Platform: Win32<br>
-        Download: <a href="files/aac/NeroAACCodec-1.0.0.2.zip">NeroAACCodec-1.0.0.2.zip</a> - 1.026kB<br>
+        Download: <a href="files/aac/nero/NeroAACCodec-1.0.0.2.zip">NeroAACCodec-1.0.0.2.zip</a> - 1.026kB<br>
         <i>Kindly contributed by Martin Wagner</i><br>
 
         </blockquote></font>
