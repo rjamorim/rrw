@@ -93,12 +93,16 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
             There is no illegal software in this site. All binaries here hosted are 
-            either freely redistributable, have been abandoned for years, or have been 
-            granted permission to host them by their authors.<br><br>
+            either freely redistributable, have been abandoned for years/decades,
+            or have been granted permission to host them by their authors.<br><br>
           
             That said, visitors should be aware that download and usage of some 
             binaries may be forbidden due to patent legislation in their Countries. 
             Consult your Country's software patent laws for more details.<br><br>
+            
+            If you are the author of one of the programs hosted here and would like 
+            it removed, please get in touch! (contact e-mail address further down 
+            this page).
         </blockquote></font>
         
         <font face="Verdana" size=4 color="6699CC">
