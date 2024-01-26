@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -96,25 +96,30 @@
         <a href="screens/musearc.png" target=outside><img src="screens/musearc.png" 
         alt="Musearc" align=right height=247></a>
         Musearc was one of the earliest MPEG Audio (layers 2 and 3) players. Its
-        only remarkable features were playlist support and displaying detailed 
-        information about the tracks being played. Besides, it can play tracks 
-        directly from the Internet through HTTP streaming.<br><br>
+        most remarkable features were playlist support (actually, it originated 
+        the PLS playlist format!) and displaying detailed information about the 
+        tracks being played. Besides, it can play tracks directly from the 
+        Internet through HTTP streaming.<br><br>
         
-        Tags are not supported. Interestingly, it can read ancillary data about 
-        the tracks stored in 4DOS/4NT descript.ion files.<br><br>
+        ID3v1 tags can be visualized (in the playlist editor) but not modified. 
+        Interestingly, it can also read ancillary track data stored in 4DOS/4NT 
+        descript.ion files.<br><br>
+        
+        On the bad side, it had no equalizer, no support for any format other 
+        than MP3 and MP2 (not even WAV!), and bad VBR support.<br><br>
         
         It did not meet much success, probably because it was a quite expensive 
         player (registration cost 30 dollars) competing against alternatives that 
         were free, featureful and prettier. Then again, considering its age 
         (appearing before even <a href=dosamp.php>DOSamp</a>) and with competition 
-        only from <a href=winplay3.php>WinPlay3</a> - which was not freeware at 
-        the time either -, that could explain the price tag and lack of 
-        features.<br><br>
+        only from <a href=winplay3.php>WinPlay3</a> in the early years - which 
+        was not freeware at the time either -, that could explain the price tag 
+        and lack of features.<br><br>
         
         Development stopped in early 2000. A mirror of the web page can be seen 
-        at the <a 
+        at the <a target=outside
         href="https://web.archive.org/web/19990427180814/http://www.codearts.com/products/musearc.htm" 
-        target=outside>Internet Archive</a>.<br>
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
