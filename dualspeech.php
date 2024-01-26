@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=580><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,22 +94,22 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/DualSpeech_enc_win16.png" target=outside><img 
         src="screens/DualSpeech_enc_win16.png" alt="DUal Speech Encoder Win16" 
-        align=right height=215></a>
+        align=right height=210></a>
         DualSpeech is a voice codec developed by NTT (Nippon Telephone and 
         Telegraph, the same developers of <a href=nttvqf.php>VQF</a>) in the 
         mid-nineties. Quality seems good, but I own too few voice-only samples 
-        to pass jusgement.<br><br>
+        to mete out judgement.<br><br>
         
         The codec operates on mono 16bit 8kHz streams. It provides two choices
-        of compression performance, Full Rate (4-7kbps, higher quality) and 
-        Half Rate (3-4kbps, higher compression)<br><br>
+        of compression performance, Half Rate (3-4kbps, higher compression) and 
+        Full Rate (4-7kbps, higher quality)<br><br>
         
         The apps have a built-in expiration date because they are beta releases, 
         so if you want to use them, you'll have to return your system clock to 
         1996 or 1997.<br><br>
         
         The compressed files below each contain a DualSpeech encoder, a player, 
-        and a recorder that grabs audio directly from Line In and compresses it.
+        and a recorder that grabs audio directly from Line-in and compresses it.
         The Win32 package also contains a Netscape-compatible plugin to playback
         DualSpeech files. The Win16 player does not seem to be capable of 
         playing any DualSpeech stream, even the ones encoded by the Win16 
@@ -124,14 +124,13 @@
         href="https://web.archive.org/web/19970723193320/http://www.wnn.or.jp/wnn-sound/dspeech/jyoken.html"
         >versions</a> of some Dual Speech pages from WNN - "World Nature Network
         - a homepage launched by NTT in 1995 to commemorate the 10th anniversary
-        of its privatization".<br><br>
+        of its privatization".
         <a href="screens/DualSpeech_play_mac.png" target=outside><img 
         src="screens/DualSpeech_play_mac.png" alt="DUal Speech Player Mac" 
-        align=right height=200></a>
+        align=right height=180></a><br><br>
         
         Big thanks to William Hobbs for introducing me to this rare voice codec 
         from NTT!<br>
-        
 
         <br>
         <br>
@@ -143,13 +142,13 @@
         <br>
         Date: 1996<br>
         Version: 0.1<br>
-        Interface: Graphical<br>
+        <a href="screens/DualSpeech_rec_win32.png" target=outside><img 
+        src="screens/DualSpeech_rec_win32.png" alt="DUal Speech Recorder Win32" 
+        align=right height=140></a>
+        Interface: Graphical<br>        
         Platform: Win16<br>
         Download: <a href="files/vocodecs/DSpch16.zip">DSpch16.zip</a> - 292kB<br>
         <br>
-        <a href="screens/DualSpeech_rec_win32.png" target=outside><img 
-        src="screens/DualSpeech_rec_win32.png" alt="DUal Speech Recorder Win32" 
-        align=right height=160></a>
         Date: 1997-06-24<br>
         Version: 0.2<br>
         Interface: Graphical<br>
