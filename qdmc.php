@@ -114,7 +114,7 @@
         Hosted here are professional plugins for QuickTime Pro and MVP - QDesign's 
         attempt to enter the audio library manager market - that has unlimited 
         encoding of QDMC up to 128kbps. It can also encode MP3 (but the encoder 
-        quality is terrible) and <a href=qdesignmp2.php>MP2</a> (a quite decent 
+        quality is terrible) and <a href=imedia.php>MP2</a> (a quite decent 
         encoder). All of these are available for both Windows and Mac OS Classic.
         <br><br>
         
