@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,26 +92,41 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>CoolEdit/Adobe Audition filters</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        These are import/export filters for the popular Adobe Audition audio editing 
+        These are import/export filters for the Adobe Audition audio editing 
         program (that was called <a href="cooledit.php">CoolEdit</a> before Adobe 
         bought it).<br><br>
         
-        The first download is the rare Syntrillium open source MP1/2 encoder and
-        decoder that were based on MAenc and MAplay. Accuracy is not really good
-        and speed is terrible, but they have the merit of being the first MPEG
-        Audio input and output filters for CoolEdit.<br><br>
+        The first download contains the Fraunhofer MP3 filters for CoolEdit 2000
+        / CoolEdit Pro 1.0 (Pro 2.0 does not need them as it comes with an FhG <a 
+        href=ctmp3pro.php>MP3pro</a> filter built-in). There is an older filter 
+        that only encodes to CBR (probably based on <a href=mp3enc.php>MP3enc</a
+        >) and a newer one that also offers VBR encoding (likely based on <a 
+        href=fastencc.php>Fastenc</a>). You can even install both simultaneously,
+        but that can cause confusion as both export options appear with the same
+        name in the Save As dialog.<br><br>
         
-        The second download is a much faster and more accurate decoder based on 
+        The second download is the rare Syntrillium open source MP1/2 encoder 
+        and decoder that were based on MAenc and MAplay. Accuracy is not really 
+        good and speed is atrocious, but they have the merit of being the first 
+        MPEG Audio input and output filters for CoolEdit.<br><br>
+        
+        The third download is a much faster and more accurate decoder based on 
         an improved version of MAplay that adds MP3 support. Also included is an
         updated ACM filter that can save to MP3 without WAV headers if you have 
         an <a href=fhgcodecs.php>MP3 ACM codec</a> installed.<br><br>
         
-        Finally, several plugins created by Peter Pawlovski, of Winamp and 
-        <a href=foobar2000.php>Foobar2000</a> fame, for importing/exporting Ogg 
+        Finally, several filters created by Peter Pawlowski, of Winamp and <a 
+        href=foobar2000.php>Foobar2000</a> fame, for importing/exporting Ogg 
         Vorbis, MP3 using <a href=lame.php>Lame</a>, <a href=nttvqf.php>VQF</a>,
         WMA, and AUD formats.<br>
         
         <br>
+        <br>
+        Date: 1999-2000<br>
+        Version: ?<br>
+        Interface: CoolEdit filter<br>
+        Platform: Win32<br>
+        Download: <a href="files/fhg/fht.zip">fht.zip</a> - 338kB<br>
         <br>
         Date: 1996-01-07<br>
         Version: ?<br>

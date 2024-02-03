@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=900><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -116,6 +116,7 @@
 
         <br>
         <br>
+        This version was distributed with WMP11:<br>
         Date: 2006-04-19<br>
         Version: 3.4 (professional)<br>
         Interface: ACM codec<br>
@@ -124,15 +125,25 @@
         Download: <a href="files/fhg/l3codecp-3.4.exe">l3codecp-3.4.exe</a> - 193kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
         <br>
-        Date: 1999-06-26<br>
-        Version: 1.2.63 (Radium)<br>
+        This version was distributed with WMP10:<br>
+        Date: 2005-01-28<br>
+        Version: 3.3.2.44 (professional)<br>
         Interface: ACM codec<br>
         Platform: Win32<br>
+        Bitrate range: 8-320kbps<br>
+        Download: <a href="files/fhg/l3codecp-3.3.exe">l3codecp-3.3.exe</a> - 234kB<br>
+        <br>
+        This is a pirate version that was released by the famous Radium group:<br>
+        Date: 1999-06-26<br>
+        Version: 1.2.63<br>
+        Interface: ACM codec<br>
         <a href="screens/fhgcodec-acm16.png" target=outside><img src="screens/fhgcodec-acm16.png" 
         alt="FhG ACM MP3 decoder for Win16" align=right height=130></a>
+        Platform: Win32<br>
         Bitrate range: 8-320kbps<br>
         Download: <a href="files/fhg/l3codecp-radium.exe">l3codecp-radium.exe</a> - 207kB<br>
         <br>
+        This version was distributed with JRiver Media Jukebox 5:<br>
         Date: 1999-01-29<br>
         Version: 1.9.0.306 (advanced)<br>
         Interface: ACM codec<br>
@@ -140,6 +151,8 @@
         Bitrate range: 8-56kbps<br>
         Download: <a href="files/fhg/l3codeca.exe">l3codeca.exe</a> - 258kB<br>
         <br>
+        This decoder-only was distributed with <a href=mp3prod.php
+        >.mp3 Producer 2.1</a>:<br>
         Date: 1998-04-06<br>
         Version: 1.0.0.64 (decoder)<br>
         Interface: ACM codec<br>
@@ -147,6 +160,8 @@
         Bitrate range: decode only<br>
         Download: <a href="files/fhg/l3codecx.exe">l3codecx.exe</a> - 228kB<br>
         <br>
+        This 16bit decoder-only was distributed with <a href=winmusic.php>WMP5.2  
+        beta</a> for Windows 3.11:<br>
         Date: 1998-04-06<br>
         Version: 1.0.0.64 (decoder)<br>
         Interface: ACM codec<br>
@@ -154,9 +169,11 @@
         Bitrate range: decode only<br>
         Download: <a href="files/fhg/l3dec16.zip">l3dec16.zip</a> - 81kB<br>
         <br>
+        This version was distributed with <a href=mp3prod.php>MPEG Layer-3
+        Producer 1.1</a>:<br>
+        Date: 1997-04-07<br>
         <a href="screens/fhgcodec-qt.png" target=outside><img src="screens/fhgcodec-qt.png" 
         alt="FhG QT MP3 encoder" align=right height=180></a>
-        Date: 1997-04-07<br>
         Version: 1.0.0.48 (professional)<br>
         Interface: ACM codec<br>
         Platform: Win32<br>

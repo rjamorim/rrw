@@ -52,9 +52,9 @@
     <tr><td></td></tr>
 
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2200><img width=1 height=250 src="dot.gif"></td></tr>
+    <tr><td height=2300><img width=1 height=250 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         </font><blockquote>
 
         <font face="Verdana" size=2 color="669900">
-          <br><div align="justify"><b>Old &amp; obsolete MPEG layer 1/2/3 encoders:</b></div>
+          <br><div align="justify"><b>Old, obsolete &amp; abandoned MPEG layer 1/2/3 encoders:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=lame.php>LAME Ain't an MP3 Encoder</a><br><br>
@@ -103,9 +103,10 @@
                 <a href=ctmp3pro.php>Coding Technologies MP3pro encoder</a><br>
                 <a href=dropmp3.php>DropMP3 encoder for Mac</a><br>
                 <a href=ecosmo.php>Electronic Cosmo MP3 encoder</a><br>
-                <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
+                <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
+                <a href=mp3prod.php>FhG/Opticon MP3 Producer</a><br>
                 <a href=fhgcodecs.php>FhG ACM and QT codecs</a><br>
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
                 <a href=fhgmp3hd.php>FhG mp3HD lossless encoder</a><br>
@@ -118,6 +119,7 @@
                 <a href=philipsmc.php>Philips Multichannel MP2 encoder</a><br>
                 <a href=plugger.php>Plugger MP3 encoder</a><br>
                 <a href=plusv.php>PlusV M3V encoder</a><br>
+                <a href=imedia.php>QDesign MPEG audio codecs</a><br>
                 <a href=recordit.php>Iomega RecordIt</a><br>
                 <a href=rjpa.php>rJPa MP1/2/3 encoder</a><br>
                 <a href=scmpx.php>SCMPX MP1/2/3 encoder and player</a><br>
@@ -133,7 +135,7 @@
             </blockquote>
             
         <font face="Verdana" size=2 color="669900">
-          <br><div align="justify"><b>Weird &amp; rare &amp; old formats:</b></div>
+          <br><div align="justify"><b>Weird &amp; rare &amp; old lossy formats:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=alf2cd.php>ALF2 CD codec</a><br>
@@ -147,8 +149,8 @@
                 <a href=mio.php>Entis Lab MIO</a><br>
                 <a href=mpegplus.php>MPEGplus SV4/5/7 - Musepack</a><br>
                 <a href=nttvqf.php>NTT TwinVQ encoder</a><br>
-                <a href=sonicstage.php>Sony SonicStage (ATRAC)</a><br>
                 <a href=soundvq.php>Yamaha SoundVQ</a><br>
+                <a href=sonicstage.php>Sony SonicStage (ATRAC)</a><br>
                 <a href=softencode.php>SoftEncode AC3 encoder</a><br>
                 <a href=tac.php>K+K Research TAC</a><br>
                 <a href=wavsquiq.php>Arminio Grgic's WavSquiq</a><br>
@@ -163,6 +165,7 @@
                 <a href=audiozip.php>AudioZip</a><br>
                 <a href=daxwav.php>Dakx Wav</a><br>
                 <a href=litewave.php>LiteWave</a><br>
+                <!--<a href=la.php>LosslessAudio</a><br>-->
                 <a href=lpac.php>LTAC/LPAC</a><br>
                 <a href=pegasussps.php>Pegasus SPS</a><br>
                 <a href=rkau.php>RKau</a><br>
@@ -185,7 +188,7 @@
                 <a href=purevoice.php>QualComm PureVoice</a><br>
                 <a href=spchcomp.php>Voyce Tech SpchComp</a><br>
                 <a href=truespeech.php>DSP Group TrueSpeech</a><br>
-                <a href=voxware.php>Voxware (ToolVox, TeleVox)</a><br>
+                <a href=voxware.php>Voxware vocodec</a><br>
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">

@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1500 src="dot.gif">
+<img width=1 height=1700 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -72,7 +72,8 @@ target=outside>
 src="img/88x31.png" /></a>
 <br />All text in this website is<br>licensed under a <a style="color: white"
 rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
-target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0<br>International License</a>
+target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0
+<br>International License</a>
 
 <!-- /Creative Commons License -->
 
@@ -99,7 +100,7 @@ target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0<br>Internation
 
 -->
 
-<br><br><br>Last update: 2023-12-12<br><br>
+<br><br><br>Last update: 2024-02-03<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -139,6 +140,35 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </a>
         
             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2024-02-03: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Abandonware updates</b></font><p>
+                  A new year arrives, so I come back here with some updates that
+                  have been abandoned by their own authors (in most cases here:
+                  FhG)
+                  <br><br>
+                  It has been more than 25 years since Fraunhofer released MP3enc
+                  (do you feel old yet?). As they probably do not care anymore, 
+                  I added full licensed versions of it (v 3.0 and 3.1) to the 
+                  MP3enc page, courtesy of the great F.O.S.I. guys.
+                  <br><br>
+                  I also created a page for FhG MP3 producer - the source of 
+                  all those pirated FhG ACM codecs that were floating around in 
+                  the late 90s which helped MP3 explode in popularity. Again, 
+                  25+ years old programs that I suppose FhG already forgot.
+                  <br><br>
+                  I uploaded to the CoolEdit filters page the two FhG MP3 encoder 
+                  filters because... why not?
+                  <br><br>
+                  Since I was already neck-deep in Fraunhofer stuff, I added
+                  another ACM codec version to the respective page: v3.3
+                  <br><br>
+                  And as we're talking about ACM codecs: I added a new page 
+                  featuring QDesign's i-Media and ACM MP2 encoders.
+            </blockquote></font>
+        
+            <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2023-12-12: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
@@ -155,7 +185,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   and each version's release dates, both thanks to Benjamin Pahlke. 
                   Also, all new releases from version 1.5 up to 2.0.<br>
                   Additionally, I moved all Foobar2000 v0 versions to another 
-                  page because the current one was becoming too unwieldy.
+                  page because the main one was becoming too unwieldy.
                   <br><br>
                   See you all in 2024. Or whenever I collect enough goodies to 
                   justify another update...
