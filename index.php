@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1700 src="dot.gif">
+<img width=1 height=1900 src="dot.gif">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -138,6 +138,7 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         </table>
         </a>
+
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2024-02-03: </b></div><p>

@@ -109,18 +109,19 @@
         
         The personal version comes with QuickTime Pro and allows encoding at 
         bitrates up to 48kbps. The professional version allows bitrates up to 
-        128kbps and finetuning some encoding parameters.<br><br>
+        128kbps and fine-tuning some encoding parameters.<br><br>
         
         Hosted here are professional plugins for QuickTime Pro and MVP - QDesign's 
         attempt to enter the audio library manager market - that has unlimited 
-        encoding of QDMC up to 128kbps. It can also encode MP3 but the encoder 
-        quality is terrible. All of these are available for both Windows and Mac 
-        OS Classic.<br><br>
+        encoding of QDMC up to 128kbps. It can also encode MP3 (but the encoder 
+        quality is terrible) and <a href=qdesignmp2.php>MP2</a> (a quite decent 
+        encoder). All of these are available for both Windows and Mac OS Classic.
+        <br><br>
         
         I am also hosting here an analysis document created by Benjamin Larsson, 
         describing the first steps in reverse engineering the codec.<br><br>
         
-        Apple has steered away from proprietary codecs like Sorenson Video and 
+        Apple has steered away from proprietary codecs, like Sorenson Video and 
         QDesign, and focused on standards (MPEG4). The QDesign codec lost relevance,
         and the company was bought by DTS in 2004. The codec became the basis of 
         DTS LBR (also known as DTS Express).<br><br>
