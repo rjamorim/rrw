@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -97,9 +97,10 @@
         
         The main goal is to automate audio encoding using MP3 ACM codecs such as
         <a href=fhgcodecs.php>Fraunhofer's</a>, but in theory it can work with any
-        format with an ACM encoder, such as WMA, MP2, <a href="sonicstage.php">
-        Atrac3</a>, Vorbis, the countless ADPCM flavors, voice codecs, and even 
-        <a href=alf2cd.php>alf2cd</a>.<br><br>
+        format with an ACM encoder, such as <a href=imedia.php>MP2</a>, WMA, 
+        <a href=sonicstage.php>Atrac3</a>, <a href=truespeech.php>voice</a> <a 
+        href=voxware.php>codecs</a>, Vorbis, the countless ADPCM flavors, and 
+        even <a href=alf2cd.php>alf2cd</a>.<br><br>
         
         It features ID3 tagging, LAME tags (for gapless playback), and encoding 
         presets.<br><br>        

@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - FhG/Opticon MP3 Producer</TITLE>
+<TITLE>ReallyRareWares - FhG/Opticom MP3 Producer</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -94,7 +94,7 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mp3prod11.png" target=outside><img src="screens/mp3prod11.png" 
         alt="FhG MPEG Layer-3 Producer 1.1" align=right height=200></a>
-        In the very early days, Fraunhofer was still trying to figure out what 
+        In the very early days Fraunhofer was still trying to figure out what 
         to do with this MPEG Audio Layer 3 thing they had come up with. Back in
         1994-1997 they were expecting its usage to become limited to the 
         broadcasting industry. They already had that <a href=l3enc.php>l3enc</a>

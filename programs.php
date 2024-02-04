@@ -106,7 +106,7 @@
                 <a href=l3enc.php>FhG l3enc MP3 encoder</a><br>
                 <a href=mp3enc.php>FhG MP3enc MP3 encoder</a><br>
                 <a href=fastencc.php>FhG Fastencc MP3 encoder</a><br>
-                <a href=mp3prod.php>FhG/Opticon MP3 Producer</a><br>
+                <a href=mp3prod.php>FhG/Opticom MP3 Producer</a><br>
                 <a href=fhgcodecs.php>FhG ACM and QT codecs</a><br>
                 <a href=fhgmp3s.php>FhG MP3 Surround</a><br>
                 <a href=fhgmp3hd.php>FhG mp3HD lossless encoder</a><br>
