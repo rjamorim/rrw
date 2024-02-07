@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,7 +94,7 @@
         <a href="screens/wwv.png" target=outside><img src="screens/wwv.png" 
         alt="WWV VQF player" align=right></a>
         WWV - Women, Whisky and VQF -, developed by Ove Rung, is yet another 
-        simple, minimal VQF player. With a lovely name.<br><br>
+        simple, minimalist VQF player. With a lovely name.<br><br>
         
         There is not much to say here, it plays VQF files and VQL playlists, and
         nothing else. Also features a simple playlist editor. It requires the 
