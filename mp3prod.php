@@ -167,12 +167,15 @@
         href=xaudio.php>of</a> <a href=scmpx.php>an</a> <a href=soundapp.php
         >absurd</a> <a href=digideck.php>amount</a> <a href=musearc.php>of</a> 
         <a href=apollo.php>MP3</a> <a href=nad.php>software</a> <a href=amp.php
-        >players</a> for nearly every computer platform and architecture. In 
-        early 1998 the first portable MP3 players started appearing on the 
-        market (MPMan F10 and F20). Napster was released a little later, in 
-        mid-1999. Specialized sites like MP3.com sprung up and had a hard time 
-        keeping up with all the news, announcements, and releases (and lawsuits,
-        of course). MP3 was unstoppable, to the chagrin of the RIAA.<br><br>
+        >players</a> for nearly every computer platform and architecture (but
+        <a href="https://www.angelfire.com/games/gamersuniverse/mp3player.html"
+        target=outside>the vast majority</a>, <a target=outside 
+        href="https://tsnwb.fortunecity.ws/mp3_p.htm">for Windows</a>). In early
+        1998 the first portable MP3 players started appearing on the market 
+        (MPMan F10 and F20). Napster was released a little later, in mid-1999. 
+        Specialized sites like MP3.com sprung up and had a hard time keeping up
+        with all the news, announcements, and releases (and lawsuits, of course).
+        MP3 was unstoppable, to the chagrin of the RIAA.<br><br>
         
         I suppose Fraunhofer never expected, even in their wildest dreams, that 
         MP3 would become so popular - indeed, synonymous with compressed 
