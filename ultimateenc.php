@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,27 +94,27 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/ultimateenc.png" target=outside><img src="screens/ultimateenc.png" 
         alt="Ultimate Encoder 1.5" align=right height=214></a>
-        OK, so here we have an MP1/2/3 encoder and decoder. Shareware (registration 
-        cost 49 dollars). Looks and sounds like a dist10 compile. <a 
-        href="screens/ultimateenc1.png" target=outside>Horrible</a> <a 
-        href="screens/ultimateenc2.png" target=outside>wizard-based</a> <a 
-        href="screens/ultimateenc3.png" target=outside>interface</a>. Can also 
+        OK, here we have an MP1/2/3 encoder and decoder. Shareware (registration 
+        cost 49 dollars!!). Looks and sounds like a dist10 compile. <a 
+        href=screens/ultimateenc1.png target=outside>Horrible</a> <a 
+        href=screens/ultimateenc2.png target=outside>wizard-based</a> <a 
+        href=screens/ultimateenc3.png target=outside>interface</a>. Can also 
         rip CDs. Comes from Romania.<br><br>
     
-        <a href="soundlimit.php">Sounds familiar?</a><br><br>
+        <a href=soundlimit.php>Sounds familiar?</a><br><br>
         
         I do not know the stories behind Ultimate Encoder and Sound Limit, but 
         something fishy is definitely going on. Please compare the screenshots 
-        available above and the ones at SoundLimit's page. Even some of the (ugly, 
-        unnecessary) textures are the same!<br><br>
+        available above and the ones at SoundLimit's page. Even some of the 
+        (ugly, unnecessary) textures are the same!<br><br>
         
-        If you know what was going on, please get <a href=about.php>in touch</a>!
-        <br><br>
+        If you have any information about what was going on, please get <a 
+        href=about.php>in touch</a>!<br><br>
         
-        The demo version hosted here is only valid for 30 days after installation.
-        A mirror of the web page is available <a 
-        href="https://web.archive.org/web/20000304072224/http://www.usro.net:80/products/uencoder/index.htm"
-        target=outside>here</a>.<br>
+        The demo version hosted here only works for 30 days after installation.
+        The web page is gone but you can visit a mirror at the <a target=outside
+        href="https://web.archive.org/web/20000304072224/http://www.usro.net/products/uencoder/index.htm"
+        >Internet Archive</a>.<br>
 
         <br>
         <br>
