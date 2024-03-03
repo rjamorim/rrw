@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,10 +94,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/fhgmp3s-ply.png" target=outside><img src="screens/fhgmp3s-ply.png" 
         alt="MP3S Player" align=right></a>
-        MP3 Surround was yet another attempt by Fraunhofer and friends (like <a 
-        href="ctmp3pro.php">MP3pro</a> and <a href="fhgmp3hd.php">mp3HD</a>) to 
-        extend the lifespan of the MP3 format (and by lifespan, I mean "the 
-        period of time we can continue extracting licensing fees from users")
+        MP3 Surround was yet another attempt (like <a href="ctmp3pro.php">
+        MP3pro</a> and <a href="fhgmp3hd.php">mp3HD</a>) by Fraunhofer and 
+        friends to extend the lifespan of the MP3 format (and by lifespan, I 
+        mean "the period of time we can extract licensing fees from users").
         <br><br>
 
         It is worth stressing this is not the <a href="philipsmc.php">MPEG 
@@ -112,16 +112,17 @@
         normal decoders can decode the standard stereo track, providing backwards 
         compatibility.<br><br>
 
-        The GUI encoder only accepts 5.1 wav files. Also, it is worth mentioning 
-        v1.1.5 expired on 2013-12-31 (version 1.1.4 expired on 2007-12-31), so 
-        set your PC clock to before that date if you want to use it. You can also
-        use the command line encoders (for Windows, Linux and Mac OS X) which, 
-        as far as I can tell, do not expire (and accept six mono WAVs besides 
-        multichannel files).<br><br>
+        The GUI encoder only accepts 5.1 wav files. Version 1.1.5 expired on 
+        2013-12-31 (version 1.1.4 expired on 2007-12-31), so set your PC clock 
+        to before that date if you want to use it. You can also use the command 
+        line encoders (for Windows, Linux and Mac OS X) which, as far as I can 
+        tell, do not expire (and accept six mono WAVs besides multichannel 
+        files).<br><br>
 
-        I am also hosting here the MP3 SX Converter, a tool that takes stereo 
-        MP3 files and attempts to add surround sound information to them. Reviews
-        around the Internet say it was not really good.<br><br>
+        I am also hosting the MP3 SX Converter, a tool that takes stereo MP3 
+        files and attempts to add surround sound information conjured out of 
+        thin air. Reviews around the Internet say it was not really good.
+        <br><br>
 
         Just like MP3pro, MP3 Surround failed to get any traction anywhere 
         (although, surprisingly, it was supported on the <a target=outside
