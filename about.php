@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=650><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,13 +92,18 @@
           <br><div align="justify"><center><b>No Warez Here!</b></center></div><p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-            There is no illegal software in this site. All binaries here hosted are 
-            either freely redistributable, have been abandoned for years/decades,
-            or have been granted permission to host them by their authors.<br><br>
+            All binaries hosted here are either freely redistributable, have been
+            abandoned for years/decades, or have been granted permission to host
+            them by their authors.<br><br>
           
             That said, visitors should be aware that download and usage of some 
             binaries may be forbidden due to patent legislation in their Countries. 
             Consult your Country's software patent laws for more details.<br><br>
+            
+            Please keep in mind that nearly all software here has been unmaintained 
+            for years, some of them for decades. They are probably rife with all
+            kinds of vulnerabilities and unpatched CVEs. Exercise caution when 
+            using them.<br><br>
             
             If you are the author of one of the programs hosted here and would like 
             it removed, please get in touch! (contact e-mail address further down 
@@ -131,10 +136,14 @@
                     <li>Mozilla Firebird 0.7 Win32</li>
                     <li>Opera Browser 7.23 for Windows</li>
                     <li>Opera Browser 7.0 for Linux</li>
+                    <li>"Modern" browsers that are all based on WebKit/Blink or 
+                    Gecko anyway</li>
                 </ul></blockquote>
-            The tested resolution was 1280×720. This site should remain perfectly 
+            The tested resolution was 1920x1080. It should remain perfectly 
             funcional in other resolutions, but small layout distortions may 
-            occur.<br><br>
+            occur.<br>
+            Do not expect it to work well on smartphones, none of the programs
+            here run on cell phones anyway.<br><br>
         </blockquote></font>
 
         <font face="Verdana" size=4 color="6699CC">
