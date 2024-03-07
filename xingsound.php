@@ -95,20 +95,24 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
         alt="XingSound" align=right></a>
-        XingSound is an MP2 and WAV audio player for Win16 created by Xing Technology 
-        Corporation. It is as minimalist as can get, not even pause is implemented. 
-        Its only functions are "Open", "Play", "Stop" and "Repeat".<br><br>
+        XingSound is an MP2 and WAV audio player for Win16 created by Xing 
+        Technology Corporation. It is as minimalist as can get, not even pause 
+        is implemented. Its only functions are "Open", "Play", "Stop" and 
+        "Repeat".<br><br>
         
-        The first version available here is dated 1993 - that makes it the oldest 
-        software featured at ReallyRareWares to this date (before XingSound, the 
-        oldest program here was Sonarc). Considering that in 1993 most of us were 
-        still using 286s and 386s, Xing also added to their player the option of half 
-        and quarter quality playback, similar to an option available to this day 
-        in MP3 players.<br><br>
+        The oldest version available here is dated 1993 - that makes it the most
+        ancient software featured at ReallyRareWares to this date (before 
+        XingSound, the oldest program here was Sonarc). Considering that in 1993
+        most of us were still using 286s and 386s, Xing also added to their 
+        player the option of half and quarter quality playback, similar to an 
+        option available to this day in MP3 players.<br><br>
         
-        Decoding quality is reasonable. For MP2 playback, the <a 
-        href="mpegplayer.php">Philips MPEG player</a> offers higher accuracy (but
-        sadly, does not work on Win 3.1).<br>
+        Decoding quality is unfortunately bad because the versions here are free 
+        demos featuring a low-precision decoder that is mono-only. If you happen
+        to have the full version lying around in some old floppy disk please <a 
+        href=about.php>get in touch</a>! For MP2 playback, the <a 
+        href=mpegplayer.php>Philips MPEG player</a> offers higher accuracy (but,
+        alas, does not work on Win 3.1).<br>
         
         <br>
         <br>
@@ -119,7 +123,7 @@
         Download: <a href="files/xing/mpgaudio2.exe">mpgaudio2.exe</a> - 114kB<br>
         <br>
         Date: 1993-07-23<br>
-        Version: ?<br>
+        Version: 1.0<br>
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107kB<br>
@@ -128,8 +132,9 @@
         <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
         alt="XingMP3 Player" align=right></a>
         Years later Xing created the XingMP3 player, a companion for their <a 
-        href="xing.php">MP3 encoder</a> and CD ripper (<a href=audiocat.php>AudioCatalyst</a>). 
-        It is way more featureful and better looking than its predecessor.<br>
+        href=xing.php>MP3 encoder</a> and CD ripper (<a href=audiocat.php
+        >AudioCatalyst</a>). It is way more featureful and better looking than 
+        its predecessor, and was distributed for free.<br>
         
         <br>
         <br>
