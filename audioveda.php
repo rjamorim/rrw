@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,31 +95,34 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/audioveda.png" target=outside><img src="screens/audioveda.png" 
         alt="AudioVeda" align=right height=303></a>
-        At some point, <a href="audiolib.php">CelestialTech</a> became VedaLabs. Quite 
-        appropiately, besides changing their name they changed their audio program (now 
-        called AudioVeda, and with a much better interface) and changed the codec. They 
-        upgraded from PAC to ePAC.<br><br>
+        At some point, <a href="audiolib.php">CelestialTech</a> became VedaLabs. 
+        Quite appropiately, besides changing their name they changed their audio 
+        program (now called AudioVeda, and with a much better interface) and 
+        changed the codec. They upgraded from PAC to ePAC.<br><br>
         
-        Elemedia had been reabsorbed into Bell Labs, and then Bell Labs changed their
-        name to Lucent. So now it is Lucent's ePAC (enhanced Perceptual Audio Coder),
-        an evolution of the older PAC.<br><br>
+        Elemedia had been reabsorbed into Bell Labs, and then Bell Labs changed 
+        their name to Lucent. So now it is Lucent's ePAC (enhanced Perceptual 
+        Audio Coder), an evolution of the older PAC.<br><br>
         
-        Other features in this program (compared to AudioLib) are CD ripping and MP3
-        playback (using the well known <a href="amp.php">AMP</a> decoding library). 
-        Also, encoded tracks are no longer stored in a database, but in individual 
-        .EPC files. Another nice feature is that the program freezes whenever you 
-        try to close it and must be killed from the task manager.<br><br>
+        Other features in this program (compared to AudioLib) are CD ripping and
+        MP3 playback (using the well-known <a href="amp.php">AMP</a> decoding 
+        library). Also, encoded tracks are no longer stored in a database, but 
+        in individual EPC files. The app is veeery buggy. A nice feature is that
+        the program freezes whenever you try to close it (at least in WinXP) and
+        must be killed from the task manager.<br><br>
       
-        It seems VedaLabs has gone out of business because all information about them
-        disappeared and their web site went offline years ago (you can still check
-        part of if at <a href="https://web.archive.org/web/20000620121811/http://www.audioveda.com:80/"
-        target=outside>Internet Archive</a> though).<br><br>
+        It seems VedaLabs has gone out of business because all information about
+        them disappeared and their web site went offline decades ago (you can 
+        still visit parts of if at the <a target=outside
+        href="https://web.archive.org/web/20000620121811/http://www.audioveda.com/"
+        >Internet Archive</a> though).<br><br>
         
-        To use the ePAC routines in AudioVeda you need to register with their server - 
-        but the server is now unavailable! So I am also hosting a registry patch that 
-        fools AudioVeda into believing it has already been registered. Just unzip the 
-        patch and double-click to import it into the registry (tested in Win98 and 
-        WinXP. Some tweaks are probably required for 64bit Windows).<br>
+        To use the ePAC routines in AudioVeda you need to register with their 
+        server - but the server is now unavailable! So I am also hosting a 
+        registry patch that fools AudioVeda into believing it has already been
+        registered. Just unzip the patch and double-click to import it into the
+        registry (tested in Win98 and WinXP. Some tweaks are probably required
+        for 64bit Windows).<br>
         
         <br>
         <br>
