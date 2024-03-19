@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,8 +94,8 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/encspot1.png" target=outside><img src="screens/encspot1.png" 
         alt="Encspot - Main interface" align=right height=222></a>
-        EncSpot is a very featureful MPEG audio stream analyzer created by Jon Dee of
-        Guerrilasoft.<br><br>
+        EncSpot is a very featureful MPEG audio stream analyzer created by Jon 
+        Dee of Guerrilasoft.<br><br>
         
         It has a graphical interface built around an improved version of <a
         href="http://mp3guessenc.sourceforge.net" target=outside>mp3guessenc</a>
@@ -106,25 +106,25 @@
         MP3 file. To do that, it analyzes tags, flags and usage of MP3 features 
         that tend to be typical of one encoder or another.<br><br>
         
-        Besides that, it offers advanced analysis features such as bitrate distribution
-        graphs, frame statistics, bit reservoir usage and other detailed information
-        about the stream. Some of these features were only available in a "Pro"
-        version (that cost US$20).<br><br>
+        Besides that, it offers advanced analysis features such as bitrate 
+        distribution graphs, frame statistics, bit reservoir usage and other 
+        detailed information about the stream. Some of these features were only 
+        available in a "Pro" version (that cost US$20).<br><br>
         
-        EncSpot also has some support for analyzing <a href="mpegplus.php">Musepack</a>
-        files. The developer had plans to add other formats, such as Ogg Vorbis and
-        WAV, but these never materialized.<br><br>
+        EncSpot also has some support for analyzing <a href="mpegplus.php"
+        >Musepack</a> files. The developer had plans to add other formats, such 
+        as Ogg Vorbis and WAV, but these never materialized.<br><br>
         
-        Around mid-2005 Encspot stopped being developed and in late 2006 Jon decided 
-        to give away the Pro version license <a 
-        href="http://web.archive.org/web/20080214225807/http://www.guerillasoft.co.uk:80/encspot/encspotprolicense.txt" 
-        target=outside>for free</a> (also included in the download files). The web 
-        site is gone, but you can find a mirror of it at the <a 
-        href="http://web.archive.org/web/20080218014539/http://www.guerillasoft.co.uk:80/encspot/index.html"
-        target=outside>Internet Archive</a>.<br><br>
+        Around mid-2005 Encspot stopped being developed and in late 2006 Jon 
+        decided to give away the Pro version license <a target=outside
+        href="http://web.archive.org/web/20080214225807/http://www.guerillasoft.co.uk/encspot/encspotprolicense.txt" 
+        >for free</a> (also included in the download files). The web site is
+        gone, but you can find a mirror of it at the <a target=outside
+        href="http://web.archive.org/web/20080218014539/http://www.guerillasoft.co.uk/encspot/index.html"
+        >Internet Archive</a>.<br><br>
         
-        It is worth mentioning that version 2.1 is actually more featureful (but perhaps
-        more buggy) than version 2.2.<br>
+        It is worth mentioning that version 2.1 is actually more featureful (but 
+        perhaps more buggy) than version 2.2.<br>
 
         <a href="screens/encspot2.png" target=outside><img src="screens/encspot2.png" 
         alt="Encspot - File interface" align=right height=180></a>
