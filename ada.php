@@ -50,13 +50,12 @@
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td></td></tr>
     <tr></tr>
-    <tr><td></td></tr>
-    
+    <tr><td></td></tr>    
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,11 +92,19 @@
           <br><div align="justify"> <b>Advanced Digital Audio</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Advanced Digital Audio (ADA) was developed by Heiko Volk. Besides a lossless
-        compression mode (so inefficient, it is the worst performing lossless
-        compressor in RRW), it features a lossy mode that is probably just using 
-        quantization (like <a href=wavpack.php>WavPack</a> lossy, OptimFrog Dual
-        Stream and all the countless ADPCM flavors).<br><br>
+        Advanced Digital Audio (ADA) is a command line audio encoder, decoder and
+        player developed by Heiko Volk.<br><br>
+        
+        Besides a lossless compression mode (so inefficient, it is the worst 
+        performing lossless compressor in RRW!), it features a lossy mode that is 
+        probably just using quantization (like <a href=wavpack.php>WavPack</a> 
+        lossy, OptimFrog Dual Stream and all the countless ADPCM flavors).<br><br>
+        
+        In my super brief and unscientific tests, it seemed as lossy compression
+        level 4 (~2:1 compression) provided decent quality, and higher compression
+        levels would introduce noticeable degradation. The player mode expects an
+        SB16-compatible audio interface, so it is better to playback ADA inside
+        a DOSbox environment.<br><br>
         
         <i>Compression performance in my limited test: 66,6%</i><br>
    
@@ -124,5 +131,7 @@
   </tr>
 </table> 
  
-<?php include("footer.htm") ?></body>
+<?php include("footer.htm") ?>
+
+</body>
 </html>
