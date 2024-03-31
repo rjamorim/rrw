@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=650><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,41 +99,50 @@
         
         Also, it is a complete piece of garbage.<br><br>
         
-        The interface is garish - as you would expect from any software created by 
-        RealNetworks (from now on, RN). Way too many buttons, too much information
-        on screen, unnecessary textures, and oh, what's that? An advertisement? So 
-        lovely!<br><br>
+        The interface is garish - as you would expect from any software created 
+        by RealNetworks (from now on, RN). Way too many buttons, too much 
+        information on screen, unnecessary textures, and oh, what's that? An 
+        advertisement? So lovely!<br><br>
         
-        There is also a handful of skins to make the interface a little less horrid,
-        but they do not achieve great success in that endeavour either.<br><br>
+        There is also a handful of skins to make the interface a little less 
+        horrid, but they do not achieve great success in that endeavor either.
+        <br><br>
         
-        Now, the encoder... RN had just purchased <a href="xing.php">Xing Tech</a>,
-        so they had a pretty decent MP3 encoder in their hands. Unfortunately, they
-        decided to cripple it to drive sales of the paid version, RealJukebox Plus
-        (US$ 29.99, also available here). Therefore, the MP3 encoder only works at 
-        56, 64 and 96kbps. Other bitrates require Plus.<br><br>
+        Now, the encoder... RN had just purchased <a href=xing.php>Xing Tech</a>,
+        so they had a pretty decent and fast MP3 encoder in their hands. 
+        Unfortunately, they decided to cripple it to drive sales of the paid 
+        version, RealJukebox Plus (US$ 29.99, also available here). Therefore, 
+        the MP3 encoder only works at 56, 64 and 96kbps. Other bitrates require 
+        Plus.<br><br>
         
         But do not despair, lad! You can rip "CD quality" files with RealJukebox,
         you only need to accept RN's useless RealAudio format for that (actually,
-        that is <a href=sonicstage.php>Sony Atrac3</a> inside the Real Audio 
-        wrapper). You can actually go all the way to 352kbps then, but good luck 
-        playing these files anywhere besides RealJukebox itself.<br><br>
+        that is scrambled <a href=sonicstage.php>Sony ATRAC3</a> inside the Real
+        Media container). You can actually go from 32kbps all the way to 352kbps 
+        then, but good luck playing these files anywhere besides RealJukebox 
+        itself.<br><br>
         
         Anyway, there is more to be said about the application. It is incredibly 
-        intrusive: the free version installs Real Player - without asking first - 
-        and plasters your desktop, start menu and even the Internet Explorer 
+        intrusive: the free version installs Real Player - without asking first
+        - and plasters your desktop, start menu and even the Internet Explorer 
         favorites with offers for AOL and similar crap. It tries to steal your 
         file associations and installs TWO resident programs in your system tray 
         that exist only to keep the file associations stolen and send you 
         notifications about RN products (I can only imagine how awesome these 
         were) and steal system resources and make your life miserable.<br><br>
         
+        Additionally, the application engaged in <a target=outside
+        href="https://web.archive.org/web/20070203105348/http://www.computerbytesman.com/privacy/realjb.htm"
+        >wholesale privacy violations</a>. RN only patched RealJukebox and updated
+        the privacy policy to reflect all the data collection after being caught
+        red handed.<br><br>
+        
         Last, it would not be RN if they were not kowtowing to corporate interests.
         RealJukebox offers (nah, insists) to "protect" (that is, encrypt) the 
         songs it rips from CDs so that you can not share them with your friends. 
-        When you try to disable this great feature, an ominous sounding message 
-        pops up asking if you are really sure you want to be seen as a criminal.
-        <br><br>
+        When you try to disable this great feature, <a href=screens/realjukeorly.png
+        target=outside>an ominous warning</a> pops up asking if you are really 
+        sure you want to be seen as a criminal.<br><br>
         
         Please do not install RealJukebox or any software from RealNetworks.<br>
 
