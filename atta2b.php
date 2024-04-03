@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,33 +95,34 @@
         <a href="screens/a2bmusic.png" target=outside><img src="screens/a2bmusic.png" 
         alt="Indecence" align=right height=320></a>
         a2b music was an attempt at creating a digital music delivery system by 
-        telecommunications giant AT&amp;T, fresh from the recording industry scare
-        caused by the sudden popularity of the MP3 format.<br><br>
+        telecommunications giant AT&amp;T, fresh from the <a href=mp3prod.php
+        >recording industry scare</a> caused by the sudden popularity of the MP3
+        format.<br><br>
         
-        The system was launched to much fanfare in the late nineties, touting wide
-        industry support and much better quality than alternatives (because it was
-        using the AAC format, instead of the more common MP3). Of course, the
-        tracks on sale were heavily protected with DRM schemes.<br><br>
+        The system was launched to much fanfare in the late nineties, touting 
+        wide industry support and much better quality than alternatives (because
+        it was using the AAC format, instead of the more common MP3). Of course,
+        the tracks on sale were heavily protected with DRM schemes.<br><br>
         
         To add insult to injury, version 2.0 requires that the user installs 
-        RealPlayer to enable streaming (to see my lenghty rant about Real crapware, 
-        read the <a href="realjuke.php">RealJukebox</a> entry).<br><br>
+        RealPlayer to enable streaming (to see my rant about Real crapware, 
+        read the <a href=realjuke.php>RealJukebox</a> entry).<br><br>
         
         a2b folded rather spectaculously before even becoming relevant, when the 
-        majority of its employees decided to walk out <a 
+        majority of its employees decided to walk out and <a target=outside
         href="http://www.nytimes.com/1999/05/18/business/at-t-digital-music-unit-loses-more-than-half-of-its-workers.html"
-        target=outside>and join a competitor</a> less than 2 years after it was
-        founded. For that reason, the player I am hosting here is rather useless 
-        now (unless you want to stare at an interface so ugly, it borders on the
-        indecent).<br><br>
+        >join a competitor</a> less than two years after it was founded. For
+        that reason the players I am hosting here are rather useless now (unless
+        you want to stare at an interface so ugly it borders on the indecent).
+        <br><br>
         
-        Talking about cutting-edge design, make sure to check this <a 
+        Talking about cutting-edge design, check out this Internet Archive<a 
         href="https://web.archive.org/web/19990208011048/http://www.a2bmusic.com/"
-        target=outside>archive</a> of the a2b music website, for some real <i>eye
+        target=outside>mirror</a> of the a2b music website, for some real <i>eye
         candy</i>.<br><br>
         
-        <i>Big thanks to Zachary Jelesoff for sending me the a2b music player and
-        introducing me to the story of AT&amp;T a2b.</i><br>
+        <i>Big thanks to Zachary Jelesoff for sending me the a2b music players 
+        and introducing me to the story of AT&amp;T a2b.</i><br>
 
         <br>
         <br>
