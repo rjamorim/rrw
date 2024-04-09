@@ -61,9 +61,9 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1900 src="dot.gif">
+<img width=1 height=1400 src="dot.gif">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <!-- Creative Commons License -->
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -100,7 +100,7 @@ target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0
 
 -->
 
-<br><br><br>Last update: 2024-02-03<br><br>
+<br><br><br>Last update: 2024-04-09<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -141,6 +141,36 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
 
         
             <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2024-04-09: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>LA, ATRAC &amp; more</b></font><p>
+                  Today I bring you more abandoned and obsolete tools to please 
+                  your senses
+                  <br><br>
+                  It has been more than two dacades since the Lossless Audio codec
+                  last saw an update. It can be safely considered abandoned at 
+                  this point, hence, I crated a page to preserve it.
+                  <br><br>
+                  Then, updates to the SonicStage (ATRAC) page! The in_atrac3 Winamp
+                  plugin (courtesy of Zachary Jelesoff), a SoundForge 6-8 ATRAC3 
+                  plugin (later versions have the plugin built-in), and codecs from 
+                  the PlayStation SDKs. I also updated the page text mentioning 
+                  Sony's apparent abandonment of the format.
+                  <br><br>
+                  Also, I added:
+                  <ul>
+                    <li>Foobar2000 v0.666, a "cursed" version contributed by Jason 
+                        Antony</li>
+                    <li>The official MIO encoder. LHA-compressed and sporting a
+                        Japanese interface. This one will be really popular here.</li>
+                    <li>The Xing and FhG VBR header SDKs to the Xing page because...
+                        might come in handy to someone, I guess?</li>
+                  </ul>
+            </blockquote></font>
+
+        
+            <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2024-02-03: </b></div><p>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
@@ -175,9 +205,9 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>The 20 years celebration!!</b></font><p>
                   SO you thought ReallyRareWares was dead? Not at all! I'm here 
-                  again to provide you one of our traditional holidays update and,
+                  again to provide you one of our traditional holidays updates and,
                   a little bit late, celebrate 20 years providing <i>really</i> 
-                  hard to<br> find pieces of software!
+                  hard to find pieces of software!
                   <br><br>
                   The main attraction of this update is the super obscure NTT 
                   DualSpeech voice codec (thanks to William Hobbs).
@@ -263,71 +293,6 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                     <li>YAMP 3.2 (thanks to Daniel Kozar)</li>
                     <li>Other versions of Blade for Mac OS Classic</li> 
                   </ul>
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2020-05-16: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Special Mac OS Classic update</b></font><p>
-                  I came across an <a 
-                  href="https://macintoshgarden.org/apps/ppc-audio-software-os7-osx58-some-68k-apps"
-                  target=outside>impressive cache</a> of vintage Mac OS audio 
-                  software, so I decided to dedicate this update to the early 
-                  days of audio encoding on the Macintosh. Check these out:
-                  
-                  <ul>
-                    <li>MPecker/MPegger/N2MP3 encoders</li>
-                    <li>MPEGAudioCreator - the CD ripper that became AudioCatalyst</li>
-                    <li>AudioActive player</li>
-                    <li>Older versions of AudioCatalyst</li>
-                    <li>Iomega RecordIt</li>
-                    <li>Two full versions of Emagic Zap lossless compressor</li> 
-                  </ul>
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2020-04-25: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>The quarantine update</b></font><p>
-                  Time for another update, to entertain the RRW fans during these
-                  hard quarantine days. This is what I got for you:
-
-                  <ul>
-                    <li>A whole new page dedicated to FhG codecs - for ACM and QT</li>
-                    <li>nyaochi's ACMENC ACM codec frontend</li>
-                    <li>Another version of Nero AAC Encoder, contributed by Michael Leimer</li>
-                    <li>Better text and another Musearc version for its page</li>
-                    <li>Super old Apollo 9, contributed by Daniel Kozar</li>
-                    <li>K-J&ouml;fol 0.5, also contributed by Daniel Kozar</li>
-                  </ul>
-
-                  I also updated several screenshots, trying to show how the programs 
-                  looked in real-world usage and not just "out of the box".
-            </blockquote></font>
-
-            <font face="Verdana" size=2 color="6699CC">
-              <br><div align="justify"><b> 2020-04-12: </b></div><p>
-            </font>
-            <font face="Tahoma" size=2 color="black"><blockquote>
-              <font face="Tahoma" size=2 color="black"><b>Special <s>Easter/Coronavirus/</s>Zachary update</b></font><p>
-                  Long time RRW contributor Zachary Jelesoff dusted off his old 
-                  storage media and contributed lots of rare exhibitions for our
-                  museum, so this update is dedicated to his honor.<br><br>
-
-                  And these are the updates:
-                  <ul>
-                    <li>MicroHof MP3 Player</li>
-                    <li>Thirteen Apollo versions!</li>
-                    <li>CoolEdit 1.53</li>
-                    <li>LAME 3.97 for DOS</li>
-                  </ul>
-
-                  Also, I added to the SoundVQ page a mail exchange (also provided 
-                  by Zachary) between Yamaha and K-J&ouml;fol developer Christophe 
-                  Thibault that demonstrates Yamaha's short-sightedness promoting 
-                  their own format...
             </blockquote></font>
 
             <br><br>

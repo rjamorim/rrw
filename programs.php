@@ -127,6 +127,7 @@
                 <a href=soloh.php>SoloH mpegEnc</a><br>
                 <a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>
                 <a href=ultimateenc.php>Ultimate [MP1/2/3] Encoder</a><br>
+                <!--<a href=uleadmpeg.php>Ulead MPEG Converter</a><br>-->
                 <a href=uzura.php>Uzura MP1/3 encoder</a><br>
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>
@@ -157,7 +158,7 @@
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
-          <br><div align="justify"><b>Old lossless audio compressors:</b></div>
+          <br><div align="justify"><b>Ancient lossless audio compressors:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=ada.php>Advanced Digital Audio</a><br>
@@ -165,7 +166,7 @@
                 <a href=audiozip.php>AudioZip</a><br>
                 <a href=daxwav.php>Dakx Wav</a><br>
                 <a href=litewave.php>LiteWave</a><br>
-                <!--<a href=la.php>LosslessAudio</a><br>-->
+                <a href=la.php>LosslessAudio</a><br>
                 <a href=lpac.php>LTAC/LPAC</a><br>
                 <a href=pegasussps.php>Pegasus SPS</a><br>
                 <a href=rkau.php>RKau</a><br>

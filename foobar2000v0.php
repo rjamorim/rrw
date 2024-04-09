@@ -54,9 +54,9 @@
     
     
       </table>
-    <br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=6100><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=6250><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -298,6 +298,11 @@
         Version: 0.667<br>
         Download: <a href="files/foobar2000/foobar2000_0.667.exe">foobar2000_0.667.exe</a> - 1.082kB<br>
         <i>Kindly contributed by Holger Stenger</i><br>
+        <br>
+        Date: 2003-05-28<br>
+        Version: 0.666<br>
+        Download: <a href="files/foobar2000/foobar2000_0.666.exe">foobar2000_0.666.exe</a> - 1.710kB<br>
+        <i>Kindly contributed by Jason Antony</i><br>
         <br>
         Date: 2003-05-08<br>
         Version: 0.62a<br>

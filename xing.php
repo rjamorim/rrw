@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=750><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -111,12 +111,12 @@
         on par with <a href=lame.php>LAME</a>, but if you are in a hurry, Xing can
         be a good choice as it is several times faster.<br><br>
         
-        Xing also created <a href="xingsound.php">audio players</a> and a <a 
-        href=audiocatalyst.php>CD Ripper</a>.<br><br>
+        Xing also created <a href=xingsound.php>audio players</a> and a <a 
+        href=audiocat.php>CD Ripper</a>.<br><br>
         
-        Xing Technology was acquired by <a href="realjuke.php">RealNetworks</a> in the 
+        Xing Technology was acquired by <a href=realjuke.php>RealNetworks</a> in the 
         early 2000s (but you can still check their web site at the Internet Archive, <a 
-        href="https://web.archive.org/web/20000303161440/http://www.xingtech.com:80/mp3/encoder"
+        href="https://web.archive.org/web/20000303161440/http://www.xingtech.com/mp3/encoder"
         target=outside>here</a>), and the MP3 encoder was renamed to Helix MP3 Encoder. 
         Then, in 2005, they released the sources under an open source license. It seems 
         they closed the sources again, but here you can find compiles of their encoder 
@@ -159,6 +159,37 @@
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/xing/tompg.zip">tompg.zip</a> - 83kB<br>
+        <br>
+        
+        <hr>
+        Plain MP3 files with VBR encoding have a problem: as they have no header,
+        an MP3 player can not seek into the file or know its length, unless it 
+        decodes the whole file beforehand. CBR files have no such problem because 
+        all frames are about the same size.<br><br>
+        
+        So Xing came up with a solution: adding a no-audio frame at the beginning
+        of the file which contains a seek table and the track duration. Since it 
+        is a valid frame, older MP3 decoders will just skip it and decoders aware
+        of the Xing header can obtain crucial playback information there.<br><br>
+        
+        Below you will find Xing's original VBR header SDK. It is worth pointing 
+        out that it is forwards-compatible with the <a target=outside
+        href="http://gabriel.mp3-tech.org/mp3infotag.html">LAME header</a> 
+        extension.<br>
+
+        <br>
+        Date: 1998-12-30<br>
+        Interface: C SDK<br>
+        Download: <a href="files/xing/vbrheadersdk.zip">vbrheadersdk.zip</a> - 216kB<br>
+        <br>
+        
+        FhG later came up with their own VBR header format and, being the usual 
+        >expletive<, made it completely incompatible with the Xing header:<br>
+
+        <br>
+        Date: 2000-11-07<br>
+        Interface: C++ SDK<br>
+        Download: <a href="files/xing/mp3_vbr_sdk.zip">mp3_vbr_sdk.zip</a> - 3kB<br>
         
 
         </blockquote></font>
