@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,22 +92,24 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Astrid/Quartex AAC</b></div> <p> </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Astrid/Quartex AAC was one of the biggest lies that ever happened to the
-        audio coding community (only maybe surpassed by <a href="mafuka.php">Mafuka</a>,
-        which was more of a prank).<br><br>
+        The Astrid/Quartex AAC codec was one of the biggest lies that ever
+        happened to the audio coding community (only maybe surpassed by <a 
+        href=mafuka.php>Mafuka</a>, which was more of a prank).<br><br>
         
-        The readme claims Astrid AAC is an AAC encoder based on MPEG-4 sources 
+        The readme claims Astrid is an AAC encoder based on MPEG-4 sources 
         released by NTT (Nippon Telephone &amp; Telegraph, the developers of <a 
-        href="nttvqf.php">VQF</a>).<br><br>
+        href=nttvqf.php>VQF</a>). It is limited to CD audio (44.1kHz, stereo,
+        16bit) and only supports 64, 96 and 128kbps bitrates.<br><br>
         
-        The reality is that Astrid AAC is far from being ISO AAC compliant. Actually,
-        it is far from being AAC! The encoding routines are based on libraries stolen 
-        from Celestialtech's <a href="audiolib.php">AudioLib</a> (that used Lucent's PAC 
-        encoder). Not surprisingly, the original binaries were encrypted.<br><br>
+        The reality is that Astrid AAC is far from being ISO AAC compliant. 
+        Actually, it is far from being AAC! The encoding routines are based on 
+        libraries stolen from Celestialtech's <a href=audiolib.php>AudioLib</a> 
+        (that used Lucent's PAC encoder). Not surprisingly the original binaries
+        were encrypted.<br><br>
         
-        The binaries available here have been decrypted by me, if only because they
-        can now be better compressed with Zip. They were encrypted with PELOCKnt, and
-        I used peunlock to reverse the process.<br>
+        The binaries available here have been decrypted by me, if only because 
+        they can now be better compressed with Zip. They were encrypted with 
+        PELOCKnt, and I used peunlock to reverse the process.<br>
         
         <br>
         <br>
