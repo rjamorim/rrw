@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -99,9 +99,11 @@
         
         The codec seems to be CBR (at least in the only encoder I managed to get 
         working). Most encoders I found have the interface written in Japanese, 
-        including the ones created by the codec developer, so I am hosting a third 
-        party encoder here called <a href="http://hp.vector.co.jp/authors/VA027311/"
-        target=outside>Daru</a> that supports MIO.<br><br>
+        including the one created by the developer (which is also available 
+        below, in its original LHA-compressed glory), hence I am hosting a third
+        party encoder here called <a target=outside
+        href="http://hp.vector.co.jp/authors/VA027311/">Daru</a> that supports 
+        MIO and has an English interface.<br><br>
         
         The codec also features a lossless mode, but performance is really bad. 
         Closer to WinRAR with multimedia compression enabled than to any good 
@@ -114,6 +116,8 @@
         The official home page of Entis Lab can be found <a target=outside
         href="http://www.entis.jp/eri/">here</a>. Visitor comments on codec audio 
         quality would be very welcome.<br><br>
+        
+        <i>Lossless compression performance in my limited test: 64,7%</i><br><br>
 
         <i>Lots of thanks to Stefan Gr&uuml;nwald for introducing me to this 
         codec.</i><br>
@@ -122,9 +126,17 @@
         <br>
         Date: 2004-04-12<br>
         Version: R43<br>
+        <a href="screens/miocompress.png" target=outside><img src="screens/miocompress.png" 
+        alt="Mio Compress" align=right height=218></a>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/others/Daru.zip">Daru.zip</a> - 568kB<br>
+        <br>
+        Date: 2001-12-15<br>
+        Version: 1.0<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/others/mio-sample.lzh">mio-sample.lzh</a> - 329kB<br>
         <br>
         Date: 2203 (!) (actually, 2003-11-03)<br>
         Version: 1.1<br>
