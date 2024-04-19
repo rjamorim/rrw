@@ -93,17 +93,18 @@
           <br><div align="justify"><b> Liquid Audio </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/Liquifier.png" target=outside><img src="screens/Liquifier.png" 
-        alt="Liquifier 5.0" align=right height=250></a>
+        alt="Liquifier 5.0" align=right height=330></a>
         Liquid Audio was, for a while, the only way you could come in contact
         with that hot new audio encoding technology from the same creators of the
         hugely popular MP3, the Moving Picture Experts Group (MPEG): Advanced 
         Audio Coding (AAC).<br><br>
         
-        See, the sudden and huge popularity of the MP3 format created a big scare 
-        among recording studios and executives, and they were quick to place part 
-        of the blame on MPEG in general and Fraunhofer in particular for coming 
-        up with a technology that (in their misguided little minds) served for 
-        little more than assisting pirates distributing their precious IP.<br><br>
+        See, the <a href=mp3prod.php>sudden and huge popularity of the MP3 format</a>
+        created a big scare among recording studios and executives, and they were 
+        quick to place part of the blame on MPEG in general and Fraunhofer in 
+        particular for coming up with a technology that (in their misguided little
+        minds) served for little more than assisting pirates distributing their 
+        precious IP.<br><br>
         
         Wanting to avoid a public relations headache, not to mention the threat 
         of court battles, FhG vowed that AAC files would never exist in the wild
@@ -133,14 +134,14 @@
         The main tool enabling this platform was Liquifier, a very featureful 
         program meant to strip audio tracks of that pesky freedom to be shared 
         and played whenever and wherever. It had many features: line-in recorder,
-        CD ripper, (simple) audio editor. You could add lots of information 
-        about each track: title, artist, composer, lyrics, notes, album art, 
-        etc, etc. And in the end, you could create the Liquid Master file, a 
-        single file containing all the information and several different versions
-        of the track (encoded at diferent bitrates and/or different encoders,
-        each version with customizable rights: burn to CD, export to device, 
-        export to MP3, expiry date... Also, the free versions can be created as 
-        only a short clip, not the entire track).<br><br>
+        CD ripper, basic audio editor. You could add lots of information about 
+        each track: title, artist, composer, lyrics, notes, album art, etc, etc. 
+        And in the end, you could create the Liquid Master file, a single file 
+        containing all the information and several different versions of the 
+        track (encoded at diferent bitrates and/or different encoders, each 
+        version with customizable rights: burn to CD, export to device, export 
+        to MP3, expiry date... Also, the free versions can be created as only 
+        short clips, not the entire track).<br><br>
         
         <a href="screens/LiquidPlayer.png" target=outside><img src="screens/LiquidPlayer.png" 
         alt="Liquid Player for Windows 5.0" align=right height=290></a>
@@ -150,10 +151,10 @@
         at the addition of <a href=sonicstage.php>Sony Atrac3</a> as a choice of
         encoder.<br><br>
         
-        Below you have the Liquifier 5.0 installer for Win32, and the cracked
+        Below you have the Liquifier 5.0 installer for Win32 and the cracked
         executable zipped together with a cracking instructions file. It is
         worth mentioning that the installer refuses to run on Windows XP, I
-        suspected it is locked to only run on Windows 9x and Me (but I did not 
+        suspect it is locked to only run on Windows 9x and Me (but I did not 
         try it on Windows NT 4 or 2000). Also, you can have a pre-cracked ZIP 
         package that you can extract and run on whichever Windows version - even
         Windows 10, if you provide the required DLL - and it will just work.
@@ -161,7 +162,8 @@
         
         The player was pretty but not very featureful. It seems more interested 
         in finding a way to display all the countless metadata that can come
-        with the track than providing actually useful features.<br><br>
+        with the track than providing actually useful features such as equalizer
+        and a playlist manager.<br><br>
         
         Finally, as I mentioned before Liquifier creates LQM - Liquid Master - 
         files. And the players only play LQT - Liquid Track - files. The idea is
@@ -170,11 +172,11 @@
         these masters to the Liquid Servers. These were in charge of processing 
         payments from customers and providing them LQTs derived from masters. Of 
         course these servers have gone offline decades ago, so if you want to 
-        try Liquid Audio for yourself, you will need the little lqm2lqt tool 
-        that does exactly that - converts LQM to LQT tracks so they can be 
-        played on Liquid Player.<br><br>
+        try Liquid Audio for yourself you will need the little lqm2lqt tool that
+        does exactly that - converts LQM to LQT tracks so they can be played on 
+        Liquid Player.<br><br>
         
-        Liquid Audio enjoyed some success for a few years, but could not compete
+        Liquid Audio enjoyed some success for a few years but could not compete
         with better established competitors in the music distribution arena such
         as Real Networks with Real Audio and Microsoft with WMA. It disappeared
         in the early 2000s, and you can still see a mirror of the site at the <a
