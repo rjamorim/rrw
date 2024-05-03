@@ -102,11 +102,11 @@
         The system was launched to much fanfare in the late nineties, touting 
         wide industry support and much better quality than alternatives (because
         it was using the AAC format, instead of the more common MP3). Of course,
-        the tracks on sale were heavily protected with DRM schemes.<br><br>
+        the tracks being sold were heavily protected with DRM schemes.<br><br>
         
         To add insult to injury, version 2.0 requires that the user installs 
-        RealPlayer to enable streaming (to see my rant about Real crapware, 
-        read the <a href=realjuke.php>RealJukebox</a> entry).<br><br>
+        RealPlayer to enable streaming (to read my rant about Real crapware, see
+        the <a href=realjuke.php>RealJukebox</a> article).<br><br>
         
         a2b folded rather spectaculously before even becoming relevant, when the 
         majority of its employees decided to walk out and <a target=outside
@@ -116,7 +116,7 @@
         you want to stare at an interface so ugly it borders on the indecent).
         <br><br>
         
-        Talking about cutting-edge design, check out this Internet Archive<a 
+        Talking about cutting-edge design, check out this Internet Archive <a 
         href="https://web.archive.org/web/19990208011048/http://www.a2bmusic.com/"
         target=outside>mirror</a> of the a2b music website, for some real <i>eye
         candy</i>.<br><br>
