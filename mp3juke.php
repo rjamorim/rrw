@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,13 +98,17 @@
         and target audience: it is probably the most complete MP3 player for 
         Windows 3.1!<br><br>
         
-        But I am getting ahead of myself. Actually, it is not really a player,
-        but a frontend to Fraunhofer's <a href=winplay3.php>WinPlay3</a>. So 
-        besides getting some very nice features such as ID3 tagging and a 
-        surprisingly featureful playlists (here called "Collections") manager, 
-        your songs are decoded with one of the best MP3 decoders. I tested MP3 
-        Jukebox with versions 1.3 and 2.3b5 for Win16 and it worked without 
-        issues.<br><br> 
+        But I am getting ahead of myself. Actually, it is not really for Win3.1.
+        It was compiled as a 32-bit executable for Windows 95, 98 and beyond. 
+        But it does run fine on Windows 3.1 if you install <a target=outside
+        href="https://winworldpc.com/product/win32s/130">Win32s</a>.<br><br>
+        
+        Also, it is not really a player, but a frontend to Fraunhofer's <a 
+        href=winplay3.php>WinPlay3</a>. So besides getting some very nice 
+        features such as ID3 tagging and a surprisingly featureful playlists 
+        manager (here these are called "Collections"), the songs are decoded 
+        with one of the best MP3 decoders. I tested MP3 Jukebox with versions 
+        1.3 and 2.3b5 for Win16 and it worked without issues.<br><br> 
           
         <i>Big thanks to Arthurro Ludvicco for introducing me to MP3 Jukebox.
         </i><br>
@@ -114,7 +118,7 @@
         Date: 1997-02-27<br>
         Version: 2.3<br>
         Interface: Graphical<br>
-        Platform: Win16 (requires Win32s)<br>
+        Platform: Win32 (Win16 works with Win32s)<br>
         Download: <a href="files/players/JUKBOX23.EXE">JUKBOX23.EXE</a> - 191kB<br>
 
         </blockquote></font>
