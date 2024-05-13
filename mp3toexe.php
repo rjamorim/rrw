@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,21 +94,23 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mp32exe-creator.png" target=outside><img 
         src="screens/mp32exe-creator.png" alt="MP3 to EXE converter interface" 
-        align=right height=208></a>
+        align=right height=212></a>
         MP3 to EXE is a shareware created by Oliver Buchjost with the goal of 
-        enabling MP3 files to be played stand-alone, with no need of a decoder 
-        or player. In fact, the player contains the MP3 file within itself.<br><br>
+        enabling MP3 (or MP2) files to be played stand-alone, with no need of a 
+        decoder or player. In fact, the player contains the MP3 file within
+        itself.<br><br>
         
-        The idea is to enable songs to be distributed with no concern whether the
-        recipient will have an MP3 player installed (which was a valid concern in 
-        the nineties. Certainly not a concern anymore for any modern operating 
-        system).<br><br>
+        The idea is to enable songs to be distributed with no concern whether 
+        the recipient will have an MP3 player installed (which was a valid 
+        concern in the late nineties. Certainly not a concern anymore for any 
+        modern operating system).<br><br>
         
         The converter allows a high customization level of the generated player,
         from visuals to features, and also allows previewing how the player is 
-        going to look once created. There is even an option to split files to
-        fit in floppy disks! By the way, it is worth mentioning the player stub
-        adds about 200kB to the MP3 file size.<br><br>
+        going to look once created. You can add a clickable URL to your website
+        and set an expiration date for the song. There is even an option to 
+        split files to fit in floppy disks! By the way, the player stub adds 
+        about 200 to 250kB to the MP3 file size.<br><br>
 
         The MP3 decoder is based on a Delphi component called EldoS Sounds, 
         which by its turn is based on mpg123, therefore decoding accuracy should
@@ -117,12 +119,13 @@
         For some reason I could not get the player to work on Windows 10 or XP
         (the converter works fine on these systems). The screenshot here was 
         taken on a Windows NT 4 virtual machine, and even then, I could not get
-        the volume sliders to work.<br><br>
+        the volume sliders to work. So I tried a Win98 virtual machine and the 
+        volume control did work there, but the VU meter stopped working...<br><br>
         
         There is an alternative MP3 to EXE, by another author, which is much less
         featureful. It is available <a href=mp3toexe2.php>here</a>.<br><br>
         
-        The web site is gone, but a mirror is available at the <a target=outside
+        The web site is gone but a mirror is available at the <a target=outside
         href="https://web.archive.org/web/20000229093848/http://www.mp3toexe.com"
         >Internet Archive</a>.<br>
         <a href="screens/mp32exe-player.png" target=outside><img 
