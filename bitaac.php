@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,16 +95,18 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/bitaac.png" target=outside><img src="screens/bitaac.png" 
         alt="BitAAC" align=right></a>
-        Not much is known about this AAC player. It was developed by Koji Matsunaga.
-        <br><br>
+        Not much is known about this AAC player. It was developed by Koji 
+        Matsunaga.<br><br>
         
-        It has several limitations: only plays 44100Hz files, bitrates of 128, 96 
-        and 64 kbps, MPEG2 Main profile (not even LC!), and has some ISO compliance 
-        issues (despite being based on the MPEG Refsoft). On the other hand, it 
-        supports playlists and skins.<br><br>
+        It has several limitations: only plays 44100Hz files, bitrates of 128, 
+        96 and 64 kbps, MPEG2 Main profile (not even LC!), and has some ISO 
+        compliance issues (despite being based on the MPEG Refsoft). It will not
+        play anything else, even WAV files. On the other hand, it has a nice 
+        playlist editor and supports skins. And the about box is written in 
+        Comic Sans!<br><br>
         
-        Anyway, it was the first GUI player to support AAC, and therefore 
-        deserves acknowledgement.<br>
+        Anyway, it was the first GUI player to (attempt to) support AAC, and for
+        that reason, deserves acknowledgement.<br>
         
         <br>
         <br>
