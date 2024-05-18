@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2050><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=2100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -107,11 +107,10 @@
         target=outside>FAQ</a> and a small collection of <a href="files/fhg/mp3-bitstreams.tar.gz">
         test bitstreams</a> (1.370kB).<br><br>
         
-        By the end of 1997 l3enc stopped being developed in favour of the development
-        of <a href="mp3enc.php">MP3enc</a>. The l3enc webpage can still be seen at
-        the Internet Archive, <a 
-        href="https://web.archive.org/web/19980204230835/http://iis.fhg.de:80/departs/amm/layer3/index.html"
-        target=outside>here</a>.<br>
+        By the end of 1997 l3enc stopped being developed in favor of the development
+        of <a href="mp3enc.php">MP3enc</a>. The webpage can still be seen at the <a 
+        href="https://web.archive.org/web/19970606161304/http://www.iis.fhg.de/departs/amm/layer3/index.html"
+        target=outside>Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -126,7 +125,7 @@
         <hr>
         Date: 1997-12-05<br>
         Version: 2.72<br>
-        Interface: Command line (also Windows fronted)<br>
+        Interface: Command line (includes Windows fronted)<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc272.zip">l3enc272.zip</a> - 564kB<br>
         <br>
@@ -163,7 +162,7 @@
         Version: 2.70<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc270.zip">l3enc270.zip</a> - 319kB<br>
+        Download: <a href="files/fhg/l3enc270.zip">l3enc270.zip</a> - 305kB<br>
         <br>
         Platform: SGI Irix<br>
         Download: <a href="files/fhg/l3enc270.sgi.tar.gz">l3enc270.sgi.tar.gz</a> - 275kB<br>
@@ -192,7 +191,7 @@
         Version: 2.60<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc260.zip">l3enc260.zip</a> - 312kB<br>
+        Download: <a href="files/fhg/l3enc260.zip">l3enc260.zip</a> - 297kB<br>
         <br>
         Platform: Linux<br>
         Download: <a href="files/fhg/l3enc260.linux.tar.gz">l3enc260.linux.tar.gz</a> - 198kB<br>
@@ -225,7 +224,7 @@
         Version: 1.00<br>
         Interface: Command line<br>
         Platform: DOS<br>
-        Download: <a href="files/fhg/l3enc100.zip">l3enc100.zip</a> - 126kB<br>
+        Download: <a href="files/fhg/l3enc100.zip">l3enc100.zip</a> - 149kB<br>
         <br>
         Platform: SunOS<br>
         Download: <a href="files/fhg/l3enc100.sun4.tar.z">l3enc100.sun4.tar.z</a> - 394kB<br>
