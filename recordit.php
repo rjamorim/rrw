@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,30 +93,32 @@
           <br><div align="justify"><b> Iomega RecordIt </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/recordit-ply.png" target=outside><img src="screens/recordit-ply.png" 
-        alt="RecordIt - player on Mac" align=right height=107></a>
-        RecordIt is a recording app for Windows and Mac OS Classic created by Iomega. 
-        Its main goal was enabling customers of their Zip drives to rip CDs and make 
-        the tracks fit inside one Zip disk (100MB).<br><br>
+        alt="RecordIt - player on Mac" align=right height=130></a>
+        RecordIt is a recording app for Windows and Mac OS Classic created by 
+        Iomega. Its main goal was enabling customers of their Zip drives to rip
+        CDs and make the tracks fit inside one Zip disk (100MB).<br><br>
         
-        That is achieved encoding the tracks to MP2 files. The compression technology
-        was licensed from QDesign (of <a href="qdmc.php">QDMC</a> fame) and it is, 
-        indeed, a quite decent MP2 encoder (unlike their MP3 encoder, which is just
-        horrible).<br><br>
+        That feat is achieved encoding the tracks to MP2 files. The compression 
+        technology was licensed from QDesign (of <a href=qdmc.php>QDMC</a> fame) 
+        and it is, indeed, a <a href=imedia.php>quite decent MP2 encoder</a> 
+        (unlike their MP3 encoder, which is just horrible).<br><br>
         
-        I could only get the Windows version to install on Win9x - it will not work 
-        at all on WinNT and variants. The interface is quite garish. In case you must 
-        know, the stars for quality mean: 4 stars = 256kbps, 3 stars = 192kbps, 2 
-        stars = 112kbps, and 1 star = 24kbps/22kHz.<br><br>
+        I could only get the Windows version to install on Win9x - it will not 
+        work at all on WinNT and variants. The interface is quite garish. In 
+        case you must know, the stars for quality mean: 4 stars = 256kbps, 3 
+        stars = 192kbps, 2 stars = 112kbps, and 1 star = 24kbps/22kHz.<br><br>
         
         <a href="screens/recordit-enc.png" target=outside><img src="screens/recordit-enc.png" 
-        alt="RecordIt - encoder on Windows" align=right height=209></a>
-        It is worth mentioning the program is not really an encoder, but a recorder - 
-        which means, it will not accept .wav files for input. It will only encode 
-        from an audio CD, line-in, or a microphone.<br><br>
+        alt="RecordIt - encoder on Windows" align=right height=255></a>
+        It is worth mentioning the program is not really an encoder, but a 
+        recorder - which means it will not accept .wav files for input. It will 
+        only encode directly from an audio CD (and, sadly, with no CDDB support),
+        line-in, or a microphone. It also features a player to play back the 
+        encoded files, but it's as ugly as the encoder program.<br><br>
         
-        The RecordIt web page at Iomega can still be reached at <a
+        The RecordIt page at Iomega can still be visited at the <a target=outside
         href="https://web.archive.org/web/20000304155316/http://www.iomega.com/software/featured/recordit.html"
-        target=outside>archive.org</a>.<br>
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -125,6 +127,7 @@
         Interface: Graphical<br>
         Platform: Win32 (Win9x only)<br>
         Download: <a href="files/mpeg/RecordIt.zip">RecordIt.zip</a> - 2.838kB<br>
+        <i>Submitted by Geert from Belgium</i><br>
         <br>
         Date: 1998-07-01<br>
         Version: 1.3<br>
