@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,9 +92,9 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> EAQUAL </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        EAQUAL (Evaluation of Audio Quality) is an ITU-R BS.1387 implementation
-        developed by the DSP engineer Alexander Lerch - the creator of the <a 
-        href=compaact.php>Compaact!</a> AAC encoder.<br><br>
+        EAQUAL (Evaluation of Audio Quality) is an open source ITU-R BS.1387 
+        implementation developed by the DSP engineer Alexander Lerch - the 
+        creator of the <a href=compaact.php>Compaact!</a> AAC encoder.<br><br>
         
         The ITU-R BS.1387 standard aims to provide objective quality measurement
         for compressed audio signals. Unlike subjective audio comparisons
@@ -108,10 +108,10 @@
         
         The most relevant output of EAQUAL is the ODG (Objective Difference 
         Grade), a numeric value. An ODG of -4 means a very annoying disturbance, 
-        while an ODG of 0 means that there is no perceptible difference between
-        the samples being evaluated. Wim Speekenbrink tested several samples on 
-        several encoders (of that time, early 2002) and published the EAQUAL 
-        results at his <a target=outside 
+        while an ODG of 0 means there is no perceptible difference (according to
+        the mathematical model) between the samples being evaluated. Wim 
+        Speekenbrink tested several samples on several encoders (of that time, 
+        early 2002) and published the EAQUAL results at his <a target=outside 
         href="http://web.archive.org/web/20030225144341/http://home.wanadoo.nl/~w.speek/eaqual.htm">
         web site</a>.<br><br>
         
