@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -106,18 +106,26 @@
         is corrupt. Also, some tag editors do not recognize that kind of data and
         remove it upon updating the tag. Finally, the ID3v2 specification limits
         the tag size to 256MB, therefore the lossless data can not exceed that
-        size (most full CDs, at 75-80 minutes, would easily do so).<br><br>
+        size (most full CDs, at 75-80 minutes, would easily do so if encoded as
+        a single file).<br><br>
         
         This mode of operation - lossy stream plus discarded data to achieve
-        lossless compression - is the same idea employed by <a href="wavpack.php">
-        WavPack</a> hybrid mode and OptimFrog DualStream.<br><br>
+        lossless compression - is the same idea employed by <a href=wavpack.php
+        >WavPack</a> hybrid mode, OptimFrog DualStream and <a href=sonicstage.php
+        >ATRAC Advanced Lossless</a>. The performance is decent: in my limited 
+        tests, mp3HD yielded compression ratios a little better than FLAC's (but
+        keep in mind performance tends to be worse when encoding VBR MP3s).
+        <br><br>
         
-        Just like <a href="ctmp3pro.php">MP3pro</a> and <a href="fhgmp3s.php">MP3
+        Just like <a href=ctmp3pro.php>MP3pro</a> and <a href=fhgmp3s.php>MP3
         Surround</a>, mp3HD failed to become popular and was quickly abandoned by
-        its creators. Fortunately, you can see a mirror of the original web page
-        at the <a target=outside
+        its creators. Fortunately, you can still visit a mirror of the original 
+        web page at the <a target=outside
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com/" 
         >Internet Archive</a>.<br><br>
+        
+        <i>Compression performance in my limited test: 54.38% (with CBR 128)
+        </i><br><br>
         
         <i>Thanks to Zachary Jelesoff for sending me this file and reminding
         me of the existence of mp3HD!</i><br>
