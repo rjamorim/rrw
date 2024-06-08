@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,10 +98,14 @@
         
         One unique feature of this compressor is that it can store several tracks 
         in one file, which can lead to slightly improved compression. And the
-        compression ratio is surprisingly good for such an old codec.<br><br>
+        compression performance is quite decent for such an old codec.<br><br>
         
         There are both 16-bit (runs on an 8086) and 32-bit (requires a 80386) 
         versions available in the package offered here.<br><br>
+        
+        The multimedia programmer Konstantin Shishkov (Kostya) did a quick <a 
+        href="https://codecs.multimedia.cx/2023/01/a-quick-glance-at-wa/"
+        target=outside>analysis</a> of this codec.<br><br>
         
         <i>Compression performance in my limited test: 58,26%</i><br>
         
