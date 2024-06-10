@@ -113,14 +113,15 @@
         optically next to the film stock sprockets. In this capacity it competed 
         with the <a href=softencode.php>Dolby AC3</a> and DTS formats.<br><br>
         
-        Around the same time, Sony was working on a magneto-optical media storage
-        system called MiniDisc that used ATRAC to compress audio, reducing CD
-        quality streams from 1411kbps (uncompressed) to 292kbps - or 146kbps in
-        mono mode. There are several backwards- and forwards-compatible versions
-        of the ATRAC encoder created by Sony, from v1 to v4.5 (and then, Type R 
-        and Type S), and it is said it only started sounding good in version 3. 
-        Other MiniDisc manufacturers like Panasonic and Sharp also released their
-        own tuned versions of the encoder.<br><br>
+        Around the same time, Sony was working on a magneto-optical audio storage
+        and playback system called MiniDisc that was launched in 1992 and used 
+        ATRAC to compress audio, reducing CD quality streams from 1411kbps 
+        (uncompressed) to 292kbps - or 146kbps in mono mode. There are several 
+        backwards- and forwards-compatible versions of the ATRAC encoder created
+        by Sony, from v1 to v4.5 (and then, Type R and Type S), and it is said 
+        it only started sounding good in version 3. Other MiniDisc manufacturers
+        like Panasonic and Sharp also released their own tuned versions of the 
+        encoder.<br><br>
         
         In 1999 Sony launched the first major upgrade to the ATRAC format with 
         the release of ATRAC3. It was introduced as a response to the perceived 
@@ -149,8 +150,8 @@
         Compression performance is quite bad, yielding ratios similar to <a 
         href=daxwav.php>Dakx</a>.<br><br>
         
-        The latest iteration of the format is called ATRAC9, with a focus on 
-        video game audio for Sony consoles.<br><br>
+        The latest iteration of the format was released in 2011 and is called 
+        ATRAC9, focused on video game audio for Sony consoles.<br><br>
         
         Besides being implemented in several hardware devices and software 
         programs created by Sony, the format has been licensed to other MiniDisc
@@ -182,7 +183,8 @@
         ATRAC3 or ATRAC3plus files - like the ones encoded by SonicStage. It can
         also work with *.aa3 files (as encoded by, E.G, Sound Forge + its plugin
         below), but you will first have to rename the extension to .oma. I could
-        not get it to work with the PS3 or PSP encoding tools.<br><br>
+        not get it to work with tracks encoded by the PS3 or PSP encoding tools.
+        <br><br>
         
         None of the ATRAC versions and iterations has ever been standardized or 
         publicly documented, which in part explains the small popularity the 
@@ -193,7 +195,7 @@
         iterations of ATRAC in their libavcodec library.<br><br>
         
         Since the early 2010s Sony appears to be de-emphasizing the use of ATRAC, 
-        at least for end-users. Versions of SonicStage - now renamed to "Music
+        at least for end-users. Versions of SonicStage - now renamed as "Music
         Center" - released since that time do not offer the format as an option 
         for ripping CDs, the only choices are MP3, AAC, WAV, and FLAC. And the 
         latest version of Music Center goes as far as introducing functionality
@@ -232,7 +234,7 @@
         Download: <a href="files/others/PS3_at3tool.zip">PS3_at3tool.zip</a> - 288kB<br>
         <br>
         <a href="screens/atrac3acm.png" target=outside><img src="screens/atrac3acm.png" 
-        alt="ATRAC3 ACM codec" align=right height=200></a>
+        alt="ATRAC3 ACM codec" align=right></a>
         Date: 2009-08-18<br>
         Version: 3.0<br>
         Interface: Command line<br>
@@ -259,7 +261,7 @@
         <br>
         Date: 2006-02-13<br>
         Version: 1.0.109<br>
-        Interface: SoundForge 6+ plugin<br>
+        Interface: SoundForge 8+ plugin<br>
         Platform: Win32<br>
         Download: <a href="files/others/atracplug.zip">atracplug.zip</a> - 679kB<br>
         <br>
