@@ -106,18 +106,19 @@
         
         I generated a web page with the wizard using a public domain song and 
         placed it <a href="mirrors/soundvq/">here</a> (keeping the template texts
-        and ugly design intact). But you will have to find a browser that a) loads 
-        the plugin and b) supports modern HTTPS.<br><br>
+        and ugly design intact). But you will have to find a browser that a) 
+        loads the plugin and b) supports modern HTTPS.<br><br>
         
-        Quality in high quality mode is good, but encoding is very slow. Also, it 
-        only works for 90 days and then expires.<br><br>
+        Quality in "high quality" mode is good, but encoding is very slow. Also, 
+        the encoder only works for 90 days and then expires.<br><br>
         
-        Yamaha discontinued offering their SoundVQ software line after the obvious
-        failure of the format in becoming popular (in no small part thanks to Yamaha
-        behaving like <a href=mirrors/Letter.txt>asshats</a> - <i>file provided by 
-        Zachary Jelesoff</i>). A mirror of the official page can be found at the <a 
+        Yamaha stopped offering their SoundVQ software line in mid-2003 after the
+        obvious failure of the format becoming popular (in no small part thanks
+        to Yamaha behaving like <a href=mirrors/Letter.txt>asshats</a> - <i>file 
+        provided by Zachary Jelesoff</i>). A mirror of the official page can 
+        still be visited at the <a target=outside
         href="https://web.archive.org/web/20011211125041/http://www.yamaha-xg.com/soundvq/index.html"
-        target=outside>Internet Archive</a>.<br>
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -132,6 +133,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870kB<br>
+        Time limit patch: <a href="files/vqf/VQenc-patch.exe">VQenc-patch.exe</a> - 18kB<br>
         <br>
         Date: 2000-05-07<br>
         Version: 2.60b1 (encoder)<br>
