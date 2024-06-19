@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,15 +94,21 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/rjpa-pl.png" target=outside><img src="screens/rjpa-pl.png" 
-        alt="rJPa playlist builder" align=right height=232></a>
+        alt="rJPa playlist builder" align=right height=246></a>
         <a href="screens/rjpa-enc.png" target=outside><img src="screens/rjpa-enc.png" 
-        alt="rJPa encoder" align=right height=232></a>
-        rJPa is actually not an encoder, but a frontend for the tompg (<a 
-        href="xing.php">Xing</a>) MP1/2/3 encoder, which is illegally distributed 
-        with the installation (tompg.exe mysteriously appears in \Windows\System32 
-        after you install rJPa).<br><br>
+        alt="rJPa encoder" align=right height=246></a>
+        rJPa is actually not an encoder, but a frontend to the <a href=xing.php>
+        Xing tompg</a> MP1/2/3 encoder, which is illegally distributed with the
+        program (tompg.exe mysteriously appears in \Windows\System32 after
+        the installlation, and rJPa stops encoding if you delete it).<br><br>
         
-        Also included is a playlist builder.<br>
+        At least, unlike other tompg <a href=x-codec.php>rip-off</a> <a 
+        href=ecosmo.php>encoders</a>, the rJPa author credits Xing in the About
+        interface.<br><br>
+        
+        A playlist builder is included in the installation. Might be an useful 
+        tool for players that can read .m3u files but do not feature a playlist 
+        manager.<br>
       
         <br>
         <br>
@@ -111,9 +117,11 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/xing/rjpa.zip">rjpa.zip</a> - 1.261kB<br>
-        <br><br>
+        <br>
         
-        Also available here is an MP1/2/3 decoder developed by the same author.<br>
+        Also available here is an MP1/2/3 decoder developed by the same author.
+        The decoding engine is based on the EldoS Sounds Delphi component, which 
+        by its turn is based on mpg123.<br>
         
         <br>
         Date: 1998-08-01<br>
