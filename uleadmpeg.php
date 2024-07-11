@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - QualComm PureVoice</TITLE>
+<TITLE>ReallyRareWares - Ulead MPEG Converter</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -90,47 +90,52 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>Qualcomm PureVoice</b></div> <p>
-        </font>
+          <br><div align="justify"><b> Ulead MPEG Converter </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/purevoice.png" target=outside><img src="screens/purevoice.png" 
-        alt="PureVoice 1.32" align=right></a>
-        PureVoice (also known as QCELP) is a voice codec developed by Qualcomm, 
-        famous cell phone chipset manufacturer and developers of the Eudora e-mail 
-        client.<br><br>
+        <a href="screens/uleadmpeg.png" target=outside><img src="screens/uleadmpeg.png" 
+        alt="Ulead MPEG Converter" align=right height=280></a>
+        Ulead MPEG Converter is a Win16 program that converts AVI files to MPEG 
+        streams.<br><br>
         
-        It offers two compression settings: PureVoice (high quality - 13kbps) and 
-        SmartRate (high compression - 8kbps). The encoding technology was used on 
-        CDMA (which was also developed by Qualcomm).<br><br>
+        <i>And what is a video encoder doing at ReallyRareWares?</i> I hear you 
+        ask.<br><br>
         
-        Besides the standalone apps featured here, PureVoice encoding technology 
-        was available as a QuickTime component and <a target=outside 
-        href="https://web.archive.org/web/20000815055137/http://www.eudora.com/purevoice/"
-        >Eudora plugin</a>.<br><br>
+        Well, the program also offers an audio encoding mode, as you can see in 
+        the screenshot to the right. Select a bunch of WAV files (it has a nice 
+        batch encoding feature), set encoding parameters for individual files or
+        for all of them at once - you can select MPEG Layer 1 or 2, bitrate, and
+        stereo coding mode - click the convert button and let the program do the
+        rest!<br><br>
         
-        You can also check the original <a target=outside
-        href="https://www.qualcomm.com/news/releases/1997/06/qualcomm-introduces-purevoice-superior-voice-coding-technology-withlandline"
-        >press release</a> from Qualcomm announcing PureVoice.<br> 
+        Besides, it's the first MP1/2 encoder for Windows 3.1 at RRW. So now you
+        can (finally!) start up your 486 DX2 with 8MB RAM, install Ulead MPEG 
+        Converter (it fits in a floppy!), and go about converting your vast WAV 
+        archives. Afterwards, do not forget to grab <a href=xingsound.php>
+        XingSound</a> (it will fit in the same floppy!) to playback your brand 
+        new MP2 collection.<br><br>
+    
+        There are other pluses: the program is an encoder AND a decoder, so 
+        besides encoding MPEG and MP2 files, it can <a target=outside
+        href=screens/uleadmpegdec.png>decode them back to AVI and WAV</a> - with
+        full VCM and ACM support! On the downside, being a Win16 app, it will 
+        not support long file names. Besides, it requires <a target=outside
+        href="https://winworldpc.com/product/win32s/130">Win32s</a> to run on 
+        Win 3.1, works fine without further requirements on Win95/98, and does 
+        not seem to work on WinXP at all.<br><br>
         
+        Ulead was bought by InterVideo in 2005, which was bought by Corel in 
+        2006, and the program disappeared along the way. But the MPEG Converter
+        web page can still be seen at the <a target=outside
+        href="https://web.archive.org/web/19970418221833fw_/http://www.ulead.com/products/mpegconv.htm"
+        >Internet Archive</a>.<br>
+
         <br>
         <br>
-        Date: 2006-09-15<br>
-        Version: 2.40<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/vocodecs/PureVoice_2_4_0c.exe">PureVoice_2_4_0c.exe</a> - 834kB<br>
-        <br>
-        Date: 1998-08-06<br>
-        Version: 1.32<br>
-        Interface: Graphical<br>
-        Platform: Win32<br>
-        Download: <a href="files/vocodecs/PureWin132.exe">PureWin132.exe</a> - 1.354kB<br>
-        <br>
-        Date: 1998-08-06<br>
+        Date: 1995-07-14<br>
         Version: 1.0<br>
-        Interface: Command line<br>
-        Platform: Win32<br>
-        Download: <a href="files/vocodecs/PVconvert.zip">PVconvert.zip</a> - 70kB<br>
+        Interface: Graphical<br>
+        Platform: Win16 (Requires Win32s)<br>
+        Download: <a href="files/mpeg/UMPGconv.exe">UMPGconv.exe</a> - 728kB<br>
 
         </blockquote></font>
 

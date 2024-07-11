@@ -127,7 +127,7 @@
                 <a href=soloh.php>SoloH mpegEnc</a><br>
                 <a href=soundlimit.php>Sound Limit MP1/2/3 encoder</a><br>
                 <a href=ultimateenc.php>Ultimate [MP1/2/3] Encoder</a><br>
-                <!--<a href=uleadmpeg.php>Ulead MPEG Converter</a><br>-->
+                <a href=uleadmpeg.php>Ulead MPEG Converter</a><br>
                 <a href=uzura.php>Uzura MP1/3 encoder</a><br>
                 <a href=wav2mp.php>Wav2mp MP1/2 encoder</a><br>
                 <a href=x-codec.php>X-codec MP3 encoder</a><br>

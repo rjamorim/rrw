@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1750><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -107,7 +107,9 @@
         
         Two versions are available here, AACenc - slow and high quality, and 
         Fastenc - fast and lower quality. At the bottom you will find PsyTEL
-        MPEG-4 studio, an ISO reference sources compile with a frontend.<br><br>
+        MPEG-4 studio, an ISO reference sources compile with a buggy frontend 
+        (said frontend is a shameless rip off from <a href=mp3prod.php>FhG MP3
+        Producer</a> by the way).<br><br>
         
         Around mid-2002 PsyTEL Research and all its assets were bought by Ahead 
         Software AG, makers of Nero Burning ROM, and AACenc became <a 
@@ -155,6 +157,8 @@
         Version: 1.61b<br>
         Download: <a href="files/aac/psytel/aacenc161.zip">aacenc161.zip</a> - 143kB<br>
         <br>
+        <a href="screens/psytelMPEG4.png" target=outside><img src="screens/psytelMPEG4.png" 
+        alt="Psytel MPEG-4 Authoring Tool" align=right height=300></a>
         Date: 2001-12-22<br>
         Version: 1.6<br>
         Download: <a href="files/aac/psytel/aacenc16.zip">aacenc16.zip</a> - 138kB<br>
@@ -209,6 +213,28 @@
         Interface: Command line + frontend<br>
         Platform: Win32<br>
         Download: <a href="files/aac/psytel/studio1.0a2.zip">studio1.0a2.zip</a> - 262kB<br>
+        <br>
+        <hr>
+        In late 2001, a little before their assets were bought by Ahead, Psytel 
+        started working on an MPEG4 audio + video solution that is available for 
+        download here. Some caveats:
+        <ul>
+          <li>It is a beta release, so it expires 30 days after first use</li>
+          <li>Audio compression is limited to 1 minute, if you encode a longer 
+          video, everything after the 1 minute mark will be silent</li>
+          <li>It does not work on AVI files. It requires a raw YUV file + an
+          uncompressed WAV file, both will be encoded and later merged</li>
+          <li>While the audio encoder is pretty good, being based on Psytel
+          AACenc, the video encoder is quite terrible</li>
+        </ul>
+        
+        Date: 2001-11-21<br>
+        Version: Developer beta 1<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/aac/psytel/mp4devbeta1_setup.exe">mp4devbeta1_setup.exe</a> - 669kB<br>
+        
+        
         </blockquote></font>
 
         <br><br>

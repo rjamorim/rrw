@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - VoxWare ToolVox/TeleVox</TITLE>
+<TITLE>ReallyRareWares - Voxware ToolVox/TeleVox</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,29 +90,30 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"> <b>VoxWare ToolVox/TeleVox</b></div> <p>
+          <br><div align="justify"> <b>Voxware ToolVox/TeleVox</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/toolvox-enc.png" target=outside><img src="screens/toolvox-enc.png" 
         alt="Toolvox encoder" align=right height=314></a>
         <a href="screens/televox.png" target=outside><img src="screens/televox.png" 
         alt="Televox" align=right height=314></a>
-        All VoxWare voice compression products are based on a proprietary technology
+        All Voxware voice compression products are based on a proprietary technology
         that seems to be quite unique in the compression world: MetaVoice. Instead of 
         compressing the voice samples like all other compression methods, MetaVoice
         models every detail of them (resonance, pitch, timbre, timing, and character) and
         reconstructs the speech from this "recipe" at the decoder.<br><br>
         
-        The page about MetaVoice at VoxWare is now gone - VoxWare themselves stopped 
+        The page about MetaVoice at Voxware is now gone - Voxware themselves stopped 
         marketing their voice codecs - but I saved it <a href="mirrors/metavoice/metavoice.html"
         target=outside>here</a>. Check out the "compression analogy" link for an 
         interesting analogy.<br><br>
         
-        There are three VoxWare tools available here. ToolVox Player is just that - 
-        a VoxWare player. ToolVox Gold is an encoder and decoder of voice streams. 
+        There are four Voxware tools available here. ToolVox Player is just that - 
+        a Voxware player. ToolVox Gold is an encoder and decoder of voice streams. 
         TeleVox is an internet telephony application trial that expires after 14 
         days (but it does not matter, you can not use it since its directory servers
-        have gone offline ages ago).<br>
+        have gone offline decades ago). Finally, we have a compression toolkit
+        containing ACM and DirectShow codecs.<br>
         
         <br>
         <br>
@@ -135,6 +136,12 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/televx25.exe">televx25.exe</a> - 1.849kB<br>
+        <br>
+        Date: 1998-06-10<br>
+        Version: 4.0 (Compression Toolkit)<br>
+        Interface: Graphical<br>
+        Platform: Win32<br>
+        Download: <a href="files/vocodecs/voxkit.exe">voxkit.exe</a> - 615kB<br>
 
         </blockquote></font>
 

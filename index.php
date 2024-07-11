@@ -61,7 +61,7 @@
       </table>
     </td></tr>
       </table>
-<img width=1 height=1400 src="dot.gif">
+<img width=1 height=1600 src="dot.gif">
 
 <br><br><br><br><br><br><br><br><br>
 
@@ -100,7 +100,7 @@ target=outside>Creative<br>Commons Attribution-<br>ShareAlike 4.0
 
 -->
 
-<br><br><br>Last update: 2024-04-09<br><br>
+<br><br><br>Last update: 2024-07-11<br><br>
 Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03 <br><br></font>
 
       <body link="#999999" vlink="#999999" alink="#999999">
@@ -139,6 +139,27 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
         </table>
         </a>
 
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2024-07-11: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Video encoders? In MY ReallyRareWares?</b></font><p>
+                  The main exhibit in this update is the Ulead MPEG Converter, 
+                  a quite nice MP1/2 encoder for Win3.1 (actually, the only one 
+                  to my knowledge so far. There is almost certainly a Xing MP2 
+                  encoder for this platform, but I never found it. <a 
+                  href=about.php>Hit me up</a> if you have cool stuff from Xing!).
+                  It is also an MPEG video encoder, but that doesn't really matter 
+                  here at RRW.
+                  <br><br>
+                  And I also added a few other goodies to the collection:
+                  <ul>
+                    <li>Psytel Research's swan song, the MPEG-4 Authoring Tool</li>
+                    <li>Old Voxware ACM and DirectShow codecs</li>
+                    <li>Wavpack 4.31 for DOS, plus sources</li>
+                    <li>Qualcomm PureVoice 2.4 - the last version for Windows</li>
+                  </ul>
+            </blockquote></font>
         
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2024-04-09: </b></div><p>
@@ -148,12 +169,12 @@ Providing <i>really</i> hard to<br> find pieces of software<br> since 2003-12-03
                   Today I bring you more abandoned and obsolete tools to please 
                   your senses
                   <br><br>
-                  It has been more than two dacades since the Lossless Audio codec
+                  It has been more than two decades since the Lossless Audio codec
                   last saw an update. It can be safely considered abandoned at 
                   this point, hence, I crated a page to preserve it.
                   <br><br>
                   Then, updates to the SonicStage (ATRAC) page! The in_atrac3 Winamp
-                  plugin (courtesy of Zachary Jelesoff), a SoundForge 6-8 ATRAC3 
+                  plugin (courtesy of Zachary Jelesoff), a SoundForge 8/9 ATRAC3 
                   plugin (later versions have the plugin built-in), and codecs from 
                   the PlayStation SDKs. I also updated the page text mentioning 
                   Sony's apparent abandonment of the format.

@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -117,18 +117,26 @@
         
         WavPack 4 has been released soon afterwards. It adds important features
         such as fast seeking, improved error robustness, multichannel and high
-        resolution audio support, among others. All the while offering a very
+        resolution audio support, among others. All of this while offering a very
         good compression x speed ratio.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
         target=outside>here</a>.<br><br>
         
-        <i>Compression performance in my limited test: 52,73% (-h setting)</i><br><br>
+        <i>Compression performance in my limited test: 52,73% (-h setting)</i>
+        <br><br>
 
         
         <i>All files here were kindly contributed by David Bryant himself.</i><br>
 
         <br>
+        <br>
+        Date: 2006-03-20<br>
+        Version: 4.31<br>
+        Interface: Command line<br>
+        Platform: DOS<br>
+        Download: <a href="files/lossless/WVDOS431.ZIP">WVDOS431.ZIP</a> - 160kB<br>
+        Sources: <a href="files/lossless/WVSRC431.ZIP">WVSRC431.ZIP</a> - 141kB<br>
         <br>
         Date: 2003-02-18<br>
         Version: 3.97<br>
