@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,16 +94,18 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Shine is a minimalistic MP3 encoder developed by Gabriel Bouvigne, of <a 
-        href="lame.php">LAME</a> development fame. His goal with it was not quality, 
-        but simplifying the encoding algorithms as much as possible while retaining 
-        standard compatibility. For that reason, it is a good starting point for 
-        people wanting to implement an encoder from scratch.<br><br>
+        href="lame.php">LAME</a> development fame. His goal with it was not 
+        quality, but simplifying the encoding algorithms as much as possible 
+        while maintaining standard compatibility. For that reason, it is a good 
+        starting point for people wanting to implement an encoder from scratch.
+        <br><br>
         
         It is also the only open source MP3 encoder that runs on fixed point math
-        machines - all other known public encoders depend on an FPU. The fixed point 
-        implementation was done by <a
+        machines - all other known public encoders depend on an FPU. The fixed 
+        point implementation was done by <a
         href="https://web.archive.org/web/20060102002813/http://www.everett9981.freeserve.co.uk/pete.htm"
-        target=outsode>Peter Everett</a> for ARM's RISCOS operating system.<br><br>
+        target=outsode>Peter Everett</a> for Acorn's RISCOS operating system.
+        <br><br>
         
         The "official" Shine page is located at <a href="http://www.mp3-tech.org/" 
         target=outside>MP3-Tech</a>. It is said that <i>"Shine is really lame, but 
