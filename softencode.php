@@ -113,14 +113,14 @@
         are always constant bitrate - there is no VBR option.<br><br>
         
         The version hosted here is a demonstration. It allows full access to the 
-        interface, but disables AC-3 encoding. SoftEncode was very expensive - USD 
-        995 for the multichannel version and 495 for the stereo one - because the
-        format was never meant to be encoded by end users, but by DVD authoring 
-        facilities.<br><br>
+        interface, but disables AC-3 encoding. SoftEncode was very expensive - 
+        USD 995 for the multichannel version and 495 for the stereo one, in late
+        nineties dollars - because the format was never meant to be encoded by 
+        end users, but by DVD authoring facilities.<br><br>
         
         The SoftEncode web page can still be seen at the <a target=_blank
         href="https://web.archive.org/web/20000619113635/http://www.sonicfoundry.com/Products/NewShowProduct.asp?PID=12"
-        >Internet Archive</a>, and you see Dolby's page about AC-3 at their 
+        >Internet Archive</a>, and you can see Dolby's page about AC-3 at their 
         <a href="https://professional.dolby.com/tv/dolby-digital/" target=_blank>
         web site</a>.<br>
 
