@@ -3,7 +3,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>ReallyRareWares - Sonic Foundry SoftEncode</TITLE>
+<TITLE>ReallyRareWares - Sonic Foundry SoftEncode (AC-3)</TITLE>
 
 </HEAD>
 <BODY bgcolor="#FFFFFF">
@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,37 +90,39 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Sonic Foundry SoftEncode</b></div><p></font>
+          <br><div align="justify"><b>Sonic Foundry SoftEncode (AC-3)</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/softencode.png" target=outside><img src="screens/softencode.png" 
+        <a href="screens/softencode.png" target=_blank><img src="screens/softencode.png" 
         alt="Sonic Foundry SoftEncode" align=right height=265></a>
-        SoftEncode is an AC3 encoder and decoder created and marketed by Sonic Foundry 
-        based on the official Dolby libraries, with a pleasing and featureful 
-        interface.<br><br>
+        SoftEncode is an AC-3 encoder and decoder created and marketed by Sonic 
+        Foundry based on the official Dolby libraries, with a pleasing and 
+        featureful interface.<br><br>
         
-        AC3 is a compression format created by Dolby Laboratories originally to provide
-        digital sound in cinemas, with the encoded track stored optically in 35mm film 
-        prints.<br><br>
+        AC-3 (also known as Dolby Digital) is a compression format created by
+        Dolby Laboratories originally to provide digital sound in cinemas, with 
+        the encoded track stored optically in 35mm film prints.<br><br>
         
-        The format had its big breakthrough when it was selected as a mandatory format
-        (next to LPCM) in the DVD standard. It single-handedly brought surround sound to 
-        the masses - LPCM could only be stored in DVDs in stereo mode and DTS, another
-        multichannel audio format, was not mandatory, so only high end DVD players 
-        supported it.<br><br>
+        The format had its big breakthrough when it was selected as a mandatory 
+        audio format (next to LPCM) in the DVD standard. It single-handedly 
+        brought surround sound to the masses - LPCM could only be stored in DVDs 
+        in stereo mode and DTS, another multichannel audio format, was not 
+        mandatory so only high-end DVD players supported it.<br><br>
         
-        The compression performance is similar to MP2: AC3 achieves transparency around
-        192kbps for stereo streams and 448kbps for 5.1 streams. Streams are always 
-        constant bitrate - there is no VBR option.<br><br>
+        The compression performance is similar to MP2: AC-3 achieves transparency 
+        around 192kbps for stereo streams and 448kbps for 5.1 streams. Streams 
+        are always constant bitrate - there is no VBR option.<br><br>
         
         The version hosted here is a demonstration. It allows full access to the 
-        interface, but disables AC3 encoding. SoftEncode was very expensive - USD 
-        995,00 for the multichannel version and 495,00 for the stereo one - because 
-        the format was never meant to be encoded by end users, but by DVD authoring 
+        interface, but disables AC-3 encoding. SoftEncode was very expensive - USD 
+        995 for the multichannel version and 495 for the stereo one - because the
+        format was never meant to be encoded by end users, but by DVD authoring 
         facilities.<br><br>
         
-        The SoftEncode web page can still be seen at the Internet Archive, <a 
-        href="https://web.archive.org/web/20000619113635/http://www.sonicfoundry.com:80/Products/NewShowProduct.asp?PID=12"
-        target=outside>here</a>.<br>
+        The SoftEncode web page can still be seen at the <a target=_blank
+        href="https://web.archive.org/web/20000619113635/http://www.sonicfoundry.com/Products/NewShowProduct.asp?PID=12"
+        >Internet Archive</a>, and you see Dolby's page about AC-3 at their 
+        <a href="https://professional.dolby.com/tv/dolby-digital/" target=_blank>
+        web site</a>.<br>
 
         <br>
         <br>
