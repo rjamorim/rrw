@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,7 @@
           <br><div align="justify"> <b>Xing/Helix MP3 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/xing-enc.png" target=outside><img src="screens/xing-enc.png" 
+        <a href="screens/xing-enc.png" target=_blank><img src="screens/xing-enc.png" 
         alt="Xing Encoder" align=right height=290></a>
         The Xing MP3 encoder was created around 1995, seemingly from scratch, by 
         the Xing Technology Corporation with a primary goal in mind: creating a 
@@ -101,7 +101,7 @@
         
         And it delivers! It is much faster than other encoders in <a href=
         "http://web.archive.org/web/20071222223437/http://nyaochi.sakura.ne.jp:80/encoder-benchmark/result-20061103.html"
-        target=outside>benchmark tests</a>, even compared to famously fast encoders
+        target=_blank>benchmark tests</a>, even compared to famously fast encoders
         such as <a href=mpegplus.php>Musepack</a>, <a href=wingogo.php>Gogo</a> and 
         Ogg Vorbis Lancer. These speed gains are obtained mostly with heavy usage 
         of x86 assembly code (which, in this case, is unfortunately limited to the 
@@ -117,7 +117,7 @@
         Xing Technology was acquired by <a href=realjuke.php>RealNetworks</a> in the 
         early 2000s (but you can still check their web site at the Internet Archive, <a 
         href="https://web.archive.org/web/20000303161440/http://www.xingtech.com/mp3/encoder"
-        target=outside>here</a>), and the MP3 encoder was renamed to Helix MP3 Encoder. 
+        target=_blank>here</a>), and the MP3 encoder was renamed to Helix MP3 Encoder. 
         Then, in 2005, they released the sources under an open source license. It seems 
         they closed the sources again, but here you can find compiles of their encoder 
         made while they were still open, as well as the source code.<br>
@@ -173,7 +173,7 @@
         of the Xing header can obtain crucial playback information there.<br><br>
         
         Below you will find Xing's original VBR header SDK. It is worth pointing 
-        out that it is forwards-compatible with the <a target=outside
+        out that it is forwards-compatible with the <a target=_blank
         href="http://gabriel.mp3-tech.org/mp3infotag.html">LAME header</a> 
         extension.<br>
 
@@ -184,12 +184,12 @@
         <br>
         
         FhG later came up with their own VBR header format and, being the usual 
-        >expletive<, made it completely incompatible with the Xing header:<br>
+        asshats, made it completely incompatible with the Xing header:<br>
 
         <br>
         Date: 2000-11-07<br>
         Interface: C++ SDK<br>
-        Download: <a href="files/xing/mp3_vbr_sdk.zip">mp3_vbr_sdk.zip</a> - 3kB<br>
+        Download: <a href="files/fhg/mp3_vbr_sdk.zip">mp3_vbr_sdk.zip</a> - 3kB<br>
         
 
         </blockquote></font>
