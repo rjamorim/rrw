@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1150><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -96,31 +96,42 @@
         <a href="screens/xing-enc.png" target=_blank><img src="screens/xing-enc.png" 
         alt="Xing Encoder" align=right height=290></a>
         The Xing MP3 encoder was created around 1995, seemingly from scratch, by 
-        the Xing Technology Corporation with a primary goal in mind: creating a 
-        very fast encoder.<br><br>
+        the Xing Technology Corporation with a primary goal in mind: developing 
+        a very fast encoder.<br><br>
         
         And it delivers! It is much faster than other encoders in <a href=
-        "http://web.archive.org/web/20071222223437/http://nyaochi.sakura.ne.jp:80/encoder-benchmark/result-20061103.html"
+        "http://web.archive.org/web/20071222223437/http://nyaochi.sakura.ne.jp/encoder-benchmark/result-20061103.html"
         target=_blank>benchmark tests</a>, even compared to famously fast encoders
-        such as <a href=mpegplus.php>Musepack</a>, <a href=wingogo.php>Gogo</a> and 
-        Ogg Vorbis Lancer. These speed gains are obtained mostly with heavy usage 
-        of x86 assembly code (which, in this case, is unfortunately limited to the 
-        Windows platform).<br><br>
+        such as <a href=mpegplus.php>Musepack</a>, <a href=wingogo.php>Gogo</a> 
+        and Ogg Vorbis Lancer. These speed gains are obtained mostly with heavy 
+        usage of x86 assembly code (which, in this case, is unfortunately limited
+        to the Windows platform).<br><br>
         
-        What about quality? Surprisingly, the quality is quite good! Of course not
-        on par with <a href=lame.php>LAME</a>, but if you are in a hurry, Xing can
-        be a good choice as it is several times faster.<br><br>
+        Besides creating a super fast encoder (orders of magnitude faster than 
+        the competitor at the time, <a href=l3enc.php>FhG l3enc</a>), Xing were 
+        innovators in other areas. Theirs was the first MP3 encoder with a 
+        variable bitrate - VBR - mode (released in late 1998. <a href=lame.php
+        >LAME</a> introduced it in June 1999, <a href=n2mp3.php>MPegger</a> in 
+        late 1999, and <a href=fastencc.php>FhG</a> only in 2000). Also, their 
+        MPEG encoder was the first and probably the only one that allowed MP3 
+        audio streams in MPEG files - most (all?) other encoders limit them to 
+        MP2 streams. They also created <a href=xingsound.php>audio players</a>, 
+        and a <a href=audiocat.php>CD Ripper</a> based on their encoder, not to 
+        mention video encoding, playing and streaming tools which are outside 
+        the scope of RRW.<br><br>
         
-        Xing also created <a href=xingsound.php>audio players</a> and a <a 
-        href=audiocat.php>CD Ripper</a>.<br><br>
+        What about quality? Surprisingly, the quality is quite good! Of course 
+        not on par with LAME, but if you are in a hurry Xing can be a good choice
+        as it is several times faster.<br><br>
         
-        Xing Technology was acquired by <a href=realjuke.php>RealNetworks</a> in the 
-        early 2000s (but you can still check their web site at the Internet Archive, <a 
+        Xing Technology was acquired by <a href=realjuke.php>Real Networks</a> 
+        in the early 2000s (but you can still check their web site at the <a 
         href="https://web.archive.org/web/20000303161440/http://www.xingtech.com/mp3/encoder"
-        target=_blank>here</a>), and the MP3 encoder was renamed to Helix MP3 Encoder. 
-        Then, in 2005, they released the sources under an open source license. It seems 
-        they closed the sources again, but here you can find compiles of their encoder 
-        made while they were still open, as well as the source code.<br>
+        target=_blank>Internet Archive</a>) and the MP3 encoder was renamed to 
+        Helix MP3 Encoder. Then, in 2005, they released the sources under an open
+        source license. It seems Real closed the sources again, but here you can 
+        find compiles of their encoder made while they were still open, as well 
+        as the source code.<br>
 
         <br>
         <br>
@@ -163,9 +174,10 @@
         
         <hr>
         Plain MP3 files with VBR encoding have a problem: as they have no header,
-        an MP3 player can not seek into the file or know its length, unless it 
+        an MP3 player can not seek into the file or know its duration, unless it 
         decodes the whole file beforehand. CBR files have no such problem because 
-        all frames are about the same size.<br><br>
+        all frames are about the same size, hence it is easy to calculate position
+        and duration.<br><br>
         
         So Xing came up with a solution: adding a no-audio frame at the beginning
         of the file which contains a seek table and the track duration. Since it 
@@ -184,7 +196,7 @@
         <br>
         
         FhG later came up with their own VBR header format and, being the usual 
-        asshats, made it completely incompatible with the Xing header:<br>
+        asshats, made it incompatible with the Xing header:<br>
 
         <br>
         Date: 2000-11-07<br>
