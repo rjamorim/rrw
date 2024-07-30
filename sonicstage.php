@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=1750><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Sony SonicStage (ATRAC)</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/sonicstage.png" target=outside><img src="screens/sonicstage.png" 
+        <a href="screens/sonicstage.png" target=_blank><img src="screens/sonicstage.png" 
         alt="Sony Sonic Stage" align=right height=340></a>
         SonicStage is an audio library manager created by Sony to integrate with
         their MiniDisc devices. The installation is bloated, takes forever and 
@@ -151,7 +151,11 @@
         href=daxwav.php>Dakx</a>.<br><br>
         
         The latest iteration of the format was released in 2011 and is called 
-        ATRAC9, focused on video game audio for Sony consoles.<br><br>
+        ATRAC9. It is focused on video game audio for Sony consoles, offering 
+        low delay and low CPU usage, and a new technology called <a target=_blank
+        href="https://github.com/Thealexbarney/VGAudio/blob/master/docs/audio-formats/atrac9/band-extension.md"
+        >Band Extension</a> that seems to be a variation of <a href=ctmp3pro.php
+        >SBR</a>.<br><br>
         
         Besides being implemented in several hardware devices and software 
         programs created by Sony, the format has been licensed to other MiniDisc
@@ -199,16 +203,18 @@
         Center" - released since that time do not offer the format as an option 
         for ripping CDs, the only choices are MP3, AAC, WAV, and FLAC. And the 
         latest version of Music Center goes as far as introducing functionality
-        that can automatically <a href="screens/convertatrac.png" target=outside>
+        that can automatically <a href="screens/convertatrac.png" target=_blank>
         convert all ATRAC songs</a> it finds in the user's library to AAC or 
         FLAC.<br><br>
         
-        The official ATRAC home page at Sony's web site is still available <a 
-        target=outside href="https://www.sony.net/Products/ATRAC3/">here</a> (it
-        has not been updated since 2008) and you can see a mirror of the SDDS 
-        website at the <a target=outside 
-        href="https://web.archive.org/web/20130701055758/http://www.sdds.com/">
-        Internet Archive</a>.<br><br>
+        The official ATRAC home page at Sony's web site <s>is still available <a 
+        target=_blank href="https://www.sony.net/Products/ATRAC3/">here</a> (it
+        has not been updated since 2008</s> <i>has finally been removed! But you
+        can still visit it at the <a target=_blank 
+        href="https://web.archive.org/web/20240414114331/https://www.sony.net/Products/ATRAC3/"
+        >Internet Archive</a></i> and you can see a mirror of the SDDS website  
+        <a href="https://web.archive.org/web/20130701055758/http://www.sdds.com/"
+        target=_blank>at the same place</a>.<br><br>
         
         <i>ATRAC lossless compression performance in my limited test: 62,27%
         (using ATRAC3 132kbps base)</i><br>
@@ -233,7 +239,7 @@
         Platform: Win32<br>
         Download: <a href="files/others/PS3_at3tool.zip">PS3_at3tool.zip</a> - 288kB<br>
         <br>
-        <a href="screens/atrac3acm.png" target=outside><img src="screens/atrac3acm.png" 
+        <a href="screens/atrac3acm.png" target=_blank><img src="screens/atrac3acm.png" 
         alt="ATRAC3 ACM codec" align=right></a>
         Date: 2009-08-18<br>
         Version: 3.0<br>
