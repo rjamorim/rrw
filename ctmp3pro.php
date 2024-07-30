@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -117,7 +117,10 @@
         
         A mirror of the official MP3pro page can be visited at the <a target=_blank
         href="https://web.archive.org/web/20050712020233/http://www.mp3prozone.com/index.htm" 
-        >Internet Archive</a>.<br><br>
+        >Internet Archive</a>. Coding Technologies was bought by Dolby in 2007,
+        and you can still see a mirror of their web page (post-aquisition) at 
+        <a href="https://web.archive.org/web/20130419034057/http://codtech.vhost.noris.net/"
+        target=_blank>the same place</a>.<br><br>
         
         The application available here for download - besides the XMMS playback
         plugin - is the Coding Technologies MP3pro demo. It can play MP3pro in 
