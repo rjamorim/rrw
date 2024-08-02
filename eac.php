@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,7 @@
           <br><div align="justify"><b>Exact Audio Copy</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/EAC095.png" target=outside><img src="screens/EAC095.png" 
+        <a href="screens/EAC095.png" target=_blank><img src="screens/EAC095.png" 
         alt="EAC 0.95b2" align=right height=220></a>
         Exact Audio Copy is a CD ripper created by Andre Wiethoff. It is considered by 
         many the most secure and reliable Audio CD ripper.<br><br>
@@ -103,7 +103,7 @@
         editor.<br><br>
         
         Development is still going on, and the official web page can be reached 
-        <a href="http://www.exactaudiocopy.org" target=outside>here</a>.<br>
+        <a href="http://www.exactaudiocopy.org" target=_blank>here</a>.<br>
         
         <br>
         <br>
@@ -116,17 +116,17 @@
         Date: 2005-05-10<br>
         Version: 0.95b1<br>
         Download: <a href="files/eac/eac095b1.zip">eac095b1.zip</a> - 1.705kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 2004-03-09<br>
         Version: 0.95pb5<br>
         Download: <a href="files/eac/eac095pb5.zip">eac095pb5.zip</a> - 1.720kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 2003-11-18<br>
         Version: 0.95pb4<br>
         Download: <a href="files/eac/eac095pb4.zip">eac095pb4.zip</a> - 1.748kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 2003-05-11<br>
         Version: 0.95pb3<br>
@@ -136,24 +136,24 @@
         Date: 2003-04-30<br>
         Version: 0.95pb2<br>
         Download: <a href="files/eac/eac095pb2.zip">eac095pb2.zip</a> - 1.153kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 2003-04-23<br>
         Version: 0.95pb1<br>
         Download: <a href="files/eac/eac095pb1.zip">eac095pb1.zip</a> - 1.072kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
+        <a href="screens/EAC06.png" target=_blank><img src="screens/EAC06.png" 
+        alt="EAC 0.6" align=right height=224></a>
         Date: 2002-05-22<br>
         Version: 0.9b4<br>
         Download: <a href="files/eac/eac09b4.zip">eac09b4.zip</a> - 956kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
-        <a href="screens/EAC06.png" target=outside><img src="screens/EAC06.png" 
-        alt="EAC 0.6" align=right height=224></a>
         Date: 2001-06-22<br>
         Version: 0.9pb11<br>
         Download: <a href="files/eac/eac09pb11.zip">eac09pb11.zip</a> - 835kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 2001-02-16<br>
         Version: 0.9pb9<br>
@@ -174,49 +174,49 @@
         Date: 1999-09-02<br>
         Version: 0.85b4<br>
         Download: <a href="files/eac/eac085b4.zip">eac085b4.zip</a> - 494kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1999-02-19<br>
         Version: 0.81b<br>
         Download: <a href="files/eac/eac081b.zip">eac081b.zip</a> - 282kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1998-11-02<br>
         Version: 0.7b<br>
         Download: <a href="files/eac/eac07b.zip">eac07b.zip</a> - 155kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
+        <a href="screens/EAC01.png" target=_blank><img src="screens/EAC01.png" 
+        alt="EAC 0.1" align=right height=224></a>
         Date: 1998-10-01<br>
         Version: 0.6b<br>
         Download: <a href="files/eac/eac06b.zip">eac06b.zip</a> - 135kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1998-08-26<br>
         Version: 0.5b<br>
         Download: <a href="files/eac/eac05b.zip">eac05b.zip</a> - 104kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
-        <a href="screens/EAC01.png" target=outside><img src="screens/EAC01.png" 
-        alt="EAC 0.1" align=right height=224></a>
         Date: 1998-08-07<br>
         Version: 0.4b<br>
         Download: <a href="files/eac/eac04b.zip">eac04b.zip</a> - 74kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1998-07-22<br>
         Version: 0.3b<br>
         Download: <a href="files/eac/eac03b.zip">eac03b.zip</a> - 66kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1998-07-15<br>
         Version: 0.2b<br>
         Download: <a href="files/eac/eac02b.zip">eac02b.zip</a> - 56kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         <br>
         Date: 1998-06-25<br>
         Version: 0.1b<br>
         Download: <a href="files/eac/eac01b.zip">eac01b.zip</a> - 49kB<br>
-        <i>Kindly contributed by B from <a href="http://digitalx.org" target=outside>digitalx.org</a></i><br>
+        <i>Kindly contributed by B from <a href="http://digitalx.org" target=_blank>digitalx.org</a></i><br>
         
         </blockquote></font>
 
