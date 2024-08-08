@@ -93,7 +93,7 @@
           <br><div align="justify"> <b>XingSound MP2 player/XingMP3 player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/xingsound.png" target=outside><img src="screens/xingsound.png" 
+        <a href="screens/xingsound.png" target=_blank><img src="screens/xingsound.png" 
         alt="XingSound" align=right></a>
         XingSound is an MP2 and WAV audio player for Win16 created by Xing 
         Technology Corporation. It is as minimalist as can get, not even pause 
@@ -110,9 +110,9 @@
         Decoding quality is unfortunately bad because the versions here are free 
         demos featuring a low-precision decoder that is mono-only. If you happen
         to have the full version lying around in some old floppy disk please <a 
-        href=about.php>get in touch</a>! For MP2 playback, the <a 
-        href=mpegplayer.php>Philips MPEG player</a> offers higher accuracy (but,
-        alas, does not work on Win 3.1).<br>
+        href=about.php>get in touch</a>! For MP2 playback pretty much any other
+        player offers higher accuracy (but, alas, I do not know of any other MP2 
+        player that works on Win 3.1).<br>
         
         <br>
         <br>
@@ -129,12 +129,17 @@
         Download: <a href="files/xing/mpgaudio1.exe">mpgaudio1.exe</a> - 107kB<br>
         <br>
         <hr>
-        <a href="screens/xing-ply.png" target=outside><img src="screens/xing-ply.png" 
+        <a href="screens/xing-ply.png" target=_blank><img src="screens/xing-ply.png" 
         alt="XingMP3 Player" align=right></a>
         Years later Xing created the XingMP3 player, a companion for their <a 
         href=xing.php>MP3 encoder</a> and CD ripper (<a href=audiocat.php
-        >AudioCatalyst</a>). It is way more featureful and better looking than 
-        its predecessor, and was distributed for free.<br>
+        >AudioCatalyst</a>). It is way better looking than its predecessor and 
+        was distributed for free, but is not very featureful: it has a playlist
+        manager and panning control, but no equalizer, no tagging, no native
+        support for formats other than MP2/3.<br><br>
+        You can still visit the XingMP3 player page at the <a target=_blank
+        href="https://web.archive.org/web/20000510023052/http://www.xingtech.com/mp3/player"
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
