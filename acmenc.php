@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,25 +92,20 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>nyaochi's ACMENC</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        ACMENC is a command line frontend for ACM codecs created by the programmer
-        nyaochi.<br><br>
+        ACMENC is a command line frontend for MP3 ACM codecs created by nyaochi.
+        <br><br>
         
         The main goal is to automate audio encoding using MP3 ACM codecs such as
-        <a href=fhgcodecs.php>Fraunhofer's</a>, but in theory it can work with any
-        format with an ACM encoder, such as <a href=imedia.php>MP2</a>, WMA, 
-        <a href=sonicstage.php>Atrac3</a>, <a href=truespeech.php>voice</a> <a 
-        href=voxware.php>codecs</a>, Vorbis, the countless ADPCM flavors, and 
-        even <a href=alf2cd.php>alf2cd</a>.<br><br>
-        
-        It features ID3 tagging, LAME tags (for gapless playback), and encoding 
-        presets.<br><br>        
+        <a href=fhgcodecs.php>Fraunhofer's</a> and <a href=lame.php>LAME's</a>.
+        It features ID3 tagging, LAME tags (for gapless playback), input from all
+        formats supported by libsndfile, and encoding presets.<br><br>
         
         If you do not like command lines and would rather use a graphical interface, 
         check out <a href=acmstation.php>ACM Station</a>.<br><br>
         
         There was no real web site for this tool, but this is the <a
         href="https://hydrogenaud.io/index.php?topic=26956.msg239454#msg239454"
-        target=outside>forum post</a> where nyaochi announced ACMENC.<br>
+        target=_blank>forum post</a> where nyaochi announced ACMENC.<br>
 
         <br>
         <br>

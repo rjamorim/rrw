@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,16 +92,22 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>ACM Station</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/acmstation.png" target=outside><img src="screens/acmstation.png" 
+        <a href="screens/acmstation.png" target=_blank><img src="screens/acmstation.png" 
         alt="ACM Station 2.1" align=right height=250></a>
-        Yet another ACM codec frontend, developed by Andreas Leeb. This one probably
-        was also inspired by the then-ubiquitous <a href=fhgcodecs.php>FhG MP3 ACM
-        codecs</a>.<br><br>
+        Yet another ACM codec frontend, developed by Andreas Leeb. This one 
+        probably was also inspired by the then-ubiquitous <a href=fhgcodecs.php
+        >FhG MP3 ACM codecs</a>.<br><br>
         
-        Unlike nyaochi's <a href=acmenc.php>ACMENC</a>, ACM Station has a fully 
-        featured graphical user interface, centered around encoding projects. You 
+        But it is not limited to MP3. It can work with any format with an ACM 
+        encoder, such as <a href=imedia.php>MP2</a>, WMA, <a href=sonicstage.php
+        >Atrac3</a>, Vorbis, <a href=truespeech.php>voice</a> <a href=voxware.php
+        >codecs</a>, the countless ADPCM flavors, and even <a href=alf2cd.php
+        >alf2cd</a>.<br><br>
+        
+        Unlike nyaochi's <a href=acmenc.php>ACMENC</a> ACM Station has a fully 
+        featured graphical user interface centered around encoding projects. You 
         first create a project and add WAV files to that project. Then you select
-        the destination format: MP3 only allows selection of the MP3 ACM codec 
+        the destination format: MP3 only allows selection of an MP3 ACM codec 
         and creates MP3 files without WAV headers. WAV format allows selection 
         of any ACM codec with encoding capabilities, including MP3 and PCM 
         (uncompressed audio), and it creates files with WAV headers.<br><br>
