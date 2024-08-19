@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,31 +93,31 @@
           <br><div align="justify"> <b>Pegasus/KrishnaSoft Sound Processing Software</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/pegasussps.png" target=outside><img src="screens/pegasussps.png" 
+        <a href="screens/pegasussps.png" target=_blank><img src="screens/pegasussps.png" 
         alt="Pegasus SPS" align=right height=275></a>
         Sound Processing Software (SPS) was developed by KrishnaSoft as a general 
         purpose audio editor. It features a lossless compresion mode based on 
-        Pegasus' ELS (<a target=outside 
+        Pegasus' ELS (<a target=_blank 
         href="https://web.archive.org/web/20000817085733/http://www.jpg.com/imagetech_els.htm"
         >Entropy Logarithmic Scale</a>) compression algorithm.<br><br>
         
-        The editor itself has very few features and a quite weird interface. It
-        includes a <a href="screens/sdbplay.png" target=outside>minimalistic and 
+        The editor itself has very few features and a quite strange interface. It
+        includes a <a href="screens/sdbplay.png" target=_blank>minimalistic and 
         weird player</a> to play compressed .SDB (sound database, their lossless
-        format) files, and a batch compression/decompression tool. Being a Windows
-        3.1 program, it has no support for long file names.<br><br>
+        format) files; and a batch compression/decompression tool. Being a Windows
+        3.1 program it has no support for long file names.<br><br>
         
         The lossless compression performance is nothing to get excited about, it
         is quite slow (maybe in part because it is 16-bit code?) and performs 
         worse than <a href=wavpack.php>WavPack</a> or FLAC.<br><br>
         
         But, from the looks of it, it is free - only the lossless compression is
-        limited to 10 uses, and after that you should buy a license.<br><br>
+        limited to 10 uses, and after that you need to buy a license.<br><br>
         
         The page about SPS at Pegasus is now gone (but still mirrored at the <a 
         href="https://web.archive.org/web/20000616134738/http://jpg.com/products/sound.html"
-        target=outside>Internet Archive</a>) and it is not being marketed by them
-        anymore. But you can still find it - and buy it! - at <a target=outside
+        target=_blank>Internet Archive</a>) and it seems that Pegasus themselves 
+        vanished. But you can still find it - and buy it! - at <a target=_blank
         href="http://www.krishnasoft.com/sps.htm#SPSLink">Krishna Software</a>.
         <br><br>
         
