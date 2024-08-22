@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,34 +92,36 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>MP3 Compressor</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mp3comp.png" target=outside><img src="screens/mp3comp.png" 
+        <a href="screens/mp3comp.png" target=_blank><img src="screens/mp3comp.png" 
         alt="MP3 Compressor" align=right height=350></a>
         Ahhhhhhh... MP3 Compressor. The first contact I had with an easy to use
-        MP3 encoder. I would "rip" the tracks from audio CDs using that famous 
-        <a href="files/others/cdfs.zip">CDFS.VXD</a> filesystem driver that 
-        showed CDDA tracks as WAV files instead of .cda indexes (yes, this was 
-        back in Win98 days) in Windows Explorer. Then I would rename each file 
-        with the track name (CDDB? What?), load all of them on MP3 Compressor 
-        and hope that Windows would not crash in the hour or so that it took to 
-        convert everything. I also avoided using the computer during encoding 
-        because I did not know how to use the process priority slider in the 
-        interface, the default position was "idle" so anything interfered with 
-        speed - Word97 was particularly bothersome...<br><br>
+        MP3 encoder.<br><br>
+        
+        I would "rip" the tracks from audio CDs using that famous <a 
+        href="files/others/cdfs.zip">CDFS.VXD</a> filesystem driver that showed
+        CDDA tracks as WAV files instead of .cda indexes (yes, this was back in 
+        Windows 98 days) in Windows Explorer. Then I would rename each file with
+        the track name (CDDB? What?), load all of them on MP3 Compressor and hope
+        that Windows would not crash in the hour or so that it took to convert 
+        everything. I also avoided using the computer during encoding because I 
+        did not know how to use the process priority slider in the interface, the
+        default position was "idle" so anything interfered with speed - Word97 
+        was particularly bothersome...<br><br>
         
         But enough nostalgia! Only many years later I figured out that MP3
         Compressor is not really an encoder, but a frontend to the <a 
-        href=fhgcodecs.php>FhG Professional</a> ACM codec, which is illegally 
-        distributed with the installation.<br><br>
+        href=fhgcodecs.php>FhG Professional</a> ACM codec (version 1.0.0.48), 
+        which is illegally distributed with the installation.<br><br>
         
         The interface is quite minimal, you can select the tracks from the input
-        folder and choose an output folder. A faster mode is also selectable. 
-        Interestingly, bitrate is not a choice: for 44.1kHz stereo audio you get
-        128kbps and that's it.<br><br>
+        folder and choose an output folder. The faster mode is also selectable. 
+        Interestingly, bitrate is not an option: for 44.1kHz stereo audio you 
+        get 128kbps and that's it.<br><br>
         
-        Eventually I moved on to CDex + <a href=wingogo.php>GOGO</a> for my ripping 
-        needs (and kept moving), and I guess with time most people abandoned MP3 
-        Compressor as well. The web site has been gone for decades and I could not 
-        even find archives of it.<br>
+        Eventually I moved on to CDex + <a href=wingogo.php>Gogo</a> for my 
+        ripping needs (and kept moving), and I guess with time most people also
+        abandoned MP3 Compressor. The web site has been gone for decades and I 
+        could not even find archives of it.<br>
 
         <br>
         <br>
