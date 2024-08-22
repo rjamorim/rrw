@@ -53,7 +53,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,11 +92,11 @@
           <br><div align="justify"> <b>Yamaha SoundVQ</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/soundvq-enc.png" target=outside><img src="screens/soundvq-enc.png" 
+        <a href="screens/soundvq-enc.png" target=_blank><img src="screens/soundvq-enc.png" 
         alt="SoundVQ Encoder" align=right height=278></a>
-        At some point in the late nineties Yamaha licensed the <a href="nttvqf.php">
-        VQF</a> technology from NTT and created their own encoder and player, for 
-        both Windows and Mac OS, under the name SoundVQ.<br><br>
+        At some point in the late nineties Yamaha licensed the <a href=nttvqf.php>
+        VQF</a> technology from NTT and created their own encoder and player, 
+        for both Windows and Mac OS, under the name SoundVQ.<br><br>
         
         The encoder has features like batch encoding and recording from line-in 
         and microphone. An unusual feature is a "Web Page Wizard" that creates a 
@@ -116,49 +116,55 @@
         obvious failure of the format becoming popular (in no small part thanks
         to Yamaha behaving like <a href=mirrors/Letter.txt>asshats</a> - <i>file 
         provided by Zachary Jelesoff</i>). A mirror of the official page can 
-        still be visited at the <a target=outside
+        still be visited at the <a target=_blank
         href="https://web.archive.org/web/20011211125041/http://www.yamaha-xg.com/soundvq/index.html"
         >Internet Archive</a>.<br>
         
         <br>
         <br>
         Date: 2002-06-24<br>
-        Version: 2.60b9 (encoder)<br>
+        Version: 2.60b9<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b9e.exe">vqe260b9e.exe</a> - 1.874kB<br>
         <br>
         Date: 2000-10-30<br>
-        Version: 2.60b3 (encoder)<br>
+        Version: 2.60b3<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b3e.exe">vqe260b3e.exe</a> - 1.870kB<br>
         Time limit patch: <a href="files/vqf/VQenc-patch.exe">VQenc-patch.exe</a> - 18kB<br>
         <br>
         Date: 2000-05-07<br>
-        Version: 2.60b1 (encoder)<br>
+        Version: 2.60b1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqe260b1e.exe">vqe260b1e.exe</a> - 1.871kB<br>
         <i>Kindly contributed by Sebastian Knop.</i><br>
-        <a href="screens/soundvq-ply.png" target=outside><img src="screens/soundvq-ply.png" 
+        <a href="screens/soundvq-ply.png" target=_blank><img src="screens/soundvq-ply.png" 
         alt="SoundVQ Player" align=right></a>
         <br>
         Date: 2000-12-19<br>
-        Version: 2.52b7 (encoder)<br>
+        Version: 2.52b7<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/vqf/vqencoder-252b7e.sit">vqencoder-252b7e.sit</a> - 1.003kB<br>
         <br>
         <hr>
+        The player, by its turn, is very basic. It is a little more featureful 
+        and prettier than NTT's, but again, no playlist editor, no equalizer, 
+        no formats supported other than VQF - not even WAV.<br>
+
+        <br>
+        <br>
         Date: 2000-03-20<br>
-        Version: 2.52b1 (player)<br>
+        Version: 2.52b1<br>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vqf/vqp252b1e.exe">vqp252b1e.exe</a> - 1.458kB<br>
         <br>
         Date: 2000-12-19<br>
-        Version: 2.50b2 (player)<br>
+        Version: 2.50b2<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/vqf/vqplayer-250b2e.sit">vqplayer-250b2e.sit</a> - 1.775kB<br>
