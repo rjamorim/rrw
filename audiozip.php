@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,12 +93,12 @@
           <br><div align="justify"> <b>AudioZip lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/audiozip.png" target=outside><img src="screens/audiozip.png" 
+        <a href="screens/audiozip.png" target=_blank><img src="screens/audiozip.png" 
         alt="AudioZip" align=right height=160></a>
-        AudioZip is a lossless audio compressor that has been developed at the 
-        Centre for Signal Processing - Nanyang Technological University, in 
-        Singapore, by professor Lin Xiao. The compression ratio is good, but the 
-        compressor is quite slow.<br><br>
+        AudioZip is a lossless audio compressor developed at the Centre for 
+        Signal Processing - Nanyang Technological University, in Singapore, by 
+        professor Lin Xiao. The compression ratio is decent, but the compressor
+        is quite slow.<br><br>
         
         The interface is quite unfriendly. Despite looking like it, there is no 
         way to batch compress files. You have to click "Compress", select the 
@@ -106,17 +106,17 @@
         append the compressed extension), click "New" and then click again
         "Compress" after selecting compression level. For each and every file. 
         Sometimes it crashes after clicking the second "Compress". All in all,
-        it is a quite buggy program.<br><br>
+        it is a quite buggy program that feels rushed.<br><br>
         
         One unique feature of AudioZip among audio codecs is that there is an 
         option to use a password at compression time to "protect" the compressed 
         file. Decompression fails without the password. I put "protect" surrounded
-        by quotation marks because the password is stored in <a target=outside 
+        by quotation marks because the password is stored in <a target=_blank 
         href="screens/audiozip-srsly.png">plain text</a> at offset 0x06 of the 
         compressed file... <br>
-        Certainly the work of seasoned cryptographers!<br><br>
+        Certainly the work of accomplished cryptographers!<br><br>
         
-        You can access a mirror of the AudioZip webpage at the <a target=outside
+        You can access a mirror of the AudioZip webpage at the <a target=_blank
         href="https://web.archive.org/web/20020207080740/http://www.csp.ntu.edu.sg:8000/MMS/MMCProjects.htm">
         Internet Archive</a>.<br><br>
         
