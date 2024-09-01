@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -91,30 +91,30 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>AudioLib - Elemedia's PAC</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/audiolib.png" target=outside><img src="screens/audiolib.png" 
+        <a href="screens/audiolib.png" target=_blank><img src="screens/audiolib.png" 
         alt="AudioLib" align=right height=250></a>
         AudioLib, as the name implies, is an audio library management app. It was 
         developed by Celestial Technologies.<br><br>
         
-        The audio coding format used by AudioLib is PAC - Perceptual Audio Codec - 
-        that was developed by Bell Labs in the late 1980s and marketed by their 
+        The audio coding format used by AudioLib is PAC - Perceptual Audio Coder - 
+        that was developed by Bell Labs in the early 1990s and marketed by their 
         Elemedia subsidiary. Quality is claimed to be the same as MP3 at 30%
-        smaller bitrates (same claim goes for <a href="nttvqf.php">VQF</a> and AAC).
-        <br><br>
+        smaller bitrates (the same claim goes for <a href=nttvqf.php>VQF</a> and
+        LC AAC).<br><br>
         
         The program keeps the encoded files inside a database (a security measure
-        to avoid piracy), and can encode tracks from wav. A CD ripping feature is 
+        to avoid piracy), and can encode from wav files. A CD ripping feature is 
         announced for the next version. The interface is so obtuse and unfriendly, 
         it can be considered spiteful.<br><br>
         
         The program works for 20 days and then expires - but you can use the 
         included patch to make it "registered".<br><br>
 
-        At some point CelestialTech became VedaLabs (check <a href="audioveda.php">
-        AudioVeda</a>) and later disappeared, along with their web site - that can 
-        still be seen at the <a 
+        At some point CelestialTech became VedaLabs (check <a href=audioveda.php>
+        AudioVeda</a>) and later disappeared along with their web site - that can 
+        still be visited at the <a target=_blank
         href="https://web.archive.org/web/20000419043526/http://www.celestialtech.com/"
-        target=outside>Internet Archive</a> though.<br>
+        >Internet Archive</a> though.<br>
         
         <br>
         <br>
