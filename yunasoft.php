@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,31 +92,35 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Yunasoft MP3 Encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/yunasoft.png" target=outside><img src="screens/yunasoft.png" 
+        <a href="screens/yunasoft.png" target=_blank><img src="screens/yunasoft.png" 
         alt="YunaSoft MP3 Encoder 0.7" align=right height=310></a>
-        Yunasoft is an application coming from Japan, but it is not really an MP3
-        encoder - actually, it is a frontend to the <a href=fhgcodecs.php>FhG MP3 
-        ACM codec</a>.<br><br>
+        Yunasoft is an application coming from Japan, but it is not really an 
+        MP3 encoder - actually, it is a frontend to the <a href=fhgcodecs.php
+        >FhG MP3 ACM codec</a>.<br><br>
         
         It offers several features related to tagging and whether to save output
         as WAV-wrapped MP3 streams or standard MP3 files.<br><br>
         
-        The main difference between versions 0.4.3e and 0.7 hosted here is that 0.7
-        supports batch operations (encoding, and stripping the RIFF headers from WAV 
-        files). But starting with 0.7 YunaSoft required that users register for 
-        free at their web site to obtain a registration key. Without that key, the 
-        program encodes no more than 30 seconds of audio for each file.<br><br>
+        The main difference between versions 0.4.3e and 0.7 hosted here is that 
+        0.7 supports batch operations (encoding, and stripping the RIFF headers 
+        from WAV files). But starting with 0.7 the developer required that users
+        register for free at their web site to obtain a registration key. Without
+        that key, the program encodes no more than 30 seconds of audio for each 
+        file.<br><br>
         
-        The registration form and the website have been gone for decades, so I am
-        providing here a key found at a "serial numbers" page:<br>
+        The registration form and the website have been gone for decades, so I 
+        am providing here a key found at a "serial numbers" page:<br>
         <b>Mail address:</b> UCF@UCF.com<br>
         <b>Registration key:</b> EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh<br>
-        <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br>
-        The registration dialog can be reached in the File menu.<br><br>
+        <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br><br>
         
-        A mirror of the YunaSoft webpage can be seen <a 
+        It is interesting to notice that Yunasoft version 0.7 refuses to work 
+        with the 1.0.0.48 (professional) ACM codec, but works fine with codec 
+        version 3.4. Version 0.4.3 works with both.<br><br>
+        
+        A mirror of the YunaSoft webpage can be visited at the <a target=_blank
         href="https://web.archive.org/web/19981212034259/http://www.yunasoft.gr.jp/"
-        target=outside>here</a>.<br>
+        >Internet Archive</a>.<br>
 
         <br>
         <br>
@@ -126,9 +130,9 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/wav2mp307.exe">wav2mp307.exe</a> - 821kB<br>
         <br>
-        <img src="img/yunasoft-certified-quality.gif" alt="CERTIFIED!!!!" align=right>
         Date: 1997-10-11<br>
         Version: 0.4.3e<br>
+        <img src="img/yunasoft-certified-quality.gif" alt="CERTIFIED!!!!" align=right>
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/mpeg/wav2mp3043e.exe">wav2mp3043e.exe</a> - 807kB<br>
