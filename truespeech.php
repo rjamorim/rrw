@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,23 +93,23 @@
           <br><div align="justify"> <b>DSP Group TrueSpeech</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/truespeech-enc.png" target=outside><img src="screens/truespeech-enc.png" 
+        <a href="screens/truespeech-enc.png" target=_blank><img src="screens/truespeech-enc.png" 
         alt="I TOLD YOU IT WAS MINIMALIST" align=right></a>
-        The TrueSpeech voice compression technology has been developed by the DSP 
-        Group of Santa Clara, California, a company specialized in DSP 
-        applications.<br><br>
+        The TrueSpeech voice compression codec was developed by the DSP Group of
+        Santa Clara, California, a company specialized in DSP applications.
+        <br><br>
         
         It is available in several versions and bitrates. By far, the most popular
         version is 8.5 (8.5kbps), which is bundled with older versions of Windows
-        from Windows 95 to Windows XP as an ACM codec. The encoder featured here 
-        encodes to this version.<br><br>
+        from 95 to XP as an ACM codec. The encoder featured here encodes to this
+        version.<br><br>
         
         At the bottom of the page you can also find an installer that adds the 
         codec to Windows Vista and newer versions.<br><br>
         
         The TrueSpeech web site can be visited at the Internet Archive, <a
-        href="https://web.archive.org/web/20010417012639/http://www.dspg.com:80/prodtech/truespch/85.htm"
-        target=outside>here</a>.<br>
+        href="https://web.archive.org/web/20010417012639/http://www.dspg.com/prodtech/truespch/85.htm"
+        target=_blank>here</a>.<br>
         
         <br>
         <br>
@@ -119,11 +119,11 @@
         Platform: Win16<br>
         Download: <a href="files/vocodecs/tscnvrt1.exe">tscnvrt1.exe</a> - 81kB<br>
         <br>
-        <a href="screens/truespeech-ply.png" target=outside><img src="screens/truespeech-ply.png" 
-        alt="TrueSpeech Player" align=right height=138></a>
         Date: 1996-08-04<br>
         Version: 3.20b (Player)<br>
         Interface: Graphical<br>
+        <a href="screens/truespeech-ply.png" target=_blank><img src="screens/truespeech-ply.png" 
+        alt="TrueSpeech Player" align=right height=138></a>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/tsply95.exe">tsply95.exe</a> - 942kB<br>
         <br>
@@ -133,8 +133,6 @@
         Platform: Win16<br>
         Download: <a href="files/vocodecs/tsply311.zip">tsply311.zip</a> - 989kB<br>
         <br>
-        <a href="screens/truespeech-plymac.png" target=outside><img src="screens/truespeech-plymac.png" 
-        alt="TrueSpeech Player for Mac" align=right height=75></a>
         Date: 1996-02-08<br>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
@@ -142,6 +140,8 @@
         Download: <a href="files/vocodecs/tspmac68.hqx">tspmac68.hqx</a> - 353kB<br>
         <br>
         Date: 1996-02-08<br>
+        <a href="screens/truespeech-plymac.png" target=_blank><img src="screens/truespeech-plymac.png" 
+        alt="TrueSpeech Player for Mac" align=right height=75></a>
         Version: 1.04 (Player)<br>
         Interface: Graphical<br>
         Platform: Mac OS Classic PPC<br>
