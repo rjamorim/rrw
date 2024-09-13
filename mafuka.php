@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,34 +92,36 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Mafuka player and encoder </b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mafuka-ply.png" target=outside><img src="screens/mafuka-ply.png" 
+        <a href="screens/mafuka-ply.png" target=_blank><img src="screens/mafuka-ply.png" 
         alt="Mafuka Player" align=right height=194></a>
-        When it was released, in late 2000, the Mafuka format took the audio coding 
-        community by storm. It promised - and "delivered" - same quality as MP3 at 
-        a third of the file size. It seemed the obscure Dr. Keiji Mafuka had come up 
-        with a real breakthrough in multimedia compression.<br><br>
+        When it was released, in late 2000, the Mafuka format took the audio 
+        coding community by storm. It promised - and "delivered" - same quality
+        as MP3 at a third of the file size. It seemed the obscure Dr. Keiji 
+        Mafuka had come up with a real breakthrough in multimedia compression.
+        <br><br>
         
-        But then, people started becoming suspicious. Why did the encoder accept only 
+        Soon people started becoming suspicious. Why did the encoder accept only 
         .mp3 files, and not uncompressed .wav? Why files encoded in one computer 
         would not decode in other machines? How come noone ever heard of such 
-        breakthrough research going on in Japan?<br><br>
+        cutting-edge research going on in Japan?<br><br>
         
         Soon the truth was revealed: the Mafuka encoder was just a big prank. It 
-        took the MP3 file, divided it in three parts, renamed the first part to .mfk 
-        and hid the other parts very well. At decoding time, the files were merged 
-        together again. That is why a file encoded in one computer would not work 
-        in another.<br><br>
+        took the MP3 file, divided it in three parts, renamed the first part to 
+        .mfk and hid the other parts very well. At decoding time the files were 
+        merged together again. That is why a file encoded in one computer would 
+        not work in another.<br><br>
         
         One amusing detail is that "Mafuka" is believed to be a thinly veiled 
         reference to a popular profanity, "mother f**ker".<br><br>
         
-        I saved a mirror of the Mafuka page <a href="mirrors/mafuka/">here</a>.<br><br>
+        I saved a <a href="mirrors/mafuka/">mirror</a> of the Mafuka page for
+        your viewing pleasure.<br><br>
         
         <i>Big thanks to Elohe for providing this "encoder".</i><br>
         
         <br>
         <br>
-        <a href="screens/mafuka-enc.png" target=outside><img src="screens/mafuka-enc.png" 
+        <a href="screens/mafuka-enc.png" target=_blank><img src="screens/mafuka-enc.png" 
         alt="Mafuka Encoder" align=right height=130></a>
         Date: 2000-11-20<br>
         Version: 1.0beta<br>
