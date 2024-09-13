@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1400><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,11 +92,11 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MPecker/MPegger/N2MP3 encoders </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mpecker019.png" target=outside><img src="screens/mpecker019.png" 
+        <a href="screens/mpecker019.png" target=_blank><img src="screens/mpecker019.png" 
         alt="MPecker 0.19" align=right height=155></a>
         In the beginning there was MPecker. It was a free MP3 encoder for Mac 
         OS Classic created by Rafael Luebbert who wished to bring this technology 
-        to the Mac - as it was supposedly the first MP3 encoder on that platform, 
+        to the Mac - as it was allegedly the first MP3 encoder on that platform, 
         a dist10 derivative with very simple interface and minimal features: it 
         only allowed a handful of bitrates, and offered batch encoding.<br><br>
         
@@ -110,10 +110,10 @@
         24,95. But the improvements were varied: full range of bitrates for MP3 
         encoding, as well as three VBR modes. MP2 encoding. CD ripping (with CDDB 
         support). ID3 tagging. Volume normalization. You can see a mirror of the 
-        MPegger web page at the <a target=outside
+        MPegger web page at the <a target=_blank
         href="https://web.archive.org/web/20000817011328/http://www.proteron.com/mpegger/"
         >Internet Archive</a>.<br><br>
-        <a href="screens/mpecker10.png" target=outside><img src="screens/mpecker10.png" 
+        <a href="screens/mpecker10.png" target=_blank><img src="screens/mpecker10.png" 
         alt="MPecker 1.0" align=right height=150></a>
         
         At the same time Proteron was developing another MP3 encoder called N2MP3, 
@@ -121,7 +121,7 @@
         of the same functionalities as MPegger, but in a drag'n'drop-oriented
         interface. It cost US$ 34,95.<br><br>
         
-        The last iteration of this encoder was N2MP3 Pro, a mix of MPegger and
+        The last iteration of this encoder was N2MP3 Pro, a merge of MPegger and
         N2MP3. One unusual feature in this encoder is that it allows users to
         chose the encoding engine they want: MPegger, <a href=lame.php>LAME</a>
         (version 3.89), or "Fraunhofer"; besides MP2 and Vorbis. It seems the 
@@ -134,11 +134,11 @@
         It is actually just a misleading way to refer to the dist10 encoder 
         (because, in principle, Fraunhofer participated in the dist10 development). 
         For instance, the user manual describes LAME as "a GNU Project optimization
-        of the Fraunhofer encoder", which is as inaccurate as a phrase can be: LAME 
-        never had any relation with the FSF/GNU Project (other than using one of 
-        their licenses) and bears no relation with the encoders we understand as 
-        being created by FhG.
-        <a href="screens/mpegger.png" target=outside><img src="screens/mpegger.png" 
+        of the Fraunhofer encoder", which is as inaccurate as a phrase can be: 
+        LAME never had any relation with the FSF/GNU Project (other than using 
+        one of their licenses) and bears no relation with the encoders we 
+        understand as being created by FhG.
+        <a href="screens/mpegger.png" target=_blank><img src="screens/mpegger.png" 
         alt="MPegger 1.1" align=right height=168></a>
         <br><br>
         
@@ -148,7 +148,7 @@
         this behavior, no surprises then that the company went under in the late 
         2000s. A mirror of the N2MP3 Pro web page can still be viewed at the <a
         href="https://web.archive.org/web/20010411090702/http://www.proteron.com/n2mp3pro/"
-        target=outside>Internet Archive</a>.<br>
+        target=_blank>Internet Archive</a>.<br>
 
         <br>
         <br>
@@ -157,7 +157,7 @@
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/macos/N2MP3Pro.sit">N2MP3Pro.sit</a> - 3.007kB<br>
-        <a href="screens/n2mp3.png" target=outside><img src="screens/n2mp3.png" 
+        <a href="screens/n2mp3.png" target=_blank><img src="screens/n2mp3.png" 
         alt="N2MP3 1.02" align=right height=264></a>
         <br>
         Date: 2000-01-26<br>
@@ -177,7 +177,7 @@
         Interface: Graphical<br>
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/macos/MPegger11.sit">MPegger11.sit</a> - 572kB<br>
-        <a href="screens/n2mp3pro.png" target=outside><img src="screens/n2mp3pro.png" 
+        <a href="screens/n2mp3pro.png" target=_blank><img src="screens/n2mp3pro.png" 
         alt="N2MP3 Pro 2.01" align=right height=174></a>
         <br>
         Date: 1998-09-03<br>
@@ -193,14 +193,15 @@
         Download: <a href="files/macos/MPeckerEncoder019a6.sit">MPeckerEncoder019a6.sit</a> - 202kB<br>
         <br>
         <hr>
-        <a href="screens/mpeggerdrop.png" target=outside><img src="screens/mpeggerdrop.png" 
+        <a href="screens/mpeggerdrop.png" target=_blank><img src="screens/mpeggerdrop.png" 
         alt="MPegger Drop Decoder" align=right height=167></a>
         Luebbert also created a simple, freeware MP1/2/3 decoder for Mac OS called 
         MPecker Drop Decoder. The Proteron guys took this code and turned it into 
         the MPegger Drop Decoder. It cost US$ 9,95, but was included for free on 
-        puchases of MPegger or N2MP3. According to <a target=outside
+        puchases of MPegger or N2MP3. According to <a target=_blank
         href="https://web.archive.org/web/20010423030639/http://www.proteron.com/dropdecoder/compare.shtml"
-        >this</a>, it is one of the most accurate MPEG audio decoders for Mac.<br>
+        >this page</a>, it is one of the most accurate MPEG audio decoders for 
+        Mac.<br>
 
         <br>
         <br>
