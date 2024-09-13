@@ -53,7 +53,7 @@
     <tr><td></td></tr>
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=850><img width=1 height=200 src="dot.gif"></td></tr>
       </table>
@@ -92,20 +92,20 @@
           <br><div align="justify"> <b>QDesign Music Codec</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/qdesign-mvp.png" target=outside><img src="screens/qdesign-mvp.png" 
+        <a href="screens/qdesign-mvp.png" target=_blank><img src="screens/qdesign-mvp.png" 
         alt="QDesign MVP" align=right height=320></a>
-        The QDesign Music Codec was originally <a href="lbpack.php">LBpack</a>, 
+        The QDesign Music Codec was originally <a href=lbpack.php>LBpack</a>, 
         by Dmitry Shmunk. QDesign corporation bought the codec and hired the 
         developer to create what would become the official audio compression in 
-        Apple's <a href="http://www.quicktime.com" target=outside>QuickTime</a> 
+        Apple's <a href="http://www.quicktime.com" target=_blank>QuickTime</a> 
         v3.<br><br>
         
-        The codec's official name is "RaveSound", according to <a target=outside
+        The codec's official name is "RaveSound", according to <a target=_blank
         href="mirrors/qdesign/01_06_98.htm">this</a> press release, but is 
         commonly called QDesign Codec. It is one of the most agressive encoders 
         known - meaning it compresses quite well at very low bitrates, but its
-        intense processing of the audio signal introduces too many artifacts at 
-        higher bitrates.<br><br>
+        intense processing of the audio signal introduces too many artifacts even
+        at higher bitrates.<br><br>
         
         The personal version comes with QuickTime Pro and allows encoding at 
         bitrates up to 48kbps. The professional version allows bitrates up to 
@@ -119,18 +119,20 @@
         <br><br>
         
         I am also hosting here an analysis document created by Benjamin Larsson, 
-        describing the first steps in reverse engineering the codec.<br><br>
+        describing the first steps in reverse engineering the codec. An open 
+        source decoder is now available in the FFMPEG project.<br><br>
         
-        Apple has steered away from proprietary codecs, like Sorenson Video and 
-        QDesign, and focused on standards (MPEG4). The QDesign codec lost relevance,
-        and the company was bought by DTS in 2004. The codec became the basis of 
-        DTS LBR (also known as DTS Express).<br><br>
+        In the early 2000s Apple steered away from proprietary codecs like 
+        Sorenson Video and QDesign and started focusing on standards (MPEG4). The 
+        QDesign codec lost relevance and the company was bought by DTS in 2004. 
+        The codec became the basis of DTS LBR (also known as DTS Express).
+        <br><br>
         
-        A mirror of the QDesign website can still be visited at <a target=outside
+        A mirror of the QDesign website can still be visited at <a target=_blank
         href="https://web.archive.org/web/20080514210739/http://www.qdesign.com/index.htm" 
         >archive.org</a>. I also saved locally a mirror of the QDesign Music 
         Codec Professional Edition <a href="mirrors/qdesign/qdmc_OSX.htm" 
-        target=outside>product page</a>.<br>
+        target=_blank>product page</a>.<br>
         
         <br>
         <br>
@@ -139,7 +141,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/others/mvppc12.exe">mvppc12.exe</a> - 2.083kB<br>
-        <a href="screens/qdesign-mac.png" target=outside><img src="screens/qdesign-mac.png" 
+        <a href="screens/qdesign-mac.png" target=_blank><img src="screens/qdesign-mac.png" 
         alt="QDesign QT component" align=right height=350></a>
         <br>
         Date: 1999-22-10<br>
