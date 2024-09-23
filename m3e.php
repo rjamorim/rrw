@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,27 +93,28 @@
           <br><div align="justify"> <b>Wata-Ken's M3E MP3 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/m3e.png" target=outside><img src="screens/m3e.png" 
-        alt="M3E encoder translated by Harashin" align=right height=260></a>
-        M3E is an encoder that was only popular in Japan. It started being developed 
-        in 1999 by Wata-Ken implementing an unique VBR method (at that time only 
-        <a href="xing.php">Xing</a> and <a href="lame.php">LAME</a> also offered VBR), 
-        and became quite popular.<br><br>
+        <a href="screens/m3e.png" target=_blank><img src="screens/m3e.png" 
+        alt="M3E encoder translated by Harashin" align=right height=310></a>
+        M3E is an encoder that was only popular in Japan. It started being 
+        developed in 1999 by Wata-Ken implementing an unique VBR method (at that
+        time only <a href=xing.php>Xing</a> and <a href=lame.php>LAME</a> also 
+        offered VBR) and became quite popular.<br><br>
         
-        In Japan, it was the "slow-high quality" choice, compared to <a href="wingogo.php">
-        Gogo</a> (another japanese encoder) that was "fast-low quality".<br><br>
+        In Japan, it was the "slow-high quality" choice, compared to <a 
+        href=wingogo.php>Gogo</a> (another japanese encoder) that was "fast-low 
+        quality".<br><br>
         
-        Some time later, the author started selling a commercial version of the encoder,
-        M3SE Pro.<br><br>
+        Some time later the author started selling a commercial version of the 
+        encoder, M3SE Pro.<br><br>
         
         Distribution of M3E ceased on early 2000 due to patent issues. M3SE sales 
-        ceased some time later, probably because of commercial failure (better, free
-        encoders available; price at &yen;3000 was quite expensive). Some parts of
-        the web page can still be seen at the <a 
+        ceased some time later, probably because of commercial failure (better, 
+        free encoders available; price at &yen;3000 was quite expensive). Some 
+        parts of the web page can still be seen at the <a target=_blank
         href="https://web.archive.org/web/20000303020042/http://homepage1.nifty.com/wata-ken/m3e.htm"
-        target=outside>Internet Archive</a>.<br><br>
+        >Internet Archive</a>.<br><br>
         
-        <i>Lots of thanks to Shingo Harada (a.k.a harashin) for providing the encoder, 
+        <i>Huge thanks to Shingo Harada (a.k.a harashin) for providing the encoder, 
         translating it and enlightening me on its story.</i><br>
         
         <br>
