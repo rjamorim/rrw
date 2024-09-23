@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=1750><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -111,9 +111,9 @@
         employed in their movie theater audio system - SDDS (Sony Dynamic Digital 
         Sound) - that encoded 7.1 audio streams in 1168kbps and stored the data 
         optically next to the film stock sprockets. In this capacity it competed 
-        with the <a href=softencode.php>Dolby AC3</a> and DTS formats.<br><br>
+        with the <a href=softencode.php>Dolby AC-3</a> and DTS formats.<br><br>
         
-        Around the same time, Sony was working on a magneto-optical audio storage
+        Around the same time Sony was working on a magneto-optical audio storage
         and playback system called MiniDisc that was launched in 1992 and used 
         ATRAC to compress audio, reducing CD quality streams from 1411kbps 
         (uncompressed) to 292kbps - or 146kbps in mono mode. There are several 
@@ -135,27 +135,29 @@
         
         The next upgrade of the format is called ATRAC3plus and was launched in 
         2003, still based on the same underlying technologies but with further 
-        backwards-incompatible improvements. It offers bitrates ranging from 48
-        to 352kbps and is only compatible with Hi-MD MiniDisc devices (but also
-        compatible with several other Sony devices such as VAIO cell phones, PS3
-        and PSP gaming consoles, and Xplod car players).<br><br>
+        backwards-incompatible improvements and the addition of multichannel
+        support. It offers bitrates ranging from 48 to 352kbps and is only 
+        compatible with Hi-MD MiniDisc devices (but also compatible with several
+        other Sony devices such as VAIO cell phones, PS3 and PSP gaming consoles,
+        and Xplod car players).<br><br>
         
         A parallel iteration of the format is ATRAC Advanced Lossless, in which 
         an audio stream is encoded in ATRAC3 or ATRAC3plus and the "discarded"
         audio data is losslessly compressed and merged to the lossy stream. That
-        way, players that understand the extra data can play lossless audio,
-        and older players that do not can play the normal lossy stream. It is 
-        the same idea implemented by <a href=fhgmp3hd.php>mp3HD</a>, <a 
-        href=wavpack.php>WavPack</a> hybrid mode and OptimFrog DualStream. 
-        Compression performance is quite bad, yielding ratios similar to <a 
-        href=daxwav.php>Dakx</a>.<br><br>
+        way, players that understand the extra data can play lossless audio and
+        older players that do not can play the normal lossy stream. It is the 
+        same idea implemented by <a href=wavpack.php>WavPack</a> hybrid mode, <a
+        href=fhgmp3hd.php>mp3HD</a>, and OptimFrog DualStream. Compression 
+        performance is quite bad, yielding ratios similar to <a href=daxwav.php
+        >Dakx</a>.<br><br>
         
         The latest iteration of the format was released in 2011 and is called 
         ATRAC9. It is focused on video game audio for Sony consoles, offering 
-        low delay and low CPU usage, and a new technology called <a target=_blank
+        low delay, low CPU usage, broad variety of sampling rates (everything
+        besides 44.1 and 48kHz), loop support, and a new technology called <a 
         href="https://github.com/Thealexbarney/VGAudio/blob/master/docs/audio-formats/atrac9/band-extension.md"
-        >Band Extension</a> that seems to be a variation of <a href=ctmp3pro.php
-        >SBR</a>.<br><br>
+        target=_blank>Band Extension</a> which seems to be a variation of <a 
+        href=ctmp3pro.php>SBR</a>.<br><br>
         
         Besides being implemented in several hardware devices and software 
         programs created by Sony, the format has been licensed to other MiniDisc
@@ -167,13 +169,7 @@
         In addition to SonicStage, here you'll find a collection of command line
         ATRAC3plus and ATRAC9 encoders and decoders extracted from various Sony 
         video game SDKs. They all produce weird RIFF-wrapped ATRAC streams, but 
-        with different capabilities. For instance, tools for portable devices 
-        (PSP and PS Vita) do not support multichannel audio. The PS3 tool only 
-        supports 48kHz streams, while the PSP one only suports 44.1kHz streams, 
-        and the PS4 and PS Vita tools seem to support all major frequencies. PS3
-        and PSP tools only support ATRAC3plus while PS4 and PS Vita only support
-        ATRAC9. And it seems none of them support ATRAC Advanced Lossless...
-        <br><br>
+        with <a href=atracfeats.php>different capabilities</a>.<br><br>
         
         You can also try the Sony ATRAC3 ACM codec, available below. It integrates 
         with the Windows <a href=acmstation.php>Audio Compression Manager</a> and
