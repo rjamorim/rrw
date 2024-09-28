@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,20 +92,24 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>LiteWave lossless compressor</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        LiteWave is a fast and inefficient lossless compressor - it is developed for 
-        inclusion in AVI files as audio stream, and in this case it is better if most 
-        of the processing power is left for the video codec (when doing real-time 
-        capture) to avoid dropped frames.<br><br>
+        LiteWave is a fast and inefficient lossless compressor - it is developed 
+        for inclusion in AVI files as audio stream, and in this case it is indeed 
+        better if most of the processing power is left for the video codec (when 
+        doing real-time capture) to avoid dropped frames.<br><br>
         
-        Also, it includes ancilliary data to avoid loss of synchrony. That is another 
-        reason for the suboptimal compression - in my limited tests, its performance
-        was on par with <a href=zap.php>Emagic Zap</a>.<br><br>
+        Also, it includes ancilliary data to avoid loss of synchrony. That is 
+        another reason for the suboptimal compression - in my limited tests, its
+        performance was on par with <a href=zap.php>Emagic Zap</a>.<br><br>
         
-        A lossy mode is also implemented.<br><br>
+        A lossy mode is also available. Sadly, the ACM codec - that would allow 
+        encoding into and decoding from AVI videos - required payment and only
+        a demo command line encoder was available freely, so nowadays it is 
+        impossible to check how well it did, maybe paired with huffyuv, as a
+        fully lossless audio+video solution.<br><br>
         
-        You can visit the LiteWave web site at the Internet Archive, <a
-        href="https://web.archive.org/web/20031203035107/http://www.clearjump.com:80/products/LiteWave.html"
-        target=outside>here</a>.<br><br>
+        You can visit a mirror of the LiteWave web site at the <a target=_blank
+        href="https://web.archive.org/web/20031203035107/http://www.clearjump.com/products/LiteWave.html"
+        >Internet Archive</a>.<br><br>
         
         <i>Compression performance in my limited test: 65,24%</i><br>
         
