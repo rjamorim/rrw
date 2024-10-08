@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,20 +92,21 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> AudioCatalyst </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/audiocatalyst.png" target=outside><img src="screens/audiocatalyst.png" 
+        <a href="screens/audiocatalyst.png" target=_blank><img src="screens/audiocatalyst.png" 
         alt="AudioCatalyst Win32" align=right height=260></a>
-        AudioCatalyst was born as a partnership between <a href="https://www.audiograbber.org/"
-        target=outside>AudioGrabber</a> - probably the most popular CD ripper at the 
-        time - and Xing, the fastest <a href=xing.php>MP3 encoder</a>.<br><br>
+        AudioCatalyst was born as a partnership between <a target=_blank
+        href="https://www.audiograbber.org/">AudioGrabber</a> - probably the 
+        most popular CD ripper at the time - and <a href=xing.php>Xing</a>, the 
+        fastest MP3 encoder.<br><br>
         
-        It features a pleasing interface and the usual features of a CD ripper: CDDB 
-        lookups, tagging, volume normalizing... Versions were available for both 
-        Windows and Mac OS Classic, and the Windows version available here (courtesy 
-        of the great FOSI guys) includes the <a href=xingsound.php>XingMP3 player
-        </a>.<br><br>
+        It features a pleasing interface and the usual features of a CD ripper: 
+        CDDB lookups, tagging, volume normalizing... Versions were available for
+        both Windows and Mac OS Classic, and the Windows version available here 
+        (courtesy of the great FOSI guys) includes the <a href=xingsound.php
+        >XingMP3 player</a>.<br><br>
         
-        It is worth pointing out that the Mac version is not based on AudioGrabber, 
-        but on Oliver Dreer's <a href=mpegac.php>MPEG Audio Creator</a> - an old CD 
+        It's worth pointing out that the Mac version is not based on AudioGrabber, 
+        but on Oliver Dreer's <a href=mpegac.php>MPEG Audio Creator</a> - a CD 
         ripper for Mac OS Classic that created MP2 files, but not MP3. Therefore, 
         the feature set is different from the Windows version (for instance, the 
         Mac version can record and encode from line-in).<br><br>
@@ -113,7 +114,7 @@
         After Xing Technology got bought by Real Networks the product was 
         discontinued. You can still check the AudioCatalyst web page at the <a
         href="https://web.archive.org/web/20000408132729/http://www.xingtech.com/mp3/audiocatalyst/"
-        target=outside>Internet Archive</a>.<br>
+        target=_blank>Internet Archive</a>.<br>
 
         <br>
         <br>
@@ -129,7 +130,7 @@
         Platform: Mac OS Classic (PPC)<br>
         Download: <a href="files/xing/AudioCatalysttm_2.1.0.sit">AudioCatalysttm_2.1.0.sit</a> - 268kB<br>
         <br>
-        <a href="screens/audiocatalyst-mac.png" target=outside><img 
+        <a href="screens/audiocatalyst-mac.png" target=_blank><img 
         src="screens/audiocatalyst-mac.png" alt="AudioCatalyst Mac OS" align=right height=160></a>
         Date: 1999-07-07<br>
         Version: 2.0.1<br>
