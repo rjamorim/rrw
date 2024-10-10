@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,27 +93,33 @@
           <br><div align="justify"> <b>Voxware ToolVox/TeleVox</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/toolvox-enc.png" target=outside><img src="screens/toolvox-enc.png" 
-        alt="Toolvox encoder" align=right height=314></a>
-        <a href="screens/televox.png" target=outside><img src="screens/televox.png" 
-        alt="Televox" align=right height=314></a>
-        All Voxware voice compression products are based on a proprietary technology
-        that seems to be quite unique in the compression world: MetaVoice. Instead of 
-        compressing the voice samples like all other compression methods, MetaVoice
-        models every detail of them (resonance, pitch, timbre, timing, and character) and
-        reconstructs the speech from this "recipe" at the decoder.<br><br>
+        <a href="screens/toolvox-enc.png" target=_blank><img src="screens/toolvox-enc.png" 
+        alt="Toolvox encoder" align=right height=335></a>
+        <a href="screens/televox.png" target=_blank><img src="screens/televox.png" 
+        alt="Televox" align=right height=335></a>
+        All Voxware voice compression products are based on a proprietary 
+        technology that seems to be quite unique in the compression world: 
+        MetaVoice. Instead of compressing the voice samples like all other 
+        compression methods, MetaVoice models every detail of them (resonance, 
+        pitch, timbre, timing, and character) and reconstructs the speech from 
+        this "recipe" at the decoder.<br><br>
         
-        The page about MetaVoice at Voxware is now gone - Voxware themselves stopped 
-        marketing their voice codecs - but I saved it <a href="mirrors/metavoice/metavoice.html"
-        target=outside>here</a>. Check out the "compression analogy" link for an 
-        interesting analogy.<br><br>
+        The page about MetaVoice at Voxware is now gone - Voxware themselves 
+        stopped marketing their voice codecs - but I saved it <a target=_blank
+        href="mirrors/metavoice/metavoice.html">here</a>. Check out the 
+        "compression analogy" link for an interesting analogy.<br><br>
         
         There are four Voxware tools available here. ToolVox Player is just that - 
         a Voxware player. ToolVox Gold is an encoder and decoder of voice streams. 
         TeleVox is an internet telephony application trial that expires after 14 
-        days (but it does not matter, you can not use it since its directory servers
-        have gone offline decades ago). Finally, we have a compression toolkit
-        containing ACM and DirectShow codecs.<br>
+        days (but it does not matter, you can not use it since its directory 
+        servers have gone offline decades ago). Finally, we have a compression 
+        toolkit containing ACM and DirectShow codecs.<br><br>
+        
+        You can still visit a mirror of the old Voxware home page - back when
+        they still focused on developing voice codecs - at the <a target=_blank
+        href="https://web.archive.org/web/19970618140654/http://www.voxware.com/"
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -128,7 +134,7 @@
         Interface: Graphical<br>
         Platform: Win32<br>
         Download: <a href="files/vocodecs/ToolVGld.exe">ToolVGld.exe</a> - 1.243kB<br>
-        <a href="screens/toolvox-ply.png" target=outside><img src="screens/toolvox-ply.png" 
+        <a href="screens/toolvox-ply.png" target=_blank><img src="screens/toolvox-ply.png" 
         alt="Toolvox player" align=right></a>
         <br>
         Date: 1997-05-14<br>
