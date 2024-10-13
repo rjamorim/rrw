@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,19 +92,20 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> DropMP3 encoder for Mac OS </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/DropMP3.png" target=outside><img src="screens/DropMP3.png" 
+        <a href="screens/DropMP3.png" target=_blank><img src="screens/DropMP3.png" 
         alt="DropMP3 Encoder for Mac OS" align=right height=250></a>
         DropMP3 is, to the best of my knowledge, the only free MP3 encoder for Mac 
         OS Classic using <a href=lame.php>LAME</a>. Since Classic never featured
         a command line interface, native command line applications had to work 
         around this limitation - either by placing the command line interface 
-        inside a special window (as in <a href=blade.php>BladeMac</a>), or by using
-        a GUI to interface with the encoding library, as is the case here.<br><br>
+        inside a special window (as in <a href=blade.php>BladeMac</a>), or by 
+        using a GUI to interface with the encoding library, as is the case here.
+        <br><br>
         
-        It was created around 2000 by Philippe Laval. It has all the settings you 
-        would expect from a LAME frontend: choice of bitrate (CBR and VBR), stereo
-        coding mode, lowpass flters, resampling, tagging... Besides, encoding
-        can be scriptable using AppleScript.<br><br>
+        It was created around the year 2000 by Philippe Laval. It has all the 
+        settings you would expect from a LAME frontend: choice of bitrate (CBR 
+        and VBR), stereo coding mode, lowpass flters, resampling, tagging... 
+        Besides, encoding can be scriptable using AppleScript.<br><br>
         
         The LAME library is distributed separately from the GUI, both files are 
         available below. Unfortunately the latest version I could find was 3.70,
@@ -113,9 +114,9 @@
         href="files/lame/Lame_SharedLib_src_3.70.sea.hqx">sources</a> and some 
         newer LAME version, please get <a href=about.php>in touch</a>!).<br><br>
         
-        The web site is surprisingly still available more than two decades later,
-        <a href="http://philippe.laval.free.fr/DropMP3/US/index.php" 
-        target=outside>here</a>.<br>
+        The web site is surprisingly <a target=_blank
+        href="http://philippe.laval.free.fr/DropMP3/US/index.php">still
+        available</a> more than two decades later.<br>
 
         <br>
         <br>
