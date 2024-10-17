@@ -54,7 +54,7 @@
     
     
       </table>
-      <br><br><br><br><br>
+      <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=3100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,31 +93,32 @@
           <br><div align="justify"> <b>LAME Ain't an MP3 Encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        LAME development started around mid-1998. Mike Cheng started it as a patch
-        against the <a href="8hz-mp3.php">8hz-MP3</a> encoder sources. After some 
-        quality concerns raised by others, he decided to restart from scratch based 
-        on the dist10 sources. That branch (a patch against the reference sources) 
-        became LAME 2.0, and only in LAME 3.81 the developers got rid of all dist10 
-        code, making the encoder no longer only a patch.<br><br>
+        LAME development began around mid-1998. Mike Cheng started it as a patch
+        against the <a href=8hz-mp3.php>8hz-MP3</a> encoder sources. After some 
+        quality concerns were raised by others, he decided to restart from 
+        scratch based on the dist10 sources. That branch (a patch against the 
+        reference sources) became LAME 2.0, and only in LAME 3.81 the developers
+        finished replacing all dist10 code, making the encoder no longer only a 
+        patch.<br><br>
         
         The project quickly became a team effort. Mike Cheng eventually left 
         leadership and started working on tooLame, an MP2 encoder. Mark Taylor
-        became leader and released version 3.0 featuring gpsycho, a new psychoacoustic
-        model he developed.<br><br>
+        became leader and released version 3.0 featuring gpsycho, a new 
+        psychoacoustic model he developed.<br><br>
         
         LAME is meant to be a recursive acronym, in the GNU tradition, meaning
         LAME Ain't an MP3 Encoder (technically true when it was a patch that 
         depended on the dist10 sources to encode anything, but nowadays it is 
-        indeed a real MP3 encoder). But other allusions exist, for instance, "lame"
-        is the French word for <a href=blade.php>blade</a>.<br><br>
+        indeed a real MP3 encoder). But other allusions exist, for instance, 
+        "lame" is the French word for <a href=blade.php>blade</a>.<br><br>
         
-        Nowadays LAME is considered the best MP3 encoder for variable and mid-high 
-        bitrates, mostly thanks to the dedicated work of talented developers like 
-        Takehiro Tominaga, Naoki Shibata, Gabriel Bouvigne, Robert Hegemann, etc. And 
-        development is still going on...<br><br>
+        Nowadays LAME is considered the best MP3 encoder for variable and 
+        mid-high bitrates, mostly thanks to the dedicated work of talented 
+        developers like Takehiro Tominaga, Naoki Shibata, Gabriel Bouvigne, 
+        Robert Hegemann, etc. And development is still going on.<br><br>
         
         The LAME home page is located <a href="https://lame.sourceforge.net/" 
-        target=outside>here</a>.<br>
+        target=_blank>here</a>.<br>
         
         <br>
         <br>
