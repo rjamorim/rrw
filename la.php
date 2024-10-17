@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Lossless Audio </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/la.png" target=outside><img src="screens/la.png" 
+        <a href="screens/la.png" target=_blank><img src="screens/la.png" 
         alt="LA frontend Encoder" align=right height=220></a>
         Lossless Audio, as you certainly would not have guessed from its name, 
         is a lossless audio codec. Whoa!<br><br>
@@ -114,10 +114,11 @@
         XMMS plugin.<br><br>
         
         Development ceased decades ago, indicating this codec has been abandoned. 
-        But the web page is still <a href="http://www.lossless-audio.com/"
-        target=outside>available</a>. There, you can find the <a target=outside
-        href="http://www.lossless-audio.com/theory.htm">theory</a> underpinning
-        its operation.<br><br>
+        But the web page can still be visited at the <a target=_blank
+        href="https://web.archive.org/web/20220509072845/http://www.lossless-audio.com/"
+        >Internet Archive</a>. There, you can find the <a target=_blank
+        href="https://web.archive.org/web/20220522101007/http://www.lossless-audio.com/theory.htm"
+        >theory</a> underpinning its operation.<br><br>
         
         <i>Compression performance in my limited test: 47,6% (high mode)</i><br>
         
