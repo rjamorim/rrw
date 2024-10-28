@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>ALF2 CD codec</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/alf2cd.png" target=outside><img src="screens/alf2cd.png" 
+        <a href="screens/alf2cd.png" target=_blank><img src="screens/alf2cd.png" 
         alt="ALF2 CD" align=right height=275></a>
         ALF2 CD is a very obscure format created by developers Lev Bannov and 
         Aleksei Myasnikov at Russian company NCT Soft in the early 2000s.<br><br>
@@ -105,17 +105,17 @@
         Besides the ACM codec, it was distributed with its own CD ripper and GUI
         encoder. Only high bitrates are available, from 256 to 512kbps.<br><br>
         
-        It never met much success, and was hosted on the developers' web page for 
-        only one or two years. You can still find a mirror of it at the <a 
+        It never met much success, and was hosted on the developers' web page 
+        for only one or two years. You can still find a mirror of it at the <a 
         href="https://web.archive.org/web/20020816083147/http://www.nctsoft.com/products/NCTALFCD/"
-        target=outside>Internet Archive</a> though.<br><br>
+        target=_blank>Internet Archive</a> though.<br><br>
         
-        Famous multimedia programmer Konstantin Shishkov (Kostya) did some <a 
-        href="https://codecs.multimedia.cx/2021/01/a-look-on-weird-audio-codec/">
-        analysis</a> on what makes ALF2CD work.<br><br>
+        The multimedia programmer Konstantin Shishkov (Kostya) did some <a 
+        href="https://codecs.multimedia.cx/2021/01/a-look-on-weird-audio-codec/"
+        target=_blank>analysis</a> on how ALF2CD works.<br><br>
         
-        <i>Big thanks to Zachary Jelesoff for introducing me to ALF2 CD and providing
-        the binaries below.</i><br>
+        <i>Big thanks to Zachary Jelesoff for introducing me to ALF2 CD and 
+        contributing the programs below.</i><br>
 
         <br>
         <br>
