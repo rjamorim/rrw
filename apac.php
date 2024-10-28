@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,11 +92,11 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Marian's a-Pac</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/apac.png" target=outside><img src="screens/apac.png" 
+        <a href="screens/apac.png" target=_blank><img src="screens/apac.png" 
         alt="a-Pac" align=right height=237></a>
-        The famous sound card manufacturer Marian created this little lossless 
-        audio app. Compression is not on par with modern formats, yet, it works
-        well and features a nice interface.<br><br>
+        The famous digital audio equipment manufacturer Marian created this 
+        little lossless audio app. Compression is not on par with modern formats,
+        yet, it works well and features a nice interface.<br><br>
         
         The program also performs decompression and playback. Alas, it is 16 bit, 
         so it will not run on 64bit Windows systems. Also, as you would expect, 
@@ -104,11 +104,11 @@
                 
         You can still see Marian's description of the codec at the archived <a
         href="https://web.archive.org/web/20080723013102/http://www.marian.de/en/downloads"
-        target=outside>download page</a> (see bottom).<br><br>
+        target=_blank>download page</a> (see bottom).<br><br>
         
-        Famous multimedia programmer Konstantin Shishkov (Kostya) did a little 
-        bit of <a href="https://codecs.multimedia.cx/2022/09/looking-at-a-pac/">
-        reverse engineering</a> and <a 
+        The multimedia programmer Konstantin Shishkov (Kostya) did a little bit
+        of <a href="https://codecs.multimedia.cx/2022/09/looking-at-a-pac/"
+        target=_blank>reverse engineering</a> and <a target=_blank
         href="https://wiki.multimedia.cx/index.php/Marian%27s_A-pac">
         documentation</a> regarding this format.<br><br>
         
