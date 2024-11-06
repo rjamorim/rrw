@@ -93,40 +93,40 @@
           <br><div align="justify"><b>Sonique 2 alpha</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/sonique2.png" target=outside><img src="screens/sonique2.png" 
+        <a href="screens/sonique2.png" target=_blank><img src="screens/sonique2.png" 
         alt="The interface of discord" align=right height=280></a>
-        <p><i><b>Part of the following story is flawed. I'm leaving it here for 
-        humour purposes. For a more truthful depiction of what really happened, 
-        read the bottom of the page.</b></i></p>
+        <p><i><b>Parts of the following story are flawed. I am leaving it here 
+        for amusement purposes. For a more truthful depiction of what really 
+        happened, read the bottom of the page.</b></i></p>
         
         Once upon a time, an alpha of Sonique 2 was leaked (note: this isn't the 
-        alpha/beta that was available for a while in the the official <a target=outside
-        href="http://web.archive.org/web/20050307093203/http://sonique.lycos.com/">
-        Sonique</a> page. That beta - now dead too - was developed by the new 
-        development team. The alpha here was developed by the original team).<br><br>
+        alpha/beta that was available for a while at the official <a target=_blank
+        href="http://web.archive.org/web/20050307093203/http://sonique.lycos.com/"
+        >Sonique</a> page. That beta - now dead too - was developed by the new 
+        development team. The alpha here was developed by the original team).
+        <br><br>
         
         I remember Sonique fans were completely hysterical about this alpha. They 
         went to great lenghts to shut down every site hosting it, supposedly out 
         of fear Lycos would drop development because of this high treason. The 
         real reason, of course, is that they wanted to be the only "kool boyz" to 
-        own such a rare tool and flaunter it in front of helpless newbies that 
-        badly wanted it too.<br><br>
+        own such a rare and sought after app and flaunter it in front of helpless
+        newbies that badly wanted it too.<br><br>
         
         A good image of how things were dealt with those days at the Sonique 
-        forums can be depicted by <a href="files/players/asl.txt" target=outside>
+        Forums can be depicted by <a href="files/players/asl.txt" target=_blank>
         this protest article</a> that was posted at one of them.<br><br>
         
         Unfortunately for them, a copy landed in my hands. In yet another attempt 
         to prove my theory that "once something appears on the Internet, no amount 
-        of effort can take it down", I hosted it, accompanied by a very crude 
+        of effort can make it go away", I hosted it, accompanied by a very crude 
         page, at my university server. And so <a href="https://www.rarewares.org" 
-        target=outside>RareWares</a> was born.<br><br>
+        target=_blank>RareWares</a> was born.<br><br>
         
         So here it is for you. The rage-inducing Sonique 2 alpha in all its 
-        unfinished glory. The interface is quite bloated, matter of factly, and 
-        functionality is minimal. Maybe I am not really into eye-candy overkill...
-        If this was the future of Sonique, it is not a surprise it completely 
-        bombed.<br><br>
+        unfinished glory. The interface is quite bloated and functionality is 
+        minimal. Maybe I am not really into eye-candy overkill... If this was 
+        the future of Sonique, I am not surprised it was a failure.<br><br>
         
         Ah, yes. As it turns out, Lycos noticed they were just wasting money 
         with their Sonique division and decided to fire all developers. An 
@@ -135,8 +135,8 @@
         handful of squabbling nerds with too much time on their hands, and 
         finally let Sonique die a (mostly) peaceful death.<br><br>
         
-        If you are looking for old, official versions of Sonique 1, look at <a 
-        href="http://www.glop.org/sonique/" target=outside>The Museum of 
+        If you are looking for old, official versions of Sonique 1, check out <a 
+        href="http://www.glop.org/sonique/" target=_blank>The Museum of 
         Sonique</a>.<br>
         
         <br>
