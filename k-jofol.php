@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,18 +92,19 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>K-J&ouml;fol Audio Player</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/k-jofol.png" target=outside><img src="screens/k-jofol.png" 
+        <a href="screens/k-jofol.png" target=_blank><img src="screens/k-jofol.png" 
         alt="K-Jofol 2000" align=right height=167></a>
         K-J&ouml;fol was a pretty popular audio player in its heyday, around 
         1999-2000.<br><br>
         
         One reason it became so popular is that it was the first real player 
-        supporting VQF - the players offered by <a href="soundvq.php">Yamaha</a> 
-        and <a href="nttvqf.php">NTT</a> were not very useful, lacking a decent 
-        interface and basic features like playlists and equalizer.<br><br>
+        supporting VQF - the players offered by <a href=soundvq.php>Yamaha</a> 
+        and <a href=nttvqf.php>NTT</a> were not very useful, lacking a decent 
+        interface and basic features such as playlist manager and equalizer.
+        <br><br>
         
         It was also the only player that supported the infamous <a 
-        href="astrid.php">Astrid AAC</a> codec through a plugin provided by the 
+        href=astrid.php>Astrid AAC</a> codec through a plugin provided by the 
         author. This time, it isn't encrypted with PElock - but with ASpack 
         instead...<br><br>
         
