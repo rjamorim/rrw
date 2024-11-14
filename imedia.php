@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,11 +92,11 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> QDesign MPEG audio codecs </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/i-Media.png" target=outside><img src="screens/i-Media.png" 
-        alt="i-Media MP2 Encoder 2.0" align=right height=240></a>
+        <a href="screens/i-Media.png" target=_blank><img src="screens/i-Media.png" 
+        alt="i-Media MP2 Encoder 2.0" align=right height=256></a>
         QDesign became a famous player in the audio encoding scene when they 
-        launched the <a href=qdmc.php>QDesign music codec</a>, as the advanced 
-        audio encoding option in QuickTime, in early 1998. But by then they had 
+        launched the <a href=qdmc.php>QDesign Music Codec</a> as the advanced 
+        audio encoding option for QuickTime in early 1998. But by then they had 
         already built some fame for themselves as purveyors of quality MPEG 
         audio encoders since 1996.<br><br>
         
@@ -107,16 +107,16 @@
         and that explains the steep license price: 495 dollars).<br><br>
         
         The encoder is also optimized to be fast, both in the high quality mode 
-        and even faster in the fast mode. The idea is to enable MP2 encoding in
-        real time from line-in on mid-1990s computers.<br><br>
+        and even faster in the fast mode. The goal is to enable MP2 encoding 
+        from line-in in real-time on mid-1990s computers.<br><br>
         
         Then, we have an ACM codec for the Windows Audio Compression Manager. It
         encodes only to MP2, but has the advantage of working with all <a 
         href=acmenc.php>programs that</a> can <a href=acmstation.php>use ACM</a>.
-        Also, it comes with an interesting little app (that gets installed to the 
-        system tray) which allows users to change the playback speed of streams
-        using the respective decoder. And it was much cheaper than i-Media: "only"
-        79 dollars.<br><br>
+        Also, it comes with an interesting little app (that gets installed to 
+        the system tray) which allows users to change the playback speed of 
+        streams using the respective decoder. And it was much cheaper than
+        i-Media: "only" 79 dollars.<br><br>
         
         A third alternative for people wanting to enjoy the QDesign MP2 encoder - 
         a free one! - is using the <a href=recordit.php>Iomega RecordIt</a> app. 
@@ -127,13 +127,13 @@
         focusing instead on QDMC and their music library manager <a href=qdmc.php
         >MVP</a>. Then it got bought by DTS in 2004. You can see a mirror of their 
         <a href="https://web.archive.org/web/19991001051347/http://www.qdesign.com/products/MPEGPro.htm"
-        target=outside>i-Media</a> page, as well as one of their <a target=outside
+        target=_blank>i-Media</a> page, as well as one of their <a target=_blank
         href="https://web.archive.org/web/19991001062437/http://www.qdesign.com/products/MPEG_ACM.htm"
         >ACM codec</a> page, hosted at the Internet Archive.<br>
 
         <br>
         <br>
-        <a href="screens/mp2acm.png" target=outside><img src="screens/mp2acm.png" 
+        <a href="screens/mp2acm.png" target=_blank><img src="screens/mp2acm.png" 
         alt="QDesign MP2 ACM" align=right height=170></a>
         Date: 1997-06-11<br>
         Version: 2.0<br>
