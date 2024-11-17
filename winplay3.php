@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=800><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=750><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>FhG IIS WinPlay3</b></div> <p> </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/winplay3v23.png" target=outside><img src="screens/winplay3v23.png" 
+        <a href="screens/winplay3v23.png" target=_blank><img src="screens/winplay3v23.png" 
         alt="WinPlay3 2.3" align=right></a>
         WinPlay3 was developed by the creators of the MP3 standard - the Fraunhofer 
         Institute. It was the first real-time MP3 player, before MP3 was, well, 
@@ -106,18 +106,21 @@
         feature back in 1995 (when version 1.0 was released) since 486s were 
         still common.<br><br>
         
-        The first versions (1.x series) were distributed as shareware and 
-        required a registration fee of DM 75,00 (~US$ 50,00). The 2.3 versions 
-        were made freeware.<br><br>
+        Most versions were distributed as shareware and required a registration 
+        fee of DM 75 (≈ US$ 50), but the downloads below are pre-registered or
+        include a serial number. Only the last released version (2.3b5) was made
+        freeware.<br><br>
         
         There are versions available for Win16 (Windows 3.x) and Win32. 
-        Fraunhofer also released a Mac OS Classic version called <a 
+        Fraunhofer also developed a Mac OS Classic version called <a 
         href=macplay3.php>MacPlay3</a>.<br><br>
         
-        After version 2.3b5 FhG stopped developing WinPlay3. The web page can 
-        still be accessed at the Internet Archive, <a target=outside
-        href="https://web.archive.org/web/19970606171426/http://www.iis.fhg.de:80/departs/amm/layer3/winplay3/">
-        here</a>.<br>
+        After version 2.3b5 FhG stopped developing WinPlay3 - MP3 was on its way
+        to becoming <a href=mp3prod.php>synonimous with compressed audio<a/> and 
+        they could leave development tasks to the myriad other players that were 
+        popping up. A mirror of the web page can still be visited at the <a 
+        href="https://web.archive.org/web/19970606171426/http://www.iis.fhg.de/departs/amm/layer3/winplay3/"
+        target=_blank>Internet Archive</a>.<br>
         
         <br>
         <br>
@@ -138,7 +141,7 @@
         Interface: Graphical<br>
         Platform: Win16<br>
         Download: <a href="files/players/wp200.zip">wp200.zip</a> - 1.214kB<br>
-        <a href="screens/winplay3v1.png" target=outside><img src="screens/winplay3v1.png" 
+        <a href="screens/winplay3v1.png" target=_blank><img src="screens/winplay3v1.png" 
         alt="WinPlay3 1" align=right></a>
         <br>
         Date: 1996-03-05<br>
