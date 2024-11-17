@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,27 +93,30 @@
           <br><div align="justify"> <b>Split2000 lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/split2000.png" target=outside><img src="screens/split2000.png" 
+        <a href="screens/split2000.png" target=_blank><img src="screens/split2000.png" 
         alt="Split2000" align=right height=275></a>
         Split2000 is a very obscure lossless compressor for Linux. As far as I 
-        can tell it was never ported to other operating systems. Actually, 
+        can tell it was never ported to other operating systems. <s>Actually, 
         neither the sources not the precompiled binary available here seem to 
         work, at least on recent Linux versions. So, unless someone takes the 
-        time to update the code, this codec can be considered completely dead.
-        <br><br>
+        time to update the code, this codec can be considered completely dead.</s>
+        <i>Please check the Update below!</i><br><br>
         
-        Anyway, from what I understood of the readme and playing around with it, 
-        it is not a true lossless audio compressor, but it preprocesses the audio 
-        data and then feeds this preprocessed data into a generic data compressor
+        From what I understood of the readme and playing around with it, it is
+        not a true lossless audio compressor, but it preprocesses the audio data
+        and then feeds this preprocessed data into a generic data compressor
         - the default option is bzip2. This helps Split2000 achieve much better
         compression that the generic data compressor would achieve by itself, but
         even then, it is among the worst performing lossless compressors in RRW, 
         coming close to <a href=ada.php>ADA</a> in my limited tests.<br><br>
         
-        The encoder web page is gone, so I am mirroring it <a 
-        href="mirrors/split2000/split2000.html">here</a>.<br><br>
+        The encoder web page is gone, so I am <a target=_blank
+        href="mirrors/split2000/split2000.html">mirroring it</a>.<br><br>
         
-        <i>Compression performance in my limited test: 66,25%</i><br>
+        <i>Compression performance in my limited test: 66,25%</i><br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for introducing me to this lossless codec.</i><br>
         
         <br>
         <br>
@@ -124,9 +127,6 @@
         Download: <a href="files/lossless/split2000.tar.gz">split2000.tar.gz</a> - 113kB<br>
         Source code: <a href="files/lossless/split2000-1.0.0.tar.gz">split2000-1.0.0.tar.gz</a> 
         - 110kB<br><br>
-        
-        <i>Thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting
-        this codec.</i><br>
         
         <br>        
         <b>Update:</b> <br>
