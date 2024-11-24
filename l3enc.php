@@ -93,24 +93,27 @@
           <br><div align="justify"> <b>FhG l3enc MP3 Encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Fraunhofer l3enc was the first MP3 (back then called MPEG audio layer 3, that's 
-        why l3enc) software encoder. The official 1.0 version was released on 1994-07-13,
-        and before that only very expensive hardware encoders existed (not that l3enc
-        was not expensive itself, registration for version 2.0 cost 350DM - ~U$250)<br><br>
+        Fraunhofer l3enc was the first MP3 (back then called MPEG audio layer 3, 
+        that's why l3enc) software encoder. The official 1.0 version was released 
+        on 1994-07-13, and before that only very expensive hardware encoders 
+        existed (not that l3enc was not expensive itself, the registration for 
+        version 2.0 cost 350DM - ~U$250)<br><br>
         
-        Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), Solaris 
-        (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K/x86/SPARC/HPPA). The first 
-        (pre-1.0) DOS versions even featured fixed point math encoder and decoder for 
-        the 8088 architecture.<br><br>
+        Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), 
+        Solaris (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K/x86/SPARC/HPPA).
+        The first (pre-1.0) DOS versions even featured fixed point math encoder 
+        and decoder for the 8088 architecture.<br><br>
         
         FhG distributed with l3enc an MPEG layer 3 <a href="files/fhg/l3faq.txt"
-        target=outside>FAQ</a> and a small collection of <a href="files/fhg/mp3-bitstreams.tar.gz">
-        test bitstreams</a> (1.370kB).<br><br>
+        target=_blank>FAQ</a> and a small collection of <a 
+        href="files/fhg/mp3-bitstreams.tar.gz">test bitstreams</a> (1.370kB).
+        <br><br>
         
-        By the end of 1997 l3enc stopped being developed in favor of the development
-        of <a href="mp3enc.php">MP3enc</a>. The webpage can still be seen at the <a 
+        By the end of 1997 l3enc stopped being developed in favor of the 
+        development of <a href=mp3enc.php>MP3enc</a>. The webpage can still be 
+        seen at the <a target=_blank
         href="https://web.archive.org/web/19970606161304/http://www.iis.fhg.de/departs/amm/layer3/index.html"
-        target=outside>Internet Archive</a>.<br>
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
