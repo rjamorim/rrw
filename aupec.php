@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,20 +93,20 @@
           <br><div align="justify"> <b>AUPECg2 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/aupec.png" target=outside><img src="screens/aupec.png" 
+        <a href="screens/aupec.png" target=_blank><img src="screens/aupec.png" 
         alt="AUPECg2" align=right height=280></a>
         AUPEC stands for Auckland University Perceptual Entropy Coder (g2 is for
         generation 2), a very obscure lossy audio format that was developed by 
         Mark Vinton as his undergraduate research project.<br><br>
         
-        Quality is not good, partially because no stereo redundancy coding is used - 
+        Quality is not good, in part because no stereo redundancy coding is used - 
         the channels are coded independently. Other limitations of the format are
-        only CBR encoding, no multichannel support, and it is not documented at
-        all.<br><br>
+        that it is limited to CBR encoding, no multichannel support, and it is 
+        not documented at all.<br><br>
         
         The web page at Washington University is gone, but you can still find it 
         at the <a href="http://web.archive.org/web/20020311020059/http://students.washington.edu/mvinton/index.html" 
-        target=outside>Internet Archive</a>.<br>
+        target=_blank>Internet Archive</a>.<br>
 
         <br>
         <br>
