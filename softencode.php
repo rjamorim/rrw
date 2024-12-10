@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -108,15 +108,16 @@
         in stereo mode and DTS, another multichannel audio format, was not 
         mandatory so only high-end DVD players supported it.<br><br>
         
-        The compression performance is similar to MP2: AC-3 achieves transparency 
-        around 192kbps for stereo streams and 448kbps for 5.1 streams. Streams 
-        are always constant bitrate - there is no VBR option.<br><br>
+        The compression performance is similar to <a href=philipsmc.php>MP2</a>:
+        AC-3 achieves transparency around 192kbps for stereo streams and 448kbps
+        for 5.1 streams. Streams are always constant bitrate - there is no VBR
+        option.<br><br>
         
         The version hosted here is a demonstration. It allows full access to the 
-        interface, but disables AC-3 encoding. SoftEncode was very expensive - 
-        USD 995 for the multichannel version and 495 for the stereo one, in late
-        nineties dollars - because the format was never meant to be encoded by 
-        end users, but by DVD authoring facilities.<br><br>
+        interface, but disables AC-3 encoding and decoding. SoftEncode was very 
+        expensive - USD 995 for the multichannel version and 495 for the stereo
+        one, in late nineties dollars - because the format was never meant to be
+        encoded by end users, but by DVD authoring facilities.<br><br>
         
         The SoftEncode web page can still be seen at the <a target=_blank
         href="https://web.archive.org/web/20000619113635/http://www.sonicfoundry.com/Products/NewShowProduct.asp?PID=12"
