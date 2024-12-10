@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=600><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,24 +92,24 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> SoundApp for Mac </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/soundapp.png" target=outside><img src="screens/soundapp.png" 
+        <a href="screens/soundapp.png" target=_blank><img src="screens/soundapp.png" 
         alt="SoundApp 2.50" align=right></a>
-        SoundApp is an audio player and converter for Mac OS Classic (System 7 to 
-        Mac OS 9) developed by Norman Franke that supports a wide variety of 
-        <a href="http://www-cs-students.stanford.edu/~franke/SoundApp/formats.html"
-        target=outside>formats</a> for reading (including MP1/2/3, but only 
-        playable in the PowerPC version because the 68k processors are not powerful
-        enough for real time decoding) and writing.<br><br>
+        SoundApp is an audio player and converter for Mac OS Classic (System7 to
+        Mac OS 9) developed by Norman Franke that supports a wide variety of <a 
+        href="http://www-cs-students.stanford.edu/~franke/SoundApp/formats.html"
+        target=_blank>formats</a> for reading (including MP1/2/3, but only 
+        playable in the PowerPC version because the 68K processors are not 
+        powerful enough for real-time decoding) and writing.<br><br>
         
         It features a playlist editor and can be scripted using AppleScript. CD
-        ripping with CDDB support is also available, but no MP3 encoding - only
-        simpler compression schemes such as ADPCM and MACE.<br><br>
+        ripping with CDDB support is also available, but no MP3 encoding - it can
+        only write to simpler compression schemes such as ADPCM and MACE.<br><br>
         
         The program stopped being developed in late 2000, at a time Mac OS 9 was 
         already on the way out making way for the launch of Mac OS X. Surprisingly 
-        the web site is still available <a 
+        the web site is still available <a target=_blank
         href="http://www-cs-students.stanford.edu/~franke/SoundApp/"
-        target=outside>here</a>.<br>
+        >here</a>.<br>
 
         <br>
         <br>
@@ -125,7 +125,7 @@
         Platform: Mac OS Classic 68K<br>
         Download: <a href="files/macos/SoundApp68K273.sit.bin">SoundApp68K273.sit.bin</a> - 585kB<br>
         <br>
-        <a href="screens/soundapp151.png" target=outside><img src="screens/soundapp151.png" 
+        <a href="screens/soundapp151.png" target=_blank><img src="screens/soundapp151.png" 
         alt="SoundApp 1.51" align=right></a>
         Date: 1998-04-16<br>
         Version: 2.5<br>
