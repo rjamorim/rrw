@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>8hz-MP3 encoder</b></div> <p> </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/8hz-mp3.png" target=outside><img src="screens/8hz-mp3.png" 
+        <a href="screens/8hz-mp3.png" target=_blank><img src="screens/8hz-mp3.png" 
         alt="8hz-mp3 v0.1.1b" align=right height=224></a>
         8hz-MP3 is more or less a compile of the dist10 reference sources with a 
         focus on speeding up that code and an easy to use interface. It was put 
@@ -102,7 +102,7 @@
         They were among the first to feel the wrath of Fraunhofer. They received a
         cease-and-desist letter claiming patent violation, and immediately afterwards 
         stopped developing and distributing their encoder. <a 
-        href="http://www.8hz.com/mp3/" target=outside>This</a> is what remains of 
+        href="http://www.8hz.com/mp3/" target=_blank>This</a> is what remains of 
         8hz-MP3's official page.<br>
         
         <br>
@@ -114,9 +114,9 @@
         Download: <a href="files/mpeg/8hz-mp3_011b.zip">8hz-mp3_011b.zip</a> - 83kB<br>
         <br><br>
         
-        Version 0.2b is a further development by <a target=outside
-        href="https://web.archive.org/web/20050212164433/http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html">
-        Jun Somekawa</a>.<br>
+        Version 0.2b was further developed by <a target=_blank
+        href="https://web.archive.org/web/20050212164433/http://www.yk.rim.or.jp/~somekawa/mp3/index-e.html"
+        >Jun Somekawa</a>.<br>
         
         <br>
         Date: 1999-04-09<br>
