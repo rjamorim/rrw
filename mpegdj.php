@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,17 +92,18 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MpegDJ Encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mpegdj.png" target=outside><img src="screens/mpegdj.png" 
+        <a href="screens/mpegdj.png" target=_blank><img src="screens/mpegdj.png" 
         alt="MpegDJ Encoder" align=right height=240></a>
-        MpegDJ Encoder is an MP2/MP3 encoder created by the <a href="xaudio.php">Xaudio</a>
-        developers.<br><br>
+        MpegDJ Encoder is an MP2/MP3 encoder created by the <a href=xaudio.php
+        >XAudio</a> developers.<br><br>
         
-        According to the credits tab at the about window, the encoder engine is based on 
-        <a href="xing.php">Xing Tech</a>'s, so you can expect good quality and blazing 
-        fast speeds.<br><br>
+        According to the credits tab at the about window, the encoder engine is 
+        based on <a href=xing.php>Xing Tech</a>'s, so you can expect good quality
+        and blazing fast speeds.<br><br>
         
-        The version available here is an unregistered demo that will not encode WAV files
-        and will only rip the first track of each CD. Registration cost &euro;29.<br>
+        The version available here is an unregistered demo that will not encode 
+        WAV files and will only rip the first track of each CD. Registration 
+        cost &euro;29.<br>
 
         <br>
         <br>
