@@ -93,7 +93,7 @@
           <br><div align="justify"><b>Foobar2000 v0 versions</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/foobar2000-083.png" target=outside><img 
+        <a href="screens/foobar2000-083.png" target=_blank><img 
         src="screens/foobar2000-083.png" alt="foobar2000 0.83" align=right 
         height=225></a>        
         <b>These are the very old (v0) Foobar2000 versions</b><br><br>

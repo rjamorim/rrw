@@ -54,9 +54,9 @@
     
     
       </table>
-    <br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=6600><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=6700><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,7 @@
           <br><div align="justify"><b>Foobar2000 audio player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/foobar2000-1617.png" target=outside><img 
+        <a href="screens/foobar2000-1617.png" target=_blank><img 
         src="screens/foobar2000-1617.png" alt="foobar2000 1.6.17" align=right 
         height=225></a>        
         The Foobar2000 audio player is the brainchild of Peter Pawlowski, who rose 
@@ -111,20 +111,19 @@
         That development mindset reflects in the spartan interface, backed by 
         a powerful and very stable core, and a very flexible SDK that allows for 
         feature extensions through the use of add-on components.<br><br>
+                
+        The development is still going on, and the official home page is located
+        <a href="http://www.foobar2000.org" target=_blank>here</a>.<br><br>
         
         I have to admit I did not check every single Foobar installation to obtain 
         its respective release date. Instead, I just gathered this information 
-        from Benjamin Pahlke's excellent <a target=outside 
+        from Benjamin Pahlke's excellent <a target=_blank 
         href="https://bpahlke.de/foobar2000_wiki/doku.php?id=start">Foobar2000
         Wiki</a>. Go there to check, besides release dates, well organized
-        changelogs for each Foobar2000 version.<br><br>
-        
-        The development is still going on, and the official home page is located <a 
-        href="http://www.foobar2000.org" target=outside>here</a>.<br>
+        changelogs for each Foobar2000 version.<br>
         
         <br>
         <br>
-        
         Date: 2023-04-26<br>
         Version: 2.0<br>
         Interface: Graphical<br>
