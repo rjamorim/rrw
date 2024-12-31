@@ -100,7 +100,7 @@
         
         But it is not limited to MP3. It can work with any format with an ACM 
         encoder, such as <a href=imedia.php>MP2</a>, WMA, <a href=sonicstage.php
-        >Atrac3</a>, Vorbis, <a href=truespeech.php>voice</a> <a href=voxware.php
+        >ATRAC3</a>, Vorbis, <a href=truespeech.php>voice</a> <a href=voxware.php
         >codecs</a>, the countless ADPCM flavors, and even <a href=alf2cd.php
         >alf2cd</a>.<br><br>
         
