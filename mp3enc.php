@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -94,8 +94,7 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         Fraunhofer MP3enc is the successor to <a href=l3enc.php>l3enc</a>. Based 
         on the codebase of its sucessful predecessor, it offers higher quality 
-        and faster encoding.
-        <br><br>
+        and faster encoding.<br><br>
         
         This encoder also existed as a famous, much pirated <a href=fhgcodecs.php
         >ACM codec</a> for the Windows platform, enabling MP3 encoding on most 
@@ -105,19 +104,19 @@
         branch FhG had been developing for some time, called <a href=fastencc.php
         >Fastenc</a>. While being much faster than MP3enc (slowenc), it offered 
         similar quality and had enhanced features such as VBR encoding. The 
-        MP3enc web page can still be seen at the <a target=outside
-        href="https://web.archive.org/web/19981206053611/http://www.iis.fhg.de:80/amm/download/mp3enc/index.html" 
+        MP3enc web page can still be seen at the <a target=_blank
+        href="https://web.archive.org/web/19981206053611/http://www.iis.fhg.de/amm/download/mp3enc/index.html" 
         >Internet Archive</a>.<br><br>
         
-        The current MP3 page at Fraunhofer IIS is located <a target=outside
+        The current MP3 page at Fraunhofer IIS is located <a target=_blank
         href="https://www.mp3-history.com/">here</a>.<br><br>
         
         Except for the (full) files below, the MP3enc versions available here are 
         for demonstration and encoding is limited to 30 seconds of audio data.
-        The (full) files are full versions originally distributed by the F.O.S.I. 
-        group which also contain a full version of <a href=l3enc.php>l3dec</a>
-        2.74. The MP3enc registration info is available within the zip files - 
-        a US$ 199 (in 1998 dollars) value!<br>
+        The (full) files are registered versions originally distributed by the 
+        F.O.S.I. group which also contain a full version of <a href=l3enc.php
+        >l3dec</a> 2.74. The MP3enc registration info is available within the zip
+        files - a US$ 199 (in 1998 dollars) value!<br>
         
         <br>
         <br>
