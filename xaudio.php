@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,25 +93,25 @@
           <br><div align="justify"><b>XAudio</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/xaudio.png" target=outside><img src="screens/xaudio.png" 
+        <a href="screens/xaudio.png" target=_blank><img src="screens/xaudio.png" 
         alt="XAudio" height=260 align=right></a>
-        Who distributes audio players with time limit? The XAudio guys, that's 
-        who.<br><br>
+        Who distributes audio players with time limit? The <a href=mpegdj.php
+        >XAudio</a> guys, that's who.<br><br>
         
         This player here will not work if your computer clock is set to after 
         October 1997. It works without issues if you set the date before that.
         <br><br>
         
         But trust me, you do not want to install this player. The interface is 
-        quite ugly and buggy, bad VBR support, no tagging, no equalizer, and it 
+        quite ugly and buggy, no tagging, no equalizer, bad VBR support, and it 
         has that extremely irritating behavior of stealing the .mp3 association 
         whenever it is run.<br><br>
         
-        At some point, XAudio was sold to InterTrust technologies. They gave up the 
-        player market and decided to focus on licensing their MP3 decoding library 
-        to developers. A mirror of the web page is available at the <a target=outside
-        href="https://web.archive.org/web/20050208095339/http://www.xaudio.com/">
-        Internet Archive</a>.<br>      
+        At some point XAudio was sold to InterTrust technologies. They gave up 
+        the player market and decided to focus on licensing their MP3 decoding 
+        library to developers. A mirror of the web page is available at the <a 
+        href="https://web.archive.org/web/20050208095339/http://www.xaudio.com/"
+        target=_blank>Internet Archive</a>.<br>      
         
         <br>
         <br>
