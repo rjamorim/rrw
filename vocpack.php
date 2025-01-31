@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,17 +98,20 @@
         Version 1 will not work with 16-bit streams, that limitation was addressed 
         in version 2.<br><br>
         
-        Version 2 has other improvements, but pay attention! - it is shareware, and 
-        as a limitation it will not allow you to decompress the compressed files. So,
-        it is recommended that you keep the original files, as the compressed ones 
-        will not be decompressable (unless you manage to find the author and pay 
+        Version 2 has other improvements, but pay attention! - it is shareware, 
+        and as a limitation it will not allow you to decompress the compressed 
+        files. Hence, I recommend you keep the original files, as the compression
+        process is irreversible (unless you manage to find the author and pay 
         him the registration fee...)<br><br>
         
-        But no point even taking that risk: compression performance is quite bad
+        But no point even taking that risk: compression performance is very bad
         (no surprises considering the age of the compressor), so please just do
         not use it.<br><br>
         
-        <i>Compression performance in my limited test: 64,6%</i><br>
+        <i>Compression performance in my limited test: 64,6%</i><br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for introducing me to this lossless codec.</i><br>
         
         <br>
         <br>
@@ -123,9 +126,6 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/lossless/vocpak10.zip">vocpak10.zip</a> - 15kB<br>
-        <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
-        introducing me to this codec.</i>
 
         </blockquote></font>
 
