@@ -90,10 +90,10 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b> FhG/Opticon MP3 Producer </b></div><p></font>
+          <br><div align="justify"><b> FhG/Opticom MP3 Producer </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mp3prod11.png" target=outside><img src="screens/mp3prod11.png" 
-        alt="FhG MPEG Layer-3 Producer 1.1" align=right height=200></a>
+        <a href="screens/mp3prod11.png" target=_blank><img src="screens/mp3prod11.png" 
+        alt="FhG MPEG Layer-3 Producer 1.1" align=right height=210></a>
         In the very early days Fraunhofer was still trying to figure out what 
         to do with this MPEG Audio Layer 3 thing they had come up with. Back in
         1994-1997 they were expecting its usage to become limited to the 
@@ -144,15 +144,15 @@
         industry for MP3 licensing. At least registered users of Producer v1
         were entitled to free upgrades to v2.<br><br>
         
-        <a href="screens/mp3prod2.png" target=outside><img src="screens/mp3prod2.png" 
-        alt=".mp3 Producer 2" align=right height=200></a>
+        <a href="screens/mp3prod2.png" target=_blank><img src="screens/mp3prod2.png" 
+        alt=".mp3 Producer 2" align=right height=210></a>
         Crucially, .mp3 Producer no longer separated interface from encoder - the 
         encoding routines were built into the main program. That becomes clear 
         when you check the "About MPEG Layer-3 Audio Codec" dialog in both apps:
         MPEG Layer-3 Producer is using <a href="screens/mp3prod11-about.png"
-        target=outside>the MP3 codec installed in the system</a> (in my case, a 
+        target=_blank>the MP3 codec installed in the system</a> (in my case, a 
         codec much more recent than the one that comes with Producer) while .mp3 
-        Producer only uses <a target=outside href="screens/mp3prod2-about.png">its 
+        Producer only uses <a target=_blank href="screens/mp3prod2-about.png">its 
         own codec</a>. Also, the installation now requires a serial number 
         (included in the zip file below) to thwart pirates, but by the time .mp3
         Producer was released the cat was already way out of the bag.<br><br>
@@ -169,7 +169,7 @@
         <a href=apollo.php>MP3</a> <a href=nad.php>software</a> <a href=amp.php
         >players</a> for nearly every computer platform and architecture (but
         <a href="https://www.angelfire.com/games/gamersuniverse/mp3player.html"
-        target=outside>the vast majority</a>, <a target=outside 
+        target=_blank>the vast majority</a>, <a target=_blank 
         href="https://tsnwb.fortunecity.ws/mp3_p.htm">for Windows</a>). In early
         1998 the first portable MP3 players started appearing on the market 
         (MPMan F10 and F20). Napster was released a little later, in mid-1999. 
@@ -184,9 +184,9 @@
         well as their encoders and decoders in <a href=fastencc.php>library 
         form</a> to software developers.<br><br>
         
-        You can still visit Internet Archive mirrors of the <a target=outside
+        You can still visit Internet Archive mirrors of the <a target=_blank
         href="https://web.archive.org/web/19970428061443fw_/http://www.opticom.de/producer.htm"
-        >MPEG Layer-3 Producer</a> and <a target=outside
+        >MPEG Layer-3 Producer</a> and <a target=_blank
         href="https://web.archive.org/web/19990117070203fw_/http://www.opticom.de/producer.htm"
         >.mp3 Producer</a> webpages (notice how the ACM paragraph disappeared 
         from the latter page).<br>
