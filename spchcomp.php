@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,14 +93,18 @@
           <br><div align="justify"> <b>Voyce Tech SpchComp</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/spchcomp.png" target=outside><img src="screens/spchcomp.png" 
+        <a href="screens/spchcomp.png" target=_blank><img src="screens/spchcomp.png" 
         alt="SpchComp" align=right></a>
         SpchComp is another obsure voice compression codec. The encoder and decoder 
         come in the same program, so plugins and standalone decoders are not 
         available.<br><br>
         
         It allows choosing different speed/quality settings. Being a demo version, 
-        it only allows encoding up to one minute of voice data in each stream.<br>
+        it only allows encoding up to one minute of voice data in each stream.
+        <br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for submitting this codec.</i><br>
         
         <br>
         <br>
@@ -110,8 +114,6 @@
         Platform: Win16<br>
         Download: <a href="files/vocodecs/scutl222.zip">scutl222.zip</a> - 233kB<br>
         <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for introducing 
-        me to this codec.</i>
 
         </blockquote></font>
 
