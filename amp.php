@@ -53,7 +53,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -91,18 +91,18 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>AMP MP3 decoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/gamp064.png" target=outside><img src="screens/gamp064.png" 
+        <a href="screens/gamp064.png" target=_blank><img src="screens/gamp064.png" 
         alt="G-AMP 0.64" align=right></a>
         AMP is an early, highly optimized MP2/3 player and decoder created by Tomislav 
         Uzelac.<br><br>
         
         It was very popular in the early days of MP3 because it is a very fast decoder. So 
         popular, indeed, that Justin Frankel decided to base <a href="dosamp.php">DOSamp</a> 
-        and <a href="http://www.winamp.com" target=outside>Winamp</a> on it. That decision 
-        later became a headache when <a href="http://www.playmediasystems.com/" target=outside>
+        and <a href="http://www.winamp.com" target=_blank>Winamp</a> on it. That decision 
+        later became a headache when <a href="http://www.playmediasystems.com/" target=_blank>
         Playmedia</a> - the company Uzelac created to license AMP - decided  to <a 
         href="http://law.justia.com/cases/federal/district-courts/FSupp2/171/1094/2488368/"
-        target=outside>sue AOL/Nullsoft</a> for copyright infringement.<br><br>
+        target=_blank>sue AOL/Nullsoft</a> for copyright infringement.<br><br>
         
         AOL settled before the hearing and got a license for AMP, but a while later (for
         possibly related reasons) they stopped using Nitrane (the Nullsoft decoder based on 
@@ -125,7 +125,7 @@
         Download: <a href="files/players/amp-0.7.6.tar.gz">amp-0.7.6.tar.gz</a> - 98kB<br>
         <i>Kindly contributed by Martin Guy.</i><br>
         <br>
-        <a href="screens/amp076.png" target=outside><img src="screens/amp076.png" 
+        <a href="screens/amp076.png" target=_blank><img src="screens/amp076.png" 
         alt="AMP Win32 0.76" align=right></a>
         Date: 2003-07-19<br>
         Version: 0.6.4<br>
