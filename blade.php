@@ -98,20 +98,20 @@
         and quality, mostly at high bitrates (around 192 and 256kbps)<br><br>
         
         It never supported the more advanced features - such as variable bitrates, 
-        tagging, and free format - that can be found in <a href=lame.php>LAME</a>
-        and other encoders.<br><br>
+        tagging, sample-accurate decoding, and free format - that can be found in
+        <a href=lame.php>LAME</a> and other encoders.<br><br>
         
         Development officially ceased on 2002-08-11, although by then an year had 
         already passed since the last update. The developer recommended users 
         switch to Ogg Vorbis.<br><br>
 
-        A mirror of the official page is available at the <a target=outside
+        A mirror of the official page is available at the <a target=_blank
         href="https://web.archive.org/web/20030807182121/http://bladeenc.mp3.no/">
         Internet Archive</a>. You can check the entire changelog <a
-        href="files/blade/blade-changelog.html" target=outside>here</a>. And you
+        href="files/blade/blade-changelog.html" target=_blank>here</a>. And you
         can also find pre-compiled versions of Blade for an insane amount of
         platforms at the <a href="http://www2.arnes.si/~mmilut/BladeEnc.html"
-        target=outside>Binary Distribution Point</a>.<br>
+        target=_blank>Binary Distribution Point</a>.<br>
         
         <br>
         <br>
@@ -150,7 +150,7 @@
         <br>
         Date: 1998-09-14<br>
         Version: 0.72<br>
-        <a href="screens/blademac.png" target=outside><img src="screens/blademac.png" 
+        <a href="screens/blademac.png" target=_blank><img src="screens/blademac.png" 
         alt="BladeEnc for Mac" align=right height=244></a>
         Download: <a href="files/blade/blade072.zip">blade072.zip</a> - 107kB<br>
         <br>
@@ -162,9 +162,9 @@
         Petteri Kamppuri created a Mac OS Classic version of the encoder. Since
         this operating system does not have a native command line interface, 
         Petteri managed to place Blade's command line output inside a window of
-        its own. Input is done through the open dialog (File -> Open).<br><br>
+        its own.<br><br>
         
-        The web site can still be visited at the <a target=outside
+        The web site can still be visited at the <a target=_blank
         href="https://web.archive.org/web/20010813045819/http://www.helsinki.fi/~pkamppur/bladeencmac.html">
         Internet Archive</a>.<br>
 
