@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>PsyTEL AACenc and Fastenc</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/psytel.png" target=outside><img src="screens/psytel.png" 
+        <a href="screens/psytel.png" target=_blank><img src="screens/psytel.png" 
         alt="Psytel MPEG-4 Studio" align=right height=235></a>
         PsyTEL Research was a company in Yugoslavia working on an optimized 
         implementation of the MPEG2/4 AAC standard. It was founded around 1998 by
@@ -114,7 +114,7 @@
         Around mid-2002 PsyTEL Research and all its assets were bought by Ahead 
         Software AG, makers of Nero Burning ROM, and AACenc became <a 
         href=neroaac.php>Nero AAC Encoder</a>. You can still visit a mirror of 
-        the web site at the <a target=outside
+        the web site at the <a target=_blank
         href="https://web.archive.org/web/20020610032644/http://www.psytel-research.co.yu/index.htm"
         >Internet Archive</a>.<br><br>
         
@@ -157,7 +157,7 @@
         Version: 1.61b<br>
         Download: <a href="files/aac/psytel/aacenc161.zip">aacenc161.zip</a> - 143kB<br>
         <br>
-        <a href="screens/psytelMPEG4.png" target=outside><img src="screens/psytelMPEG4.png" 
+        <a href="screens/psytelMPEG4.png" target=_blank><img src="screens/psytelMPEG4.png" 
         alt="Psytel MPEG-4 Authoring Tool" align=right height=300></a>
         Date: 2001-12-22<br>
         Version: 1.6<br>
@@ -192,7 +192,7 @@
         1.0, Ivan released every few days "Public Evaluation Versions" that let
         enthusiasts check development progress and provide feedback about output
         quality and bugs. They have been collected in the file below, kindly
-        provided by Martin Wagner, who also provided the <a target=outside
+        provided by Martin Wagner, who also provided the <a target=_blank
         href="files/aac/psytel/AACEnc_DevHistory.pdf">changelog</a> documenting 
         the fast pace of development.<br><br>
         
