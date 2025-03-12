@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,21 +92,21 @@
           <br><div align="justify"> <b>MBsoft AAC</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mbsoft.png" target=outside><img src="screens/mbsoft.png" 
+        <a href="screens/mbsoft.png" target=_blank><img src="screens/mbsoft.png" 
         alt="MBSoft Encoder" align=right height=183></a>
         MBsoft started around 1998 from Menno Bakker's work on the AAC reference 
         sources.<br><br>
         
-        The encoder, mbaacenc, was more or less a compile of the ISO sources with a
-        nice frontend. A Winamp input plugin was also available.<br><br>
+        The encoder, mbaacenc, was more or less a compile of the ISO sources with
+        a nice frontend. A Winamp input plugin was also available.<br><br>
         
-        At the end of 1999 Menno opened the sources of his apps and started the <a 
-        href="http://www.audiocoding.com" target=outside>FAAC</a> (Freeware Advanced 
-        Audio Coder) project. The project is still alive, and its decoder (FAAD2) is 
-        nowadays considered one of the best and fastest AAC decoders - so much so,
-        it was bought by Nero AG to become the <a href=neroaac.php>Nero AAC decoder</a>
-        (but the free software version is still available). FAAC is also under constant
-        (if slow) development.<br>
+        At the end of 1999 Menno opened the sources of his apps and started the
+        <a href="https://faac.sourceforge.net/" target=_blank>FAAC</a> (Freeware 
+        Advanced Audio Coder) project. The project is still alive, and its decoder 
+        (FAAD2) is nowadays considered one of the best and fastest AAC decoders 
+        - so much so, it was bought by Nero AG to become the <a href=neroaac.php
+        >Nero AAC decoder</a> (but the free software version is still available).
+        FAAC is also under constant (if slow) development.<br>
         
         <br>
         <br>
