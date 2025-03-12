@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -105,7 +105,15 @@
         and there was nothing there but noise.<br><br>
         
         Maybe I am doing something wrong? If you know how to get this program to
-        work as it is supposed to, please <a href=about.php>e-mail me</a>.<br>
+        work as it is supposed to, please <a href=about.php>e-mail me</a>.<br><br>
+        
+        A mirror of the web page can be accessed at the <a target=_blank
+        href="https://web.archive.org/web/19990203173241/http://www.geocities.com/SiliconValley/Way/9629/dl.htm"
+        >Internet Archive</a>. It is as garish as all other Geocities pages of 
+        the time.<br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for submitting this lossless (?) encoder.</i><br>
         
         <br>
         <br>
@@ -114,9 +122,6 @@
         Interface: Command line<br>
         Platform: DOS<br>
         Download: <a href="files/others/wavsq090.zip">wavsq090.zip</a> - 9kB<br>
-        <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
-        introducing me to this codec.</i>
 
         <br><br>
         <ul>
