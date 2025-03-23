@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MP3 to EXE (another one) </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mp32exe2-player.png" target=outside><img 
+        <a href="screens/mp32exe2-player.png" target=_blank><img 
         src="screens/mp32exe2-player.png" alt="MP3 to EXE 2 player interface" 
         align=right></a>
         This application is almost the complete opposite of <a href=mp3toexe.php>
@@ -107,16 +107,16 @@
         So it is the best choice if file size is of the utmost importance. 
         Besides, the player seems to work without problems on Windows XP and 10.
         <br><br>
-        <a href="screens/mp32exe2-creator.png" target=outside><img 
+        <a href="screens/mp32exe2-creator.png" target=_blank><img 
         src="screens/mp32exe2-creator.png" alt="MP3 to EXE 2 converter interface" 
         align=right height=232></a>
         
-        A mirror of the web page for the application can be seen at the <a 
+        A mirror of the web page can be seen at the <a target=_blank
         href="http://web.archive.org/web/20010806110947/www.cutess.com/mp3toexe.htm"
-        target=outside>Internet Archive</a>.<br><br>
+        >Internet Archive</a>.<br><br>
         
-        <i>Big thanks to Zachary Jelesoff for introducing me to this alternative
-        MP3 to EXE.</i><br>
+        <i>Thanks to Zachary Jelesoff for introducing me to this alternative MP3
+        to EXE.</i><br>
         
         <br>
         <br>
