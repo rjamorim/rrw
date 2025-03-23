@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=300 src="dot.gif"></td></tr>
+    <tr><td height=500><img width=1 height=300 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,19 +93,19 @@
           <br><div align="justify"> <b>WaveZip/MUSICompress</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/wavezip.png" target=outside><img src="screens/wavezip.png" 
+        <a href="screens/wavezip.png" target=_blank><img src="screens/wavezip.png" 
         alt="WaveZip" align=right height=347></a>
         MUSICompress is a lossless audio encoding algorithm developed by Al Wegener.
         Its focus is in being fast (quoting the author: "an extra 10% compression 
         ratio just isn't worth a 20x wait").<br><br>
         
-        The original web page is mirrored <a target=outside
+        The original web page is mirrored at the <a target=_blank
         href="https://web.archive.org/web/20050207063755/http://members.aol.com/sndspace/">
-        here</a>. You can also check the <a href="files/lossless/musi_txt.txt"
-        target=outside>data sheet</a>.<br>
+        Internet Archive</a>. You can also check the format's <a target=_blank
+        href="files/lossless/musi_txt.txt">data sheet</a>.<br>
         
         <a href="https://groups.google.com/forum/?fromgroups=#!topic/comp.music.research/uCu3xAi2k7o" 
-        target=outside>This</a> is an introductory message by the author.<br><br>
+        target=_blank>This</a> is an introductory message by the author.<br><br>
         
         <i>Compression performance in my limited test: 61,78%</i><br>
         
@@ -124,9 +124,9 @@
         required registration.<br><br>
         
         Gadget Labs has gone out of business in 2000, so registration is no longer 
-        possible. A mirror of the web site can be seen <a target=outside
+        possible. A mirror of the web site can be seen at the <a target=_blank
         href="https://web.archive.org/web/19990417182323/http://www.gadgetlabs.com/wavezip.htm">
-        here<a/> though.<br>
+        Internet Archive<a/> though.<br>
         
         <br>
         <br>
