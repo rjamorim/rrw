@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,11 +92,11 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MPEG Audio Encoder (Creator) </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/MPEGaudioCreator.png" target=outside><img src="screens/MPEGaudioCreator.png" 
+        <a href="screens/MPEGaudioCreator.png" target=_blank><img src="screens/MPEGaudioCreator.png" 
         alt="MPEG Audio Creator 2.0" align=right height=200></a>
-        MPEG Audio Encoder is a CD ripper for Mac OS Classic created by Oliver 
-        Dreer. It features line-in recording and a pleasing and easy to use 
-        interface, but a glaring omission is lack of CDDB support.<br><br>
+        MPEG Audio Encoder is a freeware CD ripper for Mac OS Classic created by 
+        Oliver Dreer. It features line-in recording and a pleasing and easy to 
+        use interface, but a glaring omission is lack of CDDB support.<br><br>
         
         Version 2.0 was renamed to MPEG Audio Creator and saw the addition of MP3
         encoding support, only to be removed a few days later in version 2.0.1. 
@@ -107,7 +107,7 @@
         the Macintosh version of <a href=audiocat.php>AudioCatalyst</a>, marking 
         the end of MPEG Audio Creator development.<br><br>
         
-        A mirror of the web site can still be seen at the <a target=outside
+        A mirror of the web site can still be seen at the <a target=_blank
         href="https://web.archive.org/web/19990418032627/http://www3.pair.com/odreer/mpeg.html"
         >Internet Archive</a>.<br>        
 
@@ -133,13 +133,13 @@
         <br>
         
         <hr>
-        <a href="screens/MPEGaudioPlayer.png" target=outside><img src="screens/MPEGaudioPlayer.png" 
+        <a href="screens/MPEGaudioPlayer.png" target=_blank><img src="screens/MPEGaudioPlayer.png" 
         alt="MPEG Audio Player 1.74" align=right height=235></a>
         The author also developed a quite featureful audio player for Mac OS 
         Classic called MPEG Audio Player.<br><br>
         
         It has playlists, tagging (read only), oscilloscope and spectrum analyzer, 
-        and a quite unique feature among players that allows real time adjustment 
+        and a quite unique feature among players that allows real-time adjustment 
         of the playback speed.<br><br>
         
         It uses the MAplay decoder up to version 1.61, version 1.7b3 and later use
