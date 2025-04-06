@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,13 +92,13 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Ultimate Encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/ultimateenc.png" target=outside><img src="screens/ultimateenc.png" 
+        <a href="screens/ultimateenc.png" target=_blank><img src="screens/ultimateenc.png" 
         alt="Ultimate Encoder 1.5" align=right height=214></a>
         OK, here we have an MP1/2/3 encoder and decoder. Shareware (registration 
         cost 49 dollars!!). Looks and sounds like a dist10 compile. <a 
-        href=screens/ultimateenc1.png target=outside>Horrible</a> <a 
-        href=screens/ultimateenc2.png target=outside>wizard-based</a> <a 
-        href=screens/ultimateenc3.png target=outside>interface</a>. Can also 
+        href=screens/ultimateenc1.png target=_blank>Horrible</a> <a 
+        href=screens/ultimateenc2.png target=_blank>wizard-based</a> <a 
+        href=screens/ultimateenc3.png target=_blank>interface</a>. Can also 
         rip CDs. Comes from Romania.<br><br>
     
         <a href=soundlimit.php>Sounds familiar?</a><br><br>
@@ -108,11 +108,11 @@
         available above and the ones at SoundLimit's page. Even some of the 
         (ugly, unnecessary) textures are the same!<br><br>
         
-        If you have any information about what was going on, please get <a 
-        href=about.php>in touch</a>!<br><br>
+        If you have any information or gossip about what was going on, please 
+        get <a href=about.php>in touch</a>!<br><br>
         
         The demo version hosted here only works for 30 days after installation.
-        The web page is gone but you can visit a mirror at the <a target=outside
+        The web page is gone but you can visit a mirror at the <a target=_blank
         href="https://web.archive.org/web/20000304072224/http://www.usro.net/products/uencoder/index.htm"
         >Internet Archive</a>.<br>
 
