@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,7 +95,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         Wav2mp is an MPEG audio layers 1 and 2 encoder that was created as an 
         accompanying tool to avi2vcd, a program that creates VCD-compatible MPEG1 
-        streams out of AVI files.<br>
+        streams out of AVI files.<br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for submitting this encoder.</i><br>
         
         <br>
         <br>
@@ -111,8 +114,6 @@
         Platform: Win32<br>
         Download: <a href="files/mpeg/wav2mp11.zip">wav2mp11.zip</a> - 48kB<br>
         <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for 
-        submitting this encoder.</i>
         
         </blockquote></font>
 
