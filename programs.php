@@ -207,7 +207,7 @@
             </blockquote>
 
         <font face="Verdana" size=2 color="669900">
-          <br><div align="justify"><b>Old/rare players:</b></div>
+          <br><div align="justify"><b>Ancient/rare players:</b></div>
             </font>
             <font face="Tahoma" size=2 color="black"><blockquote>
                 <a href=atta2b.php>AT&amp;T a2b music</a><br>
