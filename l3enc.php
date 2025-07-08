@@ -56,7 +56,7 @@
       </table>
 <br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=2100><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=2200><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -102,10 +102,21 @@
         Also, it was truly multiplatform: It ran on MS DOS (x86), Linux (x86), 
         Solaris (SPARC), SunOS (SPARC), Irix (MIPS), and NeXT (68K/x86/SPARC/HPPA).
         The first (pre-1.0) DOS versions even featured fixed point math encoder 
-        and decoder for the 8088 architecture.<br><br>
+        and decoder for computers without an FPU.<br><br>
         
-        FhG distributed with l3enc an MPEG layer 3 <a href="files/fhg/l3faq.txt"
-        target=_blank>FAQ</a> and a small collection of <a 
+        Such flexibility came at a price: l3enc only existed as a command line
+        program, which is not a really friendly proposition for technically 
+        unsavvy users. Which probably motivated FhG to create a Windows GUI 
+        version of the encoder - <a href=mp3prod.php>MP3 Producer</a> - and, by 
+        accident, unleash the MP3 revolution.<br><br>
+        
+        Most of the downloads below include both l3enc and l3dec, which was a 
+        command line MP3 decoder that outputs raw PCM, WAV, SND or AIFF files.
+        If you wanted to playback MP3 files back then, you would probably need
+        to use <a href=winplay3.php>WinPlay3</a> instead.<br><br>
+        
+        Fraunhofer also distributed with l3enc an MPEG layer 3 <a target=_blank
+        href="files/fhg/l3faq.txt">FAQ</a> and a small collection of <a 
         href="files/fhg/mp3-bitstreams.tar.gz">test bitstreams</a> (1.370kB).
         <br><br>
         
@@ -128,7 +139,7 @@
         <hr>
         Date: 1997-12-05<br>
         Version: 2.72<br>
-        Interface: Command line (includes Windows fronted)<br>
+        Interface: Command line (includes 3rd party Windows fronted)<br>
         Platform: DOS<br>
         Download: <a href="files/fhg/l3enc272.zip">l3enc272.zip</a> - 564kB<br>
         <br>
