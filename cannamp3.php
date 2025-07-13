@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,21 +92,22 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>CannaMP3 encoder</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/cannamp3.png" target=outside><img src="screens/cannamp3.png" 
+        <a href="screens/cannamp3.png" target=_blank><img src="screens/cannamp3.png" 
         alt="CannaMP3" align=right height=288></a>
         CannaMP3 is an MP3 encoder developed by the programmer Gabriele Cannata. 
         It comes with a GUI, and is able to encode directly from CDs through 
         digital audio extraction. <br><br>
         
-        Another novelty is that it can use several algorithms for encoding (as it 
-        seems, the author did some tuning on his code) besides the "ISO mode" 
+        Another feature is that it can use several algorithms for encoding (as 
+        it seems, the author did some tuning on his code) besides the "ISO mode" 
         (dist10). These extra tunings can be reached at the settings tab, 
         "Encoding Mode (built in encoder)" drop-down box. It remains to be seen 
-        if there is a noticeable difference between encoding modes.<br><br>
+        if there is a noticeable quality difference between encoding modes.
+        <br><br>
         
-        A mirror of the website is available at <a 
-        href="https://web.archive.org/web/19990209105037/http://www.angelfire.com:80/ga/cannamp3/" 
-        target=outside>archive.org</a>.<br>
+        A mirror of the website is available at the <a target=_blank
+        href="https://web.archive.org/web/19990209105037/http://www.angelfire.com/ga/cannamp3/" 
+        >Internet Archive</a>.<br>
         
         <br>
         <br>
