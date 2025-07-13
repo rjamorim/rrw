@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,20 +93,20 @@
           <br><div align="justify"> <b>SoloH mpegEnc</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/soloh.png" target=outside><img src="screens/soloh.png" alt="SoloH" 
+        <a href="screens/soloh.png" target=_blank><img src="screens/soloh.png" alt="SoloH" 
         align=right height=284></a>
-        SoloH is another dist10 compile featuring a fancy GUI that encodes MP1/2/3
-        files. Also, it works as a CD ripper and is freeware. For those reasons it 
-        became pretty popular in its time.<br><br>
+        SoloH is another dist10 compile featuring a nice GUI that encodes MP1/2/3
+        files. Also, it works as a CD ripper and is freeware. For those reasons 
+        it became pretty popular in its time.<br><br>
         
         But popularity comes at a price. This is another encoder that felt the 
-        wrath of Fraunhofer and the developer had to remove binaries from his 
-        server.<br><br>
+        wrath of Fraunhofer and the developer had to give up distributing it.
+        <br><br>
         
-        Besides outputting bad quality MP3s it is very slow and buggy. Do not open
-        the about box, it will hang the program.<br><br>
+        Besides outputting bad quality MP3s it is very slow and buggy. Do not try
+        to open the about box, that will crash the program.<br><br>
         
-        The web site and version history can be viewed at the <a target=outside
+        The web site and version history can be viewed at the <a target=_blank
         href="https://web.archive.org/web/20170103170919/http://www.euronet.nl/~soloh/mpegEnc/" 
         >Internet Archive</a>.<br>
         
