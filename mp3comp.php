@@ -100,13 +100,15 @@
         I would "rip" the tracks from audio CDs using that famous <a 
         href="files/others/cdfs.zip">CDFS.VXD</a> filesystem driver that showed
         CDDA tracks as WAV files instead of .cda indexes (yes, this was back in 
-        Windows 98 days) in Windows Explorer. Then I would rename each file with
-        the track name (CDDB? What?), load all of them on MP3 Compressor and hope
-        that Windows would not crash in the hour or so that it took to convert 
-        everything. I also avoided using the computer during encoding because I 
-        did not know how to use the process priority slider in the interface, the
-        default position was "idle" so anything interfered with speed - Word97 
-        was particularly bothersome...<br><br>
+        Windows 98 days) in Windows Explorer. Then I would manually rename each 
+        file with the track name (CDDB? What?), load all of them on MP3 
+        Compressor and hope that Windows would not crash in the hour or so that 
+        it took to convert everything.<br><br>
+        
+        I also avoided using the computer during encoding because I did not know
+        how to use the process priority slider in the interface, the default 
+        position was "idle" so anything interfered with speed - Word 97 was 
+        particularly bothersome...<br><br>
         
         But enough nostalgia! Only many years later I figured out that MP3
         Compressor is not really an encoder, but a frontend to the <a 
