@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1200><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1300><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Liquid Audio </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/Liquifier.png" target=outside><img src="screens/Liquifier.png" 
+        <a href="screens/Liquifier.png" target=_blank><img src="screens/Liquifier.png" 
         alt="Liquifier 5.0" align=right height=330></a>
         Liquid Audio was, for a while, the only way you could come in contact
         with that hot new audio encoding technology from the same creators of the
@@ -143,13 +143,13 @@
         to MP3, expiry date... Also, the free versions can be created as only 
         short clips, not the entire track).<br><br>
         
-        <a href="screens/LiquidPlayer.png" target=outside><img src="screens/LiquidPlayer.png" 
+        <a href="screens/LiquidPlayer.png" target=_blank><img src="screens/LiquidPlayer.png" 
         alt="Liquid Player for Windows 5.0" align=right height=290></a>
-        The encoders available in version 5.0 were AAC (FhG), MP3 (FhG), and
-        AC3 (Dolby); with bitrates as low as 8kbps for modem streaming and as
-        high as 256kbps for "CD Quality". The player version 5.1 for Mac hints 
-        at the addition of <a href=sonicstage.php>Sony Atrac3</a> as a choice of
-        encoder.<br><br>
+        The encoders available in version 5.0 were AAC (FhG), AC3 (Dolby), and 
+        <a href=mp3enc.php>MP3</a> (FhG); with bitrates as low as 8kbps for 
+        modem streaming and as high as 256kbps for "CD Quality". The player 
+        version 5.1 for Mac hints at the addition of <a href=sonicstage.php>Sony
+        ATRAC3</a> as a choice of encoder.<br><br>
         
         Below you have the Liquifier 5.0 installer for Win32 and the cracked
         executable zipped together with a cracking instructions file. It is
@@ -181,10 +181,10 @@
         as Real Networks with Real Audio and Microsoft with WMA. It disappeared
         in the early 2000s, and you can still see a mirror of the site at the <a
         href="http://web.archive.org/web/20000301013659/http://www.liquidaudio.com/"
-        target=outside>Internet Archive</a>.<br><br>
+        target=_blank>Internet Archive</a>.<br><br>
         
-        <i>Big thanks to Max Telkov for reminding me of Liquid Audio and submitting
-        most of the downloads below.</i><br>        
+        <i>Big thanks to Max Telkov for reminding me of Liquid Audio and 
+        submitting most of the files below.</i><br>        
 
         <br>
         <br>
@@ -195,7 +195,7 @@
         Installer: <a href="files/aac/liquid/LiquifierPro5.0-b24.exe">LiquifierPro5.0-b24.exe</a> - 10.413kB<br>
         Crack: <a href="files/aac/liquid/liquifier50_cracked.zip">liquifier50_cracked.zip</a> - 1.859kB<br>
         ZIP package: <a href="files/aac/liquid/liq50b24.zip">liq50b24.zip</a> - 2.054kB<br>
-        <a href="screens/LiquidPlayerMac.png" target=outside><img src="screens/LiquidPlayerMac.png" 
+        <a href="screens/LiquidPlayerMac.png" target=_blank><img src="screens/LiquidPlayerMac.png" 
         alt="Liquid Player for MacOS 5.1" align=right height=275></a> 
         <br>
         Date: 1999-02-24<br>
@@ -221,6 +221,12 @@
         Interface: Command line<br>
         Platform: Win32<br>
         Download: <a href="files/aac/liquid/lqm2lqt.zip">lqm2lqt.zip</a> - 18kB<br>
+        <br>
+        Date: 2001-02-16<br>
+        Version: 1.0<br>
+        Interface: Winamp Plugin<br>
+        Platform: Win32<br>
+        Download: <a href="files/aac/liquid/EnWinAmpPi1.0.0.26.exe">EnWinAmpPi1.0.0.26.exe</a> - 3.106kB<br>
 
         </blockquote></font>
 
