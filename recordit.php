@@ -92,8 +92,8 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Iomega RecordIt </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/recordit-ply.png" target=_blank><img src="screens/recordit-ply.png" 
-        alt="RecordIt - player on Mac" align=right height=130></a>
+        <a href="screens/recordit-enc.png" target=_blank><img src="screens/recordit-enc.png" 
+        alt="RecordIt - encoder on Windows" align=right height=255></a>
         RecordIt is a recording app for Windows and Mac OS Classic created by 
         Iomega. Its main goal was enabling customers of their Zip drives to rip
         CDs and make the tracks fit inside one Zip disk (100MB).<br><br>
@@ -109,13 +109,12 @@
         stars = 192kbps, 2 stars = 112kbps, and 1 star = 24kbps/22kHz (for
         microphone recordings).<br><br>
         
-        <a href="screens/recordit-enc.png" target=_blank><img src="screens/recordit-enc.png" 
-        alt="RecordIt - encoder on Windows" align=right height=255></a>
         It is worth mentioning the program is not really an encoder, but a 
         recorder - which means it will not accept .wav files for input. It will 
         only encode directly from an audio CD (and, sadly, with no CDDB support),
         line-in, or a microphone. It also features a player to play back the 
-        encoded files, but it is as ugly as the encoder program.<br><br>
+        encoded files, it features a simple playlist manager and is as ugly as 
+        the encoder program.<br><br>
         
         The RecordIt page at Iomega can still be visited at the <a target=_blank
         href="https://web.archive.org/web/20000304155316/http://www.iomega.com/software/featured/recordit.html"
@@ -124,6 +123,8 @@
         <br>
         <br>
         Date: 1997-12-17<br>
+        <a href="screens/recordit-ply.png" target=_blank><img src="screens/recordit-ply.png" 
+        alt="RecordIt - player on Mac" align=right height=227></a>
         Version: 1.1<br>
         Interface: Graphical<br>
         Platform: Win32 (Win9x only)<br>
