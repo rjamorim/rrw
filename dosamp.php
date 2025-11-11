@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,20 +92,21 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Nullsoft DOSamp</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/dosamp.png" target=outside><img src="screens/dosamp.png" alt="DOSamp" 
+        <a href="screens/dosamp.png" target=_blank><img src="screens/dosamp.png" alt="DOSamp" 
         align=right height=270></a>
-        DOSamp was probably the first MP3 player for DOS (l3dec was only a decoder). 
-        It was created by Justin Frankel, the same developer that later created 
-        the hugely popular <a href="http://www.winamp.com" target=outside>Winamp</a>
-        player.<br><br>
+        DOSamp was probably the first MP2/MP3 player for DOS (<a href=l3dec.php
+        >l3dec</a> is only a decoder). It was created by Justin Frankel, the 
+        same developer that later created the hugely popular <a target=_blank
+        href="http://www.winamp.com">Winamp</a> player.<br><br>
         
         There is not much functionality. The program is called from the command 
         line with the file name passed as parameter. At most the user can select 
         downmixing and sampling rate output, and playback can be paused and 
         resumed.<br><br>
         
-        It uses PlayMedia's <a href="amp.php">AMP</a> decoding engine, therefore 
-        quality is not on par with accurate decoders (FhG, mpg123, MAD)<br><br>
+        It uses PlayMedia's <a href=amp.php>AMP</a> decoding engine, therefore 
+        quality is not on par with accurate decoders (such as FhG, mpg123, MAD).
+        <br><br>
         
         I also included at the bottom a DOSamp extender created by Henrich Fukna 
         that adds playlists support to the player.<br>

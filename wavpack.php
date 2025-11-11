@@ -112,7 +112,11 @@
         original PCM stream, or the lossy file can be decompressed alone with
         slight quality losses.<br><br>
         
-        With version 3.97, the sources were released under a BSD license. Before
+        Another interesting feature of WavPack is that you can easily create
+        self-extracting (SFX) archives with it, just concatenating the 
+        decompressor executable (wvunpack) with a compressed .wv file.<br><br>
+        
+        With version 3.97 the sources were released under a BSD license. Before
         that, WavPack was closed source freeware.<br><br>
         
         WavPack 4 has been released soon afterwards. It adds important features
@@ -121,11 +125,10 @@
         good compression x speed ratio.<br><br>
         
         The official web site is available <a href="http://www.wavpack.com/" 
-        target=outside>here</a>.<br><br>
+        target=_blank>here</a>.<br><br>
         
-        <i>Compression performance in my limited test: 52,73% (-h setting)</i>
+        <i>Compression performance in my limited test: 52,73% (-h setting).</i>
         <br><br>
-
         
         <i>All files here were kindly contributed by David Bryant himself.</i><br>
 

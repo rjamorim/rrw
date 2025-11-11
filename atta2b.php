@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>AT&amp;T a2b music</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/a2bmusic.png" target=outside><img src="screens/a2bmusic.png" 
+        <a href="screens/a2bmusic.png" target=_blank><img src="screens/a2bmusic.png" 
         alt="Indecence" align=right height=320></a>
         a2b music was an attempt at creating a digital music delivery system by 
         telecommunications giant AT&amp;T, fresh from the <a href=mp3prod.php
@@ -109,7 +109,7 @@
         the <a href=realjuke.php>RealJukebox</a> article).<br><br>
         
         a2b folded rather spectaculously before even becoming relevant, when the 
-        majority of its employees decided to walk out and <a target=outside
+        majority of its employees decided to walk out and <a target=_blank
         href="http://www.nytimes.com/1999/05/18/business/at-t-digital-music-unit-loses-more-than-half-of-its-workers.html"
         >join a competitor</a> less than two years after it was founded. For
         that reason the players I am hosting here are rather useless now (unless
@@ -118,7 +118,7 @@
         
         Talking about cutting-edge design, check out this Internet Archive <a 
         href="https://web.archive.org/web/19990208011048/http://www.a2bmusic.com/"
-        target=outside>mirror</a> of the a2b music website, for some real <i>eye
+        target=_blank>mirror</a> of the a2b music website, for some real <i>eye
         candy</i>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for sending me the a2b music players 

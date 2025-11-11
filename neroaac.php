@@ -92,13 +92,14 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Nero AAC Encoder and Decoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/neroaac.png" target=outside><img src="screens/neroaac.png" 
+        <a href="screens/neroaac.png" target=_blank><img src="screens/neroaac.png" 
         alt="Nero AAC Encoder (GUI version)" align=right height=185></a>
         The Nero AAC encoder was once the <a href=aacenc.php>Psytel AAC encoder</a>.
         Its main developer, Ivan Dimkovic, sold all assets of Psytel Research to
         Ahead Software AG (later Nero AG) and started working there, tuning and 
         improving the encoder, adding features such as SBR and parametric stereo,
-        and overall turning it into one of the best AAC encoders of the time.<br><br>
+        and overall turning it into one of the best AAC encoders of the time.
+        <br><br>
         
         It started as a format choice in Nero's tools dealing with audio encoding 
         and CD ripping, but demands from the public (and a few unofficial tools 
@@ -109,14 +110,14 @@
         The decoder, on the other hand, was developed by Menno Bakker of <a
         href=mbsoft.php>MBsoft</a>. Ahead bought the rights to the decoder, but
         it countinued being developed under a free software license, under the 
-        old name <a href="https://faac.sourceforge.net/" target=outside>FAAD2</a>. 
+        old name <a href="https://faac.sourceforge.net/" target=_blank>FAAD2</a>. 
         It is a high quality, accurate and fast decoder.</br><br>
         
         Nero still offers the AAC encoding option in their tools, but the standalone
         AAC encoder and decoder are no longer available for download. You can check
-        a mirror of the old download page at the <a 
+        a mirror of the old download page at the <a target=_blank
         href="https://web.archive.org/web/20160310025758/http://www.nero.com/enu/company/about-nero/nero-aac-codec.php"
-        target=outside>Internet Archive</a>.<br>
+        >Internet Archive</a>.<br>
         
 
         <br>

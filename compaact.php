@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Dicas/zPlane Compaact!</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/compaact.png" target=outside><img src="screens/compaact.png" 
+        <a href="screens/compaact.png" target=_blank><img src="screens/compaact.png" 
         alt="Compaact!" align=right height=341></a>
         Compaact! was an AAC encoder developed by the DSP engineer Alexander Lerch, 
         released in late 2003.<br><br>
@@ -101,16 +101,15 @@
         interesting features: VBR and CBR modes, four different quality levels
         (from faster encoding to higher quality), support for LC and Main profiles, 
         ability to select tools such as TNS or PNS, multichannel encoding support,
-        several preprocessing routines, and a very interesting preview feature 
-        that allows users to preview in real time how their tracks will sound 
-        after encoded. All of this in a very pleasing and easy to use interface.
-        <br><br>
+        several preprocessing routines, and an interesting preview feature that 
+        allows users to preview in real time how their tracks will sound after
+        encoded. All this in a pleasing and easy to use interface.<br><br>
         
         There is also a batch encoder called [mass encoder] that can be launched
         from the File menu.<br><br>
         
-        For some reason, it was discontinued in early 2005. You can see a mirror
-        of the original Compaact! page at the <a target=outside
+        For some reason it was discontinued in early 2005. You can see a mirror
+        of the original Compaact! page at the <a target=_blank
         href="http://web.archive.org/web/20040413044112/http://compaact.com/aacPage.php?SPRACHE=UK&PAGE=compaact">
         Internet Archive</a>.<br>
         

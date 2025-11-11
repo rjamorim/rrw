@@ -93,7 +93,7 @@
           <br><div align="justify"> <b>Qualcomm PureVoice</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/purevoice.png" target=outside><img src="screens/purevoice.png" 
+        <a href="screens/purevoice.png" target=_blank><img src="screens/purevoice.png" 
         alt="PureVoice 1.32" align=right></a>
         PureVoice (also known as QCELP) is a voice codec developed by Qualcomm, 
         famous cell phone chipset manufacturer and developers of the Eudora e-mail 
@@ -101,14 +101,15 @@
         
         It offers two compression settings: PureVoice (high quality - 13kbps) and 
         SmartRate (high compression - 8kbps). The encoding technology was used on 
-        CDMA (which was also developed by Qualcomm).<br><br>
+        the CDMA mobile telephony standard (which was also developed by Qualcomm).
+        <br><br>
         
         Besides the standalone apps featured here, PureVoice encoding technology 
-        was available as a QuickTime component and <a target=outside 
+        was available as a QuickTime component and <a target=_blank 
         href="https://web.archive.org/web/20000815055137/http://www.eudora.com/purevoice/"
         >Eudora plugin</a>.<br><br>
         
-        You can also check the original <a target=outside
+        You can also check the original <a target=_blank
         href="https://www.qualcomm.com/news/releases/1997/06/qualcomm-introduces-purevoice-superior-voice-coding-technology-withlandline"
         >press release</a> from Qualcomm announcing PureVoice.<br> 
         

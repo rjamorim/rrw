@@ -53,9 +53,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,8 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         Plugger is yet another dist10 compile, created by Alberto Demichelis. Quality
-        is quite bad and on par with 8hz-mp3, SoloH, etc.<br><br>
+        is quite bad and on par with <A href=8hz-mp3.php>8hz-mp3</a>, <a 
+        href=soloh.php>SoloH</a>, etc.<br><br>
         
         It comes in two flavours, "Plugger+" for Pentium PCs and "Plugger+ Pro" for
         Pentium Pro.<br><br>

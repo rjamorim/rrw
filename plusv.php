@@ -92,15 +92,16 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>PlusV encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        PlusV was the open source alternative to <a href="ctmp3pro.php">MP3pro
-        </a>. The encoder split wav files in two, the low frequencies were encoded
-        with a standard MP3 encoder (in this case, <a href="lame.php">LAME</a>) 
+        PlusV was the open source alternative to <a href=ctmp3pro.php>MP3pro</a>.
+        The encoder split wav files in two, the low frequencies were encoded
+        with a standard MP3 encoder (in this case, <a href=lame.php>LAME</a>) 
         and the high frequencies were very efficiently encoded into a special 
         "+V" format.<br><br>
         
         The encoded .m3v files carried both frequency ranges, and a special 
         decoder would decode both at playback time. A standard MP3 decoder can 
-        decode only the low frequencies, seriously impacting quality.<br><br>
+        decode only the low frequencies, with a noticeable impact on audio
+        quality.<br><br>
 
         Besides the official PlusV tools, I am also hosting here some additional
         ones developed by "gameplaya15143": an interleaver to merge mp3 + pv 
@@ -108,10 +109,10 @@
         <br><br>
         
         Unfortunately PlusV met with even less success than MP3pro, and ended up 
-        being quickly abandoned by its developers. You can still check their web
-        page though, using the <a target=outside
-        href="https://web.archive.org/web/20011128233927/http://www.plusv.org:80/" 
-        >Internet Archive</a>; and read the specification in <a target=outside
+        being quickly abandoned by its developers, VLSI Solution OY. You can 
+        still check their web page though, using the <a target=_blank
+        href="https://web.archive.org/web/20011128233927/http://www.plusv.org/" 
+        >Internet Archive</a>, and read the specification in <a target=_blank
         href="https://www.mp3-tech.org/programmer/docs/plusv.pdf">this PDF 
         document</a> hosted by Gabriel Bouvigne.<br><br>
         

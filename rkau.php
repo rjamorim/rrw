@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,17 +98,17 @@
         image compressor).<br><br>
         
         It is an assymetrical compressor - meaning, it takes more resources to 
-        compress a file than to decompress it. Compressors that operate in a similar 
-        fashion are Monkey's Audio and FLAC.<br><br>
+        compress a file than to decompress it. Compressors that operate in a 
+        similar fashion are Monkey's Audio and FLAC.<br><br>
         
         Later Malcolm created MSoftware to sell an improved version of RK and RKau 
         called WinRK, striving to provide the best compression performance among 
         archivers, without regard for speed or memory consumption. The endeavour 
         probably was not successful as it disappeared after a few years.<br><br>
         
-        A mirror of the RKau web page is avaliable at the <a 
+        A mirror of the RKau web page is avaliable at the <a target=_blank
         href="https://web.archive.org/web/20020124045327/http://rksoft.virtualave.net/rkau.html"
-        target=outside>Internet Archive</a>.<br><br>
+        >Internet Archive</a>.<br><br>
         
         <i>Compression performance in my limited test: 51,78% (-h setting)</i><br>
         

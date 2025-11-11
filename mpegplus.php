@@ -135,7 +135,7 @@
         options. Today, Musepack is little more than a curiosity.<br><br>
         
         The official page is available <a href="http://www.musepack.net" 
-        target=outside>here</a>.<br><br>
+        target=_blank>here</a>.<br><br>
         
         I would like to thank Francis Niechcial - Guruboolez - for contributing all
         the binaries here which are not credited to someone else.<br>

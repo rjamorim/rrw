@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=350><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -98,13 +98,14 @@
         
         Eventually Emuzed was bought by Flextronics, and later sold to Aricent, 
         a communications company, that by its turn was bought by Altran, which
-        is part of Capgemini. Whew.<br><br>
+        was bought by Capgemini and, as of the writing of this article, is 
+        called Capgemini Engineering. Whew.<br><br>
         
-        I could not find any information about this encoder at Altran's page, 
-        but a mirror of the former Emuzed page with a little bit of information
-        can be seen <a target=outside
+        I could not find any information about this encoder at Capgemini's web
+        site, but a mirror of the former Emuzed page with a little bit of 
+        information can be seen at the <a target=_blank
         href="https://web.archive.org/web/20070104221608/http://www.emuzed.com/encoders.html"
-        >here</a>.<br>
+        >Internet Archive</a>.<br>
 
         <br>
         <br>

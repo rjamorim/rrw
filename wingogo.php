@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1000><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1100><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,7 +93,7 @@
           <br><div align="justify"> <b>Gogo-No-Coda MP3 encoder</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/gogo239.png" target=outside><img src="screens/gogo239.png" 
+        <a href="screens/gogo239.png" target=_blank><img src="screens/gogo239.png" 
         alt="Gogo 2.39" align=right height=330></a>
         Gogo is a fork from the <a href=lame.php>Lame MP3 encoder</a> with the most 
         CPU-intensive routines rewritten in assembler. That makes Gogo one of the 
@@ -101,7 +101,7 @@
         
         It was developed by a team of Japanese programmers, and the home page is
         available <a href="http://www.marinecat.net/free/windows/mct_free.htm"
-        target=outside>here</a>.<br><br>
+        target=_blank>here</a>.<br><br>
         
         The 2.x and 3.13a versions available below are DLL builds, with a graphical
         frontend (WinGOGO.exe) and a command line frontend (GOGO_8HZ.exe). The other

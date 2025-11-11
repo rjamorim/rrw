@@ -111,16 +111,16 @@
         bitrates up to 48kbps. The professional version allows bitrates up to 
         128kbps and fine-tuning some encoding parameters.<br><br>
         
-        Hosted here are professional plugins for QuickTime Pro and MVP - QDesign's 
-        attempt to enter the audio library manager market - that has unlimited 
-        encoding of QDMC up to 128kbps. It can also encode MP3 (but the encoder 
-        quality is terrible) and <a href=imedia.php>MP2</a> (a quite decent 
-        encoder). All of these are available for both Windows and Mac OS Classic.
-        <br><br>
+        Hosted here are professional plugins for QuickTime Pro (a 399 dolars 
+        value!) and MVP - QDesign's attempt to enter the audio library manager 
+        market - that has unlimited encoding of QDMC up to 128kbps. It can also 
+        encode MP3 (but the encoder quality is terrible) and <a href=imedia.php
+        >MP2</a> (a quite decent encoder). All of these are available for both 
+        Windows and Mac OS Classic.<br><br>
         
-        I am also hosting here an analysis document created by Benjamin Larsson, 
+        I am also hosting here an analysis document, created by Benjamin Larsson, 
         describing the first steps in reverse engineering the codec. An open 
-        source decoder is now available in the FFMPEG project.<br><br>
+        source decoder is now available in the FFmpeg project.<br><br>
         
         In the early 2000s Apple steered away from proprietary codecs like 
         Sorenson Video and QDesign and started focusing on standards (MPEG4). The 
@@ -171,7 +171,6 @@
         Date: 2004-01-14<br>
         Version: 1.2<br>
         Interface: PDF document<br>
-        Platform: -<br>
         Download: <a href="files/others/qdmc2.pdf">qdmc2.pdf</a> - 309kB<br>
 
         </blockquote></font>

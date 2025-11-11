@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=500><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -114,7 +114,7 @@
         file. It only supports the APE formats.<br><br>
         
         Case's page is long gone and I could not find a mirror of it, but 
-        Synthetic Soul's is stil available at the <a target=outside
+        Synthetic Soul's is stil available at the <a target=_blank
         href="https://web.archive.org/web/20090302024447/http://synthetic-soul.co.uk/"
         >Internet Archive</a>.<br><br>
         

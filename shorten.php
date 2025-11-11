@@ -92,21 +92,21 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Shorten / mkwACT </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/shorten.png" target=outside><img src="screens/shorten.png" 
+        <a href="screens/shorten.png" target=_blank><img src="screens/shorten.png" 
         alt="Shorten for Windows" align=right height=300></a>
         Shorten was a very popular lossless audio compressor in its day. Besides 
         being one of the earlist codecs to be developed - the author, Tony 
         Robinson, started development in 1993 -, it was the official lossless 
         codec of the audio trading community <a href="http://www.etree.org"
-        target=outside>etree</a>.<br><br>
+        target=_blank>etree</a>.<br><br>
         
         <a href="http://mi.eng.cam.ac.uk/reports/svr-ftp/auto-pdf/robinson_tr156.pdf"
-        target=outside>Here</a> is an academic article by the author explaining 
+        target=_blank>Here</a> is an academic article by the author explaining 
         the theory behind the format.<br><br>
         
         One thing that helped propel Shorten's popularity was that its sources
         were available (although in a custom license that forbid commercial use). 
-        But its limitations showed: compression performance is quite bad, seeking 
+        But its limitations showed: compression performance is bad, seeking 
         within files is very slow (seek tables were only added to the format - 
         unofficially - in 2000 by Wayne Stielau), only mono and stereo files 
         supported, etc. For those reasons, today the format is all but forgotten 
@@ -115,10 +115,10 @@
         
         The official, commercial Shorten web page is now only available at the <a 
         href="https://web.archive.org/web/20000511170840/http://www.softsound.com/Shorten.html"
-        target=outside>Internet Archive</a>. It features the original Shorten,
+        target=_blank>Internet Archive</a>. It features the original Shorten,
         with suboptimal seeking. And a mirror of the etree Shorten webpage is <a
         href="https://web.archive.org/web/20070606202748/http://etree.org/shnutils/shorten/"
-        target=outside>available too</a>, featuring the improved version with 
+        target=_blank>available too</a>, featuring the improved version with 
         seek tables.<br><br>
         
         <i>Compression performance in my limited test: 60,21%</i><br>
@@ -145,7 +145,7 @@
         Download: <a href="files/lossless/shnamp202.exe">shnamp202.exe</a> - 146kB<br>
         <br>
         <hr>
-        <a href="screens/mkwACT.png" target=outside><img src="screens/mkwACT.png" 
+        <a href="screens/mkwACT.png" target=_blank><img src="screens/mkwACT.png" 
         alt="mkwACT main screen" align=right height=198></a>
         In the late nineties Michael K. Weise created a tool called mkw Audio
         Compression Tool (mkwACT) that was much beloved among the aforementioned
@@ -159,11 +159,11 @@
         
         Version 0.97 adds support to Shorten unofficial seek tables, but it was
         the last version and never saw an official release. A mirror of the 
-        mkwACT web page can still be seen at the <a target=outside
+        mkwACT web page can still be seen at the <a target=_blank
         href="http://web.archive.org/web/20010124150400/http://home.att.net/~mkw/mkwact/">
         Internet Archive</a>.<br><br>
         
-        <i>Lots of thanks to <a href="http://mark0.net/" tagret=outside>Marco 
+        <i>Lots of thanks to <a href="http://mark0.net/" tagret=_blank>Marco 
         Pontello</a> for introducing me to mkwACT and reminding me about 
         Shorten.</i><br>
         

@@ -99,17 +99,18 @@
         Windows counterpart.<br><br>
         
         The alpha 0.99 version works on the M68K platform, but it is only useful 
-        for decoding, since the 68k CPU is not powerful enough to playback MP3 in 
-        real-time. Besides, it is a demo version with no interface (all commands 
-        are done through the menu bar, similar to Winamp 0.2) and playback is 
-        limited to 20 seconds (decoding to AIFF is not limited).<br><br>
+        for decoding, since no Motorola 68k CPU is powerful enough to playback 
+        MP3 in real-time. Besides, it is a demo version with no interface (all 
+        commands are done through the menu bar, similar to Winamp 0.2) and 
+        playback is limited to 20 seconds (decoding to AIFF is not limited).
+        <br><br>
         
         Version 1.4b2 was the last version released by FhG and only works on 
         PowerPC machines, but it has an actual interface and no limitations.
         <br><br>
         
         A mirror of the MacPlay3 website is available at the <a target=_blank
-        href="https://web.archive.org/web/19980204231239/http://iis.fhg.de:80/departs/amm/layer3/macplay3/index.html"
+        href="https://web.archive.org/web/19980204231239/http://iis.fhg.de/departs/amm/layer3/macplay3/index.html"
         >Internet Archive</a>.<br><br>
         
         At least version 0.99 had the very best installation blurb...<br>
@@ -117,7 +118,7 @@
         <br>
         <br>
         <a href="screens/macplay3v099-inst.png" target=_blank><img src="screens/macplay3v099-inst.png" 
-        alt="MacPlay3 v0.99 installation" align=right height=180></a>
+        alt="MacPlay3 v0.99 installation - Simply The Best!" align=right height=180></a>
         Date: 1997-05-27<br>
         Version: 1.4b2<br>
         Interface: Graphical<br>

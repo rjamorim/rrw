@@ -92,13 +92,13 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> EncSpot </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/encspot1.png" target=outside><img src="screens/encspot1.png" 
+        <a href="screens/encspot1.png" target=_blank><img src="screens/encspot1.png" 
         alt="Encspot - Main interface" align=right height=222></a>
         EncSpot is a very featureful MPEG audio stream analyzer created by Jon 
         Dee of Guerrilasoft.<br><br>
         
         It has a graphical interface built around an improved version of <a
-        href="http://mp3guessenc.sourceforge.net" target=outside>mp3guessenc</a>
+        href="http://mp3guessenc.sourceforge.net" target=_blank>mp3guessenc</a>
         (improved at the time - the current version of mp3guessenc, which is still
         being developed, is much more advanced than Encspot ever was).<br><br>
         
@@ -111,22 +111,22 @@
         detailed information about the stream. Some of these features were only 
         available in a "Pro" version (that cost US$20).<br><br>
         
-        EncSpot also has some support for analyzing <a href="mpegplus.php"
+        EncSpot also has some support for analyzing <a href=mpegplus.php
         >Musepack</a> files. The developer had plans to add other formats, such 
         as Ogg Vorbis and WAV, but these never materialized.<br><br>
         
         Around mid-2005 Encspot stopped being developed and in late 2006 Jon 
-        decided to give away the Pro version license <a target=outside
+        decided to give away the Pro version license <a target=_blank
         href="http://web.archive.org/web/20080214225807/http://www.guerillasoft.co.uk/encspot/encspotprolicense.txt" 
         >for free</a> (also included in the download files). The web site is
-        gone, but you can find a mirror of it at the <a target=outside
+        gone, but you can find a mirror of it at the <a target=_blank
         href="http://web.archive.org/web/20080218014539/http://www.guerillasoft.co.uk/encspot/index.html"
         >Internet Archive</a>.<br><br>
         
         It is worth mentioning that version 2.1 is actually more featureful (but 
         perhaps more buggy) than version 2.2.<br>
 
-        <a href="screens/encspot2.png" target=outside><img src="screens/encspot2.png" 
+        <a href="screens/encspot2.png" target=_blank><img src="screens/encspot2.png" 
         alt="Encspot - File interface" align=right height=180></a>
         <br>
         <br>

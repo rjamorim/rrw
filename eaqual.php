@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -111,7 +111,7 @@
         while an ODG of 0 means there is no perceptible difference (according to
         the mathematical model) between the samples being evaluated. Wim 
         Speekenbrink tested several samples on several encoders (of that time, 
-        early 2002) and published the EAQUAL results at his <a target=outside 
+        early 2002) and published the EAQUAL results at his <a target=_blank 
         href="http://web.archive.org/web/20030225144341/http://home.wanadoo.nl/~w.speek/eaqual.htm">
         web site</a>.<br><br>
         

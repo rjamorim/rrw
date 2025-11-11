@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=1750><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=1800><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -191,7 +191,7 @@
         format enjoys outside the Sony world. There is no VBR encoding at all 
         and while there are multichannel capabilities in ATRAC3plus and ATRAC9, 
         it is quite hard to find encoders and decoders that support them. But 
-        the FFMPEG project reverse engineered, and provides decoders for, all 
+        the FFmpeg project reverse engineered, and provides decoders for, all 
         iterations of ATRAC in their libavcodec library.<br><br>
         
         Since the early 2010s Sony appears to be de-emphasizing the use of ATRAC, 

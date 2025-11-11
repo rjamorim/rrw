@@ -93,7 +93,7 @@
           <br><div align="justify"><b>CoolEdit/Adobe Audition filters</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         These are import/export filters for the Adobe Audition audio editing 
-        program (that was called <a href="cooledit.php">CoolEdit</a> before Adobe 
+        program (that was called <a href=cooledit.php>CoolEdit</a> before Adobe 
         bought it).<br><br>
         
         The first download contains the Fraunhofer MP3 filters for CoolEdit 2000

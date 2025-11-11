@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -97,8 +97,8 @@
         encoder. It was developed by Philips, and is used mostly for creation of 
         SVCDs (since some DVD players can play multichannel MP2 in SVCD).<br><br>
         
-        <i>Edit: I recently learned about <a href="http://mctoolame.sourceforge.net/"
-        target=outside>mctooLAME</a>, a multichannel MP2 encoder forked from 
+        <i>Edit: I later learned about <a href="http://mctoolame.sourceforge.net/"
+        target=_blank>mctooLAME</a>, a multichannel MP2 encoder forked from 
         tooLame by its author, Mike Cheng.</i><br><br>
         
         There is no known multichannel MP2 software player. Most players can handle

@@ -106,9 +106,12 @@
         of the Web&trade;". A left click with the mouse pauses/unpauses playback, a 
         right click goes to the EchoSpeech web site. And that's it.<br><br>
         
-        A mirror of the web site is available at the <a target=outside
+        A mirror of the web site is available at the <a target=_blank
         href="https://web.archive.org/web/20040211062527/http://www.echospeech.com/">
-        Internet Archive</a>.<br>
+        Internet Archive</a>.<br><br>
+        
+        <i>Lots of thanks to <a href="http://mark0.net/" target=_blank>Marco 
+        Pontello</a> for submitting this codec.</i><br>
         
         <br>
         <br>
@@ -130,8 +133,6 @@
         Platform: Win16<br>
         Download: <a href="files/vocodecs/npe16_15.zip">npe16_15.zip</a> - 33kB<br>
         <br>
-        <i>Lots of thanks to <a href="http://mark0.net/">Marco Pontello</a> for submitting this 
-        codec.</i>
         
         </blockquote></font>
 

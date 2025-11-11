@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=700><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=650><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -95,10 +95,10 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/nttvqf-ply.png" target=_blank><img src="screens/nttvqf-ply.png" 
         alt="TwinVQ Player" align=right></a>
-        TwinVQ is an audio encoding technology developed at NTT (Nippon Telephone 
-        and Telegraph, the developers of <a href=dualspeech.php>DualSpeech</a>).
-        It uses an unique encoding technique called Vector Quantization (VQ).
-        <br><br>
+        TwinVQ is an audio encoding technology developed starting in 1994 at NTT
+        (Nippon Telephone and Telegraph, the developers of <a href=dualspeech.php
+        >DualSpeech</a>). It uses an unique encoding technique called Vector 
+        Quantization (VQ).<br><br>
         
         VQF is the format created for the TwinVQ technology. There are several 
         limitations in this format: 2 channels at most, no VBR, limited bitrate 
@@ -119,7 +119,7 @@
         and volume. The encoder is also as simple as can get: no batch support, 
         only tags available are "Title" and "Comment", just a handful of sampling
         rates supported. Both give off a feeling of being demonstration apps 
-        rather than actual commercial products.<br><br>
+        rather than actual released products.<br><br>
         
         At the bottom of the page you'll also find the NTT TwinVQ SDK, with 
         precompiled libraries for encoding and decoding on Windows and Linux.

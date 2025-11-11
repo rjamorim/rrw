@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -94,7 +94,7 @@
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         This is an MP3 encoder based on encoding libraries stolen from Fraunhofer.
-        According to rumours, a software developer broke his NDA and distributed
+        According to rumours, a software developer broke their NDA and distributed
         these libraries to some programmers. One of them created a command line
         frontend and named it fastencc.<br><br>
         

@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=550><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -96,7 +96,7 @@
         HomeBoy was a group of programers that created the first ISO compliant 
         publicly available AAC encoder for Windows back in 1998. At that time, the 
         "competition" was <a href=tac.php>K+K</a>'s MP01 - a vaporware - and <a 
-        href="astrid.php">Astrid/Quartex AAC</a> - actualy a stolen encoder that 
+        href=astrid.php>Astrid/Quartex AAC</a> - actualy a stolen encoder that 
         did not have anything to do with AAC.<br><br>
         
         Also, they were reportedly creators of the first third party plugin for
@@ -104,7 +104,7 @@
         decoder publicly available.<br><br>
         
         The encoder is just a compile of the original ISO reference sources with
-        a few bug fixes, therefore it is buggy, slow and quality is bad.<br><br>
+        a few bug fixes, therefore it is buggy, slow, and quality is bad.<br><br>
         
         After some time the team disbanded to work at different places and also
         probably because of Dolby licensing threats, and dropped from the scene.<br>

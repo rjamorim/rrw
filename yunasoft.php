@@ -90,11 +90,11 @@
         </a>
         <body link="#000000" vlink="#000000" alink="#000000">
         <font face="Verdana" size=2 color="6699CC">
-          <br><div align="justify"><b>Yunasoft MP3 Encoder</b></div><p></font>
+          <br><div align="justify"><b>YunaSoft MP3 Encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/yunasoft.png" target=_blank><img src="screens/yunasoft.png" 
         alt="YunaSoft MP3 Encoder 0.7" align=right height=310></a>
-        Yunasoft is an application coming from Japan, but it is not really an 
+        YunaSoft is an application coming from Japan, but it is not really an 
         MP3 encoder - actually, it is a frontend to the <a href=fhgcodecs.php
         >FhG MP3 ACM codec</a>.<br><br>
         
@@ -114,7 +114,7 @@
         <b>Registration key:</b> EDs6@5E3ARhHfmwL6mzMG8JFIQKT1iMFh<br>
         <i>(big thanks to UNITED cRACKING FORCE for the key)</i><br><br>
         
-        It is interesting to notice that Yunasoft version 0.7 refuses to work 
+        It is interesting to notice that YunaSoft version 0.7 refuses to work 
         with the 1.0.0.48 (professional) ACM codec, but works fine with codec 
         version 3.4. Version 0.4.3 works with both.<br><br>
         

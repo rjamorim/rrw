@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,9 +92,9 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Electronic Cosmo MP3 encoder </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/ecosmo.png" target=outside><img src="screens/ecosmo.png" 
+        <a href="screens/ecosmo.png" target=_blank><img src="screens/ecosmo.png" 
         alt="Electronic Cosmo Encoder" align=right height=270></a>
-        Electronic Cosmo was a freeware MPEG layers 1/2/3 encoder created by two
+        Electronic Cosmo is a freeware MPEG layers 1/2/3 encoder created by two
         Norwegian programmers.<br><br>
         
         The encoder is distributed as part of a larger program called MPEG 
@@ -119,16 +119,15 @@
         and generated a 360kB executable. Then I loaded it in an Hex editor and 
         started looking for strings. The data starting at offset 204C8 is 
         identical to the data starting at offset 1F0C8 in <a href=xing.php>Xing
-        tompg</a>, except for the strings precisely expliciting that we're
-        dealing with a Xing encoder.<br><br>
+        tompg</a>, except for the strings precisely attributing the copyright 
+        to Xing Tech.<br><br>
         
-        Can it be a coincidence? Yes it can. But obviously isn't. Electronic 
-        Cosmo is <a href=rjpa.php>another</a> <a href=x-codec.php>encoder</a>
-        stealing from Xing and the developers are not even decent enough to 
-        give credit where it is due (at least rJPa acknowledges Xing in their 
-        program).<br><br>
+        So, yeah, Electronic Cosmo is <a href=rjpa.php>another</a> <a 
+        href=x-codec.php>encoder</a> stealing from Xing and the developers are 
+        not even decent enough to give credit where it is due (at least rJPa 
+        acknowledge Xing in their program).<br><br>
         
-        The web site is surprisingly still availabe, <a target=outside 
+        The web site is surprisingly still availabe, <a target=_blank 
         href="http://ec2000.net/index.php">here</a>.<br><br>
         
         <i>Thanks to Stefan for introducing me to this encoder.</i><br>        

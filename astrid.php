@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -104,8 +104,8 @@
         The reality is that Astrid AAC is far from being ISO AAC compliant. 
         Actually, it is far from being AAC! The encoding routines are based on 
         libraries stolen from Celestialtech's <a href=audiolib.php>AudioLib</a> 
-        (that used Lucent's PAC encoder). Not surprisingly the original binaries
-        were encrypted.<br><br>
+        (that was based on Elemedia's PAC encoder). Not surprisingly the original
+        binaries were encrypted.<br><br>
         
         The binaries available here have been decrypted by me, if only because 
         they can now be better compressed with Zip. They were encrypted with 

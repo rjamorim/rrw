@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MP3 Jukebox </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/MP3jukebox.png" target=outside><img src="screens/MP3jukebox.png" 
+        <a href="screens/MP3jukebox.png" target=_blank><img src="screens/MP3jukebox.png" 
         alt="MP3 Jukebox" align=right height=300></a>
         MP3 Jukebox is an impressively featureful MP3 player considering its age
         and target audience: it is probably the most complete MP3 player for 
@@ -100,7 +100,7 @@
         
         But I am getting ahead of myself. Actually, it is not really for Win3.1.
         It was compiled as a 32-bit executable for Windows 95, 98 and beyond. 
-        But it does run fine on Windows 3.1 if you install <a target=outside
+        But it does run fine on Windows 3.1 if you install <a target=_blank
         href="https://winworldpc.com/product/win32s/130">Win32s</a>.<br><br>
         
         Also, it is not really a player, but a frontend to Fraunhofer's <a 
@@ -118,7 +118,7 @@
         Date: 1997-02-27<br>
         Version: 2.3<br>
         Interface: Graphical<br>
-        Platform: Win32 (Win16 works with Win32s)<br>
+        Platform: Win16 (Requires Win32s)<br>
         Download: <a href="files/players/JUKBOX23.EXE">JUKBOX23.EXE</a> - 191kB<br>
 
         </blockquote></font>

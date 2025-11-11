@@ -92,13 +92,13 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>LTAC/LPAC lossless compressor</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/lpac.png" target=outside><img src="screens/lpac.png" 
+        <a href="screens/lpac.png" target=_blank><img src="screens/lpac.png" 
         alt="LPAC archiver" align=right height=255></a>
         LTAC - Lossless Transform Audio Compression - was the first lossless codec 
         developed by Tilman Liebchen while studying at Technische Universit&auml;t 
         Berlin.<br><br>
         
-        The LTAC webpage is mirrored at the <a target=outside
+        The LTAC webpage is mirrored at the <a target=_blank
         href="https://web.archive.org/web/20060213032003/http://www.nue.tu-berlin.de/wer/liebchen/ltac.html">
         Internet Archive</a>.<br><br>
         
@@ -129,7 +129,7 @@
         Networks and NTT, the format was standardized as MPEG4 ALS and at that 
         time LPAC too was frozen, with no further development planned.<br><br>
         
-        The LPAC webpage is also mirrored at the <a target=outside
+        The LPAC webpage is also mirrored at the <a target=_blank
         href="https://web.archive.org/web/20060213124711/http://www.nue.tu-berlin.de/wer/liebchen/lpac.html">
         Internet Archive</a>.<br><br>
         

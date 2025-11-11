@@ -103,9 +103,9 @@
         If you do not like command lines and would rather use a graphical interface, 
         check out <a href=acmstation.php>ACM Station</a>.<br><br>
         
-        There was no real web site for this tool, but this is the <a
+        There was no real web site for this tool, but <a target=_blank
         href="https://hydrogenaud.io/index.php?topic=26956.msg239454#msg239454"
-        target=_blank>forum post</a> where nyaochi announced ACMENC.<br>
+        >this is the forum post</a> where nyaochi announced ACMENC.<br>
 
         <br>
         <br>

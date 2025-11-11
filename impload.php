@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>iMPload complete MP3pro</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/impload.png" target=outside><img src="screens/impload.png" 
+        <a href="screens/impload.png" target=_blank><img src="screens/impload.png" 
         alt="iMPload MP3pro" align=right height=279></a>
         iMPload was a partnership between famous German companies Steinberg, 
         makers of audio editors and workstations; and Mayah, makers of audio 
@@ -110,17 +110,17 @@
         advanced equalizer, trippy visualization plugins, CD ripping, CD writing, 
         recording from line-in and microphone, volume normalization using a 
         technology similar to <a href="https://en.wikipedia.org/wiki/ReplayGain"
-        target=outside>ReplayGain</a>, CD cover maker, FTP client to play music 
-        from FTP servers, DSP effects using VST plugins, and even <a target=outside
+        target=_blank>ReplayGain</a>, CD cover maker, FTP client to play music 
+        from FTP servers, DSP effects using VST plugins, and even <a target=_blank
         href="screens/imploadEdit.png">an MP3 stream editor!</a> (which can cut, 
-        paste and change volume of MP3 streams directly, without recompressing 
-        them)<br><br>
+        paste and delete parts of MP3 streams directly, besides changing their 
+        volume without recompressing them)<br><br>
         
         All these features came at a price tag of US$ 24,95. Which seemingly was
         too expensive, because iMPload never became popular and the creators gave 
         up marketing it after a few years - as far as I could see, there were no
         updates or even suggestions of a 2.0 version. Still, you can check a 
-        mirror of its webpage at the <a target=outside
+        mirror of its webpage at the <a target=_blank
         href="https://web.archive.org/web/20040824123836/http://www.impload.com/">
         Internet Archive</a>.<br>
 

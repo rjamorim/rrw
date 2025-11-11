@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MP3 to EXE </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/mp32exe-creator.png" target=outside><img 
+        <a href="screens/mp32exe-creator.png" target=_blank><img 
         src="screens/mp32exe-creator.png" alt="MP3 to EXE converter interface" 
         align=right height=212></a>
         MP3 to EXE is a shareware created by Oliver Buchjost with the goal of 
@@ -125,10 +125,10 @@
         There is an alternative MP3 to EXE, by another author, which is much less
         featureful. It is available <a href=mp3toexe2.php>here</a>.<br><br>
         
-        The web site is gone but a mirror is available at the <a target=outside
+        The web site is gone but a mirror is available at the <a target=_blank
         href="https://web.archive.org/web/20000229093848/http://www.mp3toexe.com"
         >Internet Archive</a>.<br>
-        <a href="screens/mp32exe-player.png" target=outside><img 
+        <a href="screens/mp32exe-player.png" target=_blank><img 
         src="screens/mp32exe-player.png" alt="MP3 to EXE player interface" 
         align=right></a>
         

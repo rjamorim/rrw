@@ -53,7 +53,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -91,7 +91,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> WWV VQF Player </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/wwv.png" target=outside><img src="screens/wwv.png" 
+        <a href="screens/wwv.png" target=_blank><img src="screens/wwv.png" 
         alt="WWV VQF player" align=right></a>
         WWV - Women, Whisky and VQF -, developed by Ove Rung, is yet another 
         simple, minimalist <a href=nttvqf.php>VQF</a> player. With a lovely 
@@ -102,8 +102,8 @@
         decoding libraries from the <a href=soundvq.php>Yamaha SoundVQ</a> 
         player.<br><br>
         
-        Suprisingly the web site is still available, <a target=outside 
-        href="http://wwvqf.tripod.com/">here</a>.<br><br>
+        Suprisingly the web site is <a href="http://wwvqf.tripod.com/"  
+        target=_blank>still available</a>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for introducing me to WWV.</i><br>
 

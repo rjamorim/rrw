@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Dakx Wav</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/daxwav.png" target=outside><img src="screens/daxwav.png" 
+        <a href="screens/daxwav.png" target=_blank><img src="screens/daxwav.png" 
         alt="Daxwav" align=right height=200></a>
         Dakx started as a Mac OS Classic lossless audio compressor (Dakx Aif) 
         developed by David A. Kopf that later got ported to Windows.<br><br>
@@ -103,21 +103,21 @@
         starts being played - you can otherwise only start and stop playback at 
         the "Display" (!?) menu.<br><br>
         
-        The Mac version offers a high quality equalizer. For some reason, the 
+        The Mac version features a high quality equalizer. For some reason, the 
         volume slider is also located in the equalizer (and since version 1.0
-        does not feature the equalizer, it does not have volume control either).
+        does not have the equalizer, it does not have volume control either).
         Other features are CD audio (no CDDB) and line-in import, and the ability
         to change the color of most screen elements.<br><br>
         
         The Windows version, despite being much less featureful than the Mac 
         one, has a highlight of its own: the "Q" slider allows users to truncate
-        the bit depth of the file being played in real time. Besides that, the 
+        in real-time the bit depth of the file being played. Besides that, the 
         "V" slider is the volume control, and the "M" slider is meant to adjust 
         compression ratio vs. speed (but even the best compression mode offers
-        terrible performance compared to other lossless compressors). And it too
-        features a baffling interface.<br><br>
+        quite bad performance compared to other lossless compressors). And it 
+        too features a baffling interface.<br><br>
         
-        The Dakx LLC web site can still be visited at the <a target=outside
+        The Dakx LLC web site can still be visited at the <a target=_blank
         href="https://web.archive.org/web/20010204020400/http://www.dakx.com/">
         Internet Archive</a>.<br><br>
         
@@ -128,7 +128,7 @@
         Date: 1999-12-13<br>
         Version: 1.0<br>
         Interface: Graphical<br>
-        <a href="screens/daxaif.png" target=outside><img src="screens/daxaif.png" 
+        <a href="screens/daxaif.png" target=_blank><img src="screens/daxaif.png" 
         alt="Daxaif" align=right height=165></a>
         Platform: Win32<br>
         Download: <a href="files/lossless/daxwav32.zip">daxwav32.zip</a> - 71kB<br>

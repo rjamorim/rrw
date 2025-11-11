@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br>
+<br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=3200><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Apollo player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/apollo.png" target=outside><img src="screens/apollo.png" 
+        <a href="screens/apollo.png" target=_blank><img src="screens/apollo.png" 
         alt="Apollo 37zz" align=right height=208></a>
         With the slogan "Sound quality is not skinnable", Apollo is an audio player 
         with strong focus on quality - its MP3 decoder is famously one of the most 
@@ -109,7 +109,7 @@
         
         Development ended in 2007 but the web page can still be reached at the <a
         href="https://web.archive.org/web/20070708000550/http://koti.welho.com/hylinen/apollo/"
-        target=outside>Internet Archive</a>.<br><br>
+        target=_blank>Internet Archive</a>.<br><br>
         
         If you have other versions of Apollo lying around, please <a href=about.php>
         contribute them</a> to the collection!<br>
@@ -123,7 +123,7 @@
         Download: <a href="files/apollo/Apollo37zz.exe">Apollo37zz.exe</a> - 673kB<br>
         <i>Kindly contributed by [Jaz]</i><br>
         <br>
-        <a href="screens/apollo-mini.png" target=outside><img src="screens/apollo-mini.png" 
+        <a href="screens/apollo-mini.png" target=_blank><img src="screens/apollo-mini.png" 
         alt="Apollo 37zz mini" align=right height=20></a>
         Date: 2006-10-23<br>
         Version: 37zy<br>
@@ -219,7 +219,7 @@
         Version: 37z<br>
         Download: <a href="files/apollo/Apollo37z.exe">Apollo37z.exe</a> - 637kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
-        <a href="screens/apollo9.png" target=outside><img src="screens/apollo9.png" 
+        <a href="screens/apollo9.png" target=_blank><img src="screens/apollo9.png" 
         alt="Apollo 9" align=right height=150></a>
         <br>
         Date: 2003-10-01<br>

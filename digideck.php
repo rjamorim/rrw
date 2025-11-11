@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>Digideck MP3 player</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/digideck.png" target=outside><img src="screens/digideck.png" 
+        <a href="screens/digideck.png" target=_blank><img src="screens/digideck.png" 
         alt="Digideck" align=right></a>
         During the early days of MP3 Digideck was the player of choice for users 
         with slow computers. It often featured best speeds on decoding 

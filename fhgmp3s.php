@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>FhG MP3 Surround</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/fhgmp3s-ply.png" target=outside><img src="screens/fhgmp3s-ply.png" 
+        <a href="screens/fhgmp3s-ply.png" target=_blank><img src="screens/fhgmp3s-ply.png" 
         alt="MP3S Player" align=right></a>
         MP3 Surround was yet another attempt (like <a href="ctmp3pro.php">
         MP3pro</a> and <a href="fhgmp3hd.php">mp3HD</a>) by Fraunhofer and 
@@ -125,19 +125,19 @@
         <br><br>
 
         Just like MP3pro, MP3 Surround failed to get any traction anywhere 
-        (although, surprisingly, it was supported on the <a target=outside
+        (although, surprisingly, it was supported on the <a target=_blank
         href="http://manuals.playstation.net/document/en/ps3/current/music/filetypes.html"
         >PlayStation 3</a>) and was quietly abandoned by FhG. But as usual, the
         Internet Archive comes to the rescue and you can check their pages, with 
-        technical information and marketing blurbs, <a target=outside
+        technical information and marketing blurbs, <a target=_blank
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com/" 
-        >here</a> and <a target=outside
+        >here</a> and <a target=_blank
         href="https://web.archive.org/web/20060514162705/http://www.iis.fraunhofer.de/amm/download/mp3surround/index.html"
         >here</a>.<br>
 
         <br>
         <br>
-        <a href="screens/fhgmp3s-enc.png" target=outside><img src="screens/fhgmp3s-enc.png" 
+        <a href="screens/fhgmp3s-enc.png" target=_blank><img src="screens/fhgmp3s-enc.png" 
         alt="MP3S Encoder" align=right></a>
         Date: 2008-01-17<br>
         Version: 1.1.5 (encoder)<br>
@@ -163,6 +163,7 @@
         Interface: Graphical<br>
         Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3sGuiEnc_v1.1.4.dmg">MP3sGuiEnc_v1.1.4.dmg</a> - 6.481kB<br>
+        
         <br>
         <hr>
         Date: 2010-02-04<br>
@@ -177,9 +178,10 @@
         Interface: Graphical<br>
         Platform: Mac OS X (universal)<br>
         Download: <a href="files/fhg/MP3sPlayer3.0.2.dmg">MP3sPlayer3.0.2.dmg</a> - 7.360kB<br>
+        
         <br>
         <hr>
-        <a href="screens/fhgmp3s-mp3sx.png" target=outside><img src="screens/fhgmp3s-mp3sx.png" 
+        <a href="screens/fhgmp3s-mp3sx.png" target=_blank><img src="screens/fhgmp3s-mp3sx.png" 
         alt="MP3SX Converter" align=right></a>
         Date: 2006-04-10<br>
         Version: 1.1.0<br>
@@ -198,6 +200,7 @@
         Interface: Graphical/Command line<br>
         Platform: Linux<br>
         Download: <a href="files/fhg/MP3SXConverterV1.1.0.tar">MP3SXConverterV1.1.0.tar</a> - 2.660kB<br>
+        
         <br>
         <hr>
         Date: 2008-05-30<br>
@@ -213,6 +216,7 @@
         Platform: Win32/Linux/Mac OS X<br>
         Download: <a href="files/fhg/mp3sconsv14.zip">mp3sconsv14.zip</a> - 1.528kB<br>
         <i>Kindly contributed by Zachary Jelesoff.</i><br>
+        
         <br>
         <hr>
         Date: 2006-02-07<br>
@@ -222,7 +226,7 @@
         Download: <a href="files/fhg/IIS_MP3s_Winamp_Plugin.exe">IIS_MP3s_Winamp_Plugin.exe</a> - 949kB<br>
         <br><br>
         <i>I also have tools to use MP3 Surround with Shoutcast servers. If you have
-        any use for them, feel free to get <a href="about.php">in touch</a>!</i><br>
+        any use for them, feel free to get <a href=about.php>in touch</a>!</i><br>
 
 
         </blockquote></font>

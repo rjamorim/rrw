@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -105,7 +105,7 @@
         
         The multimedia programmer Konstantin Shishkov (Kostya) did a quick <a 
         href="https://codecs.multimedia.cx/2023/01/a-quick-glance-at-wa/"
-        target=outside>analysis</a> of this codec.<br><br>
+        target=_blank>analysis</a> of this codec.<br><br>
         
         <i>Compression performance in my limited test: 58,26%</i><br>
         

@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=400><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"> <b>X-Codec MP3 encoder</b></div> <p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/x-codec.png" target=outside><img src="screens/x-codec.png" 
+        <a href="screens/x-codec.png" target=_blank><img src="screens/x-codec.png" 
         alt="X-Codec" align=right height=266></a>
         Very little is known about this encoder. The author claims he developed 
         the encoding engine alone (hmmm...), the decoding routines are based on 
@@ -102,7 +102,7 @@
         
         <i>Update:</i> Upon further investigation, and after Benjamin's feedback 
         below, it turns out that X-Codec is indeed illegally using the <a 
-        href="xing.php">Xing</a> tompg encoder. Whenever a file is encoded, the 
+        href=xing.php>Xing</a> tompg encoder. Whenever a file is encoded, the 
         encoder is extracted to the file NETSUB32.EXE in the \Windows folder and 
         executed. As soon as encoding finishes, it is deleted. NETSUB32.EXE is 
         exactly the tompg.exe program, but with the incriminating strings linking 
@@ -123,9 +123,9 @@
         "TOMPG" encoder, as the programs produce identical bitstreams. I checked
         in EncSpot (same bit resevoir graph, no short blocks for either), and 
         compared the decoded WAVs using EAC, and by all accounts, they are spot 
-        on.</p> 
+        on.</i></p> 
         
-        <p>Also, the name X-Codec is at BEST a weakly veiled allusion to 'Xing'.
+        <p><i>Also, the name X-Codec is at BEST a weakly veiled allusion to 'Xing'.
         </i></p>
 
         </blockquote></font>

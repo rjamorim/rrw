@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,8 +92,9 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> MicroHof MP3 Player </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        MHMP3 is an MP3 player for DOS with a very basic interface and pretty much 
-        no functionality other than playback. It was developed by MicroHof.<br><br>
+        MHMP3 is an MP3 player for DOS with a very basic interface and nearly no
+        functionality other than playback via an SB16-compatible interface. It
+        was developed by MicroHof.<br><br>
         
         Interestingly it also plays MP2 files, although that feature is not 
         mentioned anywhere in the documentation. Makes me wonder what decoding 
@@ -101,7 +102,7 @@
         
         You can visit a mirror of the web page at the <a
         href="https://web.archive.org/web/20010519143750/http://microhof.tsx.org/"
-        target=outside>Internet Archive</a>.<br><br>
+        target=_blank>Internet Archive</a>.<br><br>
         
         <i>Big thanks to Zachary Jelesoff for introducing me to MHMP3.</i><br>
 

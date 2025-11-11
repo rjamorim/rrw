@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -93,12 +93,13 @@
           <br><div align="justify"> <b>Sonarc lossless compressor</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        Sonarc was probably among the first lossless compressors - the version featured
-        here dates back to 1994. And the age shows - it is not very efficient.<br><br>
+        Sonarc was probably among the first lossless compressors - the version 
+        featured here dates back to 1994. Despite the age it can compress files
+        to a somewhat decent ratio.<br><br>
         
-        Officially, it is a shareware program, but to my knowledge there are no
-        limitations. Registration is now impossible because the author, Richard 
-        P. Sprague, is unreachable.<br><br>
+        Officially it is a shareware program but to my knowledge there are no
+        limitations. Registration is now impossible unless you can contact the
+        author, Richard P. Sprague, and pay him the fee.<br><br>
         
         <i>Compression performance in my limited test: 58,08% (-X setting)</i><br>
         

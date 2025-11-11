@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> RealJukebox </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/realjuke.png" target=outside><img src="screens/realjuke.png" 
+        <a href="screens/realjuke.png" target=_blank><img src="screens/realjuke.png" 
         alt="Make it stop!" align=right height=333></a>
         RealJukebox is an audio playback, management and CD ripping application 
         created by RealNetworks in the late nineties.<br><br>
@@ -100,7 +100,7 @@
         Also, it is a complete piece of garbage.<br><br>
         
         The interface is garish - as you would expect from any software created 
-        by RealNetworks (from now on, RN). Way too many buttons, too much 
+        by RealNetworks (hereinafter, RN). Way too many buttons, too much 
         information on screen, unnecessary textures, and oh, what's that? An 
         advertisement? So lovely!<br><br>
         
@@ -131,17 +131,17 @@
         notifications about RN products (I can only imagine how awesome these 
         were) and steal system resources and make your life miserable.<br><br>
         
-        Additionally, the application engaged in <a target=outside
+        Additionally, the application engaged in <a target=_blank
         href="https://web.archive.org/web/20070203105348/http://www.computerbytesman.com/privacy/realjb.htm"
         >wholesale privacy violations</a>. RN only patched RealJukebox and updated
-        the privacy policy to reflect all the data collection after being caught
-        red handed.<br><br>
+        the privacy policy to reflect all the data collection they were engaging
+        on after being caught red handed.<br><br>
         
         Last, it would not be RN if they were not kowtowing to corporate interests.
         RealJukebox offers (nah, insists) to "protect" (that is, encrypt) the 
         songs it rips from CDs so that you can not share them with your friends. 
         When you try to disable this great feature, <a href=screens/realjukeorly.png
-        target=outside>an ominous warning</a> pops up asking if you are really 
+        target=_blank>an ominous warning</a> pops up asking if you are really 
         sure you want to be seen as a criminal.<br><br>
         
         Please do not install RealJukebox or any software from RealNetworks.<br>

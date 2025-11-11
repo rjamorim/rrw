@@ -120,7 +120,7 @@
         Just like <a href=ctmp3pro.php>MP3pro</a> and <a href=fhgmp3s.php>MP3
         Surround</a>, mp3HD failed to become popular and was quickly abandoned by
         its creators. Fortunately, you can still visit a mirror of the original 
-        web page at the <a target=outside
+        web page at the <a target=_blank
         href="https://web.archive.org/web/20070204073407/http://www.all4mp3.com/" 
         >Internet Archive</a>.<br><br>
         

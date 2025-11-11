@@ -92,11 +92,12 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Emagic Zap</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/zap.png" target=outside><img src="screens/zap.png" 
+        <a href="screens/zap.png" target=_blank><img src="screens/zap.png" 
         alt="Zap 1.5 demo. So ugly!" align=right height=146></a>
         Zap "Zero-loss Audio Packer" is a lossless compressor created by famous 
         German music software and hardware company Emagic, makers of the Logic 
-        sequencer. One can only hope Logic's interface was more tasteful...<br><br>
+        sequencer. One can only wish that Emagic's interface skills were more 
+        tasteful...<br><br>
         
         The compressor is only available for the Mac OS platform, but there are 
         freeware decompressors for Windows and Mac OS - actually, adware because
@@ -115,11 +116,11 @@
         <br><br>
         
         In July 2002 Emagic was bought by Apple Computer and Zap was discontinued
-        (maybe parts of it live on in <a target=outside
+        (maybe parts of it live on in <a target=_blank
         href="https://en.wikipedia.org/wiki/Apple_Lossless"
         >ALAC</a>?). You can still see a mirror of the web page at the <a
         href="https://web.archive.org/web/20000420025145/http://www.emagic.de/english/products/software/zap.html"
-        target=outside>Internet Archive</a>.<br><br>
+        target=_blank>Internet Archive</a>.<br><br>
         
         <i>Compression performance in my limited test: 65,97%</i><br>
 
@@ -131,11 +132,11 @@
         Platform: Mac OS Classic<br>
         Download: <a href="files/lossless/zap15dem.sit">zap15dem.sit</a> - 717kB<br>
         <br>
-        <a href="screens/zap114.png" target=outside><img src="screens/zap114.png" 
-        alt="Zap 1.1.4. Also ugly" align=right height=146></a>
         Date: 1997-09-06<br>
         Version: 1.1.4 (full)<br>
         Interface: Graphical<br>
+        <a href="screens/zap114.png" target=_blank><img src="screens/zap114.png" 
+        alt="Zap 1.1.4. Also ugly" align=right height=146></a>
         Platform: Mac OS Classic<br>
         Download: <a href="files/lossless/zap114.sit">zap114.sit</a> - 407kB<br>
         <br>

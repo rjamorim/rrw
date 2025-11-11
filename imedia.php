@@ -107,12 +107,12 @@
         and that explains the steep license price: 495 dollars).<br><br>
         
         The encoder is also optimized to be fast, both in the high quality mode 
-        and even faster in the fast mode. The goal is to enable MP2 encoding 
-        from line-in in real-time on mid-1990s computers.<br><br>
+        and even faster in the fast mode. The goal is to enable real-time MP2 
+        encoding from line-in on mid-1990s computers.<br><br>
         
         Then, we have an ACM codec for the Windows Audio Compression Manager. It
-        encodes only to MP2, but has the advantage of working with all <a 
-        href=acmenc.php>programs that</a> can <a href=acmstation.php>use ACM</a>.
+        encodes only to MP2, but has the advantage of working with all  
+        programs that can <a href=acmstation.php>use ACM</a>.
         Also, it comes with an interesting little app (that gets installed to 
         the system tray) which allows users to change the playback speed of 
         streams using the respective decoder. And it was much cheaper than
@@ -120,8 +120,8 @@
         
         A third alternative for people wanting to enjoy the QDesign MP2 encoder - 
         a free one! - is using the <a href=recordit.php>Iomega RecordIt</a> app. 
-        Sadly, it will not work with WAV files, but can rip from CDs without 
-        trouble.<br><br>
+        Sadly it will not work with WAV files, but can rip from CDs and record
+        from line-in.<br><br>
         
         QDesign de-emphasized their MPEG audio products in the early 2000s, 
         focusing instead on QDMC and their music library manager <a href=qdmc.php

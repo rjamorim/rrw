@@ -92,8 +92,8 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>FhG MP3 codecs</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/fhgcodec-acm.png" target=outside><img src="screens/fhgcodec-acm.png" 
-        alt="FhG ACM MP3 encoder" align=right height=150></a>
+        <a href="screens/fhgcodec-acm.png" target=_blank><img src="screens/fhgcodec-acm.png" 
+        alt="FhG ACM MP3 encoder" align=right height=165></a>
         During the early years of the MP3 format the Fraunhofer institute released 
         several MP3 codecs (coder/decoder) that worked as plug-ins within audio 
         frameworks, enabling all kinds of audio processing applications (editors, 
@@ -103,15 +103,16 @@
         href=l3enc.php>l3enc</a>, <a href=mp3enc.php>mp3enc</a>, and later <a 
         href=fastencc.php>fastenc</a>.<br><br>
         
-        In Windows they plugged into the Audio Compression Manager (ACM) framework,
-        meanwhile in Mac OS they were associated with QuickTime. The ACM codecs 
-        became so popular (mostly obtained from, eh... "alternative" sources) that 
-        <a href=yunasoft.php>several</a> <a href=mp3comp.php>frontend</a> <a 
+        In Windows they plug into the Audio Compression Manager (ACM) framework,
+        meanwhile in Mac OS they were integrated with QuickTime. The ACM codecs 
+        became so popular (mostly obtained from, eh... "alternative" sources)
+        that <a href=yunasoft.php>several</a> <a href=mp3comp.php>frontend</a> <a 
         href=acmenc.php>programs</a> were <a href=acmstation.php>developed</a>.
-        <br><br>
+        Besides, the most featureful audio players and nearly all CD Rippers 
+        have some measure of ACM support.<br><br>
         
         A great resource to obtain information about differences between various 
-        ACM codec versions is located at Gabriel Bouvigne's <a target=outside
+        ACM codec versions is located at Gabriel Bouvigne's <a target=_blank
         href="http://mp3decoders.mp3-tech.org/decoders_acm.html">website</a>.<br>
 
         <br>
@@ -124,6 +125,7 @@
         Bitrate range: 8-320kbps<br>
         Download: <a href="files/fhg/l3codecp-3.4.exe">l3codecp-3.4.exe</a> - 193kB<br>
         <i>Kindly contributed by Zachary Jelesoff</i><br>
+        
         <br>
         This version was distributed with WMP10:<br>
         Date: 2005-01-28<br>
@@ -132,16 +134,18 @@
         Platform: Win32<br>
         Bitrate range: 8-320kbps<br>
         Download: <a href="files/fhg/l3codecp-3.3.exe">l3codecp-3.3.exe</a> - 234kB<br>
+        
         <br>
         This is a pirate version that was released by the famous Radium group:<br>
         Date: 1999-06-26<br>
         Version: 1.2.63<br>
         Interface: ACM codec<br>
-        <a href="screens/fhgcodec-acm16.png" target=outside><img src="screens/fhgcodec-acm16.png" 
-        alt="FhG ACM MP3 decoder for Win16" align=right height=130></a>
+        <a href="screens/fhgcodec-acm16.png" target=_blank><img src="screens/fhgcodec-acm16.png" 
+        alt="FhG ACM MP3 decoder for Win16" align=right height=145></a>
         Platform: Win32<br>
         Bitrate range: 8-320kbps<br>
         Download: <a href="files/fhg/l3codecp-radium.exe">l3codecp-radium.exe</a> - 207kB<br>
+        
         <br>
         This version was distributed with JRiver Media Jukebox 5:<br>
         Date: 1999-01-29<br>
@@ -150,6 +154,7 @@
         Platform: Win32<br>
         Bitrate range: 8-56kbps<br>
         Download: <a href="files/fhg/l3codeca.exe">l3codeca.exe</a> - 258kB<br>
+        
         <br>
         This decoder-only was distributed with <a href=mp3prod.php
         >.mp3 Producer 2.1</a>:<br>
@@ -159,6 +164,7 @@
         Platform: Win32<br>
         Bitrate range: decode only<br>
         Download: <a href="files/fhg/l3codecx.exe">l3codecx.exe</a> - 228kB<br>
+        
         <br>
         This 16bit decoder-only was distributed with <a href=winmusic.php>WMP5.2  
         beta</a> for Windows 3.11:<br>
@@ -168,17 +174,19 @@
         Platform: Win16<br>
         Bitrate range: decode only<br>
         Download: <a href="files/fhg/l3dec16.zip">l3dec16.zip</a> - 81kB<br>
+        
         <br>
         This version was distributed with <a href=mp3prod.php>MPEG Layer-3
         Producer 1.1</a>:<br>
+        <a href="screens/fhgcodec-qt.png" target=_blank><img src="screens/fhgcodec-qt.png" 
+        alt="FhG QT MP3 encoder" align=right height=210></a>
         Date: 1997-04-07<br>
-        <a href="screens/fhgcodec-qt.png" target=outside><img src="screens/fhgcodec-qt.png" 
-        alt="FhG QT MP3 encoder" align=right height=180></a>
         Version: 1.0.0.48 (professional)<br>
         Interface: ACM codec<br>
         Platform: Win32<br>
         Bitrate range: 8-128kbps<br>
         Download: <a href="files/fhg/l3codecp-1.0.0.48.exe">l3codecp-1.0.0.48.exe</a> - 294kB<br>
+        
         <hr>
         <br>
         Date: 1999-04-16<br>

@@ -92,7 +92,7 @@
           <br><div align="justify"> <b> Entis Lab MIO </b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/daru.png" target=outside><img src="screens/daru.png" 
+        <a href="screens/daru.png" target=_blank><img src="screens/daru.png" 
         alt="Daru" align=right height=218></a>
         MIO (Music Interleaved and Orthogonal transformated format) is an obscure 
         codec developed in Japan for usage in game music by Entis Lab.<br><br>
@@ -101,7 +101,7 @@
         working). Most encoders I found have the interface written in Japanese, 
         including the one created by the developer (which is also available 
         below, in its original LHA-compressed glory), hence I am hosting a third
-        party encoder here called <a target=outside
+        party encoder here called <a target=_blank
         href="http://hp.vector.co.jp/authors/VA027311/">Daru</a> that supports 
         MIO and has an English interface.<br><br>
         
@@ -113,7 +113,7 @@
         interface is in japanese, but you can easily detect information about 
         frequency, bit depth and channel count.<br><br>
         
-        The official home page of Entis Lab can be found <a target=outside
+        The official home page of Entis Lab can be found <a target=_blank
         href="http://www.entis.jp/eri/">here</a>. Visitor comments on codec audio 
         quality would be very welcome.<br><br>
         
@@ -126,7 +126,7 @@
         <br>
         Date: 2004-04-12<br>
         Version: R43<br>
-        <a href="screens/miocompress.png" target=outside><img src="screens/miocompress.png" 
+        <a href="screens/miocompress.png" target=_blank><img src="screens/miocompress.png" 
         alt="Mio Compress" align=right height=218></a>
         Interface: Graphical<br>
         Platform: Win32<br>

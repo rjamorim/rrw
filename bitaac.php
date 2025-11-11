@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -93,9 +93,9 @@
           <br><div align="justify"> <b>BitAAC AAC player</b></div> <p>
         </font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/bitaac.png" target=outside><img src="screens/bitaac.png" 
+        <a href="screens/bitaac.png" target=_blank><img src="screens/bitaac.png" 
         alt="BitAAC" align=right></a>
-        Not much is known about this AAC player. It was developed by Koji 
+        Not much is known about this simple AAC player. It was developed by Koji 
         Matsunaga.<br><br>
         
         It has several limitations: only plays 44100Hz files, bitrates of 128, 

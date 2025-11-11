@@ -112,9 +112,9 @@
         It is worth mentioning the program is not really an encoder, but a 
         recorder - which means it will not accept .wav files for input. It will 
         only encode directly from an audio CD (and, sadly, with no CDDB support),
-        line-in, or a microphone. It also features a player to play back the 
-        encoded files, it features a simple playlist manager and is as ugly as 
-        the encoder program.<br><br>
+        line-in, or a microphone. It includes a player to play back the encoded 
+        files, it features a simple playlist manager and is as ugly as the 
+        encoder program.<br><br>
         
         The RecordIt page at Iomega can still be visited at the <a target=_blank
         href="https://web.archive.org/web/20000304155316/http://www.iomega.com/software/featured/recordit.html"

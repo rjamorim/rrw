@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,15 +92,15 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>Sound Limit MP3 encoder</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/soundlimit.png" target=outside><img src="screens/soundlimit.png" 
+        <a href="screens/soundlimit.png" target=_blank><img src="screens/soundlimit.png" 
         alt="Sound Limit 2.0" align=right height=214></a>
         Sound Limit is a shareware MP1/2/3 encoder, decoder and CD ripper created
         in Romania by Eastern Digital.<br><br>
         
         Considering its age, speed and user comments about bad quality, it seems
-        to be little more than a dist10 compile with a <a target=outside
+        to be little more than a dist10 compile with a <a target=_blank
         href=screens/soundlimit1.png>quite</a> <a href=screens/soundlimit2.png 
-        target=outside>ugly</a> <a href=screens/soundlimit3.png target=outside>
+        target=_blank>ugly</a> <a href=screens/soundlimit3.png target=_blank>
         interface</a>. Which is all the more baffling considering registration 
         cost 30 dollars.<br><br>
         
@@ -108,7 +108,7 @@
         href=ultimateenc.php>Ultimate Encoder</a>.<br><br>
         
         The demo versions here are only valid for 30 days after installation. A
-        mirror of the web page is available at the <a target=outside
+        mirror of the web page is available at the <a target=_blank
         href="https://web.archive.org/web/20000305214044/http://2edc.com/products/slimit/index.html"
         >Internet Archive</a>.<br>
 

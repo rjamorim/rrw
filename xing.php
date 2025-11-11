@@ -107,7 +107,7 @@
         usage of x86 assembly code (which, in this case, is unfortunately limited
         to the Windows platform).<br><br>
         
-        Besides creating a super fast encoder (orders of magnitude faster than 
+        Besides creating a super fast encoder (an order of magnitude faster than 
         the competitor at the time, <a href=l3enc.php>FhG l3enc</a>), Xing were 
         innovators in other areas. Theirs was the first MP3 encoder with a 
         variable bitrate - VBR - mode (released in late 1998. <a href=lame.php

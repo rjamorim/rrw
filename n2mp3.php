@@ -94,13 +94,13 @@
         <font face="Tahoma" size=2 color="black"><blockquote>
         <a href="screens/mpecker019.png" target=_blank><img src="screens/mpecker019.png" 
         alt="MPecker 0.19" align=right height=155></a>
-        In the beginning there was MPecker. It was a free MP3 encoder for Mac 
-        OS Classic created by Rafael Luebbert who wished to bring this technology 
+        In the beginning there was MPecker. It was a free MP3 encoder for Mac OS 
+        Classic created by Rafael Luebbert, who wished to bring this technology 
         to the Mac - as it was allegedly the first MP3 encoder on that platform, 
         a dist10 derivative with very simple interface and minimal features: it 
         only allowed a handful of bitrates, and offered batch encoding.<br><br>
         
-        By the time version 1.0 rolled out, it was already showing improvement.
+        By the time version 1.0 rolled out it was already showing improvement.
         Much prettier interface, bigger choice of bitrates and four experimental 
         psychoacoustic models to choose from. Quite slower too, which I guess is
         a reflex of the quality improvements. It was still freeware.<br><br>
@@ -197,10 +197,10 @@
         alt="MPegger Drop Decoder" align=right height=167></a>
         Luebbert also created a simple, freeware MP1/2/3 decoder for Mac OS called 
         MPecker Drop Decoder. The Proteron guys took this code and turned it into 
-        the MPegger Drop Decoder. It cost US$ 9,95, but was included for free on 
+        the MPegger Drop Decoder. It cost US$ 9,95 but was included for free on 
         puchases of MPegger or N2MP3. According to <a target=_blank
         href="https://web.archive.org/web/20010423030639/http://www.proteron.com/dropdecoder/compare.shtml"
-        >this page</a>, it is one of the most accurate MPEG audio decoders for 
+        >this page</a> it is one of the most accurate MPEG audio decoders for 
         Mac.<br>
 
         <br>

@@ -54,7 +54,7 @@
     
     
       </table>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
     <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> Ulead MPEG Converter </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/uleadmpeg.png" target=outside><img src="screens/uleadmpeg.png" 
+        <a href="screens/uleadmpeg.png" target=_blank><img src="screens/uleadmpeg.png" 
         alt="Ulead MPEG Converter" align=right height=280></a>
         Ulead MPEG Converter is a Win16 program that converts AVI files to MPEG 
         streams.<br><br>
@@ -115,17 +115,17 @@
         new MP2 collection.<br><br>
     
         There are other pluses: the program is an encoder AND a decoder, so 
-        besides encoding MPEG and MP2 files, it can <a target=outside
+        besides encoding MPEG and MP2 files, it can <a target=_blank
         href=screens/uleadmpegdec.png>decode them back to AVI and WAV</a> - with
         full VCM and ACM support! On the downside, being a Win16 app, it will 
-        not support long file names. Besides, it requires <a target=outside
+        not support long file names. Besides, it requires <a target=_blank
         href="https://winworldpc.com/product/win32s/130">Win32s</a> to run on 
         Win 3.1, works fine without further requirements on Win95/98, and does 
         not seem to work on WinXP at all.<br><br>
         
         Ulead was bought by InterVideo in 2005, which was bought by Corel in 
         2006, and the program disappeared along the way. But the MPEG Converter
-        web page can still be seen at the <a target=outside
+        web page can still be seen at the <a target=_blank
         href="https://web.archive.org/web/19970418221833fw_/http://www.ulead.com/products/mpegconv.htm"
         >Internet Archive</a>.<br>
 

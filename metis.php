@@ -54,9 +54,9 @@
     
     
       </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=250><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=450><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -92,11 +92,11 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b>M&eacute;tis MP3 player</b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/metis.png" target=outside><img src="screens/metis.png" 
+        <a href="screens/metis.png" target=_blank><img src="screens/metis.png" 
         alt="Metis MP3 player" align=right height=212></a>
         M&eacute;tis is a very obscure MP3 player created by <a 
         href="https://web.archive.org/web/20001014010338/http://www.audionetworks.com/" 
-        target=outside>AudioNetworks</a> to showcase their DASE technology, meant 
+        target=_blank>AudioNetworks</a> to showcase their DASE technology, meant 
         to improve sound quality of files that passed through compression.<br><br>
         
         It remains to be seen if this technology provides any actual improvements 
@@ -110,8 +110,7 @@
         As far as I know, only version 1.0 was released and the player never saw
         any update.<br><br>
         
-        <i>Big thanks to Zachary Jelesoff for introducing me to M&eacute;tis.
-        </i><br>
+        <i>Thanks to Zachary Jelesoff for introducing me to M&eacute;tis.</i><br>
 
         <br>
         <br>

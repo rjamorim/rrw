@@ -92,7 +92,7 @@
         <font face="Verdana" size=2 color="6699CC">
           <br><div align="justify"><b> WinMusic </b></div><p></font>
         <font face="Tahoma" size=2 color="black"><blockquote>
-        <a href="screens/WinMusic.png" target=outside><img src="screens/WinMusic.png" 
+        <a href="screens/WinMusic.png" target=_blank><img src="screens/WinMusic.png" 
         alt="WinMusic on Win 3.11" align=right height=260></a>
         WinMusic is a jukebox software developed by LLERRAH - Harrell backwards,
         as it was developed by Brenda Harrell. It is distributed with dozens of 
@@ -127,7 +127,7 @@
         
         WinMusic development ended in 2005 and it is no longer being sold, but 
         despite being shareware it seems there are no limitations. The <a 
-        href="https://llerrah.com/winmusic.htm" target=outside>web page</a> is
+        href="https://llerrah.com/winmusic.htm" target=_blank>web page</a> is
         still available.<br>
         
         <br>
