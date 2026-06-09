@@ -54,9 +54,9 @@
 
 
       </table>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
       <table border="0" cellpadding="0" cellspacing="0" width="120">
-    <tr><td height=6300><img width=1 height=100 src="dot.gif"></td></tr>
+    <tr><td height=7150><img width=1 height=100 src="dot.gif"></td></tr>
       </table>
       </font>
       </td>
@@ -90,6 +90,72 @@
 
         </table>
         </a>
+        
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-05-16: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Special Mac OS Classic update</b></font><p>
+                  I came across an <a target=_blank
+                  href="https://macintoshgarden.org/apps/ppc-audio-software-os7-osx58-some-68k-apps"
+                  >impressive cache</a> of vintage Mac OS audio software, so I 
+                  decided to dedicate this update to the early days of audio 
+                  encoding on the Macintosh. Check these out:
+                  
+                  <ul>
+                    <li>MPecker/MPegger/N2MP3 encoders</li>
+                    <li>MPEGAudioCreator - the CD ripper that became AudioCatalyst</li>
+                    <li>AudioActive player</li>
+                    <li>Older versions of AudioCatalyst</li>
+                    <li>Iomega RecordIt</li>
+                    <li>Two full versions of Emagic Zap lossless compressor</li> 
+                  </ul>
+            </blockquote></font>
+               
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-04-25: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>The quarantine update</b></font><p>
+                  Time for another update, to entertain the RRW fans during these
+                  hard quarantine days. This is what I got for you:
+
+                  <ul>
+                    <li>A whole new page dedicated to FhG codecs - for ACM and QT</li>
+                    <li>nyaochi's ACMENC ACM codec frontend</li>
+                    <li>Another version of Nero AAC Encoder, contributed by Michael Leimer</li>
+                    <li>Better text and another Musearc version for its page</li>
+                    <li>Super old Apollo 9, contributed by Daniel Kozar</li>
+                    <li>K-J&ouml;fol 0.5, also contributed by Daniel Kozar</li>
+                  </ul>
+
+                  I also updated several screenshots, trying to show how the programs 
+                  looked in real-world usage and not just "out of the box".
+            </blockquote></font>
+
+            <font face="Verdana" size=2 color="6699CC">
+              <br><div align="justify"><b> 2020-04-12: </b></div><p>
+            </font>
+            <font face="Tahoma" size=2 color="black"><blockquote>
+              <font face="Tahoma" size=2 color="black"><b>Special <s>Easter/Coronavirus/</s>Zachary update</b></font><p>
+                  Long time RRW contributor Zachary Jelesoff dusted off his old 
+                  storage media and contributed lots of rare exhibitions for our
+                  museum, so this update is dedicated to his honor.<br><br>
+
+                  And these are the updates:
+                  <ul>
+                    <li>MicroHof MP3 Player</li>
+                    <li>Thirteen Apollo versions!</li>
+                    <li>CoolEdit 1.53</li>
+                    <li>LAME 3.97 for DOS</li>
+                  </ul>
+
+                  Also, I added to the SoundVQ page a mail exchange (also provided 
+                  by Zachary) between Yamaha and K-J&ouml;fol developer Christophe 
+                  Thibault that demonstrates Yamaha's short-sightedness promoting 
+                  their own format...
+            </blockquote></font>
+        
             <font face="Verdana" size=2 color="6699CC">
               <br><div align="justify"><b> 2020-02-22: </b></div><p>
             </font>
@@ -160,7 +226,7 @@
 
                   Additionally, ReallyRareWares pages are now securely served through SSL/TLS
                   thanks to a brand new cryptographic certificate, courtesy of the fine people
-                  at <a href="https://letsencrypt.org/" target=outside>Let's Encrypt</a>. You
+                  at <a href="https://letsencrypt.org/" target=_blank>Let's Encrypt</a>. You
                   can rest calm in the knowledge that your downloads are not being tampered by
                   evil hackers while in transit to your computer.
             </blockquote></font>
@@ -285,7 +351,7 @@
             <font face="Tahoma" size=2 color="black"><blockquote>
               <font face="Tahoma" size=2 color="black"><b>GitHub and players</b></font><p>
                   This is the first update where ReallyRareWares development and changes are being versioned
-                  at <a href="https://github.com/rjamorim/rrw" target=outside>GitHub</a>. This will not make
+                  at <a href="https://github.com/rjamorim/rrw" target=_blank>GitHub</a>. This will not make
                   much of a difference to visitors, but should help streamline site maintenance.<br><br>
 
                   Of course, feel free to submit pull requests... ;-)<br><br>
@@ -508,7 +574,7 @@
                   CoolEdit 1.3.1, a Win16 version of the famous editor dating from 1993!<br><br>
 
                   Last but not least, I added some interesting programs submitted by the always
-                  helpful <a href="http://mark0.net/" target=outside>Marco Pontello</a>. They
+                  helpful <a href="http://mark0.net/" target=_blank>Marco Pontello</a>. They
                   are VocPack - an extremely old lossless compressor - and wav2mp, an MP1/MP2
                   encoder.
             </blockquote></font>
